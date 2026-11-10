@@ -1,0 +1,69 @@
+name: 📬 하루한줄 텔레그램 통합 자동 발송 (Daily Quotes Push)
+
+on:
+  schedule:
+    # 한국 시간 기준:
+    # 08:00 KST (UTC 23:00) - 1,500선 아침 명언
+    # 12:00 KST (UTC 03:00) - 1,500선 낮 명언 & 1,000선 명언
+    # 21:00 KST (UTC 12:00) - 1,500선 저녁 명언 & 1,000선 명언
+    # 06, 09, 15, 18시 KST (UTC 21, 00, 06, 09) - 1,000선 3시간 주기 명언
+    - cron: '0 0,3,6,9,12,21,23 * * *'
+  workflow_dispatch:
+    inputs:
+      target:
+        description: '발송할 명언 선택 (all, 1500, 1000)'
+        required: true
+        default: 'all'
+        type: choice
+        options:
+          - all
+          - 1500
+          - 1000
+
+jobs:
+  # 1. 1,500선 명언 & 사자성어 발송 (Node.js)
+  send-quote-1500:
+    name: 📜 1,500선 명언 & 사자성어 발송
+    runs-on: ubuntu-latest
+    if: |
+      github.event_name == 'workflow_dispatch' && (inputs.target == 'all' || inputs.target == '1500') ||
+      github.event_name == 'schedule'
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Setup Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: '20'
+
+      - name: Send Quote to Telegram
+        working-directory: ./quote-1500-hub
+        env:
+          TELEGRAM_BOT_TOKEN: ${{ secrets.TELEGRAM_BOT_TOKEN }}
+          TELEGRAM_CHAT_ID: ${{ secrets.TELEGRAM_CHAT_ID }}
+        run: node send_quote.js
+
+  # 2. 1,000선 세계 명언 발송 (Python)
+  send-quote-1000:
+    name: 🐍 1,000선 세계 명언 발송
+    runs-on: ubuntu-latest
+    if: |
+      github.event_name == 'workflow_dispatch' && (inputs.target == 'all' || inputs.target == '1000') ||
+      github.event_name == 'schedule'
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+
+      - name: Send Quote to Telegram
+        working-directory: ./quote-1000-python
+        env:
+          TELEGRAM_BOT_TOKEN: ${{ secrets.TELEGRAM_BOT_TOKEN }}
+          TELEGRAM_CHAT_ID: ${{ secrets.TELEGRAM_CHAT_ID }}
+          NTFY_TOPIC: ${{ secrets.NTFY_TOPIC }}
+        run: python3 notify.py

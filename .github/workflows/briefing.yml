@@ -1,0 +1,35 @@
+name: 📢 Antigravity 작업 브리핑 발송 (Telegram Notification)
+
+on:
+  workflow_dispatch:
+    inputs:
+      message:
+        description: '발송할 메시지 내용'
+        required: true
+        type: string
+
+jobs:
+  send-briefing:
+    name: 🚀 텔레그램 브리핑 발송
+    runs-on: ubuntu-latest
+    steps:
+      - name: Send Briefing to Telegram
+        env:
+          TOKEN_1500: ${{ secrets.TELEGRAM_BOT_TOKEN_1500 }}
+          TOKEN_1000: ${{ secrets.TELEGRAM_BOT_TOKEN_1000 }}
+          CHAT_ID: ${{ secrets.TELEGRAM_CHAT_ID }}
+          MSG: ${{ inputs.message }}
+        run: |
+          echo "Sending briefing to Telegram..."
+          TOKEN="${TOKEN_1500:-$TOKEN_1000}"
+          RESPONSE=$(curl -s -X POST "https://api.telegram.org/bot${TOKEN}/sendMessage" \
+            -d "chat_id=${CHAT_ID}" \
+            -d "parse_mode=HTML" \
+            --data-urlencode "text=${MSG}")
+          echo "Response: $RESPONSE"
+          if echo "$RESPONSE" | grep -q '"ok":true'; then
+            echo "Successfully delivered!"
+          else
+            echo "Failed to send: $RESPONSE"
+            exit 1
+          fi

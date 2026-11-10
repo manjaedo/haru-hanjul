@@ -1,0 +1,27 @@
+name: 📬 Daily Telegram Quote Push
+
+on:
+  schedule:
+    # 매일 한국 시간 아침 8시 (UTC 23:00)
+    - cron: '0 23 * * *'
+    # 매일 한국 시간 저녁 9시 (UTC 12:00)
+    - cron: '0 12 * * *'
+    # 매일 한국 시간 낮 12시 (UTC 03:00)
+    - cron: '0 3 * * *'
+  workflow_dispatch:
+
+jobs:
+  send-quote:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+      - name: Setup Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: '20'
+      - name: Send Random Quote to Telegram
+        env:
+          TELEGRAM_BOT_TOKEN: ${{ secrets.TELEGRAM_BOT_TOKEN }}
+          TELEGRAM_CHAT_ID: ${{ secrets.TELEGRAM_CHAT_ID }}
+        run: node send_quote.js

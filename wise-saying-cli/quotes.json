@@ -1,0 +1,5002 @@
+[
+  {
+    "text": "천재는 1퍼센트의 영감과 99퍼센트의 노력으로 이루어진다.",
+    "text_en": "Genius is one percent inspiration and ninety-nine percent perspiration.",
+    "author": "Thomas Edison"
+  },
+  {
+    "text": "그저 지켜보는 것만으로도 많은 것을 알 수 있다.",
+    "text_en": "You can observe a lot just by watching.",
+    "author": "Yogi Berra"
+  },
+  {
+    "text": "스스로 분열된 집은 바로 설 수 없다.",
+    "text_en": "A house divided against itself cannot stand.",
+    "author": "Abraham Lincoln"
+  },
+  {
+    "text": "목표에 가까워질수록 어려움은 커진다.",
+    "text_en": "Difficulties increase the nearer we get to the goal.",
+    "author": "Johann Wolfgang von Goethe"
+  },
+  {
+    "text": "운명은 다른 누구도 아닌 당신 손에 달려 있다.",
+    "text_en": "Fate is in your hands and no one elses",
+    "author": "Byron Pulsifer"
+  },
+  {
+    "text": "우두머리가 되어도 결코 군림하지는 마라.",
+    "text_en": "Be the chief but never the lord.",
+    "author": "Lao Tzu"
+  },
+  {
+    "text": "먼저 꿈꾸지 않으면 아무 일도 일어나지 않는다.",
+    "text_en": "Nothing happens unless first we dream.",
+    "author": "Carl Sandburg"
+  },
+  {
+    "text": "시작이 반이다.",
+    "text_en": "Well begun is half done.",
+    "author": "Aristotle"
+  },
+  {
+    "text": "인생은 배우는 경험이다. 단, 배울 때에만.",
+    "text_en": "Life is a learning experience, only if you learn.",
+    "author": "Yogi Berra"
+  },
+  {
+    "text": "자기만족은 발전에 치명적이다.",
+    "text_en": "Self-complacency is fatal to progress.",
+    "author": "Margaret Sangster"
+  },
+  {
+    "text": "평화는 내면에서 온다. 밖에서 찾지 마라.",
+    "text_en": "Peace comes from within. Do not seek it without.",
+    "author": "Buddha"
+  },
+  {
+    "text": "주는 대로 받는다.",
+    "text_en": "What you give is what you get.",
+    "author": "Byron Pulsifer"
+  },
+  {
+    "text": "사랑은 사랑함으로써만 배울 수 있다.",
+    "text_en": "We can only learn to love by loving.",
+    "author": "Iris Murdoch"
+  },
+  {
+    "text": "삶은 변화다. 성장은 선택이다. 현명하게 선택하라.",
+    "text_en": "Life is change. Growth is optional. Choose wisely.",
+    "author": "Karen Clark"
+  },
+  {
+    "text": "믿으면 보일 것이다.",
+    "text_en": "You'll see it when you believe it.",
+    "author": "Wayne Dyer"
+  },
+  {
+    "text": "사람들을 이끌려면 그들 뒤에서 걸어라.",
+    "text_en": "To lead people walk behind them.",
+    "author": "Lao Tzu"
+  },
+  {
+    "text": "가진 것이 없으면 잃을 것도 없다.",
+    "text_en": "Having nothing, nothing can he lose.",
+    "author": "William Shakespeare"
+  },
+  {
+    "text": "문제란 작업복을 입은 기회일 뿐이다.",
+    "text_en": "Trouble is only opportunity in work clothes.",
+    "author": "Henry J. Kaiser"
+  },
+  {
+    "text": "구르는 돌에는 이끼가 끼지 않는다.",
+    "text_en": "A rolling stone gathers no moss.",
+    "author": "Publilius Syrus"
+  },
+  {
+    "text": "아이디어는 모든 부의 출발점이다.",
+    "text_en": "Ideas are the beginning points of all fortunes.",
+    "author": "Napoleon Hill"
+  },
+  {
+    "text": "인생의 모든 것은 운이다.",
+    "text_en": "Everything in life is luck.",
+    "author": "Donald Trump"
+  },
+  {
+    "text": "아무것도 하지 않는 것이 쓸데없는 일로 바쁜 것보다 낫다.",
+    "text_en": "Doing nothing is better than being busy doing nothing.",
+    "author": "Lao Tzu"
+  },
+  {
+    "text": "자신을 믿어라. 당신은 생각보다 많은 것을 알고 있다.",
+    "text_en": "Trust yourself. You know more than you think you do.",
+    "author": "Benjamin Spock"
+  },
+  {
+    "text": "미래를 알고 싶다면 과거를 공부하라.",
+    "text_en": "Study the past, if you would divine the future.",
+    "author": "Confucius"
+  },
+  {
+    "text": "오류에서 오류로 나아가며 사람은 온전한 진리를 발견한다.",
+    "text_en": "From error to error one discovers the entire truth.",
+    "author": "Sigmund Freud"
+  },
+  {
+    "text": "잘한 행동이 잘한 말보다 낫다.",
+    "text_en": "Well done is better than well said.",
+    "author": "Benjamin Franklin"
+  },
+  {
+    "text": "감당할 수 있는 것보다 많이 베어 물고, 그다음에 씹어라.",
+    "text_en": "Bite off more than you can chew, then chew it.",
+    "author": "Ella Williams"
+  },
+  {
+    "text": "스스로 구원을 이루어라. 남에게 의지하지 마라.",
+    "text_en": "Work out your own salvation. Do not depend on others.",
+    "author": "Buddha"
+  },
+  {
+    "text": "오늘 하루는 내일 이틀의 가치가 있다.",
+    "text_en": "One today is worth two tomorrows.",
+    "author": "Benjamin Franklin"
+  },
+  {
+    "text": "희망을 선택하는 순간 무엇이든 가능해진다.",
+    "text_en": "Once you choose hope, anythings possible.",
+    "author": "Christopher Reeve"
+  },
+  {
+    "text": "신은 언제나 가장 단순한 길을 택한다.",
+    "text_en": "God always takes the simplest way.",
+    "author": "Albert Einstein"
+  },
+  {
+    "text": "사람은 실패하면서 성공을 향해 나아간다.",
+    "text_en": "One fails forward toward success.",
+    "author": "Charles Kettering"
+  },
+  {
+    "text": "배움은 어디든 주인을 따라다니는 보물이다.",
+    "text_en": "Learning is a treasure that will follow its owner everywhere",
+    "author": "Chinese proverb"
+  },
+  {
+    "text": "보이고 싶은 모습 그대로의 사람이 되어라.",
+    "text_en": "Be as you wish to seem.",
+    "author": "Socrates"
+  },
+  {
+    "text": "세상은 늘 움직이고 있다.",
+    "text_en": "The world is always in movement.",
+    "author": "V. Naipaul"
+  },
+  {
+    "text": "활동을 성취로 착각하지 마라.",
+    "text_en": "Never mistake activity for achievement.",
+    "author": "John Wooden"
+  },
+  {
+    "text": "당신을 걱정시키는 것이 당신을 지배한다.",
+    "text_en": "What worries you masters you.",
+    "author": "Haddon Robinson"
+  },
+  {
+    "text": "사람은 자신의 과거를 안고 미래를 마주한다.",
+    "text_en": "One faces the future with ones past.",
+    "author": "Pearl Buck"
+  },
+  {
+    "text": "목표는 성취라는 용광로의 연료다.",
+    "text_en": "Goals are the fuel in the furnace of achievement.",
+    "author": "Brian Tracy"
+  },
+  {
+    "text": "덕을 뿌리는 자는 명예를 거둔다.",
+    "text_en": "Who sows virtue reaps honour.",
+    "author": "Leonardo da Vinci"
+  },
+  {
+    "text": "가능할 때마다 친절하라. 그것은 언제나 가능하다.",
+    "text_en": "Be kind whenever possible. It is always possible.",
+    "author": "Dalai Lama"
+  },
+  {
+    "text": "말로는 밥을 지을 수 없다.",
+    "text_en": "Talk doesn't cook rice.",
+    "author": "Chinese proverb"
+  },
+  {
+    "text": "할 수 있다고 생각하는 사람이 할 수 있다.",
+    "text_en": "He is able who thinks he is able.",
+    "author": "Buddha"
+  },
+  {
+    "text": "계획 없는 목표는 소망에 불과하다.",
+    "text_en": "A goal without a plan is just a wish.",
+    "author": "Larry Elder"
+  },
+  {
+    "text": "성공하려면 먼저 할 수 있다고 믿어야 한다.",
+    "text_en": "To succeed, we must first believe that we can.",
+    "author": "Michael Korda"
+  },
+  {
+    "text": "어제에서 배우고, 오늘을 위해 살고, 내일을 희망하라.",
+    "text_en": "Learn from yesterday, live for today, hope for tomorrow.",
+    "author": "Albert Einstein"
+  },
+  {
+    "text": "잡초란 변장한 꽃에 지나지 않는다.",
+    "text_en": "A weed is no more than a flower in disguise.",
+    "author": "James Lowell"
+  },
+  {
+    "text": "하거나, 하지 않거나 둘 중 하나다. 시도란 없다.",
+    "text_en": "Do, or do not. There is no try.",
+    "author": "Yoda"
+  },
+  {
+    "text": "모든 진정한 용기는 내면에서 시작된다.",
+    "text_en": "All serious daring starts from within.",
+    "author": "Harriet Beecher Stowe"
+  },
+  {
+    "text": "최고의 스승은 실패에서 배운 경험이다.",
+    "text_en": "The best teacher is experience learned from failures.",
+    "author": "Byron Pulsifer"
+  },
+  {
+    "text": "입자들이 생각할 수 있다면 물리학이 얼마나 어려웠을지 생각해 보라.",
+    "text_en": "Think how hard physics would be if particles could think.",
+    "author": "Murray Gell-Mann"
+  },
+  {
+    "text": "사랑은 자라도록 내버려 두어야 하는 꽃이다.",
+    "text_en": "Love is the flower you've got to let grow.",
+    "author": "John Lennon"
+  },
+  {
+    "text": "기다리지 마라. 딱 맞는 때는 결코 오지 않는다.",
+    "text_en": "Don't wait. The time will never be just right.",
+    "author": "Napoleon Hill"
+  },
+  {
+    "text": "시간은 가장 현명한 조언자다.",
+    "text_en": "Time is the wisest counsellor of all.",
+    "author": "Pericles"
+  },
+  {
+    "text": "받기 전에 먼저 주어라.",
+    "text_en": "You give before you get.",
+    "author": "Napoleon Hill"
+  },
+  {
+    "text": "지혜는 경이로움에서 시작된다.",
+    "text_en": "Wisdom begins in wonder.",
+    "author": "Socrates"
+  },
+  {
+    "text": "용기가 없으면 지혜는 열매를 맺지 못한다.",
+    "text_en": "Without courage, wisdom bears no fruit.",
+    "author": "Baltasar Gracian"
+  },
+  {
+    "text": "모든 것의 변화는 달콤하다.",
+    "text_en": "Change in all things is sweet.",
+    "author": "Aristotle"
+  },
+  {
+    "text": "당신이 두려워하는 것은 극복하기 위해 행동이 필요한 것이다.",
+    "text_en": "What you fear is that which requires action to overcome.",
+    "author": "Byron Pulsifer"
+  },
+  {
+    "text": "성과가 야망을 넘어설 때, 그 겹치는 부분을 성공이라 부른다.",
+    "text_en": "When performance exceeds ambition, the overlap is called success.",
+    "author": "Cullen Hightower"
+  },
+  {
+    "text": "행동이 말할 때 말은 아무것도 아니다.",
+    "text_en": "When deeds speak, words are nothing.",
+    "author": "African proverb"
+  },
+  {
+    "text": "관계에서 진정한 마법은 남을 판단하지 않는 데 있다.",
+    "text_en": "Real magic in relationships means an absence of judgement of others.",
+    "author": "Wayne Dyer"
+  },
+  {
+    "text": "나는 미래를 생각하지 않는다. 미래는 충분히 빨리 온다.",
+    "text_en": "I never think of the future. It comes soon enough.",
+    "author": "Albert Einstein"
+  },
+  {
+    "text": "하는 능력은 해 봄으로써 생긴다.",
+    "text_en": "Skill to do comes of doing.",
+    "author": "Ralph Emerson"
+  },
+  {
+    "text": "지혜는 행복의 가장 중요한 부분이다.",
+    "text_en": "Wisdom is the supreme part of happiness.",
+    "author": "Sophocles"
+  },
+  {
+    "text": "나는 모든 사람이 재능을 가지고 태어난다고 믿는다.",
+    "text_en": "I believe that every person is born with talent.",
+    "author": "Maya Angelou"
+  },
+  {
+    "text": "중요한 원칙은 굽히지 않을 수 있고, 굽혀서도 안 된다.",
+    "text_en": "Important principles may, and must, be inflexible.",
+    "author": "Abraham Lincoln"
+  },
+  {
+    "text": "새로운 일을 시작하면 새로운 힘이 생긴다.",
+    "text_en": "The undertaking of a new action brings new strength.",
+    "author": "Richard Evans"
+  },
+  {
+    "text": "세월은 하루하루가 결코 알지 못하는 많은 것을 가르쳐 준다.",
+    "text_en": "The years teach much which the days never know.",
+    "author": "Ralph Emerson"
+  },
+  {
+    "text": "불신은 매우 값비싼 대가를 치른다.",
+    "text_en": "Our distrust is very expensive.",
+    "author": "Ralph Emerson"
+  },
+  {
+    "text": "모두가 길을 알지만, 실제로 그 길을 걷는 사람은 드물다.",
+    "text_en": "All know the way; few actually walk it.",
+    "author": "Bodhidharma"
+  },
+  {
+    "text": "위대한 재능은 실행에서 행복을 찾는다.",
+    "text_en": "Great talent finds happiness in execution.",
+    "author": "Johann Wolfgang von Goethe"
+  },
+  {
+    "text": "자신을 믿는 것이 가장 좋고 가장 안전한 길이다.",
+    "text_en": "Faith in oneself is the best and safest course.",
+    "author": "Michelangelo"
+  },
+  {
+    "text": "용기란 열정을 잃지 않고 실패에서 실패로 나아가는 것이다.",
+    "text_en": "Courage is going from failure to failure without losing enthusiasm.",
+    "author": "Winston Churchill"
+  },
+  {
+    "text": "가장 강력한 두 전사는 인내와 시간이다.",
+    "text_en": "The two most powerful warriors are patience and time.",
+    "author": "Leo Tolstoy"
+  },
+  {
+    "text": "쉬운 일을 다스림으로써 어려운 일에 대비하라.",
+    "text_en": "Anticipate the difficult by managing the easy.",
+    "author": "Lao Tzu"
+  },
+  {
+    "text": "원망하는 생각에서 벗어난 사람은 반드시 평화를 찾는다.",
+    "text_en": "Those who are free of resentful thoughts surely find peace.",
+    "author": "Buddha"
+  },
+  {
+    "text": "짧은 말 속에 종종 큰 지혜가 담겨 있다.",
+    "text_en": "A short saying often contains much wisdom.",
+    "author": "Sophocles"
+  },
+  {
+    "text": "오직 마음이 시키는 일만 하라.",
+    "text_en": "Only do what your heart tells you.",
+    "author": "Princess Diana"
+  },
+  {
+    "text": "삶은 움직임이다. 우리는 숨 쉬고, 먹고, 걷고, 움직인다!",
+    "text_en": "Life is movement-we breathe, we eat, we walk, we move!",
+    "author": "John Pierrakos"
+  },
+  {
+    "text": "당신의 동의 없이는 누구도 당신을 열등하게 느끼게 할 수 없다.",
+    "text_en": "No one can make you feel inferior without your consent.",
+    "author": "Eleanor Roosevelt"
+  },
+  {
+    "text": "자신의 한계를 옹호하면, 틀림없이 그 한계는 당신 것이 된다.",
+    "text_en": "Argue for your limitations, and sure enough theyre yours.",
+    "author": "Richard Bach"
+  },
+  {
+    "text": "행운은 준비가 기회를 만날 때 일어난다.",
+    "text_en": "Luck is what happens when preparation meets opportunity.",
+    "author": "Seneca"
+  },
+  {
+    "text": "승리는 가장 끈기 있는 자의 것이다.",
+    "text_en": "Victory belongs to the most persevering.",
+    "author": "Napoleon Bonaparte"
+  },
+  {
+    "text": "모두를 사랑하되, 소수만 믿고, 누구에게도 잘못하지 마라.",
+    "text_en": "Love all, trust a few, do wrong to none.",
+    "author": "William Shakespeare"
+  },
+  {
+    "text": "이기려면 이길 것이라고 기대해야 한다.",
+    "text_en": "In order to win, you must expect to win.",
+    "author": "Richard Bach"
+  },
+  {
+    "text": "목표란 마감 기한이 있는 꿈이다.",
+    "text_en": "A goal is a dream with a deadline.",
+    "author": "Napoleon Hill"
+  },
+  {
+    "text": "할 수 있다고 믿으면 할 수 있다!",
+    "text_en": "You can do it if you believe you can!",
+    "author": "Napoleon Hill"
+  },
+  {
+    "text": "목표를 높이 세우고, 이룰 때까지 멈추지 마라.",
+    "text_en": "Set your goals high, and don't stop till you get there.",
+    "author": "Bo Jackson"
+  },
+  {
+    "text": "미소 짓고, 숨 쉬고, 천천히 가라.",
+    "text_en": "Smile, breathe, and go slowly.",
+    "author": "Thich Nhat Hanh"
+  },
+  {
+    "text": "스스로를 믿지 않으면 아무도 당신을 믿지 않는다.",
+    "text_en": "Nobody will believe in you unless you believe in yourself.",
+    "author": "Liberace"
+  },
+  {
+    "text": "꿈만 꾸지 말고 일하라.",
+    "text_en": "Do more than dream: work.",
+    "author": "William Arthur Ward"
+  },
+  {
+    "text": "우연히 현명해진 사람은 없다.",
+    "text_en": "No man was ever wise by chance.",
+    "author": "Seneca"
+  },
+  {
+    "text": "어지러운 사람은 세상이 돈다고 생각한다.",
+    "text_en": "He that is giddy thinks the world turns round.",
+    "author": "William Shakespeare"
+  },
+  {
+    "text": "망가진 과거로 현재를 망치지 마라.",
+    "text_en": "Don't ruin the present with the ruined past.",
+    "author": "Ellen Gilchrist"
+  },
+  {
+    "text": "멋진 일을 하라. 사람들이 그것을 본받을지도 모른다.",
+    "text_en": "Do something wonderful, people may imitate it.",
+    "author": "Albert Schweitzer"
+  },
+  {
+    "text": "매일 당신을 두렵게 하는 일을 하나씩 하라.",
+    "text_en": "Do one thing every day that scares you.",
+    "author": "Eleanor Roosevelt"
+  },
+  {
+    "text": "침묵할 수 없다면 빛나고 사려 깊게 말하라.",
+    "text_en": "If you cannot be silent be brilliant and thoughtful.",
+    "author": "Byron Pulsifer"
+  },
+  {
+    "text": "밖을 보는 자는 꿈꾸고, 안을 보는 자는 깨어난다.",
+    "text_en": "Who looks outside, dreams; who looks inside, awakes.",
+    "author": "Carl Jung"
+  },
+  {
+    "text": "우리는 생각하는 대로 된다.",
+    "text_en": "What we think, we become.",
+    "author": "Buddha"
+  },
+  {
+    "text": "가장 짧은 대답은 행동이다.",
+    "text_en": "The shortest answer is doing.",
+    "author": "Lord Herbert"
+  },
+  {
+    "text": "우리의 모든 지식은 지각에서 비롯된다.",
+    "text_en": "All our knowledge has its origins in our perceptions.",
+    "author": "Leonardo da Vinci"
+  },
+  {
+    "text": "직관을 믿는 것이 종종 우리를 재앙에서 구한다.",
+    "text_en": "Trusting our intuition often saves us from disaster.",
+    "author": "Anne Wilson Schaef"
+  },
+  {
+    "text": "진실은 강하며 결국 이긴다.",
+    "text_en": "Truth is powerful and it prevails.",
+    "author": "Sojourner Truth"
+  },
+  {
+    "text": "오늘로 내일을 밝혀라!",
+    "text_en": "Light tomorrow with today!",
+    "author": "Elizabeth Browning"
+  },
+  {
+    "text": "침묵은 지혜를 둘러싼 울타리다.",
+    "text_en": "Silence is a fence around wisdom.",
+    "author": "German proverb"
+  },
+  {
+    "text": "사회는 재치를 키우지만, 천재는 오직 사색으로만 만들어진다.",
+    "text_en": "Society develops wit, but its contemplation alone forms genius.",
+    "author": "Madame de Stael"
+  },
+  {
+    "text": "가장 단순한 것이 종종 가장 참되다.",
+    "text_en": "The simplest things are often the truest.",
+    "author": "Richard Bach"
+  },
+  {
+    "text": "어제 나는 감히 싸웠다. 오늘 나는 감히 이긴다.",
+    "text_en": "Yesterday I dared to struggle. Today I dare to win.",
+    "author": "Bernadette Devlin"
+  },
+  {
+    "text": "어떤 변명도 책임을 받아들이는 일에서 당신을 구해 주지 않는다.",
+    "text_en": "No alibi will save you from accepting the responsibility.",
+    "author": "Napoleon Hill"
+  },
+  {
+    "text": "꿈꿀 수 있다면 이룰 수 있다.",
+    "text_en": "If you can dream it, you can do it.",
+    "author": "Walt Disney"
+  },
+  {
+    "text": "도착하는 것보다 잘 여행하는 것이 낫다.",
+    "text_en": "It is better to travel well than to arrive.",
+    "author": "Buddha"
+  },
+  {
+    "text": "삶은 용기에 비례해 줄어들거나 넓어진다.",
+    "text_en": "Life shrinks or expands in proportion to one's courage.",
+    "author": "Anais Nin"
+  },
+  {
+    "text": "자신을 믿어야 한다.",
+    "text_en": "You have to believe in yourself.",
+    "author": "Sun Tzu"
+  },
+  {
+    "text": "우리의 의도가 우리의 현실을 만든다.",
+    "text_en": "Our intention creates our reality.",
+    "author": "Wayne Dyer"
+  },
+  {
+    "text": "침묵은 결코 배신하지 않는 진정한 친구다.",
+    "text_en": "Silence is a true friend who never betrays.",
+    "author": "Confucius"
+  },
+  {
+    "text": "인격은 삶의 흐름 속에서 길러진다.",
+    "text_en": "Character develops itself in the stream of life.",
+    "author": "Johann Wolfgang von Goethe"
+  },
+  {
+    "text": "작은 도토리에서 거대한 참나무가 자란다.",
+    "text_en": "From little acorns mighty oaks do grow.",
+    "author": "American proverb"
+  },
+  {
+    "text": "파도를 멈출 수는 없지만, 파도 타는 법은 배울 수 있다.",
+    "text_en": "You can't stop the waves, but you can learn to surf.",
+    "author": "Jon Kabat-Zinn"
+  },
+  {
+    "text": "현실은 이상에 들어맞지 않지만, 이상을 확인시켜 준다.",
+    "text_en": "Reality does not conform to the ideal, but confirms it.",
+    "author": "Gustave Flaubert"
+  },
+  {
+    "text": "사랑을 말한다면 낮은 목소리로 말하라.",
+    "text_en": "Speak low, if you speak love.",
+    "author": "William Shakespeare"
+  },
+  {
+    "text": "정말 위대한 재능은 실행에서 행복을 찾는다.",
+    "text_en": "A really great talent finds its happiness in execution.",
+    "author": "Johann Wolfgang von Goethe"
+  },
+  {
+    "text": "현실은 상상에 많은 것을 맡긴다.",
+    "text_en": "Reality leaves a lot to the imagination.",
+    "author": "John Lennon"
+  },
+  {
+    "text": "분노에 대한 가장 좋은 처방은 미루는 것이다.",
+    "text_en": "The greatest remedy for anger is delay.",
+    "author": "Seneca"
+  },
+  {
+    "text": "성장 그 자체에 행복의 씨앗이 들어 있다.",
+    "text_en": "Growth itself contains the germ of happiness.",
+    "author": "Pearl Buck"
+  },
+  {
+    "text": "침묵만큼 권위를 강하게 하는 것은 없다.",
+    "text_en": "Nothing strengthens authority so much as silence.",
+    "author": "Leonardo da Vinci"
+  },
+  {
+    "text": "어디를 가든 온 마음을 다해 가라.",
+    "text_en": "Wherever you go, go with all your heart.",
+    "author": "Confucius"
+  },
+  {
+    "text": "진정으로 가치 있는 단 하나는 직관이다.",
+    "text_en": "The only real valuable thing is intuition.",
+    "author": "Albert Einstein"
+  },
+  {
+    "text": "행운은 목표를 향한 끈기의 다른 이름이다.",
+    "text_en": "Good luck is another name for tenacity of purpose.",
+    "author": "Ralph Emerson"
+  },
+  {
+    "text": "무지개는 성난 하늘을 대신해 사과한다.",
+    "text_en": "Rainbows apologize for angry skies.",
+    "author": "Sylvia Voirol"
+  },
+  {
+    "text": "시간은 사람이 쓸 수 있는 가장 귀한 것이다.",
+    "text_en": "Time is the most valuable thing a man can spend.",
+    "author": "Theophrastus"
+  },
+  {
+    "text": "무슨 일이 일어나든 책임을 져라.",
+    "text_en": "Whatever happens, take responsibility.",
+    "author": "Tony Robbins"
+  },
+  {
+    "text": "경험이란 우리가 저지른 실수에 붙이는 이름일 뿐이다.",
+    "text_en": "Experience is simply the name we give our mistakes.",
+    "author": "Oscar Wilde"
+  },
+  {
+    "text": "나는 생각한다. 그것이 나의 전부다.",
+    "text_en": "I think and that is all that I am.",
+    "author": "Wayne Dyer"
+  },
+  {
+    "text": "신발이 맞지 않는다고 발을 바꿔야 하는가?",
+    "text_en": "If the shoe doesn't fit, must we change the foot?",
+    "author": "Gloria Steinem"
+  },
+  {
+    "text": "하루하루는 저마다의 선물을 준다.",
+    "text_en": "Each day provides its own gifts.",
+    "author": "Marcus Aurelius"
+  },
+  {
+    "text": "멈춰서 생각하는 사이에 우리는 종종 기회를 놓친다.",
+    "text_en": "While we stop to think, we often miss our opportunity.",
+    "author": "Publilius Syrus"
+  },
+  {
+    "text": "인생은 자신을 찾는 것이 아니라 자신을 만들어 가는 것이다.",
+    "text_en": "Life isn't about finding yourself. Life is about creating yourself.",
+    "author": "Bernard Shaw"
+  },
+  {
+    "text": "삶에 무언가를 들이고 싶다면 그것이 이미 있다고 상상하라.",
+    "text_en": "To bring anything into your life, imagine that it's already there.",
+    "author": "Richard Bach"
+  },
+  {
+    "text": "베를 짜기 시작하면 신이 실을 주실 것이다.",
+    "text_en": "Begin to weave and God will give you the thread.",
+    "author": "German proverb"
+  },
+  {
+    "text": "자신을 알면 알수록 자신을 더 용서하게 된다.",
+    "text_en": "The more you know yourself, the more you forgive yourself.",
+    "author": "Confucius"
+  },
+  {
+    "text": "믿음이 없으면 아무것도 가능하지 않고, 믿음이 있으면 불가능한 것이 없다.",
+    "text_en": "Without faith, nothing is possible. With it, nothing is impossible.",
+    "author": "Mary Bethune"
+  },
+  {
+    "text": "한계를 받아들이는 순간 우리는 그 한계를 넘어선다.",
+    "text_en": "Once we accept our limits, we go beyond them.",
+    "author": "Albert Einstein"
+  },
+  {
+    "text": "확신을 갖고 기대하는 것은 무엇이든 스스로 실현되는 예언이 된다.",
+    "text_en": "Whatever we expect with confidence becomes our own self-fulfilling prophecy.",
+    "author": "Brian Tracy"
+  },
+  {
+    "text": "상상할 수 있는 모든 것은 실재한다.",
+    "text_en": "Everything you can imagine is real.",
+    "author": "Pablo Picasso"
+  },
+  {
+    "text": "두려움은 부정적인 것이 현상되는 암실이다.",
+    "text_en": "Fear is a darkroom where negatives develop.",
+    "author": "Usman Asif"
+  },
+  {
+    "text": "가장 참된 지혜는 굳은 결단이다.",
+    "text_en": "The truest wisdom is a resolute determination.",
+    "author": "Napoleon Bonaparte"
+  },
+  {
+    "text": "삶은 꽃이고, 사랑은 그 꽃의 꿀이다.",
+    "text_en": "Life is the flower for which love is the honey.",
+    "author": "Victor Hugo"
+  },
+  {
+    "text": "자유란 원하는 대로 살 권리다.",
+    "text_en": "Freedom is the right to live as we wish.",
+    "author": "Epictetus"
+  },
+  {
+    "text": "직감을 결코 무시하지 마라. 하지만 그것만으로 충분하다고 믿지도 마라.",
+    "text_en": "Never ignore a gut feeling, but never believe that it's enough.",
+    "author": "Robert Heller"
+  },
+  {
+    "text": "상실은 변화일 뿐이며, 변화는 자연의 기쁨이다.",
+    "text_en": "Loss is nothing else but change,and change is Natures delight.",
+    "author": "Marcus Aurelius"
+  },
+  {
+    "text": "누군가가 특별해지는 것은 당신이 그렇다고 말해 줄 때뿐이다.",
+    "text_en": "Someone is special only if you tell them.",
+    "author": "Byron Pulsifer"
+  },
+  {
+    "text": "행복으로 가는 길은 없다. 행복이 곧 길이다.",
+    "text_en": "There is no way to happiness, happiness is the way.",
+    "author": "Thich Nhat Hanh"
+  },
+  {
+    "text": "말이 많은 사람이 더 빨리 지친다.",
+    "text_en": "He who talks more is sooner exhausted.",
+    "author": "Lao Tzu"
+  },
+  {
+    "text": "만족하는 사람이 부자다.",
+    "text_en": "He who is contented is rich.",
+    "author": "Lao Tzu"
+  },
+  {
+    "text": "내면에서 이룬 것이 바깥의 현실을 바꾼다.",
+    "text_en": "What we achieve inwardly will change outer reality.",
+    "author": "Plutarch"
+  },
+  {
+    "text": "우리의 강점은 약점에서 자라난다.",
+    "text_en": "Our strength grows out of our weaknesses.",
+    "author": "Ralph Waldo Emerson"
+  },
+  {
+    "text": "우리는 보고 싶은 변화 그 자체가 되어야 한다.",
+    "text_en": "We must become the change we want to see.",
+    "author": "Mahatma Gandhi"
+  },
+  {
+    "text": "행복은 소유하는 데서가 아니라 행하는 데서 찾을 수 있다.",
+    "text_en": "Happiness is found in doing, not merely possessing.",
+    "author": "Napoleon Hill"
+  },
+  {
+    "text": "다른 사람을 대하는 방식으로 우리는 자신의 운명을 선택한다.",
+    "text_en": "We choose our destiny in the way we treat others.",
+    "author": "Wit"
+  },
+  {
+    "text": "눈사태 속 어떤 눈송이도 책임감을 느끼지 않는다.",
+    "text_en": "No snowflake in an avalanche ever feels responsible.",
+    "author": "Voltaire"
+  },
+  {
+    "text": "행운은 용감한 자의 편이다.",
+    "text_en": "Fortune favours the brave.",
+    "author": "Virgil"
+  },
+  {
+    "text": "나는 단 하나, 인간 의지의 힘만을 믿는다.",
+    "text_en": "I believe in one thing only, the power of human will.",
+    "author": "Joseph Stalin"
+  },
+  {
+    "text": "빠져나가는 가장 좋은 길은 언제나 정면 돌파다.",
+    "text_en": "The best way out is always through.",
+    "author": "Robert Frost"
+  },
+  {
+    "text": "마음은 오래 배운 것을 좀처럼 잊지 못한다.",
+    "text_en": "The mind unlearns with difficulty what it has long learned.",
+    "author": "Seneca"
+  },
+  {
+    "text": "적을 친구로 만들 때 나는 적을 없앤다.",
+    "text_en": "I destroy my enemies when I make them my friends.",
+    "author": "Abraham Lincoln"
+  },
+  {
+    "text": "잡초 없는 정원은 없다.",
+    "text_en": "No garden is without its weeds.",
+    "author": "Thomas Fuller"
+  },
+  {
+    "text": "더 이상 시도하지 않는 것 말고는 실패란 없다.",
+    "text_en": "There is no failure except in no longer trying.",
+    "author": "Elbert Hubbard"
+  },
+  {
+    "text": "친절한 말은 쇠문도 연다.",
+    "text_en": "Kind words will unlock an iron door.",
+    "author": "Turkish proverb"
+  },
+  {
+    "text": "문제란 가시가 달린 기회일 뿐이다.",
+    "text_en": "Problems are only opportunities with thorns on them.",
+    "author": "Hugh Miller"
+  },
+  {
+    "text": "삶은 영혼을 키울 기회일 뿐이다.",
+    "text_en": "Life is just a chance to grow a soul.",
+    "author": "A. Powell Davies"
+  },
+  {
+    "text": "산은 구불구불한 길로만 오를 수 있다.",
+    "text_en": "Mountains cannot be surmounted except by winding paths.",
+    "author": "Johann Wolfgang von Goethe"
+  },
+  {
+    "text": "우리 마음속 깨달음의 정원에 수백 송이 꽃이 피어나기를.",
+    "text_en": "May our hearts garden of awakening bloom with hundreds of flowers.",
+    "author": "Thich Nhat Hanh"
+  },
+  {
+    "text": "행운은 대담한 자의 친구가 된다.",
+    "text_en": "Fortune befriends the bold.",
+    "author": "John Dryden"
+  },
+  {
+    "text": "젊은 날의 꿈에 충실하라.",
+    "text_en": "Keep true to the dreams of thy youth.",
+    "author": "Friedrich von Schiller"
+  },
+  {
+    "text": "시도를 그만두기 전까지 당신은 결코 패배자가 아니다.",
+    "text_en": "You're never a loser until you quit trying.",
+    "author": "Mike Ditka"
+  },
+  {
+    "text": "과학은 체계화된 지식이고, 지혜는 체계화된 삶이다.",
+    "text_en": "Science is organized knowledge. Wisdom is organized life.",
+    "author": "Immanuel Kant"
+  },
+  {
+    "text": "아는 것만으로는 충분하지 않다. 적용해야 한다!",
+    "text_en": "Knowing is not enough; we must apply!",
+    "author": "Johann Wolfgang von Goethe"
+  },
+  {
+    "text": "강한 신념은 강한 사람을 얻고, 그들을 더 강하게 만든다.",
+    "text_en": "Strong beliefs win strong men, and then make them stronger.",
+    "author": "Richard Bach"
+  },
+  {
+    "text": "가을은 모든 잎이 꽃이 되는 두 번째 봄이다.",
+    "text_en": "Autumn is a second spring when every leaf is a flower.",
+    "author": "Albert Camus"
+  },
+  {
+    "text": "바람에 몸을 맡기면 바람을 탈 수 있다.",
+    "text_en": "If you surrender to the wind, you can ride it.",
+    "author": "Toni Morrison"
+  },
+  {
+    "text": "햇빛 쪽을 향해 있으면 그림자를 볼 수 없다.",
+    "text_en": "Keep yourself to the sunshine and you cannot see the shadow.",
+    "author": "Helen Keller"
+  },
+  {
+    "text": "계획은 연필로 쓰고, 지우개는 신에게 맡겨라.",
+    "text_en": "Write your plans in pencil and give God the eraser.",
+    "author": "Paulo Coelho"
+  },
+  {
+    "text": "영감은 존재한다. 하지만 일하는 중에 찾아와야 한다.",
+    "text_en": "Inspiration exists, but it has to find us working.",
+    "author": "Pablo Picasso"
+  },
+  {
+    "text": "중요할 만큼 크고, 이길 수 있을 만큼 작은 싸움을 골라라.",
+    "text_en": "Pick battles big enough to matter, small enough to win.",
+    "author": "Jonathan Kozol"
+  },
+  {
+    "text": "자신을 타협하지 마라. 당신에게는 당신뿐이다.",
+    "text_en": "Don't compromise yourself. You are all you've got.",
+    "author": "Janis Joplin"
+  },
+  {
+    "text": "짧은 말 속에 흔히 큰 지혜가 담겨 있다.",
+    "text_en": "A short saying oft contains much wisdom.",
+    "author": "Sophocles"
+  },
+  {
+    "text": "어려움은 사람에게 자신이 어떤 사람인지 보여 준다.",
+    "text_en": "Difficulties are things that show a person what they are.",
+    "author": "Epictetus"
+  },
+  {
+    "text": "자신의 힘을 의심하면 의심에 힘을 실어 주게 된다.",
+    "text_en": "When you doubt your power, you give power to your doubt.",
+    "author": "Honore de Balzac"
+  },
+  {
+    "text": "원인은 감춰져 있지만, 결과는 모두에게 보인다.",
+    "text_en": "The cause is hidden. The effect is visible to all.",
+    "author": "Ovid"
+  },
+  {
+    "text": "신중한 질문은 지혜의 절반이다.",
+    "text_en": "A prudent question is one half of wisdom.",
+    "author": "Francis Bacon"
+  },
+  {
+    "text": "성공으로 가는 길은 크고 단호한 행동을 하는 것이다.",
+    "text_en": "The path to success is to take massive, determined action.",
+    "author": "Tony Robbins"
+  },
+  {
+    "text": "나는 직관이 내 길을 이끌도록 한다.",
+    "text_en": "I allow my intuition to lead my path.",
+    "author": "Manuel Puig"
+  },
+  {
+    "text": "자연은 쓰지 않는 능력을 모두 거두어 간다.",
+    "text_en": "Nature takes away any faculty that is not used.",
+    "author": "William R. Inge"
+  },
+  {
+    "text": "작가가 되고 싶다면 글을 써라.",
+    "text_en": "If you wish to be a writer, write.",
+    "author": "Epictetus"
+  },
+  {
+    "text": "번영으로 가는 길은 없다. 번영이 곧 길이다.",
+    "text_en": "There is no way to prosperity, prosperity is the way.",
+    "author": "Wayne Dyer"
+  },
+  {
+    "text": "당신이 하루를 이끌거나, 하루가 당신을 끌고 가거나 둘 중 하나다.",
+    "text_en": "Either you run the day or the day runs you.",
+    "author": "Jim Rohn"
+  },
+  {
+    "text": "어떤 일을 반쯤 아느니 차라리 모르는 편이 낫다.",
+    "text_en": "Better be ignorant of a matter than half know it.",
+    "author": "Publilius Syrus"
+  },
+  {
+    "text": "본능을 따르라. 진정한 지혜는 거기서 드러난다.",
+    "text_en": "Follow your instincts. That is where true wisdom manifests itself.",
+    "author": "Oprah Winfrey"
+  },
+  {
+    "text": "나쁜 강철로 좋은 칼을 만든 적은 없다.",
+    "text_en": "There never was a good knife made of bad steel.",
+    "author": "Benjamin Franklin"
+  },
+  {
+    "text": "위대한 일을 이루려면 행동할 뿐 아니라 꿈도 꾸어야 한다.",
+    "text_en": "To accomplish great things, we must dream as well as act.",
+    "author": "Anatole France"
+  },
+  {
+    "text": "인내는 지혜의 동반자다.",
+    "text_en": "Patience is the companion of wisdom.",
+    "author": "Saint Augustine"
+  },
+  {
+    "text": "마음이 전부다. 생각하는 대로 된다.",
+    "text_en": "The mind is everything. What you think you become.",
+    "author": "Buddha"
+  },
+  {
+    "text": "삶을 즐기려면 많은 것을 가볍게 대해야 한다.",
+    "text_en": "To enjoy life, we must touch much of it lightly.",
+    "author": "Voltaire"
+  },
+  {
+    "text": "날기 위해서는 저항이 있어야 한다.",
+    "text_en": "To fly, we have to have resistance.",
+    "author": "Maya Lin"
+  },
+  {
+    "text": "마음에는 이성이 알지 못하는 나름의 이유가 있다.",
+    "text_en": "The heart has its reasons which reason knows not of.",
+    "author": "Blaise Pascal"
+  },
+  {
+    "text": "생각에서 위대했던 것처럼 행동에서도 위대하라.",
+    "text_en": "Be great in act, as you have been in thought.",
+    "author": "William Shakespeare"
+  },
+  {
+    "text": "상상력이 세상을 지배한다.",
+    "text_en": "Imagination rules the world.",
+    "author": "Napoleon Bonaparte"
+  },
+  {
+    "text": "친절한 말에는 큰 비용이 들지 않지만, 많은 것을 이룬다.",
+    "text_en": "Kind words do not cost much. Yet they accomplish much.",
+    "author": "Blaise Pascal"
+  },
+  {
+    "text": "시간을 낭비하는 것보다 큰 손해는 없다.",
+    "text_en": "There is no greater harm than that of time wasted.",
+    "author": "Michelangelo"
+  },
+  {
+    "text": "직관은 생각하는 마음에게 다음에 어디를 볼지 알려 준다.",
+    "text_en": "Intuition will tell the thinking mind where to look next.",
+    "author": "Jonas Salk"
+  },
+  {
+    "text": "두려움은 마음의 상태에 지나지 않는다.",
+    "text_en": "Fears are nothing more than a state of mind.",
+    "author": "Napoleon Hill"
+  },
+  {
+    "text": "천 리 길도 한 걸음부터 시작된다.",
+    "text_en": "The journey of a thousand miles begins with one step.",
+    "author": "Lao Tzu"
+  },
+  {
+    "text": "효율은 일을 올바르게 하는 것이고, 효과는 올바른 일을 하는 것이다.",
+    "text_en": "Efficiency is doing things right; effectiveness is doing the right things.",
+    "author": "Peter Drucker"
+  },
+  {
+    "text": "결코 꺼지지 않는 불꽃으로 타올라라.",
+    "text_en": "Blaze with the fire that is never extinguished.",
+    "author": "Luisa Sigea"
+  },
+  {
+    "text": "끝났다고 울지 마라. 그 일이 있었음에 미소 지어라.",
+    "text_en": "Don't cry because it's over. Smile because it happened.",
+    "author": "Dr. Seuss"
+  },
+  {
+    "text": "'아니요'는 행동하기 쉽고, '예'는 말하기 쉽다.",
+    "text_en": "No is easier to do. Yes is easier to say.",
+    "author": "Jason Fried"
+  },
+  {
+    "text": "틀리는 것은 아무것도 아니다. 그것을 계속 기억하지만 않는다면.",
+    "text_en": "To be wrong is nothing unless you continue to remember it.",
+    "author": "Confucius"
+  },
+  {
+    "text": "어제의 홈런이 오늘의 경기를 이겨 주지는 않는다.",
+    "text_en": "Yesterdays home runs don't win today's games.",
+    "author": "Babe Ruth"
+  },
+  {
+    "text": "침묵은 영원처럼 깊고, 말은 시간처럼 얕다.",
+    "text_en": "Silence is deep as Eternity, Speech is shallow as Time.",
+    "author": "Carlyle"
+  },
+  {
+    "text": "서로를 숨 막히게 하지 마라. 그늘 속에서는 누구도 자랄 수 없다.",
+    "text_en": "Don't smother each other. No one can grow in the shade.",
+    "author": "Leo F. Buscaglia"
+  },
+  {
+    "text": "움직이는 개미가 졸고 있는 황소보다 더 많은 일을 한다.",
+    "text_en": "An ant on the move does more than a dozing ox",
+    "author": "Lao Tzu"
+  },
+  {
+    "text": "꽉 쥔 주먹으로는 악수할 수 없다.",
+    "text_en": "You can't shake hands with a clenched fist.",
+    "author": "Indira Gandhi"
+  },
+  {
+    "text": "좋은 결정은 숫자가 아니라 지식에 근거한다.",
+    "text_en": "A good decision is based on knowledge and not on numbers.",
+    "author": "Plato"
+  },
+  {
+    "text": "신중한 사람은 좀처럼 실수하지 않는다.",
+    "text_en": "The cautious seldom err.",
+    "author": "Confucius"
+  },
+  {
+    "text": "투쟁이 없으면 진보도 없다.",
+    "text_en": "If there is no struggle, there is no progress.",
+    "author": "Frederick Douglass"
+  },
+  {
+    "text": "큰 사랑이 있는 곳에는 언제나 기적이 있다.",
+    "text_en": "Where there is great love, there are always miracles.",
+    "author": "Willa Cather"
+  },
+  {
+    "text": "즐겁게 낭비한 시간은 낭비된 것이 아니다.",
+    "text_en": "Time you enjoy wasting, was not wasted.",
+    "author": "John Lennon"
+  },
+  {
+    "text": "모든 문제는 당신을 위한 선물을 손에 들고 있다.",
+    "text_en": "Every problem has a gift for you in its hands.",
+    "author": "Richard Bach"
+  },
+  {
+    "text": "슬픔은 시간의 날개를 타고 날아간다.",
+    "text_en": "Sadness flies away on the wings of time.",
+    "author": "Jean de la Fontaine"
+  },
+  {
+    "text": "나는 내가 한 말을 자주 후회했지만, 침묵을 후회한 적은 없다.",
+    "text_en": "I have often regretted my speech, never my silence.",
+    "author": "Publilius Syrus"
+  },
+  {
+    "text": "오늘 할 수 있는 일을 내일로 미루지 마라.",
+    "text_en": "Never put off till tomorrow what you can do today.",
+    "author": "Thomas Jefferson"
+  },
+  {
+    "text": "마음은 낙하산과 같다. 펼쳐졌을 때만 작동한다.",
+    "text_en": "Minds are like parachutes. They only function when open.",
+    "author": "Thomas Dewar"
+  },
+  {
+    "text": "사람이 최선을 다했다면, 그 밖에 무엇이 더 있겠는가?",
+    "text_en": "If a man does his best, what else is there?",
+    "author": "George Patton"
+  },
+  {
+    "text": "성공의 비결은 목표를 향한 한결같음이다.",
+    "text_en": "The secret of success is constancy to purpose.",
+    "author": "Benjamin Disraeli"
+  },
+  {
+    "text": "삶은 정거장이 아니라 나아가는 과정이다.",
+    "text_en": "Life is a progress, and not a station.",
+    "author": "Ralph Emerson"
+  },
+  {
+    "text": "내면에 행복을 지닌 사람에게는 모든 계절이 아름답다.",
+    "text_en": "All seasons are beautiful for the person who carries happiness within.",
+    "author": "Horace Friess"
+  },
+  {
+    "text": "비판을 피하고 싶다면 아무것도 하지 말고, 아무 말도 하지 말고, 아무것도 되지 마라.",
+    "text_en": "To avoid criticism, do nothing, say nothing, be nothing.",
+    "author": "Elbert Hubbard"
+  },
+  {
+    "text": "모든 것은 변하지만, 사라지는 것은 없다.",
+    "text_en": "All things change; nothing perishes.",
+    "author": "Ovid"
+  },
+  {
+    "text": "떨어져 있으면 그리움이 깊어진다.",
+    "text_en": "Absence makes the heart grow fonder.",
+    "author": "Haynes Bayly"
+  },
+  {
+    "text": "상상력은 사람이 날릴 수 있는 가장 높은 연이다.",
+    "text_en": "Imagination is the highest kite one can fly.",
+    "author": "Lauren Bacall"
+  },
+  {
+    "text": "지식의 시작은 우리가 이해하지 못하는 무언가를 발견하는 것이다.",
+    "text_en": "The beginning of knowledge is the discovery of something we do not understand.",
+    "author": "Frank Herbert"
+  },
+  {
+    "text": "사랑이 세상을 돌아가게 하는 것은 아니다. 사랑은 그 여정을 가치 있게 만든다.",
+    "text_en": "Love doesn't make the world go round, love is what makes the ride worthwhile.",
+    "author": "Elizabeth Browning"
+  },
+  {
+    "text": "불가능한 것을 모두 제거하고 나면, 남은 것이 아무리 있을 법하지 않더라도 그것이 진실이다.",
+    "text_en": "Whenever you have eliminated the impossible, whatever remains, however improbable, must be the truth.",
+    "author": "Arthur Conan Doyle"
+  },
+  {
+    "text": "좋은 목재는 쉽게 자라지 않는다. 바람이 거셀수록 나무는 더 강해진다.",
+    "text_en": "Good timber does not grow with ease; the stronger the wind, the stronger the trees.",
+    "author": "J. Willard Marriott"
+  },
+  {
+    "text": "나는 우리가 근본적으로 같으며 같은 기본적 잠재력을 지녔다고 믿는다.",
+    "text_en": "I believe that we are fundamentally the same and have the same basic potential.",
+    "author": "Dalai Lama"
+  },
+  {
+    "text": "바람과 파도는 언제나 가장 유능한 항해자의 편이다.",
+    "text_en": "The winds and waves are always on the side of the ablest navigators.",
+    "author": "Edward Gibbon"
+  },
+  {
+    "text": "미래는 자신의 꿈이 지닌 아름다움을 믿는 사람들의 것이다.",
+    "text_en": "The future belongs to those who believe in the beauty of their dreams.",
+    "author": "Eleanor Roosevelt"
+  },
+  {
+    "text": "힘은 신체적 능력에서 나오지 않는다. 불굴의 의지에서 나온다.",
+    "text_en": "Strength does not come from physical capacity. It comes from an indomitable will.",
+    "author": "Mahatma Gandhi"
+  },
+  {
+    "text": "당신이 만나는 모든 불행에는 내일의 행운의 씨앗이 들어 있다.",
+    "text_en": "Each misfortune you encounter will carry in it the seed of tomorrows good luck.",
+    "author": "Og Mandino"
+  },
+  {
+    "text": "용서한다는 것은 죄수를 풀어 주고, 그 죄수가 바로 자신이었음을 깨닫는 것이다.",
+    "text_en": "To forgive is to set a prisoner free and realize that prisoner was you.",
+    "author": "Lewis B. Smedes"
+  },
+  {
+    "text": "분리 속에 세상의 큰 불행이 있고, 연민 속에 세상의 참된 힘이 있다.",
+    "text_en": "In separateness lies the world's great misery, in compassion lies the world's true strength.",
+    "author": "Buddha"
+  },
+  {
+    "text": "아직 존재하지 않는 무언가를 열정적으로 믿음으로써 우리는 그것을 만들어 낸다.",
+    "text_en": "By believing passionately in something that does not yet exist, we create it.",
+    "author": "Nikos Kazantzakis"
+  },
+  {
+    "text": "내가 함께 일한 위대한 공연자들은 모두 자신만의 꿈을 원동력으로 삼았다.",
+    "text_en": "All the great performers I have worked with are fuelled by a personal dream.",
+    "author": "John Eliot"
+  },
+  {
+    "text": "정리정돈을 못 하는 사람의 장점 하나는 늘 신나는 발견을 한다는 것이다.",
+    "text_en": "One of the advantages of being disorderly is that one is constantly making exciting discoveries.",
+    "author": "A. A. Milne"
+  },
+  {
+    "text": "나는 이미 한 일은 보지 않는다. 앞으로 해야 할 일만 본다.",
+    "text_en": "I never see what has been done; I only see what remains to be done.",
+    "author": "Marie Curie"
+  },
+  {
+    "text": "지금 당장 살기 시작하고, 하루하루를 각각 하나의 삶으로 여겨라.",
+    "text_en": "Begin at once to live and count each separate day as a separate life.",
+    "author": "Seneca"
+  },
+  {
+    "text": "어디로 가는지 모르면 아마 엉뚱한 곳에 도착하게 될 것이다.",
+    "text_en": "If you don't know where you are going, you will probably end up somewhere else.",
+    "author": "Lawrence Peter"
+  },
+  {
+    "text": "모든 것을 아는 것보다 배운 것을 소중히 여기는 것이 더 중요하다.",
+    "text_en": "It is not so important to know everything as to appreciate what we learn.",
+    "author": "Hannah More"
+  },
+  {
+    "text": "극락조는 움켜쥐지 않는 손에만 내려앉는다.",
+    "text_en": "The bird of paradise alights only upon the hand that does not grasp.",
+    "author": "John Berry"
+  },
+  {
+    "text": "현자처럼 생각하되, 보통 사람들의 언어로 말하라.",
+    "text_en": "Think as a wise man but communicate in the language of the people.",
+    "author": "William Yeats"
+  },
+  {
+    "text": "제발 작은 일부터 연습하고, 그다음에 더 큰 일로 나아가라.",
+    "text_en": "Practice yourself, for heavens sake in little things, and then proceed to greater.",
+    "author": "Epictetus"
+  },
+  {
+    "text": "어느 항구로 가는지 모르는 사람에게는 어떤 바람도 순풍이 아니다.",
+    "text_en": "If one does not know to which port is sailing, no wind is favorable.",
+    "author": "Seneca"
+  },
+  {
+    "text": "가지지 못한 것에 속상해하는 것은 가진 것을 낭비하는 것이다.",
+    "text_en": "To be upset over what you don't have is to waste what you do have.",
+    "author": "Ken S. Keyes"
+  },
+  {
+    "text": "우리가 할 수 있는 일을 모두 해낸다면 스스로도 깜짝 놀랄 것이다.",
+    "text_en": "If we did the things we are capable of, we would astound ourselves.",
+    "author": "Thomas Edison"
+  },
+  {
+    "text": "인생에서 두려워할 것은 아무것도 없다. 오직 이해해야 할 것만 있을 뿐이다.",
+    "text_en": "Nothing in life is to be feared. It is only to be understood.",
+    "author": "Marie Curie"
+  },
+  {
+    "text": "성공한 사람들은 더 나은 질문을 하고, 그 결과 더 나은 답을 얻는다.",
+    "text_en": "Successful people ask better questions, and as a result, they get better answers.",
+    "author": "Tony Robbins"
+  },
+  {
+    "text": "삶은 과정이다. 우리도 과정이다. 우주도 과정이다.",
+    "text_en": "Life is a process. We are a process. The universe is a process.",
+    "author": "Anne Schaef"
+  },
+  {
+    "text": "우리는 어떻게든 자신이 진정 누구인지 알게 되고, 그 결정을 안고 살아간다.",
+    "text_en": "I think somehow we learn who we really are and then live with that decision.",
+    "author": "Eleanor Roosevelt"
+  },
+  {
+    "text": "우리는 우리의 말을 듣는 사람들을 통해 자신이 무슨 말을 했는지 알게 된다.",
+    "text_en": "We learn what we have said from those who listen to our speaking.",
+    "author": "Kenneth Patton"
+  },
+  {
+    "text": "행동하는 작은 지식이 놀고 있는 많은 지식보다 한없이 더 가치 있다.",
+    "text_en": "A little knowledge that acts is worth infinitely more than much knowledge that is idle.",
+    "author": "Kahlil Gibran"
+  },
+  {
+    "text": "우리가 매일 열고 닫는 문이 우리가 사는 삶을 결정한다.",
+    "text_en": "The doors we open and close each day decide the lives we live.",
+    "author": "Flora Whittemore"
+  },
+  {
+    "text": "세상에서 가장 심하게 파산한 사람은 열정을 잃은 사람이다.",
+    "text_en": "The worst bankrupt in the world is the person who has lost his enthusiasm.",
+    "author": "H. W. Arnold"
+  },
+  {
+    "text": "행복은 당신의 일과 말이 자신과 다른 이들에게 도움이 될 때 찾아온다.",
+    "text_en": "Happiness comes when your work and words are of benefit to yourself and others.",
+    "author": "Buddha"
+  },
+  {
+    "text": "우주의 모든 것은 완벽하다. 그것을 더 낫게 만들고 싶은 당신의 욕망까지도.",
+    "text_en": "Everything is perfect in the universe — even your desire to improve it.",
+    "author": "Wayne Dyer"
+  },
+  {
+    "text": "우주는 우리의 지혜가 더 날카로워지기를 참을성 있게 기다리는 마법 같은 것들로 가득하다.",
+    "text_en": "The universe is full of magical things, patiently waiting for our wits to grow sharper.",
+    "author": "Eden Phillpotts"
+  },
+  {
+    "text": "촛불이 불 없이 탈 수 없듯이, 사람은 영적인 삶 없이 살 수 없다.",
+    "text_en": "Just as a candle cannot burn without fire, men cannot live without a spiritual life.",
+    "author": "Buddha"
+  },
+  {
+    "text": "오래 기다린 일은 마침내 찾아올 때 뜻밖의 모습을 하고 있다.",
+    "text_en": "A thing long expected takes the form of the unexpected when at last it comes.",
+    "author": "Mark Twain"
+  },
+  {
+    "text": "행동이 늘 행복을 가져오지는 않지만, 행동 없이는 행복도 없다.",
+    "text_en": "Action may not always bring happiness; but there is no happiness without action.",
+    "author": "Benjamin Disraeli"
+  },
+  {
+    "text": "나는 실패를 믿지 않는다. 그 과정을 즐겼다면 실패가 아니다.",
+    "text_en": "I don't believe in failure. It is not failure if you enjoyed the process.",
+    "author": "Oprah Winfrey"
+  },
+  {
+    "text": "자신이 당하고 싶지 않은 일은 남에게도 하지 마라.",
+    "text_en": "What you do not want done to yourself, do not do to others.",
+    "author": "Confucius"
+  },
+  {
+    "text": "짧은 말이 가장 좋고, 오래된 말이 짧기까지 하면 그보다 좋은 것은 없다.",
+    "text_en": "Short words are best and the old words when short are best of all.",
+    "author": "Winston Churchill"
+  },
+  {
+    "text": "누군가를 위해 등불을 밝히면 당신의 길도 함께 밝아진다.",
+    "text_en": "If you light a lamp for somebody, it will also brighten your path.",
+    "author": "Buddha"
+  },
+  {
+    "text": "나는 최선을 다했다. 삶에 필요한 철학은 거의 그것이 전부다.",
+    "text_en": "I have done my best: that is about all the philosophy of living one needs.",
+    "author": "Lin-yutang"
+  },
+  {
+    "text": "많은 사람이 끈기로 확실한 실패처럼 보이던 일에서 성공을 거둔다.",
+    "text_en": "Through perseverance many people win success out of what seemed destined to be certain failure.",
+    "author": "Benjamin Disraeli"
+  },
+  {
+    "text": "우리를 새로운 지평으로 나아가게 하는 삶의 비에 감사하라.",
+    "text_en": "Give thanks for the rain of life that propels us to reach new horizons.",
+    "author": "Byron Pulsifer"
+  },
+  {
+    "text": "풍요로운 삶의 비결은 끝보다 시작을 더 많이 갖는 것이다.",
+    "text_en": "The secret to a rich life is to have more beginnings than endings.",
+    "author": "Dave Weinbaum"
+  },
+  {
+    "text": "마음과 인격이 잠들어 있을 때에만 옷차림이 눈에 띈다.",
+    "text_en": "It is only when the mind and character slumber that the dress can be seen.",
+    "author": "Ralph Waldo Emerson"
+  },
+  {
+    "text": "마음에 들지 않으면 바꿔라. 바꿀 수 없다면 태도를 바꿔라.",
+    "text_en": "If you don't like something, change it. If you can't change it, change your attitude.",
+    "author": "Maya Angelou"
+  },
+  {
+    "text": "배운 것을 복습하고 새로운 것을 배우면 스승이 될 자격이 있다.",
+    "text_en": "Reviewing what you have learned and learning anew, you are fit to be a teacher.",
+    "author": "Confucius"
+  },
+  {
+    "text": "세상은 한 권의 책이며, 여행하지 않는 사람은 그 책의 한 페이지만 읽는 것이다.",
+    "text_en": "The world is a book, and those who do not travel read only a page.",
+    "author": "Augustinus Sanctus"
+  },
+  {
+    "text": "스스로 새로워질 수 있는 한, 사람은 살아 있는 존재다.",
+    "text_en": "So long as a person is capable of self-renewal they are a living being.",
+    "author": "Henri-Frederic Amiel"
+  },
+  {
+    "text": "나는 폭풍이 두렵지 않다. 내 배를 모는 법을 배우고 있기 때문이다.",
+    "text_en": "I'm not afraid of storms, for Im learning how to sail my ship.",
+    "author": "Louisa Alcott"
+  },
+  {
+    "text": "스스로 생각하라. 그리고 다른 사람들도 그런 특권을 누리게 하라.",
+    "text_en": "Think for yourselves and let others enjoy the privilege to do so too.",
+    "author": "Voltaire"
+  },
+  {
+    "text": "하루하루를 어떻게 보내느냐가 곧 삶을 어떻게 보내느냐다.",
+    "text_en": "How we spend our days is, of course, how we spend our lives.",
+    "author": "Annie Dillard"
+  },
+  {
+    "text": "나의 목적은 꿈을 기록하는 것이 아니라 꿈을 실현하는 것이었다.",
+    "text_en": "It has never been my object to record my dreams, just to realize them.",
+    "author": "Man Ray"
+  },
+  {
+    "text": "가장 복잡한 사고의 성취도 의식의 도움 없이 이루어질 수 있다.",
+    "text_en": "The most complicated achievements of thought are possible without the assistance of consciousness.",
+    "author": "Sigmund Freud"
+  },
+  {
+    "text": "비참해하든지, 스스로 동기를 부여하든지. 무엇을 해야 하든 선택은 늘 당신 몫이다.",
+    "text_en": "Be miserable. Or motivate yourself. Whatever has to be done, it's always your choice.",
+    "author": "Wayne Dyer"
+  },
+  {
+    "text": "위대한 사람들 대부분은 가장 큰 실패에서 단 한 걸음 더 나아간 곳에서 가장 큰 성공을 거두었다.",
+    "text_en": "Most great people have attained their greatest success just one step beyond their greatest failure.",
+    "author": "Napoleon Hill"
+  },
+  {
+    "text": "할 수 있다고 생각하면 할 수 있다. 할 수 없다고 생각하면, 그 생각이 맞다.",
+    "text_en": "If you think you can, you can. And if you think you can't, you're right.",
+    "author": "Henry Ford"
+  },
+  {
+    "text": "사랑하고 잃는 것이 한 번도 사랑하지 않은 것보다 낫다.",
+    "text_en": "Better to have loved and lost, than to have never loved at all.",
+    "author": "St. Augustine"
+  },
+  {
+    "text": "모두가 세상을 바꾸려고 생각하지만, 아무도 자기 자신을 바꾸려고는 생각하지 않는다.",
+    "text_en": "Everyone thinks of changing the world, but no one thinks of changing himself.",
+    "author": "Leo Tolstoy"
+  },
+  {
+    "text": "아름다운 순간에 보답하는 가장 좋은 방법은 그 순간을 즐기는 것이다.",
+    "text_en": "The best way to pay for a lovely moment is to enjoy it.",
+    "author": "Richard Bach"
+  },
+  {
+    "text": "적이 있는가? 좋다. 살면서 언젠가 무언가를 위해 맞섰다는 뜻이다.",
+    "text_en": "You have enemies? Good. That means you've stood up for something, sometime in your life.",
+    "author": "Winston Churchill"
+  },
+  {
+    "text": "속도를 늦춰라. 그러면 쫓던 모든 것이 돌아와 당신을 붙잡을 것이다.",
+    "text_en": "Slow down and everything you are chasing will come around and catch you.",
+    "author": "John De Paola"
+  },
+  {
+    "text": "최악의 적도 경계하지 않은 당신 자신의 생각만큼 당신을 해치지는 못한다.",
+    "text_en": "Your worst enemy cannot harm you as much as your own unguarded thoughts.",
+    "author": "Buddha"
+  },
+  {
+    "text": "나는 늘 대단한 누군가가 되고 싶었다. 좀 더 구체적으로 정했어야 했다.",
+    "text_en": "I always wanted to be somebody, but I should have been more specific.",
+    "author": "Lily Tomlin"
+  },
+  {
+    "text": "그래, 우리는 모두 빛난다. 달처럼, 별처럼, 태양처럼.",
+    "text_en": "Yeah we all shine on, like the moon, and the stars, and the sun.",
+    "author": "John Lennon"
+  },
+  {
+    "text": "지식은 사실을 쌓는 과정이고, 지혜는 그것을 단순하게 만드는 데 있다.",
+    "text_en": "Knowledge is a process of piling up facts; wisdom lies in their simplification.",
+    "author": "Martin Fischer"
+  },
+  {
+    "text": "인생은 자전거를 타는 것과 같다. 균형을 잡으려면 계속 움직여야 한다.",
+    "text_en": "Life is like riding a bicycle. To keep your balance you must keep moving.",
+    "author": "Albert Einstein"
+  },
+  {
+    "text": "우리 내면의 정신에 다시 불을 붙여 주는 사람들에게 감사해야 한다.",
+    "text_en": "We should all be thankful for those people who rekindle the inner spirit.",
+    "author": "Albert Schweitzer"
+  },
+  {
+    "text": "대부분의 사람이 기회를 놓치는 것은 기회가 작업복을 입고 있어 일처럼 보이기 때문이다.",
+    "text_en": "Opportunity is missed by most because it is dressed in overalls and looks like work.",
+    "author": "Thomas Edison"
+  },
+  {
+    "text": "감정과 갈망은 모든 인간의 노력과 창조물 뒤에 있는 원동력이다.",
+    "text_en": "Feeling and longing are the motive forces behind all human endeavor and human creations.",
+    "author": "Albert Einstein"
+  },
+  {
+    "text": "결국 공부한 것 중에 우리에게 남는 것은 실제로 적용한 것뿐이다.",
+    "text_en": "In the end we retain from our studies only that which we practically apply.",
+    "author": "Johann Wolfgang von Goethe"
+  },
+  {
+    "text": "마음을 바로잡으면 삶의 나머지는 저절로 제자리를 찾는다.",
+    "text_en": "If you correct your mind, the rest of your life will fall into place.",
+    "author": "Lao Tzu"
+  },
+  {
+    "text": "세상은 자신이 어디로 가는지 아는 사람에게 길을 비켜 준다.",
+    "text_en": "The world makes way for the man who knows where he is going.",
+    "author": "Ralph Emerson"
+  },
+  {
+    "text": "욕망이 충분히 강하면 무엇이든 이룰 초인적인 힘을 가진 것처럼 보일 것이다.",
+    "text_en": "When your desires are strong enough you will appear to possess superhuman powers to achieve.",
+    "author": "Napoleon Hill"
+  },
+  {
+    "text": "인내와 끈기에는 어려움이 사라지고 장애물이 자취를 감추는 마법 같은 효과가 있다.",
+    "text_en": "Patience and perseverance have a magical effect before which difficulties disappear and obstacles vanish.",
+    "author": "John Adams"
+  },
+  {
+    "text": "나는 하루를 더 길게 만들 수 없기에 더 낫게 만들려고 애쓴다.",
+    "text_en": "I cannot make my days longer so I strive to make them better.",
+    "author": "Henry David Thoreau"
+  },
+  {
+    "text": "긴장은 되어야 한다고 생각하는 당신이고, 이완은 있는 그대로의 당신이다.",
+    "text_en": "Tension is who you think you should be. Relaxation is who you are.",
+    "author": "Chinese proverb"
+  },
+  {
+    "text": "절대 고개를 숙이지 마라. 언제나 고개를 높이 들고 세상을 똑바로 바라보라.",
+    "text_en": "Never bend your head. Always hold it high. Look the world right in the eye.",
+    "author": "Helen Keller"
+  },
+  {
+    "text": "장애물을 극복하며 힘을 얻은 사람만이 역경을 이길 수 있는 유일한 힘을 지닌다.",
+    "text_en": "One who gains strength by overcoming obstacles possesses the only strength which can overcome adversity.",
+    "author": "Albert Schweitzer"
+  },
+  {
+    "text": "모든 것을 한꺼번에 할 수는 없지만, 무언가는 지금 당장 할 수 있다.",
+    "text_en": "We cannot do everything at once, but we can do something at once.",
+    "author": "Calvin Coolidge"
+  },
+  {
+    "text": "할아버지의 키가 아무리 컸어도 자라는 일은 스스로 해야 한다.",
+    "text_en": "You have to do your own growing no matter how tall your grandfather was.",
+    "author": "Abraham Lincoln"
+  },
+  {
+    "text": "이기려는 의지 없이 전쟁에 뛰어드는 것은 치명적이다.",
+    "text_en": "It is fatal to enter any war without the will to win it.",
+    "author": "General Douglas MacArthur"
+  },
+  {
+    "text": "있는 그대로의 당신이 되어라. 그것이 지금보다 나아지는 첫걸음이다.",
+    "text_en": "Be what you are. This is the first step toward becoming better than you are.",
+    "author": "Julius Charles Hare"
+  },
+  {
+    "text": "애벌레에게는 그것이 나비가 될 것이라고 알려 주는 것이 아무것도 없다.",
+    "text_en": "There is nothing in a caterpillar that tells you it's going to be a butterfly.",
+    "author": "Buckminster Fuller"
+  },
+  {
+    "text": "사랑과 연민은 우리의 내면을 열어 스트레스와 불신, 외로움을 줄여 준다.",
+    "text_en": "Love and compassion open our own inner life, reducing stress, distrust and loneliness.",
+    "author": "Dalai Lama"
+  },
+  {
+    "text": "이상이란 가능한 것 가운데 바람직한 것을 상상력으로 이해한 것이다.",
+    "text_en": "Ideals are an imaginative understanding of that which is desirable in that which is possible.",
+    "author": "Walter Lippmann"
+  },
+  {
+    "text": "군자는 만족하고 평온하며, 소인은 늘 근심으로 가득하다.",
+    "text_en": "The superior man is satisfied and composed; the mean man is always full of distress.",
+    "author": "Confucius"
+  },
+  {
+    "text": "한 가지 일을 너무 오래 생각하면 결코 그 일을 끝내지 못한다.",
+    "text_en": "If you spend too much time thinking about a thing, you'll never get it done.",
+    "author": "Bruce Lee"
+  },
+  {
+    "text": "길은 하늘에 있지 않다. 길은 마음속에 있다.",
+    "text_en": "The way is not in the sky. The way is in the heart.",
+    "author": "Buddha"
+  },
+  {
+    "text": "대부분의 사람은 행복하기로 마음먹은 만큼 행복하다.",
+    "text_en": "Most people are about as happy as they make up their minds to be",
+    "author": "Abraham Lincoln"
+  },
+  {
+    "text": "오래 숨길 수 없는 것이 세 가지 있다. 해와 달, 그리고 진실이다.",
+    "text_en": "Three things cannot be long hidden: the sun, the moon, and the truth.",
+    "author": "Buddha"
+  },
+  {
+    "text": "분노는 대개 강함이 아니라 약함의 표시다.",
+    "text_en": "More often than not, anger is actually an indication of weakness rather than of strength.",
+    "author": "Dalai Lama"
+  },
+  {
+    "text": "얼굴을 찌푸리기 전에, 지을 수 있는 미소가 정말 하나도 없는지 확인하라.",
+    "text_en": "Before you put on a frown, make absolutely sure there are no smiles available.",
+    "author": "Jim Beggs"
+  },
+  {
+    "text": "능력과 무언가를 이루려는 열망이 있는 사람은 무엇이든 할 수 있다.",
+    "text_en": "A man of ability and the desire to accomplish something can do anything.",
+    "author": "Donald Kircher"
+  },
+  {
+    "text": "우주의 그 누구 못지않게, 당신 자신도 당신의 사랑과 애정을 받을 자격이 있다.",
+    "text_en": "You, yourself, as much as anybody in the entire universe, deserve your love and affection.",
+    "author": "Buddha"
+  },
+  {
+    "text": "평생을 삶이 시작되기만을 기다리며 보내는 사람이 드물지 않다.",
+    "text_en": "It is not uncommon for people to spend their whole life waiting to start living.",
+    "author": "Eckhart Tolle"
+  },
+  {
+    "text": "위험을 무릅쓰는 것을 두려워하지 마라. 열매는 가지 끝에 있다.",
+    "text_en": "Don't be afraid to go out on a limb. That's where the fruit is.",
+    "author": "H. Jackson Browne"
+  },
+  {
+    "text": "악한 사람들은 선한 사람에게서 능력을 발견하면 늘 놀란다.",
+    "text_en": "Wicked people are always surprised to find ability in those that are good.",
+    "author": "Marquis Vauvenargues"
+  },
+  {
+    "text": "삶은 어떤 일도 기대와 일치하지 않도록, 일치할 수 없도록, 일치하지 않을 것이도록 짜여 있다.",
+    "text_en": "Life is so constructed that an event does not, cannot, will not, match the expectation.",
+    "author": "Charlotte Bronte"
+  },
+  {
+    "text": "사물을 보는 방식을 바꾸면 당신이 보는 사물이 바뀐다.",
+    "text_en": "If you change the way you look at things, the things you look at change.",
+    "author": "Wayne Dyer"
+  },
+  {
+    "text": "좋아하지 않는 분야에서 성공할 수 있는 사람은 없다.",
+    "text_en": "No man can succeed in a line of endeavor which he does not like.",
+    "author": "Napoleon Hill"
+  },
+  {
+    "text": "당신은 분노 때문에 벌을 받는 것이 아니라 분노에 의해 벌을 받는다.",
+    "text_en": "You will not be punished for your anger, you will be punished by your anger.",
+    "author": "Buddha"
+  },
+  {
+    "text": "하루하루를 거둔 수확으로 판단하지 말고 심은 씨앗으로 판단하라.",
+    "text_en": "Don't judge each day by the harvest you reap but by the seeds you plant.",
+    "author": "Robert Stevenson"
+  },
+  {
+    "text": "시간이 모든 것을 바꾼다고들 하지만, 사실은 스스로 바꿔야 한다.",
+    "text_en": "They say that time changes things, but you actually have to change them yourself.",
+    "author": "Andy Warhol"
+  },
+  {
+    "text": "감정을 드러낸 것을 결코 사과하지 마라. 그것은 진실을 사과하는 것이다.",
+    "text_en": "Never apologize for showing feelings. When you do so, you apologize for the truth.",
+    "author": "Benjamin Disraeli"
+  },
+  {
+    "text": "당신이 믿고 매달리는 진실이 새로운 것을 들을 수 없게 만든다.",
+    "text_en": "The truth you believe and cling to makes you unavailable to hear anything new.",
+    "author": "Pema Chodron"
+  },
+  {
+    "text": "역경은 순탄한 환경에서는 잠들어 있었을 재능을 끌어내는 힘이 있다.",
+    "text_en": "Adversity has the effect of eliciting talents, which in prosperous circumstances would have lain dormant.",
+    "author": "Horace"
+  },
+  {
+    "text": "평생 폭풍만 기다리며 산다면 결코 햇살을 즐기지 못할 것이다.",
+    "text_en": "If you spend your whole life waiting for the storm, you'll never enjoy the sunshine.",
+    "author": "Morris West"
+  },
+  {
+    "text": "내일의 실현을 가로막는 유일한 한계는 오늘의 의심이다.",
+    "text_en": "The only limit to our realization of tomorrow will be our doubts of today.",
+    "author": "Franklin Roosevelt"
+  },
+  {
+    "text": "우리 삶의 모든 행동은 영원 속에서 울릴 어떤 현을 건드린다.",
+    "text_en": "Every action of our lives touches on some chord that will vibrate in eternity.",
+    "author": "Edwin Chapin"
+  },
+  {
+    "text": "달을 향해 쏘아라. 빗나가더라도 별들 사이에 떨어질 것이다.",
+    "text_en": "Shoot for the moon. Even if you miss, you'll land among the stars.",
+    "author": "Les Brown"
+  },
+  {
+    "text": "멈추지만 않는다면 얼마나 천천히 가는지는 중요하지 않다.",
+    "text_en": "It does not matter how slowly you go as long as you do not stop.",
+    "author": "Confucius"
+  },
+  {
+    "text": "대부분의 사람은 행복하기로 마음먹은 만큼만 행복하다.",
+    "text_en": "Most folks are about as happy as they make up their minds to be.",
+    "author": "Abraham Lincoln"
+  },
+  {
+    "text": "얻고 싶다면 먼저 주어라. 이것이 지혜의 시작이다.",
+    "text_en": "If you would take, you must first give, this is the beginning of intelligence.",
+    "author": "Lao Tzu"
+  },
+  {
+    "text": "우리는 실패를 바탕으로 새롭고 다르며 더 나은 성공을 쌓는다.",
+    "text_en": "It is on our failures that we base a new and different and better success.",
+    "author": "Havelock Ellis"
+  },
+  {
+    "text": "품질은 결코 우연이 아니다. 언제나 지적인 노력의 결과다.",
+    "text_en": "Quality is never an accident; it is always the result of intelligent effort.",
+    "author": "John Ruskin"
+  },
+  {
+    "text": "배우기만 하고 생각하지 않으면 헛되고, 생각만 하고 배우지 않으면 위태롭다.",
+    "text_en": "To study and not think is a waste. To think and not study is dangerous.",
+    "author": "Confucius"
+  },
+  {
+    "text": "인생은 이해하려면 직접 살아 봐야 하는 교훈의 연속이다.",
+    "text_en": "Life is a succession of lessons, which must be lived to be understood.",
+    "author": "Ralph Emerson"
+  },
+  {
+    "text": "시간은 모든 것을 바꾸지만, 변화에 늘 놀라는 우리 안의 무언가만은 바꾸지 못한다.",
+    "text_en": "Time changes everything except something within us which is always surprised by change.",
+    "author": "Thomas Hardy"
+  },
+  {
+    "text": "당신은 요청할 만큼 소중하고, 돌려받을 만큼 축복받은 사람이다.",
+    "text_en": "You are important enough to ask and you are blessed enough to receive back.",
+    "author": "Wayne Dyer"
+  },
+  {
+    "text": "위대한 일을 할 수 없다면 작은 일을 위대하게 하라.",
+    "text_en": "If you cannot do great things, do small things in a great way.",
+    "author": "Napoleon Hill"
+  },
+  {
+    "text": "삶이 더 보람 있기를 바란다면 생각하는 방식을 바꿔야 한다.",
+    "text_en": "If you want your life to be more rewarding, you have to change the way you think.",
+    "author": "Oprah Winfrey"
+  },
+  {
+    "text": "변화는 진공 속에서 일어나지 않는다. 우리가 주변 모든 사람과 직간접적으로 연결될 때 일어난다.",
+    "text_en": "Transformation doesn't take place with a vacuum; instead, it occurs when we are indirectly and directly connected to all those around us.",
+    "author": "Byron Pulsifer"
+  },
+  {
+    "text": "당신의 능력과 다른 사람의 능력의 유일한 차이는 그들의 입장이 되어 실제로 시도해 보는 능력이다.",
+    "text_en": "The only difference between your abilities and others is the ability to put yourself in their shoes and actually try.",
+    "author": "Leonardo Ruiz"
+  },
+  {
+    "text": "자유로운 사람이란 자기 생각의 끝까지 가기를 두려워하지 않는 사람이다.",
+    "text_en": "The free man is he who does not fear to go to the end of his thought.",
+    "author": "Leon Blum"
+  },
+  {
+    "text": "정신적인 것이 어떤 물질적 힘보다 강하며 생각이 세상을 지배한다는 것을 아는 사람은 위대하다.",
+    "text_en": "Great are they who see that spiritual is stronger than any material force, that thoughts rule the world.",
+    "author": "Ralph Emerson"
+  },
+  {
+    "text": "실수하며 보낸 삶은 아무것도 하지 않고 보낸 삶보다 더 명예로울 뿐 아니라 더 유용하다.",
+    "text_en": "A life spent making mistakes is not only more honourable but more useful than a life spent in doing nothing.",
+    "author": "Bernard Shaw"
+  },
+  {
+    "text": "현명한 사람은 자기 재물을 쌓아 두지 않는다. 남에게 줄수록 자신의 것이 더 많아진다.",
+    "text_en": "The wise man does not lay up his own treasures. The more he gives to others, the more he has for his own.",
+    "author": "Lao Tzu"
+  },
+  {
+    "text": "어떤 돌도 그냥 두지 마라. 할 수 있는 모든 것을 했다는 것을 아는 것만으로도 의미가 있다.",
+    "text_en": "Don't leave a stone unturned. It's always something, to know you have done the most you could.",
+    "author": "Charles Dickens"
+  },
+  {
+    "text": "자신의 문제를 넘어 다른 사람을 돌보면 내면의 힘과 자신감, 용기, 그리고 더 큰 평온을 얻는다.",
+    "text_en": "By going beyond your own problems and taking care of others, you gain inner strength, self-confidence, courage, and a greater sense of calm.",
+    "author": "Dalai Lama"
+  },
+  {
+    "text": "우리는 완벽한 사람을 찾아서가 아니라 불완전한 사람을 완벽하게 보는 법을 배우면서 사랑하게 된다.",
+    "text_en": "We come to love not by finding a perfect person, but by learning to see an imperfect person perfectly.",
+    "author": "Sam Keen"
+  },
+  {
+    "text": "우리 뒤에 있는 것과 우리 앞에 있는 것은 우리 안에 있는 것에 비하면 아주 사소하다.",
+    "text_en": "What lies behind us and what lies before us are tiny matters compared to what lies within us.",
+    "author": "Walt Emerson"
+  },
+  {
+    "text": "인간으로서 지금의 발달 단계에서는 직관만이 닿을 수 있을 만큼 깊고 복잡한 것들이 있다.",
+    "text_en": "There are things so deep and complex that only intuition can reach it in our stage of development as human beings.",
+    "author": "John Astin"
+  },
+  {
+    "text": "조금 더 끈기를 갖고 조금 더 노력하면, 절망적인 실패처럼 보이던 것이 빛나는 성공으로 바뀔 수 있다.",
+    "text_en": "A little more persistence, a little more effort, and what seemed hopeless failure may turn to glorious success.",
+    "author": "Elbert Hubbard"
+  },
+  {
+    "text": "예술가에게 은퇴란 없다. 그것은 삶의 방식이기에 끝이 없다.",
+    "text_en": "There is no retirement for an artist, it's your way of living so there is no end to it.",
+    "author": "Henry Moore"
+  },
+  {
+    "text": "남이 나를 알아주지 않는 것을 걱정하지 말고, 내게 능력이 없음을 걱정하라.",
+    "text_en": "I will not be concerned at other men is not knowing me;I will be concerned at my own want of ability.",
+    "author": "Confucius"
+  },
+  {
+    "text": "비교하거나 경쟁하지 않고 그저 자신으로 만족할 때, 모두가 당신을 존중할 것이다.",
+    "text_en": "When you are content to be simply yourself and don't compare or compete, everybody will respect you.",
+    "author": "Laozi"
+  },
+  {
+    "text": "위대함을 두려워하지 마라. 어떤 이는 위대하게 태어나고, 어떤 이는 위대함을 이루며, 어떤 이는 위대함을 떠맡게 된다.",
+    "text_en": "Be not afraid of greatness: some are born great, some achieve greatness, and some have greatness thrust upon them.",
+    "author": "William Shakespeare"
+  },
+  {
+    "text": "성공이란 자신이 되어야 한다고 믿는 사람이 될 용기와 결단력, 의지를 갖는 것이다.",
+    "text_en": "Success means having the courage, the determination, and the will to become the person you believe you were meant to be.",
+    "author": "George Sheehan"
+  },
+  {
+    "text": "자신이 누구인지 알고 싶은가? 묻지 말고 행동하라! 행동이 당신을 그려 내고 정의할 것이다.",
+    "text_en": "Do you want to know who you are? Don't ask. Act! Action will delineate and define you.",
+    "author": "Thomas Jefferson"
+  },
+  {
+    "text": "마음으로 보아야만 제대로 볼 수 있다. 가장 중요한 것은 눈에 보이지 않는다.",
+    "text_en": "It is only with the heart that one can see rightly, what is essential is invisible to the eye.",
+    "author": "Antoine de Saint-Exupery"
+  },
+  {
+    "text": "우리를 행복하게 해 주는 사람들에게 감사하자. 그들은 우리 영혼을 꽃피우는 매력적인 정원사다.",
+    "text_en": "Let us be grateful to people who make us happy; they are the charming gardeners who make our souls blossom.",
+    "author": "Marcel Proust"
+  },
+  {
+    "text": "당신 힘이 미치는 것은 최대한 활용하고, 나머지는 일어나는 대로 받아들여라.",
+    "text_en": "Make the best use of what is in your power, and take the rest as it happens.",
+    "author": "Epictetus"
+  },
+  {
+    "text": "우리가 선택한 생각은 삶이라는 캔버스를 칠하는 도구다.",
+    "text_en": "The thoughts we choose to think are the tools we use to paint the canvas of our lives.",
+    "author": "Louise Hay"
+  },
+  {
+    "text": "아무리 신중하게 목표를 세워도 열정적으로 추구하지 않으면 헛된 꿈에 지나지 않는다.",
+    "text_en": "No matter how carefully you plan your goals they will never be more that pipe dreams unless you pursue them with gusto.",
+    "author": "W. Clement Stone"
+  },
+  {
+    "text": "대부분의 목표가 이루어지지 않는 이유는 덜 중요한 일을 먼저 하느라 시간을 쓰기 때문이다.",
+    "text_en": "The reason most goals are not achieved is that we spend our time doing second things first.",
+    "author": "Robert McKain"
+  },
+  {
+    "text": "당신의 행동이 다른 사람들로 하여금 더 꿈꾸고, 더 배우고, 더 행하고, 더 성장하게 한다면 당신은 리더다.",
+    "text_en": "If your actions inspire others to dream more, learn more, do more and become more, you are a leader.",
+    "author": "John Quincy Adams"
+  },
+  {
+    "text": "나는 운을 굳게 믿는다. 그리고 열심히 일할수록 운이 더 많이 따른다는 것을 안다.",
+    "text_en": "I'm a great believer in luck and I find the harder I work, the more I have of it.",
+    "author": "Thomas Jefferson"
+  },
+  {
+    "text": "거부하는 데 자신을 낭비하지 말고, 나쁜 것을 향해 짖지도 말고, 좋은 것의 아름다움을 노래하라.",
+    "text_en": "Do not waste yourself in rejection, nor bark against the bad, but chant the beauty of the good.",
+    "author": "Ralph Emerson"
+  },
+  {
+    "text": "쓰도록 주어진 재능을 갖고 태어난 사람은 그 재능을 쓰는 데서 가장 큰 행복을 찾는다.",
+    "text_en": "The person born with a talent they are meant to use will find their greatest happiness in using it.",
+    "author": "Johann Wolfgang von Goethe"
+  },
+  {
+    "text": "좋은 사람은 실패를 통해 지혜에 이르렀기에 좋은 사람이다. 성공에서 얻는 지혜는 아주 적다.",
+    "text_en": "Good people are good because they've come to wisdom through failure. We get very little wisdom from success, you know.",
+    "author": "William Saroyan"
+  },
+  {
+    "text": "운명은 그저 정해진 것이 아니다. 원하는 것을 얻기 위해 자신이 키운 능력을 어떻게 쓰느냐다.",
+    "text_en": "Your destiny isn't just fate; it is how you use your own developed abilities to get what you want.",
+    "author": "Byron Pulsifer"
+  },
+  {
+    "text": "쇠는 쓰지 않으면 녹슬고, 물은 고이면 맑음을 잃는다. 마찬가지로 행동하지 않으면 마음의 활력이 사라진다.",
+    "text_en": "Iron rusts from disuse; water loses its purity from stagnation... even so does inaction sap the vigour of the mind.",
+    "author": "Leonardo da Vinci"
+  },
+  {
+    "text": "잘못된 미묘한 생각도 큰 가치를 지닌 진리를 밝혀낼 유익한 탐구로 이어질 수 있다.",
+    "text_en": "A subtle thought that is in error may yet give rise to fruitful inquiry that can establish truths of great value.",
+    "author": "Isaac Asimov"
+  },
+  {
+    "text": "삶에 기뻐하라. 삶은 사랑하고, 일하고, 놀고, 별을 올려다볼 기회를 주기 때문이다.",
+    "text_en": "Be glad of life because it gives you the chance to love, to work, to play, and to look up at the stars.",
+    "author": "Henry Van Dyke"
+  },
+  {
+    "text": "어디로 가는지 모른다면 조심해야 한다. 그곳에 도착하지 못할 수도 있기 때문이다.",
+    "text_en": "You got to be careful if you don't know where you're going, because you might not get there.",
+    "author": "Yogi Berra"
+  },
+  {
+    "text": "대답을 보면 그 사람이 영리한지 알 수 있고, 질문을 보면 그 사람이 현명한지 알 수 있다.",
+    "text_en": "You can tell whether a man is clever by his answers. You can tell whether a man is wise by his questions.",
+    "author": "Naguib Mahfouz"
+  },
+  {
+    "text": "삶은 선물이며, 더 나은 사람이 됨으로써 무언가를 되돌려 줄 특권과 기회, 책임을 준다.",
+    "text_en": "Life is a gift, and it offers us the privilege, opportunity, and responsibility to give something back by becoming more",
+    "author": "Anthony Robbins"
+  },
+  {
+    "text": "칭찬이나 비판에 흔들려서는 안 된다. 어느 쪽에든 사로잡히는 것은 약점이다.",
+    "text_en": "You can't let praise or criticism get to you. It's a weakness to get caught up in either one.",
+    "author": "John Wooden"
+  },
+  {
+    "text": "나는 길을 보여 주는 빛을 사랑하겠지만, 별을 보여 주는 어둠도 견디겠다.",
+    "text_en": "I will love the light for it shows me the way, yet I will endure the darkness because it shows me the stars.",
+    "author": "Og Mandino"
+  },
+  {
+    "text": "의심은 배신자다. 시도를 두려워하게 만들어 얻을 수도 있었던 좋은 것을 잃게 한다.",
+    "text_en": "Our doubts are traitors and make us lose the good we often might win, by fearing to attempt.",
+    "author": "Jane Addams"
+  },
+  {
+    "text": "사람은 본래 변화를 싫어한다. 옛집이 실제로 머리 위로 무너지기 전에는 좀처럼 떠나지 않는다.",
+    "text_en": "By nature man hates change; seldom will he quit his old home till it has actually fallen around his ears.",
+    "author": "Thomas Carlyle"
+  },
+  {
+    "text": "자신을 소중히 여기지 않으면 시간도 소중히 여기지 않는다. 시간을 소중히 여기지 않으면 아무것도 하지 않는다.",
+    "text_en": "Until you value yourself, you won't value your time. Until you value your time, you won't do anything with it.",
+    "author": "M. Scott Peck"
+  },
+  {
+    "text": "받아야 할 것보다 적은 것에 만족하는 순간, 만족한 것보다도 더 적게 얻게 된다.",
+    "text_en": "The minute you settle for less than you deserve, you get even less than you settled for.",
+    "author": "Maureen Dowd"
+  },
+  {
+    "text": "우리가 도달할 수 있는 도덕적 수양의 최고 단계는 자신의 생각을 다스려야 한다는 것을 깨닫는 때다.",
+    "text_en": "The highest stage in moral ure at which we can arrive is when we recognize that we ought to control our thoughts.",
+    "author": "Charles Darwin"
+  },
+  {
+    "text": "긍정적인 마음가짐을 가지면 적대감에 둘러싸여 있어도 내면의 평화를 잃지 않는다.",
+    "text_en": "If we have a positive mental attitude, then even when surrounded by hostility, we shall not lack inner peace.",
+    "author": "Dalai Lama"
+  },
+  {
+    "text": "성공은 단 하나뿐이다. 자신만의 방식으로 삶을 살 수 있는 것.",
+    "text_en": "There is only one success — to be able to spend your life in your own way.",
+    "author": "Christopher Morley"
+  },
+  {
+    "text": "약속은 미래에 질서를 부여하여, 인간이 할 수 있는 만큼 예측 가능하고 믿을 수 있게 만드는 인간 고유의 방식이다.",
+    "text_en": "Promises are the uniquely human way of ordering the future, making it predictable and reliable to the extent that this is humanly possible.",
+    "author": "Hannah Arendt"
+  },
+  {
+    "text": "감사는 가장 높은 형태의 기도다. 감사하는 생각의 빛을 비추는 곳마다 선함이 있음을 인정하기 때문이다.",
+    "text_en": "Appreciation is the highest form of prayer, for it acknowledges the presence of good wherever you shine the light of your thankful thoughts.",
+    "author": "Alan Cohen"
+  },
+  {
+    "text": "우주에서 당신이 확실히 개선할 수 있는 단 한 구석은 바로 당신 자신이다.",
+    "text_en": "There is only one corner of the universe you can be certain of improving, and that's your own self.",
+    "author": "Aldous Huxley"
+  },
+  {
+    "text": "이겨야 할 의무는 없다. 매일 최선을 다하려고 계속 노력할 의무가 있을 뿐이다.",
+    "text_en": "You're not obligated to win. You're obligated to keep trying to do the best you can every day.",
+    "author": "Marian Edelman"
+  },
+  {
+    "text": "순탄할 때는 누구나 성공을 맛볼 수 있지만, 힘들 때 승리를 맛보는 법을 아는 사람은 드물다.",
+    "text_en": "Everyone can taste success when the going is easy, but few know how to taste victory when times get tough.",
+    "author": "Byron Pulsifer"
+  },
+  {
+    "text": "깊이 듣는 것은 듣는 이와 말하는 이 모두에게 기적과 같다. 누군가 열린 마음으로 판단 없이 깊은 관심을 갖고 들어 줄 때, 우리의 영혼은 넓어진다.",
+    "text_en": "Deep listening is miraculous for both listener and speaker.When someone receives us with open-hearted, non-judging, intensely interested listening, our spirits expand.",
+    "author": "Sue Patton Thoele"
+  },
+  {
+    "text": "너무 믿으면 속을 수도 있지만, 충분히 믿지 않으면 괴로움 속에 살게 된다.",
+    "text_en": "You may be deceived if you trust too much, but you will live in torment if you don't trust enough.",
+    "author": "Frank Crane"
+  },
+  {
+    "text": "만물이 그로부터 시작되고 온 하늘에 두루 퍼져 있는 창조의 숭고함은 참으로 위대하다.",
+    "text_en": "Great indeed is the sublimity of the Creative, to which all beings owe their beginning and which permeates all heaven.",
+    "author": "Lao Tzu"
+  },
+  {
+    "text": "필요한 것은 불가능한 것을 받아들이고, 없어서는 안 될 것 없이 지내며, 견딜 수 없는 것을 견디는 것뿐이다.",
+    "text_en": "All that is necessary is to accept the impossible, do without the indispensable, and bear the intolerable.",
+    "author": "Kathleen Norris"
+  },
+  {
+    "text": "좋아하는 일을 직업으로 삼으면 평생 하루도 일하지 않아도 된다.",
+    "text_en": "Choose a job you love, and you will never have to work a day in your life.",
+    "author": "Confucius"
+  },
+  {
+    "text": "과거로 가서는 자신을 찾을 수 없다. 현재로 와야 자신을 찾을 수 있다.",
+    "text_en": "You cannot find yourself by going into the past. You can find yourself by coming into the present.",
+    "author": "Eckhart Tolle"
+  },
+  {
+    "text": "우리의 모든 재능은 쓸수록 늘고, 좋든 나쁘든 모든 능력은 단련할수록 강해진다.",
+    "text_en": "All our talents increase in the using, and the every faculty, both good and bad, strengthen by exercise.",
+    "author": "Anne Bronte"
+  },
+  {
+    "text": "자유롭고 행복하게 살려면 지루함을 희생해야 한다. 그것이 늘 쉬운 희생은 아니다.",
+    "text_en": "In order to live free and happily you must sacrifice boredom. It is not always an easy sacrifice.",
+    "author": "Richard Bach"
+  },
+  {
+    "text": "여우는 많은 꾀를 안다. 고슴도치는 하나만 안다. 하지만 그것이 최고의 꾀다.",
+    "text_en": "The fox has many tricks. The hedgehog has but one. But that is the best of all.",
+    "author": "Desiderius Erasmus"
+  },
+  {
+    "text": "성공에 공식은 없다. 굳이 있다면 삶과 삶이 가져오는 것을 무조건 받아들이는 것뿐이다.",
+    "text_en": "Of course there is no formula for success except perhaps an unconditional acceptance of life and what it brings.",
+    "author": "Arthur Rubinstein"
+  },
+  {
+    "text": "나를 목표로 이끈 비밀을 알려 주겠다. 내 힘은 오로지 끈기에 있다.",
+    "text_en": "Let me tell you the secret that has led me to my goal: my strength lies solely in my tenacity",
+    "author": "Louis Pasteur"
+  },
+  {
+    "text": "무언가가 우리의 날개를 펼친다. 무언가가 지루함과 아픔을 사라지게 한다. 누군가 우리 앞의 잔을 채운다. 우리는 오직 성스러움만을 맛본다.",
+    "text_en": "Something opens our wings. Something makes boredom and hurt disappear. Someone fills the cup in front of us: We taste only sacredness.",
+    "author": "Rumi"
+  },
+  {
+    "text": "우리에게 선택권이 있는 것은 우리의 행동과 말과 생각을 통해서라는 것을 결코 잊어서는 안 된다.",
+    "text_en": "We must never forget that it is through our actions, words, and thoughts that we have a choice.",
+    "author": "Sogyal Rinpoche"
+  },
+  {
+    "text": "우리는 사물을 있는 그대로가 아니라 우리 모습대로 본다. 우리의 인식은 과거의 경험이 빚어낸 것이다.",
+    "text_en": "We see things not as they are, but as we are. Our perception is shaped by our previous experiences.",
+    "author": "Dennis Kimbro"
+  },
+  {
+    "text": "참된 침묵은 마음의 휴식이다. 잠이 몸에 그렇듯, 침묵은 정신에 양분과 생기를 준다.",
+    "text_en": "True silence is the rest of the mind; it is to the spirit what sleep is to the body, nourishment and refreshment.",
+    "author": "William Penn"
+  },
+  {
+    "text": "우리의 모든 지식은 감각에서 시작해 오성으로 나아가고 이성에서 끝난다. 이성보다 높은 것은 없다.",
+    "text_en": "All our knowledge begins with the senses, proceeds then to the understanding, and ends with reason. There is nothing higher than reason.",
+    "author": "Immanuel Kant"
+  },
+  {
+    "text": "생각은 말이 되고, 말은 행동이 되며, 행동은 습관이 되고, 습관은 굳어져 인격이 된다.",
+    "text_en": "The thought manifests as the word. The word manifests as the deed. The deed develops into habit. And the habit hardens into character.",
+    "author": "Buddha"
+  },
+  {
+    "text": "인내는 미덕이지만, 인내보다 행동을 앞세우지 않으면 결코 아무것도 이루지 못한다.",
+    "text_en": "Patience is a virtue but you will never ever accomplish anything if you don't exercise action over patience.",
+    "author": "Byron Pulsifer"
+  },
+  {
+    "text": "미덕이 그저 끌리지 않는 악덕을 피하는 것을 뜻한다면, 누구나 미덕을 갖출 수 있다.",
+    "text_en": "Any of us can achieve virtue, if by virtue we merely mean the avoidance of the vices that do not attract us.",
+    "author": "Robert Lynd"
+  },
+  {
+    "text": "한 사람이 자신의 본능 위에 굳건히 서서 그곳에 머문다면, 거대한 세상이 그에게 다가올 것이다.",
+    "text_en": "If the single man plant himself indomitably on his instincts, and there abide, the huge world will come round to him.",
+    "author": "Ralph Emerson"
+  },
+  {
+    "text": "돈은 점수를 매기는 수단일 뿐 내게 큰 동기가 된 적이 없다. 진짜 짜릿함은 게임을 하는 데 있다.",
+    "text_en": "Money was never a big motivation for me, except as a way to keep score. The real excitement is playing the game.",
+    "author": "Donald Trump"
+  },
+  {
+    "text": "자신과 친구가 되는 것이 무엇보다 중요하다. 그것 없이는 세상의 누구와도 친구가 될 수 없다.",
+    "text_en": "Friendship with oneself is all important because without it one cannot be friends with anybody else in the world.",
+    "author": "Eleanor Roosevelt"
+  },
+  {
+    "text": "평화는 바라는 것이 아니다. 만드는 것이고, 행하는 것이며, 그 자체가 되는 것이고, 나누어 주는 것이다.",
+    "text_en": "Peace is not something you wish for. It's something you make, something you do, something you are, and something you give away.",
+    "author": "Robert Fulghum"
+  },
+  {
+    "text": "현명한 사람이 어리석은 질문에서 배우는 것이 어리석은 사람이 현명한 대답에서 배우는 것보다 많다.",
+    "text_en": "A wise man can learn more from a foolish question than a fool can learn from a wise answer.",
+    "author": "Bruce Lee"
+  },
+  {
+    "text": "사람은 누구나 자기 시야의 한계를 세상의 한계로 여긴다.",
+    "text_en": "Every man takes the limits of his own field of vision for the limits of the world.",
+    "author": "Arthur Schopenhauer"
+  },
+  {
+    "text": "아주 오랫동안 해안을 보지 못할 각오 없이는 새로운 땅을 발견할 수 없다.",
+    "text_en": "One does not discover new lands without consenting to lose sight of the shore for a very long time.",
+    "author": "André Gide"
+  },
+  {
+    "text": "세상에 새로운 것은 무엇인가? 아무것도 없다. 세상에 오래된 것은 무엇인가? 아무것도 없다. 모든 것은 언제나 있었고 언제나 있을 것이다.",
+    "text_en": "What is new in the world? Nothing. What is old in the world? Nothing. Everything has always been and will always be.",
+    "author": "Sai Baba"
+  },
+  {
+    "text": "진정한 사랑은 먼저 자신을 향해야 한다. 자신을 사랑하지 않는데 어떻게 남을 사랑할 수 있겠는가?",
+    "text_en": "Genuine love should first be directed at oneself – if we do not love ourselves, how can we love others?",
+    "author": "Dalai Lama"
+  },
+  {
+    "text": "인생은 하수구와 같다. 무엇을 얻느냐는 무엇을 넣었느냐에 달려 있다.",
+    "text_en": "Life is like a sewer. What you get out of it depends on what you put into it.",
+    "author": "Tom Lehrer"
+  },
+  {
+    "text": "가장 뻣뻣한 나무가 가장 쉽게 부러지고, 대나무나 버드나무는 바람에 휘어지며 살아남는다는 것을 보라.",
+    "text_en": "Notice that the stiffest tree is most easily cracked, while the bamboo or willow survives by bending with the wind.",
+    "author": "Bruce Lee"
+  },
+  {
+    "text": "다른 사람의 실수에서 최대한 배워라. 그 실수를 모두 직접 저질러 볼 시간은 없다.",
+    "text_en": "Learn all you can from the mistakes of others. You won't have time to make them all yourself.",
+    "author": "Alfred Sheinwold"
+  },
+  {
+    "text": "아무것도 판단하지 않으면 행복해진다. 모든 것을 용서하면 더 행복해진다. 모든 것을 사랑하면 가장 행복해진다.",
+    "text_en": "Judge nothing, you will be happy. Forgive everything, you will be happier. Love everything, you will be happiest.",
+    "author": "Sri Chinmoy"
+  },
+  {
+    "text": "사람은 적성이 있든 없든, 남이 하는 것을 보고 그것을 따라 하고 싶어 하도록 생겨 먹었다.",
+    "text_en": "People are so constituted that everybody would rather undertake what they see others do, whether they have an aptitude for it or not.",
+    "author": "Johann Wolfgang von Goethe"
+  },
+  {
+    "text": "우리는 언제나 나아가거나 뒷걸음질 치고 있다. 이 삶에서 제자리에 머무는 것이란 없다.",
+    "text_en": "We are either progressing or retrograding all the while. There is no such thing as remaining stationary in this life.",
+    "author": "James Freeman Clarke"
+  },
+  {
+    "text": "지식을 가진다고 경이와 신비의 감각이 사라지지는 않는다. 신비는 언제나 더 있다.",
+    "text_en": "The possession of knowledge does not kill the sense of wonder and mystery. There is always more mystery.",
+    "author": "Anais Nin"
+  },
+  {
+    "text": "일어나는 모든 일은 일어나야 할 대로 일어난다. 주의 깊게 살펴보면 그렇다는 것을 알게 될 것이다.",
+    "text_en": "Everything that happens happens as it should, and if you observe carefully, you will find this to be so.",
+    "author": "Marcus Aurelius"
+  },
+  {
+    "text": "우리가 생각하는 것이 우리에게 일어날 일을 결정한다. 그러니 삶을 바꾸고 싶다면 생각의 폭을 넓혀야 한다.",
+    "text_en": "What we think determines what happens to us, so if we want to change our lives, we need to stretch our minds.",
+    "author": "Wayne Dyer"
+  },
+  {
+    "text": "논쟁 중에 화가 나는 순간, 우리는 이미 진리를 위한 노력을 멈추고 자신을 위해 싸우기 시작한 것이다.",
+    "text_en": "In a controversy the instant we feel anger we have already ceased striving for the truth, and have begun striving for ourselves.",
+    "author": "Buddha"
+  },
+  {
+    "text": "조금밖에 할 수 없다고 아무것도 하지 않는 것은 가장 큰 실수다. 할 수 있는 것을 하라.",
+    "text_en": "It is the greatest of all mistakes to do nothing because you can only do little — do what you can.",
+    "author": "Sydney Smith"
+  },
+  {
+    "text": "어진 사람을 보면 그와 같아지기를 생각하고, 어질지 못한 사람을 보면 스스로를 돌아보라.",
+    "text_en": "When you see a man of worth, think of how you may emulate him. When you see one who is unworthy, examine yourself.",
+    "author": "Confucius"
+  },
+  {
+    "text": "공기역학적으로 호박벌은 날 수 없어야 하지만, 호박벌은 그 사실을 모르기에 계속 날아다닌다.",
+    "text_en": "Aerodynamically the bumblebee shouldn't be able to fly, but the bumblebee doesn't know that so it goes on flying anyway.",
+    "author": "Mary Kay Ash"
+  },
+  {
+    "text": "무언가를 시도해서 실패한 사람이 아무것도 시도하지 않고 성공한 사람보다 한없이 낫다.",
+    "text_en": "Those who try to do something and fail are infinitely better than those who try nothing and succeed.",
+    "author": "Lloyd Jones"
+  },
+  {
+    "text": "눈송이는 자연에서 가장 연약한 것 중 하나지만, 서로 뭉치면 무엇을 할 수 있는지 보라.",
+    "text_en": "Snowflakes are one of natures most fragile things, but just look what they can do when they stick together.",
+    "author": "Vista Kelly"
+  },
+  {
+    "text": "삶에서 원하는 것을 얻는 첫걸음은 이것이다. 무엇을 원하는지 정하라.",
+    "text_en": "The first step to getting the things you want out of life is this: decide what you want.",
+    "author": "Ben Stein"
+  },
+  {
+    "text": "경험이란 사람에게 일어난 일이 아니라, 그 사람이 일어난 일을 가지고 무엇을 하느냐다.",
+    "text_en": "Experience is not what happens to a man. It is what a man does with what happens to him.",
+    "author": "Aldous Huxley"
+  },
+  {
+    "text": "좋은 충고로 할 수 있는 유일한 일은 남에게 전하는 것이다. 자신에게는 결코 쓸모가 없다.",
+    "text_en": "The only thing to do with good advice is to pass it on. It is never of any use to oneself.",
+    "author": "Oscar Wilde"
+  },
+  {
+    "text": "가장 작은 꽃도 하나의 생각이며, 끊임없이 직관으로 느끼는 위대한 전체의 어떤 모습에 응답하는 생명이다.",
+    "text_en": "The smallest flower is a thought, a life answering to some feature of the Great Whole, of whom they have a persistent intuition.",
+    "author": "Honore de Balzac"
+  },
+  {
+    "text": "자신을 바꾸는 것이 얼마나 어려운지 생각해 보면, 남을 바꿀 가능성이 얼마나 작은지 알게 될 것이다.",
+    "text_en": "Consider how hard it is to change yourself and you'll understand what little chance you have in trying to change others.",
+    "author": "Jacob Braude"
+  },
+  {
+    "text": "최선이 아닌 것에 만족하지 않는다면, 삶에서 이룰 수 있는 것에 놀라게 될 것이다.",
+    "text_en": "If you'll not settle for anything less than your best, you will be amazed at what you can accomplish in your lives.",
+    "author": "Vince Lombardi"
+  },
+  {
+    "text": "우리 뒤에 있는 것과 우리 앞에 있는 것은 우리 안에 있는 것에 비하면 작은 문제일 뿐이다.",
+    "text_en": "What lies behind us and what lies before us are small matters compared to what lies within us.",
+    "author": "Oliver Holmes"
+  },
+  {
+    "text": "자신의 잠재력을 깨닫고 자신의 능력을 확신하면 더 나은 세상을 만들 수 있다.",
+    "text_en": "With the realization of ones own potential and self-confidence in ones ability, one can build a better world.",
+    "author": "Dalai Lama"
+  },
+  {
+    "text": "변하지 않은 곳으로 돌아가는 것만큼 자신이 얼마나 변했는지 알게 해 주는 것은 없다.",
+    "text_en": "There is nothing like returning to a place that remains unchanged to find the ways in which you yourself have altered.",
+    "author": "Nelson Mandela"
+  },
+  {
+    "text": "무언가가 안 될 수 있는 모든 이유는 잊어라. 될 수 있는 좋은 이유 하나만 찾으면 된다.",
+    "text_en": "Forget about all the reasons why something may not work. You only need to find one good reason why it will.",
+    "author": "Robert Anthony"
+  },
+  {
+    "text": "어떤 생각을 받아들이지 않고도 품어 볼 수 있는 것이 교육받은 정신의 특징이다.",
+    "text_en": "It is the mark of an educated mind to be able to entertain a thought without accepting it.",
+    "author": "Aristotle"
+  },
+  {
+    "text": "사랑은 결코 사라지지 않는다. 보답받지 못하면 되돌아와 마음을 부드럽게 하고 정화한다.",
+    "text_en": "Love is never lost. If not reciprocated, it will flow back and soften and purify the heart.",
+    "author": "Washington Irving"
+  },
+  {
+    "text": "우리는 모두 행복해지려는 목적으로 살아간다. 우리의 삶은 모두 다르지만 또 같다.",
+    "text_en": "We all live with the objective of being happy; our lives are all different and yet the same.",
+    "author": "Anne Frank"
+  },
+  {
+    "text": "많은 사람이 번영을 돈에 관한 것으로만 생각하고, 진정한 번영이 마음에 있다는 것을 잊는다.",
+    "text_en": "Many people think of prosperity that concerns money only to forget that true prosperity is of the mind.",
+    "author": "Byron Pulsifer"
+  },
+  {
+    "text": "아름답다는 것은 자기 자신이 되는 것이다. 남에게 인정받을 필요는 없다. 스스로를 받아들여야 한다.",
+    "text_en": "To be beautiful means to be yourself. You don’t need to be accepted by others. You need to accept yourself.",
+    "author": "Thich Nhat Hanh"
+  },
+  {
+    "text": "받은 것을 과대평가하지도, 남을 부러워하지도 마라. 남을 부러워하는 사람은 마음의 평화를 얻지 못한다.",
+    "text_en": "Do not overrate what you have received, nor envy others. He who envies others does not obtain peace of mind.",
+    "author": "Buddha"
+  },
+  {
+    "text": "남의 실수를 용서하기는 아주 쉽다. 내 실수를 목격한 것을 용서하는 데는 더 큰 용기가 필요하다.",
+    "text_en": "It is very easy to forgive others their mistakes; it takes more grit to forgive them for having witnessed your own.",
+    "author": "Jessamyn West"
+  },
+  {
+    "text": "억지로 하는 신체 운동은 몸에 해가 되지 않지만, 억지로 얻은 지식은 마음에 자리 잡지 못한다.",
+    "text_en": "Bodily exercise, when compulsory, does no harm to the body; but knowledge which is acquired under compulsion obtains no hold on the mind.",
+    "author": "Plato"
+  },
+  {
+    "text": "언제나 자기 자신이 되고, 자신을 표현하고, 자신을 믿어라. 성공한 사람의 성격을 찾아 그대로 베끼려 하지 마라.",
+    "text_en": "Always be yourself, express yourself, have faith in yourself, do not go out and look for a successful personality and duplicate it.",
+    "author": "Bruce Lee"
+  },
+  {
+    "text": "숭배하고 경배하되, 똑바로 서서 눈을 뜨고 하자. 가장 낮은 것이 아니라 가장 높은 것을, 과거가 아니라 미래를!",
+    "text_en": "Let us revere, let us worship, but erect and open-eyed, the highest, not the lowest; the future, not the past!",
+    "author": "Charlotte Gilman"
+  },
+  {
+    "text": "누군가에게 미소 지을 때마다 그것은 사랑의 행동이자 그 사람에게 주는 선물이며 아름다운 일이다.",
+    "text_en": "Every time you smile at someone, it is an action of love, a gift to that person, a beautiful thing.",
+    "author": "Mother Teresa"
+  },
+  {
+    "text": "친구 사이의 진짜 대화는 침묵이 만든다. 중요한 것은 말하는 것이 아니라 말할 필요가 전혀 없다는 것이다.",
+    "text_en": "Silences make the real conversations between friends. Not the saying but the never needing to say is what counts.",
+    "author": "Margaret Runbeck"
+  },
+  {
+    "text": "마음과 정신을 변화시키는 열쇠는 생각과 감정이 어떻게 작동하는지 이해하는 것이다.",
+    "text_en": "The key to transforming our hearts and minds is to have an understanding of how our thoughts and emotions work.",
+    "author": "Dalai Lama"
+  },
+  {
+    "text": "내게 의견을 말해야 한다면, 당신이 믿는 것을 말해 달라. 의심이라면 나도 충분히 많다.",
+    "text_en": "If you must tell me your opinions, tell me what you believe in. I have plenty of douts of my own.",
+    "author": "Johann Wolfgang von Goethe"
+  },
+  {
+    "text": "기회는 언제나 강력하다. 늘 낚싯바늘을 던져 두어라. 전혀 기대하지 않은 웅덩이에 물고기가 있을 것이다.",
+    "text_en": "Chance is always powerful. Let your hook be always cast; in the pool where you least expect it, there will be a fish.",
+    "author": "Ovid"
+  },
+  {
+    "text": "나는 예의와 품위를 끊임없이 가다듬으려 한다. 그것은 모두를 끌어당기는 설탕이기 때문이다.",
+    "text_en": "I seek constantly to improve my manners and graces, for they are the sugar to which all are attracted.",
+    "author": "Og Mandino"
+  },
+  {
+    "text": "우리는 무언가를 잃어 보기 전까지 이 세상에서 필요한 것이 얼마나 적은지 결코 알지 못한다.",
+    "text_en": "We never understand how little we need in this world until we know the loss of it.",
+    "author": "James Barrie"
+  },
+  {
+    "text": "몸을 건강하게 지키는 것은 의무다. 그렇지 않으면 마음을 강하고 맑게 유지할 수 없다.",
+    "text_en": "To keep the body in good health is a duty... otherwise we shall not be able to keep our mind strong and clear.",
+    "author": "Buddha"
+  },
+  {
+    "text": "누가 옳고 그른지, 누가 더 나은지 생각하지 마라. 어느 편에도 서지 마라.",
+    "text_en": "Take no thought of who is right or wrong or who is better than. Be not for or against.",
+    "author": "Bruce Lee"
+  },
+  {
+    "text": "나는 확고하고 굽히지 않는 원칙을 가진 사람이다. 그 첫 번째 원칙은 언제나 유연하라는 것이다.",
+    "text_en": "I am a man of fixed and unbending principles, the first of which is to be flexible at all times.",
+    "author": "Everett Dirksen"
+  },
+  {
+    "text": "오늘 낯선 이에게 대가를 바라지 말고 미소를 건네라. 그것이 그가 멋진 하루를 보내는 데 필요한 기쁨일지도 모른다.",
+    "text_en": "Today, give a stranger a smile without waiting for it may be the joy they need to have a great day.",
+    "author": "Byron Pulsifer"
+  },
+  {
+    "text": "무엇이든, 풀잎 하나라도 주의 깊게 들여다보는 순간, 그것은 그 자체로 신비롭고 경이로우며 말할 수 없이 장엄한 세계가 된다.",
+    "text_en": "The moment one gives close attention to anything, even a blade of grass, it becomes a mysterious, awesome, indescribably magnificent world in itself.",
+    "author": "Henry Miller"
+  },
+  {
+    "text": "당신 존재의 중심에 답이 있다. 당신은 자신이 누구이며 무엇을 원하는지 알고 있다.",
+    "text_en": "At the center of your being you have the answer; you know who you are and you know what you want.",
+    "author": "Lao Tzu"
+  },
+  {
+    "text": "역설을 만나다니 얼마나 멋진가. 이제 진전을 이룰 희망이 생겼다.",
+    "text_en": "How wonderful that we have met with a paradox. Now we have some hope of making progress.",
+    "author": "Niels Bohr"
+  },
+  {
+    "text": "누구나 일 년에 한 번쯤은 천재가 된다. 진짜 천재는 독창적인 생각이 더 자주 떠오를 뿐이다.",
+    "text_en": "Everyone is a genius at least once a year. A real genius has his original ideas closer together.",
+    "author": "Georg Lichtenberg"
+  },
+  {
+    "text": "꿈은 행동이라는 현실로 이어지고, 행동에서 다시 꿈이 싹튼다. 이 상호 의존이 최고의 삶을 만든다.",
+    "text_en": "Dreams pass into the reality of action. From the actions stems the dream again; and this interdependence produces the highest form of living.",
+    "author": "Anais Nin"
+  },
+  {
+    "text": "상상의 도약이나 꿈이 없으면 가능성의 설렘을 잃는다. 결국 꿈꾸는 것도 계획의 한 형태다.",
+    "text_en": "Without leaps of imagination, or dreaming, we lose the excitement of possibilities. Dreaming, after all, is a form of planning.",
+    "author": "Gloria Steinem"
+  },
+  {
+    "text": "슬픔은 삶의 일부일 수 있지만, 그것이 삶 전체를 지배하게 둘 필요는 없다.",
+    "text_en": "Sadness may be part of life but there is no need to let it dominate your entire life.",
+    "author": "Byron Pulsifer"
+  },
+  {
+    "text": "상황보다 조금 앞서 나가는 것이 사업의 비결 중 하나다. 뒤따르는 자는 멀리 가지 못한다.",
+    "text_en": "Keeping a little ahead of conditions is one of the secrets of business, the trailer seldom goes far.",
+    "author": "Charles Schwab"
+  },
+  {
+    "text": "자연은 우리에게 혀 하나와 귀 둘을 주었다. 말하는 것보다 두 배로 들으라고.",
+    "text_en": "Nature gave us one tongue and two ears so we could hear twice as much as we speak.",
+    "author": "Epictetus"
+  },
+  {
+    "text": "감정이 바뀌기를 기다렸다가 행동하지 마라. 행동하면 감정이 바뀔 것이다.",
+    "text_en": "Don't wait for your feelings to change to take the action. Take the action and your feelings will change.",
+    "author": "Barbara Baron"
+  },
+  {
+    "text": "당신은 언제든 마음을 바꾸고 다른 미래를, 혹은 다른 과거를 선택할 자유가 있다.",
+    "text_en": "You are always free to change your mind and choose a different future, or a different past.",
+    "author": "Richard Bach"
+  },
+  {
+    "text": "당신은 승자로 태어나지도, 패자로 태어나지도 않았다. 당신은 스스로 만들어 가는 사람이 된다.",
+    "text_en": "You were not born a winner, and you were not born a loser. You are what you make yourself be.",
+    "author": "Lou Holtz"
+  },
+  {
+    "text": "당신의 비전과 꿈을 소중히 여겨라. 그것은 영혼의 자녀이자 궁극적인 성취의 설계도다.",
+    "text_en": "Cherish your visions and your dreams as they are the children of your soul, the blueprints of your ultimate achievements.",
+    "author": "Napoleon Hill"
+  },
+  {
+    "text": "당신의 비전과 꿈을 아껴라. 그것은 영혼이 낳은 자녀이며 최종적인 성취를 그린 청사진이다.",
+    "text_en": "Cherish your visions and your dreams as they are the children of your soul; the blueprints of your ultimate achievements.",
+    "author": "Napoleon Hill"
+  },
+  {
+    "text": "지금의 우리 자신이 되고, 될 수 있는 모습이 되는 것, 그것이 삶의 유일한 목적이다.",
+    "text_en": "To be what we are, and to become what we are capable of becoming, is the only end of life.",
+    "author": "Robert Stevenson"
+  },
+  {
+    "text": "목표로 가는 길은 당신을 목적지와 떼어 놓지 않는다. 그 길은 본질적으로 목적지의 일부다.",
+    "text_en": "The road leading to a goal does not separate you from the destination; it is essentially a part of it.",
+    "author": "Charles DeLint"
+  },
+  {
+    "text": "있는 그대로 받아들여라. 쳐야 할 때는 치고, 차야 할 때는 차라.",
+    "text_en": "Take things as they are. Punch when you have to punch. Kick when you have to kick.",
+    "author": "Bruce Lee"
+  },
+  {
+    "text": "나는 소박하고 겸손한 삶의 방식이 모두에게, 몸과 마음 모두에게 가장 좋다고 믿는다.",
+    "text_en": "I believe that a simple and unassuming manner of life is best for everyone, best both for the body and the mind.",
+    "author": "Albert Einstein"
+  },
+  {
+    "text": "마음이 전부다. 근육은 고무 조각일 뿐이다. 지금의 나는 모두 내 마음 덕분이다.",
+    "text_en": "Mind is everything: muscle, pieces of rubber. All that I am, I am because of my mind.",
+    "author": "Paavo Nurmi"
+  },
+  {
+    "text": "세상을 더 낫게 만들기 시작하는 데 누구도 단 한 순간도 기다릴 필요가 없다니 얼마나 멋진가.",
+    "text_en": "How wonderful it is that nobody need wait a single moment before starting to improve the world.",
+    "author": "Anne Frank"
+  },
+  {
+    "text": "오랜 친구가 주는 축복 중 하나는 그들 앞에서는 바보처럼 굴어도 된다는 것이다.",
+    "text_en": "It is one of the blessings of old friends that you can afford to be stupid with them.",
+    "author": "Ralph Emerson"
+  },
+  {
+    "text": "의견을 결코 바꾸지 않는 사람은 실수를 바로잡지 않으며, 내일도 오늘보다 현명해지지 않을 것이다.",
+    "text_en": "He that never changes his opinions, never corrects his mistakes, and will never be wiser on the morrow than he is today.",
+    "author": "Tryon Edwards"
+  },
+  {
+    "text": "나무를 베는 데 여섯 시간이 주어진다면, 나는 처음 네 시간을 도끼를 가는 데 쓰겠다.",
+    "text_en": "Give me six hours to chop down a tree and I will spend the first four sharpening the axe.",
+    "author": "Abraham Lincoln"
+  },
+  {
+    "text": "삶을 엉망으로 만들지 않으려면 사람을 좋아하고 믿어야 한다.",
+    "text_en": "One must be fond of people and trust them if one is not to make a mess of life.",
+    "author": "E. M. Forster"
+  },
+  {
+    "text": "기억을 바꿀 수는 없지만, 그 기억의 의미와 그것이 우리에게 미치는 힘은 바꿀 수 있다.",
+    "text_en": "We cannot change our memories, but we can change their meaning and the power they have over us.",
+    "author": "David Seamans"
+  },
+  {
+    "text": "어진 곳에 머무는 것이 아름답다. 어진 곳을 골라 머물지 않는다면 어찌 지혜롭다 하겠는가?",
+    "text_en": "Being in humaneness is good. If we select other goodness and thus are far apart from humaneness, how can we be the wise?",
+    "author": "Confucius"
+  },
+  {
+    "text": "누군가에게 희망을 준다는 것은 스스로 해낼 수 있도록 도구 쓰는 법을 가르쳐 주는 것이다.",
+    "text_en": "To give hope to someone occurs when you teach them how to use the tools to do it for themselves.",
+    "author": "Byron Pulsifer"
+  },
+  {
+    "text": "나는 하지 않은 일보다 한 일을 후회하겠다.",
+    "text_en": "Id rather regret the things that I have done than the things that I have not done.",
+    "author": "Lucille Ball"
+  },
+  {
+    "text": "과거는 당신이 지금 이 순간에 존재하는 것을 막을 힘이 없다. 그럴 수 있는 것은 과거에 대한 당신의 원망뿐이다.",
+    "text_en": "The past has no power to stop you from being present now. Only your grievance about the past can do that.",
+    "author": "Eckhart Tolle"
+  },
+  {
+    "text": "별이 천 년에 단 하룻밤만 나타난다면 사람들은 얼마나 경탄하고 숭배할 것인가.",
+    "text_en": "If the stars should appear but one night every thousand years how man would marvel and adore.",
+    "author": "Ralph Emerson"
+  },
+  {
+    "text": "실패자에는 두 종류가 있다. 생각만 하고 행동하지 않은 사람, 행동만 하고 생각하지 않은 사람.",
+    "text_en": "There are two kinds of failures: those who thought and never did, and those who did and never thought.",
+    "author": "Laurence J. Peter"
+  },
+  {
+    "text": "나는 나이에 관심이 없다. 내게 나이를 말하는 사람들은 어리석다. 사람은 느끼는 만큼 나이 든다.",
+    "text_en": "I'm not interested in age. People who tell me their age are silly. You're as old as you feel.",
+    "author": "Elizabeth Arden"
+  },
+  {
+    "text": "나는 가장 어두운 날에 희망을 찾고, 가장 밝은 날에 집중한다. 나는 우주를 판단하지 않는다.",
+    "text_en": "I find hope in the darkest of days, and focus in the brightest. I do not judge the universe.",
+    "author": "Dalai Lama"
+  },
+  {
+    "text": "목표에 도달할 수 없음이 분명해지면 목표를 바꾸지 말고 실행 단계를 바꿔라.",
+    "text_en": "When it is obvious that the goals cannot be reached, don't adjust the goals, adjust the action steps.",
+    "author": "Confucius"
+  },
+  {
+    "text": "우리의 미덕과 결점은 힘과 물질처럼 떼어 놓을 수 없다. 둘이 분리되면 인간은 더 이상 존재하지 않는다.",
+    "text_en": "Our virtues and our failings are inseparable, like force and matter. When they separate, man is no more.",
+    "author": "Nikola Tesla"
+  },
+  {
+    "text": "낮에는 걱정할 틈 없이 바쁘고, 밤에는 걱정할 틈 없이 졸린 사람은 복되다.",
+    "text_en": "Blessed is the person who is too busy to worry in the daytime, and too sleepy to worry at night.",
+    "author": "Leo Aikman"
+  },
+  {
+    "text": "할 수 있다고 생각하는 사람은 할 수 있고, 할 수 없다고 생각하는 사람은 할 수 없다. 이것은 냉엄하고 반박할 수 없는 법칙이다.",
+    "text_en": "He can who thinks he can, and he can't who thinks he can't. This is an inexorable, indisputable law.",
+    "author": "Pablo Picasso"
+  },
+  {
+    "text": "요즘 사람들은 지혜가 아니라 지식을 찾는다. 지식은 과거의 것이고, 지혜는 미래의 것이다.",
+    "text_en": "These days people seek knowledge, not wisdom. Knowledge is of the past, wisdom is of the future.",
+    "author": "Vernon Cooper"
+  },
+  {
+    "text": "인생에서 성공하는 비결 하나는 기회가 왔을 때 준비되어 있는 것이다.",
+    "text_en": "One secret of success in life is for a man to be ready for his opportunity when it comes.",
+    "author": "Benjamin Disraeli"
+  },
+  {
+    "text": "사람들은 성취와 행복을 찾아 저마다 다른 길을 간다. 그들이 당신의 길에 없다고 해서 길을 잃은 것은 아니다.",
+    "text_en": "People take different roads seeking fulfilment and happiness. Just because theyre not on your road doesn't mean they've gotten lost.",
+    "author": "Dalai Lama"
+  },
+  {
+    "text": "한 사람에게 맞는 신발이 다른 사람에게는 꽉 낀다. 모든 경우에 맞는 삶의 비법은 없다.",
+    "text_en": "The shoe that fits one person pinches another; there is no recipe for living that suits all cases.",
+    "author": "Carl Jung"
+  },
+  {
+    "text": "진리로 가는 길에서 저지를 수 있는 실수는 두 가지뿐이다. 끝까지 가지 않는 것, 그리고 시작하지 않는 것.",
+    "text_en": "There are only two mistakes one can make along the road to truth; not going all the way, and not starting.",
+    "author": "Buddha"
+  },
+  {
+    "text": "행복한 삶을 위해 필요한 것은 아주 적다. 그것은 모두 당신 안에, 당신의 생각하는 방식에 있다.",
+    "text_en": "Very little is needed to make a happy life; it is all within yourself, in your way of thinking.",
+    "author": "Marcus Aurelius"
+  },
+  {
+    "text": "사람들을 마땅히 되어야 할 모습인 것처럼 대하면, 그들이 될 수 있는 모습이 되도록 돕는 것이다.",
+    "text_en": "Treat people as if they were what they ought to be and you help them to become what they are capable of being.",
+    "author": "Johann Wolfgang von Goethe"
+  },
+  {
+    "text": "우리가 누군가에게 줄 수 있는 가장 귀한 선물은 관심이다. 마음챙김이 사랑하는 이들을 감싸면 그들은 꽃처럼 피어난다.",
+    "text_en": "The most precious gift we can offer anyone is our attention. When mindfulness embraces those we love, they will bloom like flowers.",
+    "author": "Thich Nhat Hanh"
+  },
+  {
+    "text": "결과에 집중하면 결코 변하지 못한다. 변화에 집중하면 결과를 얻게 된다.",
+    "text_en": "If you focus on results, you will never change. If you focus on change, you will get results.",
+    "author": "Jack Dixon"
+  },
+  {
+    "text": "나는 감사가 가장 높은 형태의 생각이며, 감사란 경이로움으로 두 배가 된 행복이라고 주장하겠다.",
+    "text_en": "I would maintain that thanks are the highest form of thought, and that gratitude is happiness doubled by wonder.",
+    "author": "G. K. Chesterton"
+  },
+  {
+    "text": "인생에는 두 가지 기본 선택이 있다. 주어진 조건을 그대로 받아들이거나, 그것을 바꿀 책임을 받아들이는 것이다.",
+    "text_en": "There are two primary choices in life: to accept conditions as they exist, or accept the responsibility for changing them.",
+    "author": "Denis Waitley"
+  },
+  {
+    "text": "모든 어려운 일은 쉬운 일에서 비롯되고, 큰일은 작은 일에서 비롯된다.",
+    "text_en": "All difficult things have their origin in that which is easy, and great things in that which is small.",
+    "author": "Lao-Tzu"
+  },
+  {
+    "text": "당신은 원하는 사람이 될 수 있다. 당신 안에 그 힘이 있고, 우리는 언제나 당신을 도울 것이다.",
+    "text_en": "You can be what you want to be. You have the power within and we will help you always.",
+    "author": "Byron Pulsifer"
+  },
+  {
+    "text": "감사를 말하는 것은 예의 바르고 기분 좋은 일이고, 감사를 행하는 것은 너그럽고 고귀한 일이지만, 감사하며 사는 것은 천국에 닿는 일이다.",
+    "text_en": "To speak gratitude is courteous and pleasant, to enact gratitude is generous and noble, but to live gratitude is to touch Heaven.",
+    "author": "Johannes Gaertner"
+  },
+  {
+    "text": "지혜는 말하고 싶을 때 평생 귀 기울인 대가로 받는 보상이다.",
+    "text_en": "Wisdom is the reward you get for a lifetime of listening when you'd have preferred to talk.",
+    "author": "Doug Larson"
+  },
+  {
+    "text": "내가 아는 가장 큰 즐거움은 몰래 선행을 하고, 그것이 우연히 알려지는 것이다.",
+    "text_en": "The greatest pleasure I know is to do a good action by stealth, and to have it found out by accident.",
+    "author": "Charles Lamb"
+  },
+  {
+    "text": "자연에서 한 가지를 잡아당기면 그것이 세상의 나머지 모든 것과 연결되어 있음을 알게 된다.",
+    "text_en": "When one tugs at a single thing in nature, he finds it attached to the rest of the world.",
+    "author": "John Muir"
+  },
+  {
+    "text": "일어나 말하는 데에도 용기가 필요하고, 앉아서 듣는 데에도 용기가 필요하다.",
+    "text_en": "Courage is what it takes to stand up and speak; courage is also what it takes to sit down and listen.",
+    "author": "Winston Churchill"
+  },
+  {
+    "text": "세상에서 가장 아름다운 것들은 보거나 만질 수 없다. 마음으로 느껴야 한다.",
+    "text_en": "The most beautiful things in the world cannot be seen or even touched. They must be felt with the heart.",
+    "author": "Helen Keller"
+  },
+  {
+    "text": "순수하고 이타적인 삶을 살려면 풍요 속에서도 어떤 것도 자기 것으로 여기지 않아야 한다.",
+    "text_en": "To live a pure unselfish life, one must count nothing as ones own in the midst of abundance.",
+    "author": "Buddha"
+  },
+  {
+    "text": "인생의 실패자 중 많은 이는 포기할 때 자신이 성공에 얼마나 가까이 있었는지 몰랐던 사람들이다.",
+    "text_en": "Many of life's failures are people who did not realize how close they were to success when they gave up.",
+    "author": "Thomas Edison"
+  },
+  {
+    "text": "다른 사람에게서 가장 좋은 점을 찾으려 할 때, 우리 안의 가장 좋은 점도 어느새 드러난다.",
+    "text_en": "When we seek to discover the best in others, we somehow bring out the best in ourselves.",
+    "author": "William Ward"
+  },
+  {
+    "text": "다른 사람의 기대, 특히 부정적인 기대를 받아들이면 결코 결과를 바꿀 수 없다.",
+    "text_en": "If you accept the expectations of others, especially negative ones, then you never will change the outcome.",
+    "author": "Michael Jordan"
+  },
+  {
+    "text": "사람은 답할 수 없는 질문을 던지고 이룰 수 없는 일에 도전함으로써 존재의 목적을 이룰 수 있다.",
+    "text_en": "A man may fulfil the object of his existence by asking a question he cannot answer, and attempting a task he cannot achieve.",
+    "author": "Oliver Holmes"
+  },
+  {
+    "text": "나는 내가 알려지지 않은 것을 걱정하지 않는다. 내가 남을 알지 못하는 것을 걱정한다.",
+    "text_en": "I am not bothered by the fact that I am unknown. I am bothered when I do not know others.",
+    "author": "Confucius"
+  },
+  {
+    "text": "가지지 못한 것을 슬퍼하지 않고 가진 것을 기뻐하는 사람이 현명한 사람이다.",
+    "text_en": "He is a wise man who does not grieve for the things which he has not, but rejoices for those which he has.",
+    "author": "Epictetus"
+  },
+  {
+    "text": "나는 늘 할 수 없는 일을 한다. 그래야 그 일을 하는 법을 배울 수 있기 때문이다.",
+    "text_en": "I am always doing that which I cannot do, in order that I may learn how to do it.",
+    "author": "Pablo Picasso"
+  },
+  {
+    "text": "올바른 길을 걷고 있고 계속 걸을 의지가 있다면, 결국 앞으로 나아가게 된다.",
+    "text_en": "If you're walking down the right path and you're willing to keep walking, eventually you'll make progress.",
+    "author": "Barack Obama"
+  },
+  {
+    "text": "세상은 둥글기에 끝처럼 보이는 곳이 시작일 수도 있다.",
+    "text_en": "The world is round and the place which may seem like the end may also be the beginning.",
+    "author": "Ivy Baker Priest"
+  },
+  {
+    "text": "가진 모든 것을 쏟아부어라. 다음 기회가 있을지는 아무도 모른다.",
+    "text_en": "Give it all you've got because you never know if there's going to be a next time.",
+    "author": "Danielle Ingrum"
+  },
+  {
+    "text": "일은 일어나는 대로 받아들여야 하지만, 당신이 받아들이고 싶은 방식으로 일어나도록 노력해야 한다.",
+    "text_en": "You have to take it as it happens, but you should try to make it happen the way you want to take it.",
+    "author": "Old German proverb"
+  },
+  {
+    "text": "정해진 것은 아무것도 없다. 과거의 장애물이 새로운 시작으로 이어지는 관문이 될 수 있다.",
+    "text_en": "Nothing is predestined: The obstacles of your past can become the gateways that lead to new beginnings.",
+    "author": "Ralph Blum"
+  },
+  {
+    "text": "나는 당신의 기대에 부응하려고 이 세상에 있는 것이 아니고, 당신도 내 기대에 부응하려고 이 세상에 있는 것이 아니다.",
+    "text_en": "Im not in this world to live up to your expectations and you're not in this world to live up to mine.",
+    "author": "Bruce Lee"
+  },
+  {
+    "text": "때로는 기쁨이 미소의 원천이 되지만, 때로는 미소가 기쁨의 원천이 될 수 있다.",
+    "text_en": "Sometimes your joy is the source of your smile, but sometimes your smile can be the source of your joy.",
+    "author": "Thich Nhat Hanh"
+  },
+  {
+    "text": "인생이라는 게임에 자신의 모든 것을 쏟지 않는 사람이 성공하는 것은 상상할 수 없다.",
+    "text_en": "I can't imagine a person becoming a success who doesn't give this game of life everything hes got.",
+    "author": "Walter Cronkite"
+  },
+  {
+    "text": "이 세상에서 명예롭게 사는 가장 좋은 방법은 우리가 내세우는 모습 그대로의 사람이 되는 것이다.",
+    "text_en": "The greatest way to live with honor in this world is to be what we pretend to be.",
+    "author": "Socrates"
+  },
+  {
+    "text": "정복의 조건은 언제나 쉽다. 잠시 수고하고, 잠시 견디고, 언제나 믿고, 결코 돌아서지 않으면 된다.",
+    "text_en": "The conditions of conquest are always easy. We have but to toil awhile, endure awhile, believe always, and never turn back.",
+    "author": "Seneca"
+  },
+  {
+    "text": "행복의 가장 중요한 요소는 할 일, 사랑할 대상, 그리고 바랄 무언가다.",
+    "text_en": "The grand essentials of happiness are: something to do, something to love, and something to hope for.",
+    "author": "Chalmers"
+  },
+  {
+    "text": "지금 이 순간을 깊이 살아감으로써 과거를 더 잘 이해하고 더 나은 미래를 준비할 수 있다.",
+    "text_en": "By living deeply in the present moment we can understand the past better and we can prepare for a better future.",
+    "author": "Thich Nhat Hanh"
+  },
+  {
+    "text": "자신의 반응에 너무 소심하고 까다롭게 굴지 마라. 모든 삶은 실험이다. 실험을 많이 할수록 좋다.",
+    "text_en": "Do not be too timid and squeamish about your reactions. All life is an experiment. The more experiments you make the better.",
+    "author": "Ralph Emerson"
+  },
+  {
+    "text": "길이 이끄는 곳으로 가지 마라. 길이 없는 곳으로 가서 자취를 남겨라.",
+    "text_en": "Do not go where the path may lead, go instead where there is no path and leave a trail.",
+    "author": "Ralph Emerson"
+  },
+  {
+    "text": "우리가 행복해야 할 의무만큼 과소평가하는 의무는 없다. 행복함으로써 우리는 세상에 이름 없는 은혜를 뿌린다.",
+    "text_en": "There is no duty we so underrate as the duty of being happy. By being happy we sow anonymous benefits upon the world.",
+    "author": "Robert Louis Stevenson"
+  },
+  {
+    "text": "에디슨은 전구를 만들기 전에 만 번을 실패했다. 몇 번 실패했다고 낙담하지 마라.",
+    "text_en": "Edison failed 10,000 times before he made the electric light. Do not be discouraged if you fail a few times.",
+    "author": "Napoleon Hill"
+  },
+  {
+    "text": "진실을 말하는 유일한 방법은 친절하게 말하는 것이다. 사랑하는 사람의 말만이 상대에게 들린다.",
+    "text_en": "The only way to tell the truth is to speak with kindness. Only the words of a loving man can be heard.",
+    "author": "Henry Thoreau"
+  },
+  {
+    "text": "남에게 해 줄 수 있는 가장 큰 선행은 당신의 부를 나누는 것이 아니라 그 사람 자신의 부를 깨닫게 해 주는 것이다.",
+    "text_en": "The greatest good you can do for another is not just to share your riches but to reveal to him his own.",
+    "author": "Benjamin Disraeli"
+  },
+  {
+    "text": "새로운 것을 시도할 때 어색하고 불편함을 기꺼이 느낄 수 있어야만 성장할 수 있다.",
+    "text_en": "You can only grow if you're willing to feel awkward and uncomfortable when you try something new.",
+    "author": "Brian Tracy"
+  },
+  {
+    "text": "타인의 기대에서 우리를 해방하고 우리 자신에게 되돌려 주는 것, 거기에 자존감의 크고 특별한 힘이 있다.",
+    "text_en": "To free us from the expectations of others, to give us back to ourselves — there lies the great, singular power of self-respect.",
+    "author": "Joan Didion"
+  },
+  {
+    "text": "빨리 도착하는 것보다 어디로 가는지 아는 것이 더 중요하다. 활동을 성취로 착각하지 마라.",
+    "text_en": "It is more important to know where you are going than to get there quickly. Do not mistake activity for achievement.",
+    "author": "Mabel Newcomber"
+  },
+  {
+    "text": "직관은 일상적인 사고 과정을 모두 건너뛰고 문제에서 곧장 답으로 도약하는 초논리다.",
+    "text_en": "Intuition is the supra-logic that cuts out all the routine processes of thought and leaps straight from the problem to the answer.",
+    "author": "Robert Graves"
+  },
+  {
+    "text": "당신이 진정으로 믿는 일은 언제나 일어난다. 무언가를 믿는 것이 그 일을 일어나게 한다.",
+    "text_en": "The thing always happens that you really believe in; and the belief in a thing makes it happen.",
+    "author": "Frank Wright"
+  },
+  {
+    "text": "진정한 친구는 가장 귀한 재산이지만, 우리는 그것을 얻는 데 가장 적은 생각을 기울인다.",
+    "text_en": "A true friend is the most precious of all possessions and the one we take the least thought about acquiring.",
+    "author": "Francois de La Rochefoucauld"
+  },
+  {
+    "text": "행복으로 가는 길은 단 하나다. 우리 의지의 힘을 벗어난 일에 대해 걱정하기를 그만두는 것이다.",
+    "text_en": "There is only one way to happiness and that is to cease worrying about things which are beyond the power of our will.",
+    "author": "Epictetus"
+  },
+  {
+    "text": "감사는 하루를 빛나게 하고 삶을 바꿀 수도 있다. 필요한 것은 그것을 말로 표현하려는 마음뿐이다.",
+    "text_en": "Appreciation can make a day, even change a life. Your willingness to put it into words is all that is necessary.",
+    "author": "Margaret Cousins"
+  },
+  {
+    "text": "이 세상은 우리의 모든 과학에도 불구하고 여전히 기적이다. 그것을 생각하는 사람에게는 놀랍고, 헤아릴 수 없으며, 마법 같은 그 이상이다.",
+    "text_en": "This world, after all our science and sciences, is still a miracle; wonderful, inscrutable, magical and more, to whosoever will think of it.",
+    "author": "Thomas Carlyle"
+  },
+  {
+    "text": "모든 큰 실수에는 중간 지점, 즉 그것을 되돌리거나 바로잡을 수 있는 찰나의 순간이 있다.",
+    "text_en": "Every great mistake has a halfway moment, a split second when it can be recalled and perhaps remedied.",
+    "author": "Pearl Buck"
+  },
+  {
+    "text": "할 수 있는 것이 없다는 태도를 취할 수도 있고, 그 도전을 행동하라는 부름으로 볼 수도 있다.",
+    "text_en": "You can adopt the attitude there is nothing you can do, or you can see the challenge as your call to action.",
+    "author": "Catherine Pulsifer"
+  },
+  {
+    "text": "이 세상에서 사람의 행복은 욕망이 없는 데 있는 것이 아니라 욕망을 다스리는 데 있다.",
+    "text_en": "The happiness of a man in this life does not consist in the absence but in the mastery of his passions.",
+    "author": "Alfred Tennyson"
+  },
+  {
+    "text": "사려 깊고 헌신적인 작은 집단이 세상을 바꿀 수 있다는 것을 결코 의심하지 마라. 실제로 세상을 바꾼 것은 언제나 그들뿐이었다.",
+    "text_en": "Never doubt that a small group of thoughtful, committed people can change the world. Indeed. It is the only thing that ever has.",
+    "author": "Margaret Mead"
+  },
+  {
+    "text": "늘 낚싯바늘을 던져 두어라. 전혀 기대하지 않은 웅덩이에 물고기가 있을 것이다.",
+    "text_en": "Let your hook always be cast; in the pool where you least expect it, there will be a fish.",
+    "author": "Ovid"
+  },
+  {
+    "text": "마음의 평화는 그것을 생각하거나 상상해서가 아니라, 들뜬 마음을 고요히 하고 이완함으로써 얻어진다.",
+    "text_en": "You get peace of mind not by thinking about it or imagining it, but by quietening and relaxing the restless mind.",
+    "author": "Remez Sasson"
+  },
+  {
+    "text": "친구는 처음 만난 1분 만에, 아는 사람이 천 년 걸려도 알지 못할 만큼 당신을 알게 된다.",
+    "text_en": "Your friends will know you better in the first minute you meet than your acquaintances will know you in a thousand years.",
+    "author": "Richard Bach"
+  },
+  {
+    "text": "마음을 만지거나 마음이 움직이도록 허락하기 시작하면, 그것이 끝이 없다는 것을 깨닫게 된다.",
+    "text_en": "When you begin to touch your heart or let your heart be touched, you begin to discover that it's bottomless.",
+    "author": "Pema Chodron"
+  },
+  {
+    "text": "누군가를 사랑한다면 그를 놓아주어라. 돌아온다면 당신의 것이고, 돌아오지 않는다면 애초에 당신의 것이 아니었다.",
+    "text_en": "If you love someone, set them free. If they come back they're yours; if they don't they never were.",
+    "author": "Richard Bach"
+  },
+  {
+    "text": "지혜는 다음에 무엇을 할지 아는 것이고, 기술은 그것을 어떻게 할지 아는 것이며, 미덕은 그것을 실제로 하는 것이다.",
+    "text_en": "Wisdom is knowing what to do next; Skill is knowing how ot do it, and Virtue is doing it.",
+    "author": "David Jordan"
+  },
+  {
+    "text": "나쁜 일이 우리에게 일어날 수 있는 최악의 일은 아니다. 아무 일도 일어나지 않는 것이 최악이다!",
+    "text_en": "Bad things are not the worst things that can happen to us. Nothing is the worst thing that can happen to us!",
+    "author": "Richard Bach"
+  },
+  {
+    "text": "지금을 살아갈 능력이 없는 사람은 미래에 대한 올바른 계획을 세울 수 없다.",
+    "text_en": "No valid plans for the future can be made by those who have no capacity for living now.",
+    "author": "Alan Watts"
+  },
+  {
+    "text": "삶의 목적은 자기 계발이다. 자신의 본성을 온전히 실현하는 것, 그것을 위해 우리 각자가 여기에 있다.",
+    "text_en": "The aim of life is self-development. To realize ones nature perfectly — that is what each of us is here for.",
+    "author": "Oscar Wilde"
+  },
+  {
+    "text": "위대한 일을 이루려면 행동할 뿐 아니라 꿈꾸어야 하고, 계획할 뿐 아니라 믿어야 한다.",
+    "text_en": "To accomplish great things, we must not only act, but also dream; not only plan, but also believe.",
+    "author": "Anatole France"
+  },
+  {
+    "text": "성공의 첫째 조건은 지치지 않고 하나의 문제에 몸과 마음의 에너지를 끊임없이 쏟는 능력이다.",
+    "text_en": "The first requisite for success is the ability to apply your physical and mental energies to one problem incessantly without growing weary.",
+    "author": "Thomas Edison"
+  },
+  {
+    "text": "우리가 자신을 조금이라도 좋아하는 법을 배운다면, 우리의 잔인함과 분노가 녹아 없어질지도 모른다.",
+    "text_en": "If we could learn to like ourselves, even a little, maybe our cruelties and angers might melt away.",
+    "author": "John Steinbeck"
+  },
+  {
+    "text": "당신에게는 개인으로 존재할 권리뿐 아니라 그래야 할 의무도 있다는 것을 늘 기억하라.",
+    "text_en": "Remember always that you not only have the right to be an individual, you have an obligation to be one.",
+    "author": "Eleanor Roosevelt"
+  },
+  {
+    "text": "인생의 기본적인 선택은 두 가지다. 상황을 있는 그대로 받아들이거나, 그것을 바꿀 책임을 지는 것이다.",
+    "text_en": "There are two primary choices in life: to accept conditions as they exist, or accept responsibility for changing them.",
+    "author": "Denis Waitley"
+  },
+  {
+    "text": "진리를 구한다면 부끄러운 수단으로 승리를 구하지 않을 것이고, 진리를 찾는다면 무적이 될 것이다.",
+    "text_en": "If you seek truth you will not seek victory by dishonourable means, and if you find truth you will become invincible.",
+    "author": "Epictetus"
+  },
+  {
+    "text": "명상하고 한 번에 한 가지에 온전히 집중함으로써, 원하는 곳에 주의를 기울이는 법을 배울 수 있다.",
+    "text_en": "Through meditation and by giving full attention to one thing at a time, we can learn to direct attention where we choose.",
+    "author": "Eknath Easwaran"
+  },
+  {
+    "text": "세상에 기쁨만 있다면 우리는 결코 용감하고 인내하는 법을 배울 수 없을 것이다.",
+    "text_en": "We could never learn to be brave and patient if there were only joy in the world.",
+    "author": "Helen Keller"
+  },
+  {
+    "text": "옳지 않으면 하지 말고, 참이 아니면 말하지 마라.",
+    "text_en": "If it is not right do not do it; if it is not true do not say it.",
+    "author": "Marcus Aurelius"
+  },
+  {
+    "text": "사실 당신은 언제나 무엇이 옳은 일인지 알고 있다. 어려운 것은 그것을 실행하는 것이다.",
+    "text_en": "The truth of the matter is that you always know the right thing to do. The hard part is doing it.",
+    "author": "Norman Schwarzkopf"
+  },
+  {
+    "text": "어떤 사람은 크고 극적인 변화 속에서 성장하고, 어떤 사람은 느리고 꾸준한 길을 선호한다. 자신에게 맞는 것을 하라.",
+    "text_en": "Some people thrive on huge, dramatic change. Some people prefer the slow and steady route. Do what's right for you.",
+    "author": "Julie Morgenstern"
+  },
+  {
+    "text": "인간은 자신이 나온 무(無)도, 자신을 삼키고 있는 무한도 똑같이 볼 수 없다.",
+    "text_en": "Man is equally incapable of seeing the nothingness from which he emerges and the infinity in which he is engulfed.",
+    "author": "Blaise Pascal"
+  },
+  {
+    "text": "오만과 무례함은 인생이라는 자전거의 보조 바퀴다. 그것 없이는 균형을 잡지 못하는 약한 사람들을 위한 것이다.",
+    "text_en": "Arrogance and rudeness are training wheels on the bicycle of life — for weak people who cannot keep their balance without them.",
+    "author": "Laura Teresa Marquez"
+  },
+  {
+    "text": "한순간의 분노를 참으면 백 날의 근심을 면한다.",
+    "text_en": "If you are patient in one moment of anger, you will escape one hundred days of sorrow.",
+    "author": "Chinese proverb"
+  },
+  {
+    "text": "코끼리의 뒷다리를 붙잡았는데 코끼리가 도망치려 한다면, 그냥 가게 두는 것이 최선이다.",
+    "text_en": "When you have got an elephant by the hind legs and he is trying to run away, it's best to let him run.",
+    "author": "Abraham Lincoln"
+  },
+  {
+    "text": "용기란 모르고 위험을 감수하는 것이 아니라, 남들이 감당하지 못할 도전 앞에 자신을 세우는 것이다.",
+    "text_en": "Courage is not about taking risks unknowingly but putting your own being in front of challenges that others may not be able to.",
+    "author": "Byron Pulsifer"
+  },
+  {
+    "text": "거리가 정말 친구와 당신을 갈라놓을 수 있을까? 사랑하는 사람과 함께하고 싶다면, 이미 그곳에 있는 것이 아닐까?",
+    "text_en": "Can miles truly separate you from friends... If you want to be with someone you love, aren't you already there?",
+    "author": "Richard Bach"
+  },
+  {
+    "text": "가난한 사람이란 돈 한 푼 없는 사람이 아니라 꿈이 없는 사람이다.",
+    "text_en": "The poor man is not he who is without a cent, but he who is without a dream.",
+    "author": "Harry Kemp"
+  },
+  {
+    "text": "남을 위해 할 수 있는 가장 큰 선은 당신의 부를 나누는 것이 아니라 그들 자신의 부를 보여 주는 것이다.",
+    "text_en": "The greatest good you can do for another is not just share your riches, but reveal to them their own.",
+    "author": "Benjamin Disraeli"
+  },
+  {
+    "text": "과거에 머물지 말고, 미래를 꿈꾸지 말고, 마음을 지금 이 순간에 집중하라.",
+    "text_en": "Do not dwell in the past, do not dream of the future, concentrate the mind on the present moment.",
+    "author": "Buddha"
+  },
+  {
+    "text": "자신의 부족함을 직시하고 인정하라. 하지만 그것에 지배당하지는 마라. 그것이 인내와 다정함과 통찰을 가르치게 하라.",
+    "text_en": "Face your deficiencies and acknowledge them; but do not let them master you. Let them teach you patience, sweetness, insight.",
+    "author": "Helen Keller"
+  },
+  {
+    "text": "변화는 삶의 법칙이다. 과거나 현재만 바라보는 사람은 반드시 미래를 놓친다.",
+    "text_en": "Change is the law of life. And those who look only to the past or present are certain to miss the future.",
+    "author": "John Kennedy"
+  },
+  {
+    "text": "당신에게는 바깥의 사건이 아니라 자신의 마음을 다스릴 힘이 있다. 이것을 깨달으면 힘을 얻을 것이다.",
+    "text_en": "You have power over your mind — not outside events. Realize this, and you will find strength.",
+    "author": "Marcus Aurelius"
+  },
+  {
+    "text": "나를 목표로 이끈 비밀을 말해 주겠다. 나의 힘은 오직 끈기에 있다.",
+    "text_en": "Let me tell you the secret that has led me to my goal: my strength lies solely in my tenacity.",
+    "author": "Louis Pasteur"
+  },
+  {
+    "text": "우리는 생각하는 대로의 존재다. 우리의 모든 것은 생각과 함께 일어난다. 생각으로 우리는 세상을 만든다.",
+    "text_en": "We are what we think. All that we are arises with our thoughts. With our thoughts, we make the world.",
+    "author": "Buddha"
+  },
+  {
+    "text": "자신을 존중하는 사람은 남에게서 안전하다. 그는 누구도 뚫을 수 없는 갑옷을 입고 있다.",
+    "text_en": "He that respects himself is safe from others; he wears a coat of mail that none can pierce.",
+    "author": "Henry Longfellow"
+  },
+  {
+    "text": "바깥에서 일어나는 일을 늘 통제할 수는 없다. 하지만 안에서 일어나는 일은 언제나 통제할 수 있다.",
+    "text_en": "I cannot always control what goes on outside. But I can always control what goes on inside.",
+    "author": "Wayne Dyer"
+  },
+  {
+    "text": "중요한 것은 삶에서 만들어 낸 가치, 우리가 행복하게 해 준 사람들, 그리고 우리가 사람으로서 얼마나 성장했는가다.",
+    "text_en": "What matters is the value we've created in our lives, the people we've made happy and how much we've grown as people.",
+    "author": "Daisaku Ikeda"
+  },
+  {
+    "text": "누군가의 잘못에 화가 나면 자신에게 눈을 돌려 자신의 결점을 살펴보라. 그러면 분노를 잊게 될 것이다.",
+    "text_en": "When you are offended at any man's fault, turn to yourself and study your own failings. Then you will forget your anger.",
+    "author": "Epictetus"
+  },
+  {
+    "text": "모든 사람은 저마다 특별한 일을 위해 만들어졌고, 그 일에 대한 열망은 모든 이의 마음에 심어져 있다.",
+    "text_en": "Everyone has been made for some particular work, and the desire for that work has been put in every heart.",
+    "author": "Rumi"
+  },
+  {
+    "text": "충분히 숙고하되, 행동할 때가 오면 생각을 멈추고 뛰어들어라.",
+    "text_en": "Take time to deliberate, but when the time for action has arrived, stop thinking and go in.",
+    "author": "Napoleon Bonaparte"
+  },
+  {
+    "text": "자신의 잠재력을 깨닫고 자기 능력에 자신감을 가지면 더 나은 세상을 만들 수 있다.",
+    "text_en": "With realization of ones own potential and self-confidence in ones ability, one can build a better world.",
+    "author": "Dalai Lama"
+  },
+  {
+    "text": "행복은 단순히 돈을 소유하는 데 있지 않다. 성취의 기쁨과 창조적 노력의 설렘에 있다.",
+    "text_en": "Happiness is not in the mere possession of money; it lies in the joy of achievement, in the thrill of creative effort.",
+    "author": "Franklin Roosevelt"
+  },
+  {
+    "text": "느끼지 않는 것을 억지로 느낄 수는 없지만, 감정과 상관없이 옳은 일을 하도록 자신을 이끌 수는 있다.",
+    "text_en": "You cannot make yourself feel something you do not feel, but you can make yourself do right in spite of your feelings.",
+    "author": "Pearl Buck"
+  },
+  {
+    "text": "가장 큰 재능을 타고난 사람이 반드시 남보다 뛰어난 성과를 내는 것은 아니다. 끝까지 해내는 사람이 뛰어나다.",
+    "text_en": "Those who are blessed with the most talent don't necessarily outperform everyone else. It's the people with follow-through who excel.",
+    "author": "Mary Kay Ash"
+  },
+  {
+    "text": "성공한 사람이 되려 하기보다 가치 있는 사람이 되려 하라.",
+    "text_en": "Try not to become a man of success, but rather try to become a man of value.",
+    "author": "Albert Einstein"
+  },
+  {
+    "text": "그릇된 생각을 가진 사람은 누군가 그것을 빼앗아 가기 전까지 자기 손에 든 것의 훌륭함을 모른다.",
+    "text_en": "Men of perverse opinion do not know the excellence of what is in their hands, till some one dash it from them.",
+    "author": "Sophocles"
+  },
+  {
+    "text": "좋은 머리를 가진 것만으로는 충분하지 않다. 중요한 것은 그것을 잘 쓰는 것이다.",
+    "text_en": "It is not enough to have a good mind; the main thing is to use it well.",
+    "author": "Rene Descartes"
+  },
+  {
+    "text": "책임은 물려받는 것이 아니다. 누구나 살면서 언젠가는 내려야 하는 선택이다.",
+    "text_en": "Responsibility is not inherited, it is a choice that everyone needs to make at some point in their life.",
+    "author": "Byron Pulsifer"
+  },
+  {
+    "text": "남이 할 수 없거나 하지 않을 일이 있다면, 남이 할 수 있고 할 일은 하지 마라.",
+    "text_en": "Never do things others can do and will do, if there are things others cannot do or will not do.",
+    "author": "Amelia Earhart"
+  },
+  {
+    "text": "바람의 방향은 바꿀 수 없지만, 언제나 목적지에 닿도록 돛을 조정할 수는 있다.",
+    "text_en": "I can't change the direction of the wind, but I can adjust my sails to always reach my destination.",
+    "author": "Jimmy Dean"
+  },
+  {
+    "text": "평범한 능력의 사람도 그만둘 때를 모르기에 때로 뛰어난 성공을 거둔다. 대부분의 사람은 굳게 결심했기에 성공한다.",
+    "text_en": "People of mediocre ability sometimes achieve outstanding success because they don't know when to quit. Most men succeed because they are determined to.",
+    "author": "George Allen"
+  },
+  {
+    "text": "훌륭한 인용구는 재치 있는 사람의 손가락에서는 다이아몬드지만, 어리석은 사람의 손에서는 조약돌이다.",
+    "text_en": "A fine quotation is a diamond on the finger of a man of wit, and a pebble in the hand of a fool.",
+    "author": "Joseph Roux"
+  },
+  {
+    "text": "삶의 도전은 당신을 마비시키려는 것이 아니라, 당신이 누구인지 발견하도록 돕기 위한 것이다.",
+    "text_en": "Life's challenges are not supposed to paralyse you, they're supposed to help you discover who you are.",
+    "author": "Bernice Reagon"
+  },
+  {
+    "text": "이 세상에서 명예롭게 사는 가장 위대한 방법은 우리가 내세우는 그대로의 사람이 되는 것이다.",
+    "text_en": "The greatest way to live with honour in this world is to be what we pretend to be.",
+    "author": "Socrates"
+  },
+  {
+    "text": "존재한다는 것은 변하는 것이고, 변한다는 것은 성숙하는 것이며, 성숙한다는 것은 끝없이 자신을 창조해 나가는 것이다.",
+    "text_en": "To exist is to change, to change is to mature, to mature is to go on creating oneself endlessly.",
+    "author": "Henri Bergson"
+  },
+  {
+    "text": "성공한 사람이 되려 하지 말고, 차라리 가치 있는 사람이 되려 하라.",
+    "text_en": "Try not to become a man of success but rather try to become a man of value.",
+    "author": "Albert Einstein"
+  },
+  {
+    "text": "진공 속에서는 창조할 수 없다. 삶이 재료를 주고, 꿈이 새로운 시작을 밀어 준다.",
+    "text_en": "You can't create in a vacuum. Life gives you the material and dreams can propel new beginnings.",
+    "author": "Byron Pulsifer"
+  },
+  {
+    "text": "당신의 일은 당신의 세계를 발견하고, 온 마음을 다해 그 세계에 자신을 바치는 것이다.",
+    "text_en": "Your work is to discover your world and then with all your heart give yourself to it.",
+    "author": "Buddha"
+  },
+  {
+    "text": "삶의 에너지로 빛나며 삶을 온전히 사는 사람이 성공한 삶을 사는 사람이다.",
+    "text_en": "The person who lives life fully, glowing with life's energy, is the person who lives a successful life.",
+    "author": "Daisaku Ikeda"
+  },
+  {
+    "text": "배울 것이 하나도 없다고 확신하기 전에는 가능한 미래에서 등을 돌리지 마라.",
+    "text_en": "Don't turn away from possible futures before you're certain you don't have anything to learn from them.",
+    "author": "Richard Bach"
+  },
+  {
+    "text": "성공한 사람이란 남들이 자신에게 던진 벽돌로 튼튼한 기초를 쌓을 수 있는 사람이다.",
+    "text_en": "A successful person is one who can lay a firm foundation with the bricks that others throw at him or her.",
+    "author": "David Brinkley"
+  },
+  {
+    "text": "우리의 모든 것은 우리가 생각해 온 것의 결과다. 마음이 전부다. 우리는 생각하는 대로 된다.",
+    "text_en": "All that we are is the result of what we have thought. The mind is everything. What we think we become.",
+    "author": "Buddha"
+  },
+  {
+    "text": "빛이 있을 때 일하라. 당신에게는 맡겨진 재능에 대한 책임이 있다.",
+    "text_en": "Work while you have the light. You are responsible for the talent that has been entrusted to you.",
+    "author": "Henri-Frederic Amiel"
+  },
+  {
+    "text": "저 작은 촛불이 얼마나 멀리까지 빛을 던지는가! 선행도 이처럼 험한 세상에서 빛난다.",
+    "text_en": "How far that little candle throws its beams! So shines a good deed in a naughty world.",
+    "author": "William Shakespeare"
+  },
+  {
+    "text": "모든 역경, 모든 실패, 모든 마음의 상처는 그와 같거나 더 큰 이익의 씨앗을 품고 있다.",
+    "text_en": "Every adversity, every failure, every heartache carries with it the seed of an equal or greater benefit.",
+    "author": "Napoleon Hill"
+  },
+  {
+    "text": "당신의 운명은 결정의 순간에 만들어진다.",
+    "text_en": "It is in your moments of decision that your destiny is shaped.",
+    "author": "Tony Robbins"
+  },
+  {
+    "text": "고통은 지나가지만 아름다움은 남는다.",
+    "text_en": "The pain passes, but the beauty remains.",
+    "author": "Pierre Auguste Renoir"
+  },
+  {
+    "text": "삶에 대해 내가 할 수 있는 말은 이것뿐이다. 오, 신이시여, 삶을 즐겨라!",
+    "text_en": "All I can say about life is, Oh God, enjoy it!",
+    "author": "Bob Newhart"
+  },
+  {
+    "text": "창의성은 믿음에서 나온다. 본능을 믿어라. 그리고 일하는 것보다 더 많이 바라지는 마라.",
+    "text_en": "Creativity comes from trust. Trust your instincts. And never hope more than you work.",
+    "author": "Rita Mae Brown"
+  },
+  {
+    "text": "삶을 바라보는 관점은 당신이 자신을 얼마나 좋아하는지를 그대로 비춘다.",
+    "text_en": "Your outlook on life is a direct reflection on how much you like yourself.",
+    "author": "Lululemon"
+  },
+  {
+    "text": "내가 가르칠 것은 세 가지뿐이다. 단순함, 인내, 자비. 이 셋이 당신의 가장 큰 보물이다.",
+    "text_en": "I have just three things to teach: simplicity, patience, compassion. These three are your greatest treasures.",
+    "author": "Lao Tzu"
+  },
+  {
+    "text": "틀에 박힌 길에만 머물면 미끄러질 일도 없다.",
+    "text_en": "You won't skid if you stay in a rut.",
+    "author": "Kin Hubbard"
+  },
+  {
+    "text": "두려움이 믿음보다 커지게 두면 당신은 스스로 꿈을 가로막는다.",
+    "text_en": "You block your dream when you allow your fear to grow bigger than your faith.",
+    "author": "Mary Morrissey"
+  },
+  {
+    "text": "행복은 우리 자신에게 달려 있다.",
+    "text_en": "Happiness depends upon ourselves.",
+    "author": "Aristotle"
+  },
+  {
+    "text": "어디로 눈을 돌리든 사람은 자신을 필요로 하는 누군가를 찾을 수 있다.",
+    "text_en": "Wherever a man turns he can find someone who needs him.",
+    "author": "Albert Schweitzer"
+  },
+  {
+    "text": "운이 좋다면 단 하나의 공상이 백만 개의 현실을 완전히 바꿀 수 있다.",
+    "text_en": "If one is lucky, a solitary fantasy can totally transform one million realities.",
+    "author": "Maya Angelou"
+  },
+  {
+    "text": "남을 이상화하지 마라. 그들은 결코 당신의 기대에 부응하지 못할 것이다.",
+    "text_en": "Never idealize others. They will never live up to your expectations.",
+    "author": "Leo Buscaglia"
+  },
+  {
+    "text": "부족한 것이 아무것도 없다는 것을 깨달을 때, 온 세상이 당신의 것이 된다.",
+    "text_en": "When you realize there is nothing lacking, the whole world belongs to you.",
+    "author": "Lao Tzu"
+  },
+  {
+    "text": "행복은 이미 만들어져 있는 것이 아니다. 당신 자신의 행동에서 나온다.",
+    "text_en": "Happiness is not something ready made. It comes from your own actions.",
+    "author": "Dalai Lama"
+  },
+  {
+    "text": "의미란 처음에 가지고 시작하는 것이 아니라 마지막에 얻게 되는 것이다.",
+    "text_en": "Meaning is not what you start with but what you end up with.",
+    "author": "Peter Elbow"
+  },
+  {
+    "text": "베풀어서 가난해진 사람은 아무도 없다.",
+    "text_en": "No one has ever become poor by giving.",
+    "author": "Anne Frank"
+  },
+  {
+    "text": "작은 일에 충실하라. 당신의 힘은 바로 거기에 있다.",
+    "text_en": "Be faithful in small things because it is in them that your strength lies.",
+    "author": "Mother Teresa"
+  },
+  {
+    "text": "모든 것은 흐른다. 머물러 있는 것은 없다.",
+    "text_en": "All is flux; nothing stays still.",
+    "author": "Heraclitus"
+  },
+  {
+    "text": "별에 자신을 묶은 사람은 마음을 바꾸지 않는다.",
+    "text_en": "He who is fixed to a star does not change his mind.",
+    "author": "Leonardo da Vinci"
+  },
+  {
+    "text": "자신과 조화롭게 사는 사람은 우주와도 조화롭게 산다.",
+    "text_en": "He who lives in harmony with himself lives in harmony with the universe.",
+    "author": "Marcus Aurelius"
+  },
+  {
+    "text": "무지한 사람은 자기 손에 든 좋은 것을 내던지기 전까지 그것이 얼마나 좋은지 모른다.",
+    "text_en": "Ignorant men don't know what good they hold in their hands until they've flung it away.",
+    "author": "Sophocles"
+  },
+  {
+    "text": "해답이 단순할 때, 그것은 신이 답하고 있는 것이다.",
+    "text_en": "When the solution is simple, God is answering.",
+    "author": "Albert Einstein"
+  },
+  {
+    "text": "모든 성취와 모든 노력으로 얻은 부는 하나의 아이디어에서 시작된다.",
+    "text_en": "All achievements, all earned riches, have their beginning in an idea.",
+    "author": "Napoleon Hill"
+  },
+  {
+    "text": "목표에 거의 다다랐을 때 돌아서지 마라.",
+    "text_en": "Do not turn back when you are just at the goal.",
+    "author": "Publilius Syrus"
+  },
+  {
+    "text": "위험 없이 믿을 수는 없지만, 그렇다고 고치 속에서 살 수도 없다.",
+    "text_en": "You can't trust without risk but neither can you live in a cocoon.",
+    "author": "Byron Pulsifer"
+  },
+  {
+    "text": "모든 지각은 사고이기도 하고, 모든 추론은 직관이기도 하며, 모든 관찰은 발명이기도 하다.",
+    "text_en": "All perceiving is also thinking, all reasoning is also intuition, all observation is also invention.",
+    "author": "Rudolf Arnheim"
+  },
+  {
+    "text": "오류는 우리를 앞으로 나아가게 하는 훈련이다.",
+    "text_en": "Error is discipline through which we advance.",
+    "author": "Channing"
+  },
+  {
+    "text": "진실은 언제나 흥미진진하다. 그러니 진실을 말하라. 진실 없는 삶은 따분하다.",
+    "text_en": "The truth is always exciting. Speak it, then. Life is dull without it.",
+    "author": "Pearl Buck"
+  },
+  {
+    "text": "군자는 말은 겸손하되 행동은 넘친다.",
+    "text_en": "The superior man is modest in his speech, but exceeds in his actions.",
+    "author": "Confucius"
+  },
+  {
+    "text": "불행을 오래 곱씹을수록 그것이 우리를 해치는 힘은 커진다.",
+    "text_en": "The longer we dwell on our misfortunes, the greater is their power to harm us.",
+    "author": "Voltaire"
+  },
+  {
+    "text": "고양이와 놀려는 사람은 할퀼 각오를 해야 한다.",
+    "text_en": "Those who will play with cats must expect to be scratched.",
+    "author": "Cervantes"
+  },
+  {
+    "text": "자연의 모든 것에는 경이로운 무언가가 있다.",
+    "text_en": "In all things of nature there is something of the marvellous.",
+    "author": "Aristotle"
+  },
+  {
+    "text": "우주는 변화이며, 우리의 삶은 우리의 생각이 만드는 대로 된다.",
+    "text_en": "The universe is transformation; our life is what our thoughts make it.",
+    "author": "Marcus Aurelius"
+  },
+  {
+    "text": "기억은 모든 지혜의 어머니다.",
+    "text_en": "Memory is the mother of all wisdom.",
+    "author": "Samuel Johnson"
+  },
+  {
+    "text": "침묵은 결코 배신하지 않는 참된 친구다.",
+    "text_en": "Silence is the true friend that never betrays.",
+    "author": "Confucius"
+  },
+  {
+    "text": "당신 자신 말고는 그 무엇도 당신에게 성공을 가져다줄 수 없다는 것을 기억하라.",
+    "text_en": "You might well remember that nothing can bring you success but yourself.",
+    "author": "Napoleon Hill"
+  },
+  {
+    "text": "작은 것을 조심하라. 작은 구멍 하나가 큰 배를 가라앉힌다.",
+    "text_en": "Watch the little things; a small leak will sink a great ship.",
+    "author": "Benjamin Franklin"
+  },
+  {
+    "text": "신은 당신에게 얼굴 하나를 주었는데, 당신은 스스로 또 다른 얼굴을 만든다.",
+    "text_en": "God has given you one face, and you make yourself another.",
+    "author": "William Shakespeare"
+  },
+  {
+    "text": "부당한 일을 당한 것은 아무것도 아니다. 그것을 계속 기억하지만 않는다면.",
+    "text_en": "To be wronged is nothing unless you continue to remember it.",
+    "author": "Confucius"
+  },
+  {
+    "text": "행동은 이론이 풀지 못하는 의심을 없애 준다.",
+    "text_en": "Action will remove the doubts that theory cannot solve.",
+    "author": "Tehyi Hsieh"
+  },
+  {
+    "text": "당신의 큰 기회는 바로 지금 당신이 있는 곳에 있을지도 모른다.",
+    "text_en": "Your big opportunity may be right where you are now.",
+    "author": "Napoleon Hill"
+  },
+  {
+    "text": "안 된다고 말하는 사람은 그것을 하고 있는 사람을 방해해서는 안 된다.",
+    "text_en": "People who say it cannot be done should not interrupt those who are doing it.",
+    "author": "Chinese proverb"
+  },
+  {
+    "text": "하기로 결심한 날이 당신에게 행운의 날이다.",
+    "text_en": "The day you decide to do it is your lucky day.",
+    "author": "Japanese proverb"
+  },
+  {
+    "text": "모든 실수가 어리석은 것이라고 말해서는 안 된다.",
+    "text_en": "We must not say every mistake is a foolish one.",
+    "author": "Cicero"
+  },
+  {
+    "text": "도전을 받아들여라. 그래야 승리의 짜릿함을 느낄 수 있다.",
+    "text_en": "Accept challenges, so that you may feel the exhilaration of victory.",
+    "author": "George Patton"
+  },
+  {
+    "text": "많이 오해하는 것보다 조금 이해하는 것이 낫다.",
+    "text_en": "It is better to understand a little than to misunderstand a lot.",
+    "author": "Anatole France"
+  },
+  {
+    "text": "꾸짖음은 많은 것을 해내지만, 격려는 그보다 더 많은 것을 해낸다.",
+    "text_en": "Correction does much, but encouragement does more.",
+    "author": "Johann Wolfgang von Goethe"
+  },
+  {
+    "text": "먼저 자신이 누구인지 알고, 그에 맞게 자신을 꾸며라.",
+    "text_en": "Know, first, who you are, and then adorn yourself accordingly.",
+    "author": "Epictetus"
+  },
+  {
+    "text": "당신이 할 수 있는 가장 큰 모험은 꿈꾸던 삶을 사는 것이다.",
+    "text_en": "The biggest adventure you can ever take is to live the life of your dreams.",
+    "author": "Oprah Winfrey"
+  },
+  {
+    "text": "인생은 10퍼센트가 당신에게 일어나는 일이고, 90퍼센트는 그에 어떻게 반응하느냐다.",
+    "text_en": "Life is 10% what happens to you and 90% how you react to it.",
+    "author": "Charles Swindoll"
+  },
+  {
+    "text": "될 수 있는 존재가 되기를 바라는 것, 그것이 삶의 목적이다.",
+    "text_en": "To want to be what one can be is purpose in life.",
+    "author": "Cynthia Ozick"
+  },
+  {
+    "text": "원하는 것을 얻지 못하는 것이 때로는 놀라운 행운이라는 것을 기억하라.",
+    "text_en": "Remember that sometimes not getting what you want is a wonderful stroke of luck.",
+    "author": "Dalai Lama"
+  },
+  {
+    "text": "역사는 내게 너그러울 것이다. 내가 역사를 쓸 작정이기 때문이다.",
+    "text_en": "History will be kind to me for I intend to write it.",
+    "author": "Winston Churchill"
+  },
+  {
+    "text": "우리의 삶은 우리가 해 온 선택의 총합이다.",
+    "text_en": "Our lives are a sum total of the choices we have made.",
+    "author": "Wayne Dyer"
+  },
+  {
+    "text": "시간은 그것을 활용하려는 사람에게는 충분히 오래 머문다.",
+    "text_en": "Time stays long enough for anyone who will use it.",
+    "author": "Leonardo da Vinci"
+  },
+  {
+    "text": "변화를 규칙으로 받아들이되, 당신을 지배하게 하지는 마라.",
+    "text_en": "You must welcome change as the rule but not as your ruler.",
+    "author": "Denis Waitley"
+  },
+  {
+    "text": "지금 하고 있는 일과 함께 있는 사람에게 당신의 관심이라는 선물을 주어라.",
+    "text_en": "Give whatever you are doing and whoever you are with the gift of your attention.",
+    "author": "Jim Rohn"
+  },
+  {
+    "text": "당신을 고용한 사람들보다 언제나 더 똑똑하라.",
+    "text_en": "Always be smarter than the people who hire you.",
+    "author": "Lena Horne"
+  },
+  {
+    "text": "성공 공식: 약속은 적게 하고 결과는 그 이상으로 내라.",
+    "text_en": "Formula for success: under promise and over deliver.",
+    "author": "Tom Peters"
+  },
+  {
+    "text": "눈은 마음이 이해할 준비가 된 것만 본다.",
+    "text_en": "The eye sees only what the mind is prepared to comprehend.",
+    "author": "Henri Bergson"
+  },
+  {
+    "text": "환하게 웃고 있으면 사람들은 낡은 옷을 좀처럼 알아채지 못한다.",
+    "text_en": "People seldom notice old clothes if you wear a big smile.",
+    "author": "Lee Mildon"
+  },
+  {
+    "text": "당신 안에 빛을 더 많이 들일수록 당신이 사는 세상은 더 밝아진다.",
+    "text_en": "The more light you allow within you, the brighter the world you live in will be.",
+    "author": "Shakti Gawain"
+  },
+  {
+    "text": "행동만큼 빠르게 불안을 줄여 주는 것은 없다.",
+    "text_en": "Nothing diminishes anxiety faster than action.",
+    "author": "Walter Anderson"
+  },
+  {
+    "text": "해안을 보지 못할 용기가 없다면 인간은 결코 새로운 바다를 발견할 수 없다.",
+    "text_en": "Man cannot discover new oceans unless he has the courage to lose sight of the shore.",
+    "author": "André Gide"
+  },
+  {
+    "text": "남에게서 우리를 짜증 나게 하는 모든 것은 우리 자신을 이해하는 길로 이끌 수 있다.",
+    "text_en": "Everything that irritates us about others can lead us to an understanding about ourselves.",
+    "author": "Carl Jung"
+  },
+  {
+    "text": "내가 할 수 있는 모든 것을 다 할 수 있다면 무엇을 할지 상상이 되는가?",
+    "text_en": "Can you imagine what I would do if I could do all I can?",
+    "author": "Sun Tzu"
+  },
+  {
+    "text": "무지는 결코 문제를 해결하지 못한다.",
+    "text_en": "Ignorance never settle a question.",
+    "author": "Benjamin Disraeli"
+  },
+  {
+    "text": "자신의 힘을 자각하면 겸손해진다.",
+    "text_en": "The awareness of our own strength makes us modest.",
+    "author": "Paul Cezanne"
+  },
+  {
+    "text": "행복이나 지혜에 한결같고자 하는 사람은 자주 변해야 한다.",
+    "text_en": "They must often change, who would be constant in happiness or wisdom.",
+    "author": "Confucius"
+  },
+  {
+    "text": "실패란 없다. 경험과 그에 대한 당신의 반응이 있을 뿐이다.",
+    "text_en": "There are no failures. Just experiences and your reactions to them.",
+    "author": "Tom Krause"
+  },
+  {
+    "text": "당신의 미래는 많은 것에 달려 있지만, 무엇보다 당신에게 달려 있다.",
+    "text_en": "Your future depends on many things, but mostly on you.",
+    "author": "Frank Tyger"
+  },
+  {
+    "text": "두려움은 어둠 속에서 자란다. 도깨비가 있는 것 같다면 불을 켜라.",
+    "text_en": "Fear grows in darkness; if you think theres a bogeyman around, turn on the light.",
+    "author": "Dorothy Thompson"
+  },
+  {
+    "text": "가장 중요한 것은 자신을 받아들이고 두 발로 서는 것이다.",
+    "text_en": "The most important point is to accept yourself and stand on your two feet.",
+    "author": "Shunryu Suzuki"
+  },
+  {
+    "text": "늘 회갈색 안경을 쓰고 있으면서 세상이 밝아 보이기를 기대하지 마라.",
+    "text_en": "Do not expect the world to look bright, if you habitually wear gray-brown glasses.",
+    "author": "Tomas Eliot"
+  },
+  {
+    "text": "어차피 생각할 거라면 크게 생각하라.",
+    "text_en": "As long as your going to be thinking anyway, think big.",
+    "author": "Donald Trump"
+  },
+  {
+    "text": "목표와 그것을 이루려는 노력 없이는 누구도 살 수 없다.",
+    "text_en": "Without some goals and some efforts to reach it, no man can live.",
+    "author": "John Dewey"
+  },
+  {
+    "text": "거두어들이는 자는 적게 가지고, 흩어 주는 자는 많이 가진다.",
+    "text_en": "He who obtains has little. He who scatters has much.",
+    "author": "Richard Braunstein"
+  },
+  {
+    "text": "믿어지는 신화는 현실이 되는 경향이 있다.",
+    "text_en": "Myths which are believed in tend to become true.",
+    "author": "George Orwell"
+  },
+  {
+    "text": "발은 땅을 느낄 때 비로소 발을 느낀다.",
+    "text_en": "The foot feels the foot when it feels the ground.",
+    "author": "Buddha"
+  },
+  {
+    "text": "우리의 풍요를 이루는 것은 가진 것이 아니라 누리는 것이다.",
+    "text_en": "Not what we have but what we enjoy constitutes our abundance.",
+    "author": "John Petit-Senn"
+  },
+  {
+    "text": "될 수도 있었던 사람이 되기에 너무 늦은 때란 없다.",
+    "text_en": "It is never too late to be what you might have been.",
+    "author": "George Eliot"
+  },
+  {
+    "text": "시작은 언제나 오늘이다.",
+    "text_en": "The beginning is always today.",
+    "author": "Mary Wollstonecraft"
+  },
+  {
+    "text": "결국 우리는 기꺼이 위험을 무릅쓰고 내준 것 이상을 얻지 못한다.",
+    "text_en": "In the long run we get no more than we have been willing to risk giving.",
+    "author": "Sheldon Kopp"
+  },
+  {
+    "text": "자신을 믿는 것이 성공의 첫 번째 비결이다.",
+    "text_en": "Self-trust is the first secret of success.",
+    "author": "Ralph Emerson"
+  },
+  {
+    "text": "뒤돌아보지 마라. 무언가가 당신을 따라잡고 있을지도 모른다.",
+    "text_en": "Don't look back. Something might be gaining on you.",
+    "author": "Satchel Paige"
+  },
+  {
+    "text": "흥하고 망한 제국들이 바뀌어 온 과거를 돌아보면 미래도 내다볼 수 있다.",
+    "text_en": "Look back over the past, with its changing empires that rose and fell, and you can foresee the future, too.",
+    "author": "Marcus Aurelius"
+  },
+  {
+    "text": "실수하며 보낸 삶은 아무것도 하지 않고 보낸 삶보다 더 명예로울 뿐 아니라 더 유익하다.",
+    "text_en": "A life spent making mistakes is not only more honourable, but more useful than a life spent doing nothing.",
+    "author": "George Bernard Shaw"
+  },
+  {
+    "text": "사람을 괴롭히는 것은 사물이 아니라 사물에 대한 그들의 견해다.",
+    "text_en": "Men are disturbed not by things, but by the view which they take of them.",
+    "author": "Epictetus"
+  },
+  {
+    "text": "상상력은 모든 것을 좌우한다. 상상력은 이 세상의 전부인 아름다움과 정의와 행복을 만들어 낸다.",
+    "text_en": "Imagination disposes of everything; it creates beauty, justice, and happiness, which are everything in this world.",
+    "author": "Blaise Pascal"
+  },
+  {
+    "text": "행복은 스웨덴의 석양과 같다. 모두를 위해 거기 있지만, 대부분은 다른 곳을 보다가 놓친다.",
+    "text_en": "Happiness is a Swedish sunset — it is there for all, but most of us look the other way and lose it.",
+    "author": "Mark Twain"
+  },
+  {
+    "text": "봄을 기다려라. 자연이 내어 주는 것을 다시 보기 시작할 수 있는 때다.",
+    "text_en": "Look forward to spring as a time when you can start to see what nature has to offer once again.",
+    "author": "Byron Pulsifer"
+  },
+  {
+    "text": "자신의 본능을 믿어라. 실수를 하더라도 남의 실수가 아니라 자신의 실수가 되는 편이 낫다.",
+    "text_en": "Trust your own instinct. Your mistakes might as well be your own, instead of someone elses.",
+    "author": "Billy Wilder"
+  },
+  {
+    "text": "아주 작은 움직임도 자연 전체에 중요하다. 조약돌 하나가 바다 전체에 영향을 미친다.",
+    "text_en": "The least movement is of importance to all nature. The entire ocean is affected by a pebble.",
+    "author": "Blaise Pascal"
+  },
+  {
+    "text": "나는 언제나 할 수 없는 일을 하고 있다. 그래야 그것을 하는 법을 배울 수 있으니까.",
+    "text_en": "I am always doing that which I can not do, in order that I may learn how to do it.",
+    "author": "Pablo Picasso"
+  },
+  {
+    "text": "사람들은 대개 실체보다 겉모습으로 판단한다. 누구나 눈은 있지만, 꿰뚫어 보는 재능을 가진 이는 드물다.",
+    "text_en": "Men in general judge more from appearances than from reality. All men have eyes, but few have the gift of penetration.",
+    "author": "Niccolo Machiavelli"
+  },
+  {
+    "text": "모든 예술가는 자기 영혼에 붓을 담가 자신의 본성을 그림에 그린다.",
+    "text_en": "Every artist dips his brush in his own soul, and paints his own nature into his pictures.",
+    "author": "Henry Ward Beecher"
+  },
+  {
+    "text": "각각의 도전을 한 걸음씩, 걸음마다 믿음을 갖고 마주하면 당신의 힘과 이해가 커질 것이다.",
+    "text_en": "If you take each challenge one step at a time, with faith in every footstep, your strength and understanding will increase.",
+    "author": "James Faust"
+  },
+  {
+    "text": "행복은 찾아가거나, 소유하거나, 벌거나, 입거나, 소비할 수 없다. 행복은 매 순간을 사랑과 품위와 감사로 사는 영적 경험이다.",
+    "text_en": "Happiness cannot be travelled to, owned, earned, worn or consumed. Happiness is the spiritual experience of living every minute with love, grace and gratitude.",
+    "author": "Denis Waitley"
+  },
+  {
+    "text": "누구나 자기 마음이 어디로 끌리는지 주의 깊게 살피고, 온 힘을 다해 그 길을 선택해야 한다.",
+    "text_en": "Everyone should carefully observe which way his heart draws him, and then choose that way with all his strength.",
+    "author": "Hasidic saying"
+  },
+  {
+    "text": "주로 자기 자신과 자기 보존만을 생각하기를 멈출 때, 우리는 진정 영웅적인 의식의 변화를 겪는다.",
+    "text_en": "When we quit thinking primarily about ourselves and our own self-preservation, we undergo a truly heroic transformation of consciousness.",
+    "author": "Joseph Campbell"
+  },
+  {
+    "text": "남이 하는 일이나 하지 않는 일에 주의를 기울이지 말고, 자신이 하는 일이나 하지 않는 일에 기울여라.",
+    "text_en": "Do not give your attention to what others do or fail to do; give it to what you do or fail to do.",
+    "author": "Dhammapada"
+  },
+  {
+    "text": "효과적인 행동 뒤에는 조용한 성찰을 하라. 조용한 성찰에서 더욱 효과적인 행동이 나온다.",
+    "text_en": "Follow effective action with quiet reflection. From the quiet reflection will come even more effective action.",
+    "author": "Peter Drucker"
+  },
+  {
+    "text": "삶의 도전은 당신을 얼어붙게 하려는 것이 아니라, 당신이 누구인지 깨닫도록 돕기 위한 것이다.",
+    "text_en": "Life's challenges are not supposed to paralyze you, they're supposed to help you discover who you are.",
+    "author": "Bernice Reagon"
+  },
+  {
+    "text": "우리 운동에 대해 꼭 알아야 할 것이 하나 있다. 세 사람이라도 아무도 없는 것보다는 낫다.",
+    "text_en": "There is one thing you have got to learn about our movement. Three people are better than no people.",
+    "author": "Fannie Hamer"
+  },
+  {
+    "text": "행복은 향수와 같다. 남에게 뿌리면 자신에게도 몇 방울 묻기 마련이다.",
+    "text_en": "Happiness is a perfume you cannot pour on others without getting a few drops on yourself.",
+    "author": "Ralph Waldo Emerson"
+  },
+  {
+    "text": "가장 큰 힘을 지닌 것은 실수 그 자체가 아니라, 실수에서 배워 자신의 장점을 키우는 것이다.",
+    "text_en": "It is not the mistake that has the most power, instead, it is learning from the mistake to advance your own attributes.",
+    "author": "Byron Roberts"
+  },
+  {
+    "text": "당신이 누리는 행복의 양은 마음속에 지닌 자유의 양에 달려 있다.",
+    "text_en": "The amount of happiness that you have depends on the amount of freedom you have in your heart.",
+    "author": "Thich Nhat Hanh"
+  },
+  {
+    "text": "마음속을 들여다볼 때에야 비로소 비전이 분명해진다. 밖을 보는 자는 꿈꾸고, 안을 보는 자는 깨어난다.",
+    "text_en": "Your vision will become clear only when you look into your heart. Who looks outside, dreams. Who looks inside, awakens.",
+    "author": "Carl Jung"
+  },
+  {
+    "text": "어제는 역사이고, 내일은 미스터리다. 그리고 오늘은? 오늘은 선물이다. 그래서 현재를 선물(present)이라 부른다.",
+    "text_en": "Yesterday is history. Tomorrow is a mystery. And today? Today is a gift. That is why we call it the present.",
+    "author": "Babatunde Olatunji"
+  },
+  {
+    "text": "다른 사람, 그리고 자신과 소통하는 방식이 결국 삶의 질을 결정한다.",
+    "text_en": "The way we communicate with others and with ourselves ultimately determines the quality of our lives.",
+    "author": "Tony Robbins"
+  },
+  {
+    "text": "때로는 이기고 옳지 않은 일을 하는 것보다 지더라도 옳은 일을 하는 것이 낫다.",
+    "text_en": "Sometimes it is better to lose and do the right thing than to win and do the wrong thing.",
+    "author": "Tony Blair"
+  },
+  {
+    "text": "언제나 미소로 서로를 맞이하자. 미소는 사랑의 시작이기 때문이다.",
+    "text_en": "Let us always meet each other with smile, for the smile is the beginning of love.",
+    "author": "Mother Teresa"
+  },
+  {
+    "text": "우리는 우리가 반복적으로 하는 행동 그 자체다. 그러므로 탁월함은 한 번의 행동이 아니라 습관이다.",
+    "text_en": "We are what we repeatedly do. Excellence, then, is not an act, but a habit.",
+    "author": "Aristotle"
+  },
+  {
+    "text": "위험을 안고 산다는 것은 절벽에서 뛰어내려 떨어지는 동안 날개를 만드는 것이다.",
+    "text_en": "Living at risk is jumping off the cliff and building your wings on the way down.",
+    "author": "Ray Bradbury"
+  },
+  {
+    "text": "한겨울의 깊은 곳에서, 나는 마침내 내 안에 꺾이지 않는 여름이 있다는 것을 알게 되었다.",
+    "text_en": "In the depth of winter, I finally learned that there was within me an invincible summer.",
+    "author": "Albert Camus"
+  },
+  {
+    "text": "재치란 서로 다른 것들 사이의 닮은 점과 서로 닮은 것들 사이의 다른 점을 알아보는 데 있다.",
+    "text_en": "Wit lies in recognizing the resemblance among things which differ and the difference between things which are alike.",
+    "author": "Madame de Stael"
+  },
+  {
+    "text": "실패자란 실수를 하고도 그 경험을 살리지 못하는 사람이다.",
+    "text_en": "A failure is a man who has blundered but is not capable of cashing in on the experience.",
+    "author": "Elbert Hubbard"
+  },
+  {
+    "text": "성공의 공식은 알려 줄 수 없지만, 실패의 공식은 알려 줄 수 있다. 모든 사람을 만족시키려 하는 것이다.",
+    "text_en": "I cannot give you the formula for success, but I can give you the formula for failure: which is: Try to please everybody.",
+    "author": "Herbert Swope"
+  },
+  {
+    "text": "직관적으로 이해하는 힘은 생이 다하는 날까지 당신을 해로부터 지켜 줄 것이다.",
+    "text_en": "The power of intuitive understanding will protect you from harm until the end of your days.",
+    "author": "Laozi"
+  },
+  {
+    "text": "미래의 가장 좋은 점은 하루에 하루씩만 온다는 것이다.",
+    "text_en": "The best thing about the future is that it only comes one day at a time.",
+    "author": "Abraham Lincoln"
+  },
+  {
+    "text": "우리에게 귀가 둘이고 입이 하나인 것은 말하는 것보다 두 배로 들으라는 뜻이다.",
+    "text_en": "We have two ears and one mouth so that we can listen twice as much as we speak.",
+    "author": "Epictetus"
+  },
+  {
+    "text": "실패에 대한 두려움은 당신을 삶의 같은 자리에 붙잡아 두는 태도다.",
+    "text_en": "Fear of failure is one attitude that will keep you at the same point in your life.",
+    "author": "Byron Pulsifer"
+  },
+  {
+    "text": "친구란 우리에게 안부를 묻고 그 대답을 기다려 주는 드문 사람들이다.",
+    "text_en": "Friends are those rare people who ask how we are and then wait to hear the answer.",
+    "author": "Ed Cunningham"
+  },
+  {
+    "text": "마음을 여는 법을 배우면, 우리를 미치게 하는 사람들까지 누구나 우리의 스승이 될 수 있다.",
+    "text_en": "If we learn to open our hearts, anyone, including the people who drive us crazy, can be our teacher.",
+    "author": "Pema Chodron"
+  },
+  {
+    "text": "삶을 정직하고 용감하게 마주하면 사람은 경험을 통해 성장한다. 인격은 이렇게 만들어진다.",
+    "text_en": "People grow through experience if they meet life honestly and courageously. This is how character is built.",
+    "author": "Eleanor Roosevelt"
+  },
+  {
+    "text": "영웅이 보통 사람보다 더 용감한 것은 아니다. 다만 5분 더 오래 용감할 뿐이다.",
+    "text_en": "A hero is no braver than an ordinary man, but he is braver five minutes longer.",
+    "author": "Ralph Waldo Emerson"
+  },
+  {
+    "text": "우리가 아이들에게 삶의 모든 것을 가르치려 하는 동안, 아이들은 우리에게 삶이 무엇인지 가르쳐 준다.",
+    "text_en": "While we try to teach our children all about life, our children teach us what life is all about.",
+    "author": "Angela Schwindt"
+  },
+  {
+    "text": "춤출 때의 목적은 무대의 어느 지점에 도착하는 것이 아니라, 그 과정의 한 걸음 한 걸음을 즐기는 것이다.",
+    "text_en": "When you dance, your purpose is not to get to a certain place on the floor. It's to enjoy each step along the way.",
+    "author": "Wayne Dyer"
+  },
+  {
+    "text": "창조주는 당신에게 할 능력이 없는 일을 하고 싶은 갈망을 주지 않았다.",
+    "text_en": "The Creator has not given you a longing to do that which you have no ability to do.",
+    "author": "Orison Marden"
+  },
+  {
+    "text": "현명해지기란 아주 쉽다. 어리석은 말이 떠오르면 그냥 말하지 않으면 된다.",
+    "text_en": "It's so simple to be wise. Just think of something stupid to say and then don't say it.",
+    "author": "Sam Levenson"
+  },
+  {
+    "text": "부정적인 생각과 감정은 평화의 경험을 무너뜨릴 뿐 아니라 건강까지 해친다는 것을 생각해 보라.",
+    "text_en": "Consider that not only do negative thoughts and emotions destroy our experience of peace, they also undermine our health.",
+    "author": "Dalai Lama"
+  },
+  {
+    "text": "자기 자신과 화해하기 전에는 가진 것에 결코 만족하지 못할 것이다.",
+    "text_en": "Until you make peace with who you are, you will never be content with what you have.",
+    "author": "Doris Mortman"
+  },
+  {
+    "text": "우리를 구원하는 것은 우리 자신뿐이다. 아무도 대신할 수 없고, 대신해서도 안 된다. 그 길은 우리 스스로 걸어야 한다.",
+    "text_en": "No one saves us but ourselves. No one can and no one may. We ourselves must walk the path.",
+    "author": "Buddha"
+  },
+  {
+    "text": "무엇이든 주의 깊게 들여다보는 순간, 그것은 그 자체로 신비롭고 경이로우며 말할 수 없이 장엄한 세계가 된다.",
+    "text_en": "The moment one gives close attention to anything, it becomes a mysterious, awesome, indescribably magnificent world in itself.",
+    "author": "Henry Miller"
+  },
+  {
+    "text": "행복이란 생각하는 것과 말하는 것과 행동하는 것이 조화를 이룰 때다.",
+    "text_en": "Happiness is when what you think, what you say, and what you do are in harmony.",
+    "author": "Mohandas Gandhi"
+  },
+  {
+    "text": "불안과 두려움에 대한 가장 좋은 해독제는 자비다. 자비는 우리를 내면의 힘의 근원으로 되돌려 놓는다.",
+    "text_en": "The greatest antidote to insecurity and the sense of fear is compassion — it brings one back to the basis of one's inner strength",
+    "author": "Dalai Lama"
+  },
+  {
+    "text": "사려 깊고 친절한 데는 몇 초면 충분하지만, 무례한 몸짓 하나가 남기는 상처는 끝이 없다.",
+    "text_en": "To be thoughtful and kind only takes a few seconds compared to the timeless hurt caused by one rude gesture.",
+    "author": "Byron Pulsifer"
+  },
+  {
+    "text": "배움의 목적은 성장이다. 몸과 달리 마음은 살아 있는 동안 계속 자랄 수 있다.",
+    "text_en": "The purpose of learning is growth, and our minds, unlike our bodies, can continue growing as we continue to live.",
+    "author": "Mortimer Adler"
+  },
+  {
+    "text": "모든 것이 얼마나 완벽한지 깨달으면, 고개를 젖히고 하늘을 향해 웃게 될 것이다.",
+    "text_en": "When you realize how perfect everything is you will tilt your head back and laugh at the sky.",
+    "author": "Buddha"
+  },
+  {
+    "text": "모든 실패에는 다른 대안이 있다. 그것을 찾기만 하면 된다. 길이 막히면 돌아가라.",
+    "text_en": "For every failure, there's an alternative course of action. You just have to find it. When you come to a roadblock, take a detour.",
+    "author": "Mary Kay Ash"
+  },
+  {
+    "text": "사람이 해야만 할 때 얼마나 많은 것을 해내는지, 그리고 그럴 필요가 없을 때 얼마나 적게 하는지는 놀라울 정도다.",
+    "text_en": "It is surprising what a man can do when he has to, and how little most men will do when they don't have to.",
+    "author": "Walter Linn"
+  },
+  {
+    "text": "자신의 결점 하나를 아는 것이 남의 결점 천 개를 아는 것보다 더 유익하다.",
+    "text_en": "To be aware of a single shortcoming in oneself is more useful than to be aware of a thousand in someone else.",
+    "author": "Tenzin Gyatso"
+  },
+  {
+    "text": "조금밖에 할 수 없다고 아무것도 하지 않은 사람보다 더 큰 실수를 한 사람은 없다.",
+    "text_en": "Nobody made a greater mistake than he who did nothing because he could do only a little.",
+    "author": "Edmund Burke"
+  },
+  {
+    "text": "꾸준한 친절은 많은 것을 이룬다. 해가 얼음을 녹이듯, 친절은 오해와 불신과 적대감을 사라지게 한다.",
+    "text_en": "Constant kindness can accomplish much. As the sun makes ice melt, kindness causes misunderstanding, mistrust, and hostility to evaporate.",
+    "author": "Albert Schweitzer"
+  },
+  {
+    "text": "가장 위대한 정신은 가장 큰 미덕뿐 아니라 가장 큰 악덕도 품을 수 있다.",
+    "text_en": "The greatest minds are capable of the greatest vices as well as of the greatest virtues.",
+    "author": "Rene Descartes"
+  },
+  {
+    "text": "사람은 있어야 한다고 생각하는 것이 아니라 있는 그대로를 보아야 한다.",
+    "text_en": "A man should look for what is, and not for what he thinks should be.",
+    "author": "Albert Einstein"
+  },
+  {
+    "text": "어려움은 낙담시키려는 것이 아니라 분발하게 하려는 것이다. 인간의 정신은 갈등을 통해 강해진다.",
+    "text_en": "Difficulties are meant to rouse, not discourage. The human spirit is to grow strong by conflict.",
+    "author": "William Channing"
+  },
+  {
+    "text": "자신의 가치를 존중하지 않는다면 어떻게 남에게 존중받을 자격이 있겠는가.",
+    "text_en": "If you have no respect for your own values how can you be worthy of respect from others.",
+    "author": "Byron Pulsifer"
+  },
+  {
+    "text": "어떤 사람들은 장미에 가시가 있다고 늘 불평한다. 나는 가시에 장미가 있다는 것에 감사한다.",
+    "text_en": "Some people are always grumbling because roses have thorns; I am thankful that thorns have roses.",
+    "author": "Alphonse Karr"
+  },
+  {
+    "text": "평생 어려운 길을 마치 쉬운 길인 양 택하는 것, 그것이 믿음이다.",
+    "text_en": "To choose what is difficult all ones days, as if it were easy, that is faith.",
+    "author": "W. H. Auden"
+  },
+  {
+    "text": "능력은 당신이 할 수 있는 것이다. 동기는 당신이 무엇을 할지 결정한다. 태도는 그것을 얼마나 잘할지 결정한다.",
+    "text_en": "Ability is what you're capable of doing. Motivation determines what you do.Attitude determines how well you do it.",
+    "author": "Lou Holtz"
+  },
+  {
+    "text": "실수를 부끄러워하지 마라. 실수를 이해하는 것보다 우리를 더 잘 가르쳐 주는 것은 없다. 이것은 스스로 배우는 가장 좋은 방법 중 하나다.",
+    "text_en": "Do not be embarrassed by your mistakes. Nothing can teach us better than our understanding of them. This is one of the best ways of self-education.",
+    "author": "Thomas Carlyle"
+  },
+  {
+    "text": "촛불 하나로 수천 개의 초에 불을 붙일 수 있고, 그래도 그 초의 수명은 줄어들지 않는다. 행복은 나눈다고 결코 줄어들지 않는다.",
+    "text_en": "Thousands of candles can be lighted from a single candle, and the life of the candle will not be shortened. Happiness never decreases by being shared.",
+    "author": "Buddha"
+  },
+  {
+    "text": "나는 남에게 내가 어떤 사람인지보다 나 자신에게 내가 어떤 사람인지가 더 중요하다. 나는 빌려서가 아니라 스스로 부유해지겠다.",
+    "text_en": "I care not so much what I am to others as what I am to myself. I will be rich by myself, and not by borrowing.",
+    "author": "Michel de Montaigne"
+  },
+  {
+    "text": "영원한 질서 속에서 당신은 작은 존재이지만, 세상 곳곳의 모든 사람이 그렇듯 유일하고 대체할 수 없는 존재임을 알라.",
+    "text_en": "Know that although in the eternal scheme of things you are small, you are also unique and irreplaceable, as are all your fellow humans everywhere in the world.",
+    "author": "Margaret Laurence"
+  },
+  {
+    "text": "할 수 있는 일을 모두 하는 것은 인간이 되는 것이고, 하고 싶은 일을 모두 하는 것은 신이 되는 것이다.",
+    "text_en": "To do all that one is able to do, is to be a man; to do all that one would like to do, is to be a god.",
+    "author": "Napoleon Bonaparte"
+  },
+  {
+    "text": "조금 내려놓으면 조금 평화로워지고, 많이 내려놓으면 많이 평화로워진다.",
+    "text_en": "If you let go a little, you will have a little peace. If you let go a lot, you will have a lot of peace.",
+    "author": "Ajahn Chah"
+  },
+  {
+    "text": "사원도, 복잡한 철학도 필요 없다. 나의 뇌와 마음이 나의 사원이고, 나의 철학은 친절이다.",
+    "text_en": "There is no need for temples, no need for complicated philosophies. My brain and my heart are my temples; my philosophy is kindness.",
+    "author": "Dalai Lama"
+  },
+  {
+    "text": "정신, 이기려는 의지, 뛰어나려는 의지야말로 오래 남는 것이다. 이런 자질은 일어나는 사건들보다 훨씬 더 중요하다.",
+    "text_en": "The spirit, the will to win, and the will to excel, are the things that endure. These qualities are so much more important than the events that occur.",
+    "author": "Vincent Lombardi"
+  },
+  {
+    "text": "인간은 이미 가진 것의 합이 아니라, 아직 갖지 못한 것, 가질 수 있는 것의 합이다.",
+    "text_en": "Man is not sum of what he has already, but rather the sum of what he does not yet have, of what he could have.",
+    "author": "Jean-Paul Sartre"
+  },
+  {
+    "text": "눈이 말하는 것을 믿지 마라. 눈은 한계만 보여 줄 뿐이다. 이해로 보고, 이미 알고 있는 것을 찾아내면 나는 법을 알게 될 것이다.",
+    "text_en": "Don't believe what your eyes are telling you. All they show is limitation. Look with your understanding, find out what you already know, and you'll see the way to fly.",
+    "author": "Richard Bach"
+  },
+  {
+    "text": "나는 우리가 자신의 선택에 전적으로 책임이 있으며, 평생의 모든 행동과 말과 생각의 결과를 받아들여야 한다고 믿는다.",
+    "text_en": "I believe that we are solely responsible for our choices, and we have to accept the consequences of every deed, word, and thought throughout our lifetime.",
+    "author": "Elisabeth Kubler-Ross"
+  },
+  {
+    "text": "소망을 행동으로 바꾸면 소망은 원하는 것을 얻는 가장 좋은 길이 될 수 있다. 행동은 소망을 생각에서 현실로 끌어낸다.",
+    "text_en": "Wishes can be your best avenue of getting what you want when you turn wishes into action. Action moves your wish to the forefront from thought to reality.",
+    "author": "Byron Pulsifer"
+  },
+  {
+    "text": "한 사람의 마음과 정신을 이해하려면 그가 이미 이룬 것이 아니라 그가 이루고자 하는 것을 보라.",
+    "text_en": "To understand the heart and mind of a person, look not at what he has already achieved, but at what he aspires to do.",
+    "author": "Kahlil Gibran"
+  },
+  {
+    "text": "나는 내 삶이 공동체에 속한다고 생각하며, 살아 있는 한 공동체를 위해 할 수 있는 모든 것을 하는 것이 나의 특권이다.",
+    "text_en": "I am of the opinion that my life belongs to the community, and as long as I live it is my privilege to do for it whatever I can.",
+    "author": "Bernard Shaw"
+  },
+  {
+    "text": "상상력은 지식보다 중요하다. 지식은 우리가 지금 알고 이해하는 것을 규정하지만, 상상력은 우리가 앞으로 발견하고 창조할 모든 것을 가리킨다.",
+    "text_en": "Imagination is more important than knowledge. For while knowledge defines all we currently know and understand, imagination points to all we might yet discover and create.",
+    "author": "Albert Einstein"
+  },
+  {
+    "text": "좋은 사람을 보면 그와 같아지기를 생각하고, 그렇지 못한 사람을 보면 자신의 약점을 돌아보라.",
+    "text_en": "When you see a good person, think of becoming like him. When you see someone not so good, reflect on your own weak points.",
+    "author": "Confucius"
+  },
+  {
+    "text": "자신과 멀어지면 남과도 멀어진다. 자신과 닿아 있지 않으면 남에게도 닿을 수 없다.",
+    "text_en": "If one is estranged from oneself, then one is estranged from others too. If one is out of touch with oneself, then one cannot touch others.",
+    "author": "Anne Lindbergh"
+  },
+  {
+    "text": "세상의 중요한 일 대부분은 전혀 희망이 없어 보일 때도 계속 노력한 사람들이 이루어 냈다.",
+    "text_en": "Most of the important things in the world have been accomplished by people who have kept on trying when there seemed to be no hope at all.",
+    "author": "Dale Carnegie"
+  },
+  {
+    "text": "당신은 나를 몽상가라 부를지 모르지만, 나만 그런 것은 아니다. 언젠가 당신도 우리와 함께하고, 세상이 하나 되어 살기를 바란다.",
+    "text_en": "You may say Im a dreamer, but Im not the only one, I hope someday you will join us, and the world will live as one.",
+    "author": "John Lennon"
+  },
+  {
+    "text": "행복은 나비와 같아서 쫓으면 늘 손에 닿지 않지만, 조용히 앉아 있으면 당신 위에 내려앉을지도 모른다.",
+    "text_en": "Happiness is as a butterfly which, when pursued, is always beyond our grasp, but which if you will sit down quietly, may alight upon you.",
+    "author": "Nathaniel Hawthorne"
+  },
+  {
+    "text": "삶의 하나 됨을 경험한 사람은 모든 존재 안에서 자신을, 자신 안에서 모든 존재를 보며, 모든 것을 공평한 눈으로 바라본다.",
+    "text_en": "He who experiences the unity of life sees his own Self in all beings, and all beings in his own Self, and looks on everything with an impartial eye.",
+    "author": "Buddha"
+  },
+  {
+    "text": "하늘에는 동쪽과 서쪽의 구분이 없다. 사람들이 마음속에서 구분을 만들어 내고는 그것을 진실이라 믿을 뿐이다.",
+    "text_en": "In the sky, there is no distinction of east and west; people create distinctions out of their own minds and then believe them to be true.",
+    "author": "Buddha"
+  },
+  {
+    "text": "의도만으로는 삶의 어떤 것도 바꿀 수 없다. 의도는 언젠가 내일에 이르리라는 묽고 가끔 떠오르는 희망이 될 뿐이다. 행동 없는 의도는 쓸모없다.",
+    "text_en": "You cannot change anything in your life with intention alone, which can become a watered-down, occasional hope that you'll get to tomorrow. Intention without action is useless.",
+    "author": "Caroline Myss"
+  },
+  {
+    "text": "감정으로 사람을 감동시키려면 먼저 자신이 그 감정에 흠뻑 젖어야 한다. 남을 울리려면 자신의 눈물이 먼저 흘러야 한다. 남을 설득하려면 먼저 스스로 믿어야 한다.",
+    "text_en": "Before you can inspire with emotion, you must be swamped with it yourself. Before you can move their tears, your own must flow. To convince them, you must yourself believe.",
+    "author": "Winston Churchill"
+  },
+  {
+    "text": "우리 세대의 가장 위대한 발견은 사람이 마음가짐을 바꿈으로써 삶을 바꿀 수 있다는 것이다. 생각하는 대로 될 것이다.",
+    "text_en": "The greatest discovery of our generation is that human beings can alter their lives by altering their attitudes of mind. As you think, so shall you be.",
+    "author": "William James"
+  },
+  {
+    "text": "꿈을 향해 자신 있게 나아가고 상상한 삶을 살려고 노력하는 사람은 평범한 때에는 생각지도 못한 성공을 만나게 된다.",
+    "text_en": "If one advances confidently in the direction of his dream, and endeavours to live the life which he had imagines, he will meet with a success unexpected in common hours.",
+    "author": "Henry David Thoreau"
+  },
+  {
+    "text": "일에서 기쁨을 얻는 비결은 한 단어에 담겨 있다. 탁월함이다. 무언가를 잘하는 법을 안다는 것은 그것을 즐긴다는 것이다.",
+    "text_en": "The secret of joy in work is contained in one word — excellence. To know how to do something well is to enjoy it.",
+    "author": "Pearl Buck"
+  },
+  {
+    "text": "자신보다 나은 사람을 만나면 그와 같아지기를 생각하고, 자신만 못한 사람을 만나면 안을 들여다보며 자신을 살펴라.",
+    "text_en": "When you meet someone better than yourself, turn your thoughts to becoming his equal. When you meet someone not as good as you are, look within and examine your own self.",
+    "author": "Confucius"
+  },
+  {
+    "text": "평범해야 한다는 생각을 극복해야 한다. 그 생각은 비범해질 기회를 빼앗고 당신을 평범함으로 이끈다.",
+    "text_en": "We must overcome the notion that we must be regular. It robs you of the chance to be extraordinary and leads you to the mediocre.",
+    "author": "Uta Hagen"
+  },
+  {
+    "text": "장애물 앞에서 움츠러드는 대신 당당히 뚫고 나가기로 마음먹는다면, 대부분의 장애물은 녹아 없어질 것이다.",
+    "text_en": "Most of our obstacles would melt away if, instead of cowering before them, we should make up our minds to walk boldly through them.",
+    "author": "Orison Marden"
+  },
+  {
+    "text": "인간에게서 모든 것을 빼앗을 수 있어도 단 하나, 인간의 마지막 자유만은 빼앗을 수 없다. 어떤 상황에서든 자신의 태도를 선택하고, 자신의 길을 선택하는 자유다.",
+    "text_en": "Everything can be taken from a man but ... the last of the human freedoms — to choose ones attitude in any given set of circumstances, to choose ones own way.",
+    "author": "Victor Frankl"
+  },
+  {
+    "text": "아무 아이디어도 없어서 늘 옳은 것보다, 그중 몇 개는 틀릴 만큼 아이디어가 많은 편이 낫다.",
+    "text_en": "It is better to have enough ideas for some of them to be wrong, than to be always right by having no ideas at all.",
+    "author": "Edward de Bono"
+  },
+  {
+    "text": "인격은 나무와 같고 평판은 그림자와 같다. 그림자는 우리가 그것을 어떻게 생각하느냐이고, 나무가 진짜다.",
+    "text_en": "Character is like a tree and reputation like a shadow. The shadow is what we think of it; the tree is the real thing.",
+    "author": "Abraham Lincoln"
+  },
+  {
+    "text": "내려놓으면 모든 것이 이루어진다. 세상은 내려놓는 자가 얻는다. 하지만 애쓰고 또 애쓰면 세상은 얻을 수 없게 된다.",
+    "text_en": "By letting it go it all gets done. The world is won by those who let it go. But when you try and try. The world is beyond the winning.",
+    "author": "Lao Tzu"
+  },
+  {
+    "text": "나는 마침내 아름다운 별자리 속 다른 별 곁에 자리를 찾은 별똥별과 같다. 우리는 그곳에서 영원히 하늘에 반짝일 것이다.",
+    "text_en": "I am like a falling star who has finally found her place next to another in a lovely constellation, where we will sparkle in the heavens forever.",
+    "author": "Amy Tan"
+  },
+  {
+    "text": "어렵고 위험한 일이라고 모두 수련에 알맞은 것은 아니다. 노력의 목적을 이루는 데 도움이 되는 것만이 알맞다.",
+    "text_en": "Not every difficult and dangerous thing is suitable for training, but only that which is conducive to success in achieving the object of our effort.",
+    "author": "Epictetus"
+  },
+  {
+    "text": "우리는 동물이 아니다. 우리는 과거에 일어난 일의 산물이 아니다. 우리에게는 선택할 힘이 있다.",
+    "text_en": "We are not animals. We are not a product of what has happened to us in our past. We have the power of choice.",
+    "author": "Stephen Covey"
+  },
+  {
+    "text": "시간을 잃는 가장 위험한 방법은 노는 데 쓰는 것이 아니라 가짜 일을 하는 데 쓰는 것이다. 놀 때는 적어도 자신이 방종하고 있다는 것을 안다.",
+    "text_en": "The most dangerous way to lose time is not to spend it having fun, but to spend it doing fake work. When you spend time having fun, you know you're being self-indulgent.",
+    "author": "Paul Graham"
+  },
+  {
+    "text": "초 하나로 수천 개의 초를 밝힐 수 있고, 그 초의 수명은 짧아지지 않는다. 행복은 나눈다고 결코 줄지 않는다.",
+    "text_en": "Thousands of candles can be lit from a single, and the life of the candle will not be shortened. Happiness never decreases by being shared.",
+    "author": "Buddha"
+  },
+  {
+    "text": "많은 사람이 자신이 할 수 없다고 느끼는 것의 부정적인 면을 본다. 나는 언제나 내가 할 수 있는 것의 긍정적인 면을 본다.",
+    "text_en": "A lot of times people look at the negative side of what they feel they can't do. I always look on the positive side of what I can do.",
+    "author": "Chuck Norris"
+  },
+  {
+    "text": "열정이 없는 사람은 잠재된 힘이자 가능성에 불과하다. 불꽃을 내기 전에 쇠의 충격을 기다리는 부싯돌처럼.",
+    "text_en": "Without passion man is a mere latent force and possibility, like the flint which awaits the shock of the iron before it can give forth its spark.",
+    "author": "Amiel"
+  },
+  {
+    "text": "첫눈에 반하는 사랑은 이해하기 쉽다. 두 사람이 평생 서로를 바라볼 때, 그것이 기적이 된다.",
+    "text_en": "Love at first sight is easy to understand; its when two people have been looking at each other for a lifetime that it becomes a miracle.",
+    "author": "Amy Bloom"
+  },
+  {
+    "text": "용기가 있으면 위험을 감수할 수 있고, 자비를 베풀 힘과 겸손할 지혜를 갖게 된다. 용기는 정직함의 토대다.",
+    "text_en": "With courage you will dare to take risks, have the strength to be compassionate, and the wisdom to be humble. Courage is the foundation of integrity.",
+    "author": "Keshavan Nair"
+  },
+  {
+    "text": "옳은 길이 언제나 인기 있고 쉬운 길은 아니다. 인기가 없을 때도 옳은 편에 서는 것이 도덕적 인격의 진정한 시험이다.",
+    "text_en": "The right way is not always the popular and easy way. Standing for right when it is unpopular is a true test of moral character.",
+    "author": "Margaret Smith"
+  },
+  {
+    "text": "나는 거짓되게 살아 스스로를 혐오하게 되느니, 남의 조롱을 받을 위험이 있더라도 나 자신에게 진실하겠다.",
+    "text_en": "I prefer to be true to myself, even at the hazard of incurring the ridicule of others, rather than to be false, and to incur my own abhorrence.",
+    "author": "Frederick Douglass"
+  },
+  {
+    "text": "어떤 비관론자도 별의 비밀을 발견하거나, 지도에 없는 땅으로 항해하거나, 인간 정신에 새로운 하늘을 열어 준 적이 없다.",
+    "text_en": "No pessimist ever discovered the secrets of the stars, or sailed to an uncharted land, or opened a new heaven to the human spirit.",
+    "author": "Helen Keller"
+  },
+  {
+    "text": "아침에 일어나면 살아 있다는 것, 숨 쉬고, 생각하고, 즐기고, 사랑할 수 있다는 것이 얼마나 귀한 특권인지 생각하라.",
+    "text_en": "When you arise in the morning, think of what a precious privilege it is to be alive — to breathe, to think, to enjoy, to love.",
+    "author": "Marcus Aurelius"
+  },
+  {
+    "text": "인격은 편안하고 조용한 가운데 길러지지 않는다. 시련과 고통을 겪어야만 영혼이 강해지고, 시야가 맑아지고, 야망이 고취되며, 성공을 이룰 수 있다.",
+    "text_en": "Character cannot be developed in ease and quiet. Only through experience of trial and suffering can the soul be strengthened, vision cleared, ambition inspired, and success achieved.",
+    "author": "Helen Keller"
+  },
+  {
+    "text": "삶에 비극이 있을지라도 승리할 가능성은 언제나 있다. 당신이 누구든, 어디서 왔든 상관없다. 승리할 능력은 언제나 당신에게서 시작된다.",
+    "text_en": "Although there may be tragedy in your life, there's always a possibility to triumph. It doesn't matter who you are, where you come from. The ability to triumph begins with you. Always.",
+    "author": "Oprah Winfrey"
+  },
+  {
+    "text": "직관을 훈련해야 한다. 무엇을 말하고 무엇을 결정해야 할지 정확히 알려 주는 내면의 작은 목소리를 믿어야 한다.",
+    "text_en": "You must train your intuition — you must trust the small voice inside you which tells you exactly what to say, what to decide.",
+    "author": "Ingrid Bergman"
+  },
+  {
+    "text": "운명이 당신을 묶어 둔 것들을 받아들이고, 운명이 맺어 준 사람들을 사랑하라. 다만 온 마음을 다해 그렇게 하라.",
+    "text_en": "Accept the things to which fate binds you, and love the people with whom fate brings you together, but do so with all your heart.",
+    "author": "Marcus Aurelius"
+  },
+  {
+    "text": "맹목적인 의심과 감정에 굴복하지 않고 스스로 운명을 다스리며, 역사의 희생자가 아니라 주인이 되기로 결심하자.",
+    "text_en": "Let us resolve to be masters, not the victims, of our history, controlling our own destiny without giving way to blind suspicions and emotions.",
+    "author": "John Kennedy"
+  },
+  {
+    "text": "인생에서 두려워할 것은 없다. 이해해야 할 것만 있을 뿐이다. 지금은 더 많이 이해할 때다. 그래야 덜 두려워할 수 있다.",
+    "text_en": "Nothing in life is to be feared, it is only to be understood. Now is the time to understand more, so that we may fear less.",
+    "author": "Marie Curie"
+  },
+  {
+    "text": "부모는 좋은 충고를 하거나 올바른 길로 이끌어 줄 수 있을 뿐, 한 사람의 인격을 최종적으로 빚는 것은 그 자신의 손에 달려 있다.",
+    "text_en": "Parents can only give good advice or put them on the right paths, but the final forming of a persons character lies in their own hands.",
+    "author": "Anne Frank"
+  },
+  {
+    "text": "역경은 당신을 실패하게 하려고 있는 것이 아니다. 역경은 끈기를 통해 거듭 성공할 수 있도록 인격을 쌓는 방법이다.",
+    "text_en": "Adversity isn't set against you to fail; adversity is a way to build your character so that you can succeed over and over again through perseverance.",
+    "author": "Byron Pulsifer"
+  },
+  {
+    "text": "목이 부러졌거나, 먹을 것이 없거나, 집에 불이 났다면 그것은 문제다. 나머지는 모두 불편함일 뿐이다.",
+    "text_en": "If you break your neck, if you have nothing to eat, if your house is on fire, then you got a problem. Everything else is inconvenience.",
+    "author": "Robert Fulghum"
+  },
+  {
+    "text": "성공이 행복의 열쇠가 아니다. 행복이 성공의 열쇠다. 하는 일을 사랑한다면 성공할 것이다.",
+    "text_en": "Success is not the key to happiness. Happiness is the key to success. If you love what you are doing, you will be successful.",
+    "author": "Albert Schweitzer"
+  },
+  {
+    "text": "A가 인생의 성공이라면 A는 x 더하기 y 더하기 z다. x는 일, y는 놀이, z는 입을 다무는 것이다.",
+    "text_en": "If A is success in life, then A equals x plus y plus z. Work is x; y is play; and z is keeping your mouth shut.",
+    "author": "Albert Einstein"
+  },
+  {
+    "text": "내 충고는 이유나 행방을 묻지 말고 접시에 있는 동안 아이스크림을 즐기라는 것이다. 그것이 내 철학이다.",
+    "text_en": "My advice to you is not to inquire why or whither, but just enjoy your ice cream while its on your plate — that's my philosophy.",
+    "author": "Thornton Wilder"
+  },
+  {
+    "text": "갈등은 생각을 일깨우는 등에다. 갈등은 우리를 관찰과 기억으로 이끌고, 발명을 부추기며, 양처럼 수동적인 상태에서 깨워 주목하고 궁리하게 한다.",
+    "text_en": "Conflict is the gadfly of thought. It stirs us to observation and memory. It instigates to invention. It shocks us out of sheeplike passivity, and sets us at noting and contriving.",
+    "author": "John Dewey"
+  },
+  {
+    "text": "남을 이기는 자는 강하고, 자신을 이기는 자는 위대하다.",
+    "text_en": "He who conquers others is strong; He who conquers himself is mighty.",
+    "author": "Lao Tzu"
+  },
+  {
+    "text": "정말 원하는 것은 진심으로 추구하면 무엇이든 얻을 수 있다.",
+    "text_en": "Anything you really want, you can attain, if you really go after it.",
+    "author": "Wayne Dyer"
+  },
+  {
+    "text": "한 지점에 도착하는 것은 또 다른 곳으로 가는 출발점이다.",
+    "text_en": "Arriving at one point is the starting point to another.",
+    "author": "John Dewey"
+  },
+  {
+    "text": "어리석은 사람은 먼 곳에서 행복을 찾고, 현명한 사람은 발밑에서 행복을 키운다.",
+    "text_en": "The foolish man seeks happiness in the distance, the wise grows it under his feet.",
+    "author": "James Oppenheim"
+  },
+  {
+    "text": "우리 행복의 대부분은 환경이 아니라 마음가짐에 달려 있다.",
+    "text_en": "The greatest part of our happiness depends on our dispositions, not our circumstances.",
+    "author": "Martha Washington"
+  },
+  {
+    "text": "영원히 행복하게 사는 것은 하루하루를 행복하게 살 때만 가능하다.",
+    "text_en": "It is only possible to live happily ever after on a day to day basis.",
+    "author": "Margaret Bonnano"
+  },
+  {
+    "text": "사람은 마음에 품은 것을 세상에서 본다.",
+    "text_en": "A man sees in the world what he carries in his heart.",
+    "author": "Goethe"
+  },
+  {
+    "text": "행동이 언제나 행복을 가져오는 것은 아니지만, 행동 없는 행복은 없다.",
+    "text_en": "Action may not always bring happiness, but there is no happiness without action.",
+    "author": "Benjamin Disraeli"
+  },
+  {
+    "text": "당신이 위대한 일을 하도록 운명 지어졌다고 마음 깊이 믿어라.",
+    "text_en": "Believe deep down in your heart that you're destined to do great things.",
+    "author": "Joe Paterno"
+  },
+  {
+    "text": "결국 이기는 사람은 이길 수 있다고 생각하는 사람이다.",
+    "text_en": "Sooner or later, those who win are those who think they can.",
+    "author": "Richard Bach"
+  },
+  {
+    "text": "당신이 미칠 수 있는 영향력의 유일한 한계는 상상력과 헌신이다.",
+    "text_en": "The only limit to your impact is your imagination and commitment.",
+    "author": "Tony Robbins"
+  },
+  {
+    "text": "당신은 특별하고, 유일하며, 최고다!",
+    "text_en": "You are special, you are unique, you are the best!",
+    "author": "Cathy Pulsifer"
+  },
+  {
+    "text": "성취를 위한 네 단계: 목적을 갖고 계획하라. 기도하는 마음으로 준비하라. 긍정적으로 나아가라. 끈기 있게 추구하라.",
+    "text_en": "Four steps to achievement: Plan purposefully. Prepare prayerfully. Proceed positively. Pursue persistently.",
+    "author": "William Arthur Ward"
+  },
+  {
+    "text": "자신을 안다는 것은 다른 사람과 함께 행동하는 자신을 살펴보는 것이다.",
+    "text_en": "To know oneself is to study oneself in action with another person.",
+    "author": "Bruce Lee"
+  },
+  {
+    "text": "우리가 맞서는 체제를 닮아 가도록 스스로를 내버려 두어서는 안 된다.",
+    "text_en": "We must not allow ourselves to become like the system we oppose.",
+    "author": "Bishop Desmond Tutu"
+  },
+  {
+    "text": "미소 짓고, 숨 쉬고, 천천히 걸어라.",
+    "text_en": "Smile, breathe and go slowly.",
+    "author": "Thich Nhat Hanh"
+  },
+  {
+    "text": "현실은 단지 환상일 뿐이다. 다만 아주 끈질긴 환상일 뿐.",
+    "text_en": "Reality is merely an illusion, albeit a very persistent one.",
+    "author": "Albert Einstein"
+  },
+  {
+    "text": "밧줄 끝에 다다르면 매듭을 짓고 매달려라.",
+    "text_en": "When you come to the end of your rope, tie a knot and hang on.",
+    "author": "Franklin Roosevelt"
+  },
+  {
+    "text": "언제나 남의 허물이 아니라 친절을 기억하라.",
+    "text_en": "Always be mindful of the kindness and not the faults of others.",
+    "author": "Buddha"
+  },
+  {
+    "text": "남에게서 우리를 거슬리게 하는 모든 것은 우리 자신을 이해하는 길로 이끌 수 있다.",
+    "text_en": "Everything that irritates us about others can lead us to an understanding of ourselves.",
+    "author": "Carl Jung"
+  },
+  {
+    "text": "운명이 레몬을 건네면 레모네이드를 만들어 보자.",
+    "text_en": "When fate hands us a lemon, lets try to make lemonade.",
+    "author": "Dale Carnegie"
+  },
+  {
+    "text": "약한 사람은 결코 용서하지 못한다. 용서는 강한 사람의 덕목이다.",
+    "text_en": "The weak can never forgive. Forgiveness is the attribute of the strong.",
+    "author": "Mohandas Gandhi"
+  },
+  {
+    "text": "사람은 태생이 아니라 행동으로 위대해진다.",
+    "text_en": "A man is great by deeds, not by birth.",
+    "author": "Chanakya"
+  },
+  {
+    "text": "성공은 원하는 것을 얻는 것이고, 행복은 얻은 것을 원하는 것이다.",
+    "text_en": "Success is getting what you want. Happiness is wanting what you get.",
+    "author": "Dale Carnegie"
+  },
+  {
+    "text": "진실은 실제로 일어난 일 그 자체라기보다 일어난 일을 어떻게 해석하느냐에 더 가깝다.",
+    "text_en": "Truth isn't all about what actually happens but more about how what has happened is interpreted.",
+    "author": "Byron Pulsifer"
+  },
+  {
+    "text": "하루하루를 거둔 수확이 아니라 뿌린 씨앗으로 판단하라.",
+    "text_en": "Don't judge each day by the harvest you reap but by the seeds that you plant.",
+    "author": "Robert Stevenson"
+  },
+  {
+    "text": "작은 기회가 종종 큰 사업의 시작이 된다.",
+    "text_en": "Small opportunities are often the beginning of great enterprises.",
+    "author": "Demosthenes"
+  },
+  {
+    "text": "시험받는 것은 좋은 일이다. 도전받는 삶이야말로 최고의 치료사일지 모른다.",
+    "text_en": "To be tested is good. The challenged life may be the best therapist.",
+    "author": "Gail Sheehy"
+  },
+  {
+    "text": "명심하라. 찾지 않는 것은 발견할 수 없다.",
+    "text_en": "Take heed: you do not find what you do not seek.",
+    "author": "English proverb"
+  },
+  {
+    "text": "행복은 우리가 아는 가장 높은 옳음에 따라 살아갈 때 받는 보상이다.",
+    "text_en": "Happiness is the reward we get for living to the highest right we know.",
+    "author": "Richard Bach"
+  },
+  {
+    "text": "말은 느리게 하고, 눈은 빠르게 하라.",
+    "text_en": "Be slow of tongue and quick of eye.",
+    "author": "Cervantes"
+  },
+  {
+    "text": "잘못할 자유를 포함하지 않는 자유는 가질 가치가 없다.",
+    "text_en": "Freedom is not worth having if it does not connote freedom to err.",
+    "author": "Mohandas Gandhi"
+  },
+  {
+    "text": "나는 늘 사람의 행동이 그 사람의 생각을 가장 잘 말해 준다고 생각해 왔다.",
+    "text_en": "I have always thought the actions of men the best interpreters of their thoughts.",
+    "author": "John Locke"
+  },
+  {
+    "text": "감행한다는 것은 잠시 발판을 잃는 것이다. 감행하지 않는 것은 자기 자신을 잃는 것이다.",
+    "text_en": "To dare is to lose ones footing momentarily. To not dare is to lose oneself.",
+    "author": "Soren Kierkegaard"
+  },
+  {
+    "text": "무언가를 배운 날은 결코 완전히 헛된 날이 아니다.",
+    "text_en": "No day in which you learn something is a complete loss.",
+    "author": "David Eddings"
+  },
+  {
+    "text": "평화는 힘으로 지킬 수 없다. 오직 이해로만 이룰 수 있다.",
+    "text_en": "Peace cannot be kept by force. It can only be achieved by understanding.",
+    "author": "Albert Einstein"
+  },
+  {
+    "text": "진정한 성공은 사랑하는 일에서 평생의 업을 찾는 것이다.",
+    "text_en": "Real success is finding your lifework in the work that you love.",
+    "author": "David McCullough"
+  },
+  {
+    "text": "공허한 천 마디 말보다 평화를 가져오는 한마디가 낫다.",
+    "text_en": "Better than a thousand hollow words, is one word that brings peace.",
+    "author": "Buddha"
+  },
+  {
+    "text": "당신의 신성한 공간은 몇 번이고 자신을 다시 찾을 수 있는 곳이다.",
+    "text_en": "Your sacred space is where you can find yourself again and again.",
+    "author": "Joseph Campbell"
+  },
+  {
+    "text": "생각하는 대로 될 것이다.",
+    "text_en": "As you think, so shall you become.",
+    "author": "Bruce Lee"
+  },
+  {
+    "text": "씨 뿌릴 때는 배우고, 수확할 때는 가르치고, 겨울에는 즐겨라.",
+    "text_en": "In seed time learn, in harvest teach, in winter enjoy.",
+    "author": "William Blake"
+  },
+  {
+    "text": "행복은 많이 가진 데서가 아니라 적은 것에 애착을 두는 데서 온다.",
+    "text_en": "Happiness does not come from having much, but from being attached to little.",
+    "author": "Cheng Yen"
+  },
+  {
+    "text": "친구가 주는 모든 선물은 당신의 행복을 비는 마음이다.",
+    "text_en": "Every gift from a friend is a wish for your happiness.",
+    "author": "Richard Bach"
+  },
+  {
+    "text": "신념을 행동으로 옮겨라. 두 가지 혀로 말하지도 마라.",
+    "text_en": "Go put your creed into the deed. Nor speak with double tongue.",
+    "author": "Ralph Emerson"
+  },
+  {
+    "text": "가장 현명한 사람은 자기 자신의 방향을 따른다.",
+    "text_en": "The wisest men follow their own direction.",
+    "author": "Euripides"
+  },
+  {
+    "text": "희망은 그 무엇도 일으킬 수 없는 방식으로 가능성에 대한 열정을 불러일으킨다.",
+    "text_en": "Hope arouses, as nothing else can arouse, a passion for the possible.",
+    "author": "William Sloane Coffin"
+  },
+  {
+    "text": "모든 것에는 아름다움이 있지만, 모두가 그것을 보는 것은 아니다.",
+    "text_en": "Everything has beauty, but not everyone sees it.",
+    "author": "Confucius"
+  },
+  {
+    "text": "어떤 것도 우리가 알아야 할 것을 가르쳐 주기 전에는 사라지지 않는다.",
+    "text_en": "Nothing ever goes away until it has taught us what we need to know.",
+    "author": "Pema Chodron"
+  },
+  {
+    "text": "배우면 가르치고, 받으면 베풀어라.",
+    "text_en": "When you learn, teach. When you get, give.",
+    "author": "Maya Angelou"
+  },
+  {
+    "text": "더 이상 두려워하지 않을 때, 비로소 우리는 살기 시작한다.",
+    "text_en": "Only when we are no longer afraid do we begin to live.",
+    "author": "Dorothy Thompson"
+  },
+  {
+    "text": "아무도 없을 때 미소 짓는다면, 그것은 진심이다.",
+    "text_en": "If you smile when no one else is around, you really mean it.",
+    "author": "Andy Rooney"
+  },
+  {
+    "text": "사랑은 적을 친구로 바꿀 수 있는 유일한 힘이다.",
+    "text_en": "Love is the only force capable of transforming an enemy into friend.",
+    "author": "Martin Luther King, Jr."
+  },
+  {
+    "text": "모든 혼돈 속에는 질서가 있고, 모든 무질서 속에는 숨은 질서가 있다.",
+    "text_en": "In all chaos there is a cosmos, in all disorder a secret order.",
+    "author": "Carl Jung"
+  },
+  {
+    "text": "위대함의 대가는 책임이다.",
+    "text_en": "The price of greatness is responsibility.",
+    "author": "Winston Churchill"
+  },
+  {
+    "text": "결정이란 자유로울 수 있는 용기에 뿌리를 둔 모험이다.",
+    "text_en": "Decision is a risk rooted in the courage of being free.",
+    "author": "Paul Tillich"
+  },
+  {
+    "text": "긴장을 풀고 답을 기다리는 법을 배우면, 마음은 대부분의 질문에 답해 줄 것이다.",
+    "text_en": "Your mind will answer most questions if you learn to relax and wait for the answer.",
+    "author": "William Burroughs"
+  },
+  {
+    "text": "문제를 만들 때 사용한 것과 같은 사고방식으로는 그 문제를 해결할 수 없다.",
+    "text_en": "We cannot solve our problems with the same thinking we used when we created them.",
+    "author": "Albert Einstein"
+  },
+  {
+    "text": "배움이란 이미 알고 있는 것을 깨닫는 것이다.",
+    "text_en": "Learning is finding out what you already know.",
+    "author": "Richard Bach"
+  },
+  {
+    "text": "감사하다고 말하는 것은 좋은 예절 그 이상이다. 그것은 좋은 영성이다.",
+    "text_en": "Saying thank you is more than good manners. It is good spirituality.",
+    "author": "Alfred Painter"
+  },
+  {
+    "text": "침묵은 큰 힘의 원천이다.",
+    "text_en": "Silence is a source of great strength.",
+    "author": "Lao Tzu"
+  },
+  {
+    "text": "기쁨은 최고의 화장이다.",
+    "text_en": "Joy is the best makeup.",
+    "author": "Anne Lamott"
+  },
+  {
+    "text": "광기가 조금도 섞이지 않은 위대한 천재는 없다.",
+    "text_en": "There is no great genius without some touch of madness.",
+    "author": "Seneca"
+  },
+  {
+    "text": "항아리는 한 방울씩 채워진다.",
+    "text_en": "A jug fills drop by drop.",
+    "author": "Buddha"
+  },
+  {
+    "text": "자신이 누구인지와 화해하기 전까지, 가진 것에 결코 만족하지 못할 것이다.",
+    "text_en": "Until you make peace with who you are, you'll never be content with what you have.",
+    "author": "Doris Mortman"
+  },
+  {
+    "text": "과녁을 맞히려면 과녁보다 높은 곳을 겨냥해야 한다.",
+    "text_en": "We aim above the mark to hit the mark.",
+    "author": "Ralph Emerson"
+  },
+  {
+    "text": "화를 낸다고 해결되는 것은 없다.",
+    "text_en": "Being angry never solves anything.",
+    "author": "Catherine Pulsifer"
+  },
+  {
+    "text": "위대한 일을 이룬 사람은 모두 위대한 몽상가였다.",
+    "text_en": "All men who have achieved great things have been great dreamers.",
+    "author": "Orison Marden"
+  },
+  {
+    "text": "평범함은 자신보다 높은 것을 알지 못하지만, 재능은 천재를 곧바로 알아본다.",
+    "text_en": "Mediocrity knows nothing higher than itself, but talent instantly recognizes genius.",
+    "author": "Arthur Conan Doyle"
+  },
+  {
+    "text": "모두가 같은 생각을 하는 곳에서는 아무도 깊이 생각하지 않는다.",
+    "text_en": "Where all think alike, no one thinks very much.",
+    "author": "Walter Lippmann"
+  },
+  {
+    "text": "존재하는 모든 것은 어떤 의미에서 앞으로 존재할 것의 씨앗이다.",
+    "text_en": "Everything that exists is in a manner the seed of that which will be.",
+    "author": "Marcus Aurelius"
+  },
+  {
+    "text": "사람에 대한 호기심은 줄이고, 생각에 대한 호기심은 늘려라.",
+    "text_en": "Be less curious about people and more curious about ideas.",
+    "author": "Marie Curie"
+  },
+  {
+    "text": "마음에는 머리가 전혀 알지 못하는 눈이 있다.",
+    "text_en": "The heart has eyes which the brain knows nothing of.",
+    "author": "Charles Perkhurst"
+  },
+  {
+    "text": "크게 실패할 용기가 있는 사람만이 크게 성취할 수 있다.",
+    "text_en": "Only those who dare to fail greatly can ever achieve greatly.",
+    "author": "Robert Kennedy"
+  },
+  {
+    "text": "아침에 한 시간을 잃으면, 하루 종일 그것을 찾아 헤매게 된다.",
+    "text_en": "Lose an hour in the morning, and you will spend all day looking for it.",
+    "author": "Richard Whately"
+  },
+  {
+    "text": "인정할 용기만 있다면 실수는 언제나 용서받을 수 있다.",
+    "text_en": "Mistakes are always forgivable, if one has the courage to admit them.",
+    "author": "Bruce Lee"
+  },
+  {
+    "text": "네 가슴으로 가서 문을 두드리고, 네 마음에게 무엇을 아는지 물어보라.",
+    "text_en": "Go to your bosom: Knock there, and ask your heart what it doth know.",
+    "author": "William Shakespeare"
+  },
+  {
+    "text": "행복은 주로 외부 요인보다 우리 자신의 태도에서 나온다.",
+    "text_en": "Happiness mainly comes from our own attitude, rather than from external factors.",
+    "author": "Dalai Lama"
+  },
+  {
+    "text": "방향을 바꾸지 않으면 지금 향하는 곳에 도착하게 될 것이다.",
+    "text_en": "If you do not change direction, you may end up where you are heading.",
+    "author": "Lao Tzu"
+  },
+  {
+    "text": "그랬을지도 모를 일에서 벗어나, 앞으로 될 일을 바라보라.",
+    "text_en": "Stay away from what might have been and look at what will be.",
+    "author": "Marsha Petrie Sue"
+  },
+  {
+    "text": "당신이 하는 일이 변화를 만든다고 생각하고 행동하라. 실제로 그렇다.",
+    "text_en": "Act as if what you do makes a difference. It does.",
+    "author": "William James"
+  },
+  {
+    "text": "열정은 더 많은 것을 원하게 하고, 열정에서 나온 행동은 미래를 만든다.",
+    "text_en": "Passion creates the desire for more and action fuelled by passion creates a future.",
+    "author": "Byron Pulsifer"
+  },
+  {
+    "text": "남몰래 선행을 하고, 그것이 알려지면 얼굴을 붉혀라.",
+    "text_en": "Do good by stealth, and blush to find it fame.",
+    "author": "Alexander Pope"
+  },
+  {
+    "text": "기회는 흔히 불운이나 일시적인 패배의 모습으로 위장하고 찾아온다.",
+    "text_en": "Opportunity often comes disguised in the form of misfortune, or temporary defeat.",
+    "author": "Napoleon Hill"
+  },
+  {
+    "text": "이미 한 일이나 앞으로 할 일에 대해 떠벌리지 마라.",
+    "text_en": "Don't talk about what you have done or what you are going to do.",
+    "author": "Thomas Jefferson"
+  },
+  {
+    "text": "가장 강한 사람은 자기 자신을 다스리는 사람이다.",
+    "text_en": "Most powerful is he who has himself in his own power.",
+    "author": "Seneca"
+  },
+  {
+    "text": "늙어서 놀지 않는 것이 아니라, 놀지 않기 때문에 늙는 것이다.",
+    "text_en": "We don't stop playing because we grow old; we grow old because we stop playing.",
+    "author": "Bernard Shaw"
+  },
+  {
+    "text": "경험은 생각하거나 꿈꾸는 것이 아니라 행동할 때만 얻을 수 있다.",
+    "text_en": "Experience can only be gained by doing not by thinking or dreaming.",
+    "author": "Byron Pulsifer"
+  },
+  {
+    "text": "언제나 진실을 말하라. 그러면 무슨 말을 했는지 기억할 필요가 없다.",
+    "text_en": "Always tell the truth. That way, you don't have to remember what you said.",
+    "author": "Mark Twain"
+  },
+  {
+    "text": "존재는 경이에서 경이로 열린다.",
+    "text_en": "From wonder into wonder existence opens.",
+    "author": "Lao Tzu"
+  },
+  {
+    "text": "정복당할까 두려워하는 사람은 반드시 패배한다.",
+    "text_en": "He who fears being conquered is sure of defeat.",
+    "author": "Napoleon Bonaparte"
+  },
+  {
+    "text": "인생은 당신이 다른 계획을 세우느라 바쁜 동안 일어나는 것이다.",
+    "text_en": "Life is what happens while you are making other plans.",
+    "author": "John Lennon"
+  },
+  {
+    "text": "사랑하는 일을 하는 것은 삶의 풍요를 이루는 초석이다.",
+    "text_en": "Doing what you love is the cornerstone of having abundance in your life.",
+    "author": "Wayne Dyer"
+  },
+  {
+    "text": "친절은 사회를 하나로 묶는 황금 사슬이다.",
+    "text_en": "Kindness is the golden chain by which society is bound together.",
+    "author": "Johann Wolfgang von Goethe"
+  },
+  {
+    "text": "춤추는 별을 낳으려면 영혼 속에 혼돈을 품고 있어야 한다.",
+    "text_en": "You need chaos in your soul to give birth to a dancing star.",
+    "author": "Nietzsche"
+  },
+  {
+    "text": "마음이 지난 실패로 가득 차 있다면 봄이 올 수 없다.",
+    "text_en": "It can't be spring if your heart is filled with past failures.",
+    "author": "Byron Pulsifer"
+  },
+  {
+    "text": "오늘에 자신을 바치는 사람에게 헛된 어제란 없다.",
+    "text_en": "No yesterdays are ever wasted for those who give themselves to today.",
+    "author": "Brendan Francis"
+  },
+  {
+    "text": "실패란 없다. 경험과 그것에 대한 당신의 반응만 있을 뿐이다.",
+    "text_en": "There are no failures — just experiences and your reactions to them.",
+    "author": "Tom Krause"
+  },
+  {
+    "text": "행동은 모든 성공의 근본적인 열쇠다.",
+    "text_en": "Action is the foundational key to all success.",
+    "author": "Pablo Picasso"
+  },
+  {
+    "text": "사람을 변화시키는 데 필요한 것은 그가 자신을 인식하는 방식을 바꾸는 것이다.",
+    "text_en": "What is necessary to change a person is to change his awareness of himself.",
+    "author": "Abraham Maslow"
+  },
+  {
+    "text": "긍정적인 생각은 부정적인 생각보다 모든 일을 더 잘하게 해 준다.",
+    "text_en": "Positive thinking will let you do everything better than negative thinking will.",
+    "author": "Zig Ziglar"
+  },
+  {
+    "text": "단순한 미소 하나가 얼마나 많은 선을 행할 수 있는지 우리는 결코 다 알지 못할 것이다.",
+    "text_en": "We shall never know all the good that a simple smile can do.",
+    "author": "Mother Teresa"
+  },
+  {
+    "text": "부드러움만큼 강한 것은 없고, 진정한 강함만큼 부드러운 것은 없다.",
+    "text_en": "Nothing is so strong as gentleness. Nothing is so gentle as real strength.",
+    "author": "Frances de Sales"
+  },
+  {
+    "text": "상상력은 일부 사람의 재능이 아니라 모든 사람의 건강이다.",
+    "text_en": "Imagination is not a talent of some men but is the health of every man.",
+    "author": "Ralph Waldo Emerson"
+  },
+  {
+    "text": "고통을 받아들이고, 그것을 여정의 연료로 태워야 한다.",
+    "text_en": "We must embrace pain and burn it as fuel for our journey.",
+    "author": "Kenji Miyazawa"
+  },
+  {
+    "text": "보석은 마찰 없이 다듬어지지 않고, 사람은 시련 없이 완성되지 않는다.",
+    "text_en": "A gem cannot be polished without friction, nor a man perfected without trials.",
+    "author": "Chinese proverb"
+  },
+  {
+    "text": "관심을 놓지 않는다면 매일이 승리의 날이 될 수 있다.",
+    "text_en": "Each day can be one of triumph if you keep up your interests.",
+    "author": "George Matthew Adams"
+  },
+  {
+    "text": "세상을 개선할 곳은 먼저 자신의 마음과 머리와 손이다.",
+    "text_en": "The place to improve the world is first in one's own heart and head and hands.",
+    "author": "Robert M. Pirsig"
+  },
+  {
+    "text": "비관론자는 모든 기회에서 어려움을 보고, 낙관론자는 모든 어려움에서 기회를 본다.",
+    "text_en": "The pessimist sees difficulty in every opportunity. The optimist sees the opportunity in every difficulty.",
+    "author": "Winston Churchill"
+  },
+  {
+    "text": "승자는 그저 패자가 하기 싫어하는 일을 하는 습관을 들였을 뿐이다.",
+    "text_en": "Winners have simply formed the habit of doing things losers don't like to do.",
+    "author": "Albert Gray"
+  },
+  {
+    "text": "자연은 언제나 같으면서도 결코 같지 않은, 변하기 쉬운 구름이다.",
+    "text_en": "Nature is a mutable cloud which is always and never the same.",
+    "author": "Ralph Emerson"
+  },
+  {
+    "text": "인생은 당신이 만드는 대로 된다. 언제나 그래 왔고, 앞으로도 그럴 것이다.",
+    "text_en": "Life is what you make of it. Always has been, always will be.",
+    "author": "Grandma Moses"
+  },
+  {
+    "text": "걱정은 종종 작은 일에 큰 그림자를 드리운다.",
+    "text_en": "Worry often gives a small thing a big shadow.",
+    "author": "Swedish proverb"
+  },
+  {
+    "text": "나는 당신이 존재의 깊은 중심에 있는 당신다운 모든 것이 되기를 바란다.",
+    "text_en": "I want you to be everything that's you, deep at the center of your being.",
+    "author": "Confucius"
+  },
+  {
+    "text": "우리는 지금의 우리가 무엇인지는 알지만, 무엇이 될 수 있는지는 알지 못한다.",
+    "text_en": "We know what we are, but know not what we may be.",
+    "author": "William Shakespeare"
+  },
+  {
+    "text": "자유란 당신에게 일어난 일을 가지고 당신이 무엇을 하느냐다.",
+    "text_en": "Freedom is what you do with what's been done to you.",
+    "author": "Jean-Paul Sartre"
+  },
+  {
+    "text": "우리를 자유롭게 한 진리는 결국 우리를 기쁘게도 할 것이다.",
+    "text_en": "The truth which has made us free will in the end make us glad also.",
+    "author": "Felix Adler"
+  },
+  {
+    "text": "배움 없이 상상력만 가진 사람은 날개는 있으나 발이 없다.",
+    "text_en": "He who has imagination without learning has wings but no feet.",
+    "author": "Joseph Joubert"
+  },
+  {
+    "text": "사랑하는 사람은 불가능한 것을 믿는다.",
+    "text_en": "Whoso loves, believes the impossible.",
+    "author": "Elizabeth Browning"
+  },
+  {
+    "text": "중요한 것은 어디서 왔느냐가 아니라 어디로 가느냐다.",
+    "text_en": "It isn't where you come from, it's where you're going that counts.",
+    "author": "Ella Fitzgerald"
+  },
+  {
+    "text": "기쁨과 이어지는 데 가장 큰 장애물은 원망이다.",
+    "text_en": "The greatest obstacle to connecting with our joy is resentment.",
+    "author": "Pema Chodron"
+  },
+  {
+    "text": "화가 날 때는 그 에너지를 생산적인 일에 써라.",
+    "text_en": "When anger use your energy to do something productive.",
+    "author": "C. Pulsifer"
+  },
+  {
+    "text": "우리는 모두 무언가이지만, 누구도 모든 것은 아니다.",
+    "text_en": "We are all something, but none of us are everything.",
+    "author": "Blaise Pascal"
+  },
+  {
+    "text": "간단하게 설명할 수 없다면 충분히 이해하지 못한 것이다.",
+    "text_en": "If you can't explain it simply, you don't understand it well enough.",
+    "author": "Albert Einstein"
+  },
+  {
+    "text": "자신과 조화롭게 사는 사람은 세상과도 조화롭게 산다.",
+    "text_en": "He who lives in harmony with himself lives in harmony with the world.",
+    "author": "Marcus Aurelius"
+  },
+  {
+    "text": "자신을 아는 사람은 깨달은 사람이다.",
+    "text_en": "He who knows himself is enlightened.",
+    "author": "Lao Tzu"
+  },
+  {
+    "text": "더 좋은 쥐덫을 만들면 세상 사람들이 앞다투어 당신의 문을 두드릴 것이다.",
+    "text_en": "Build a better mousetrap and the world will beat a path to your door.",
+    "author": "Ralph Emerson"
+  },
+  {
+    "text": "우리가 처한 상황이 새로우니, 우리는 새롭게 생각하고 새롭게 행동해야 한다.",
+    "text_en": "As our case is new, we must think and act anew.",
+    "author": "Abraham Lincoln"
+  },
+  {
+    "text": "백 명을 먹일 수 없다면 한 명이라도 먹여라.",
+    "text_en": "If you can't feed a hundred people, then feed just one.",
+    "author": "Mother Teresa"
+  },
+  {
+    "text": "내가 인생에 대해 배운 모든 것을 세 단어로 요약할 수 있다. 삶은 계속된다.",
+    "text_en": "In three words I can sum up everything Ive learned about life: it goes on.",
+    "author": "Robert Frost"
+  },
+  {
+    "text": "당신은 언제나 어떤 결과를 만들어 내는 데는 성공한다.",
+    "text_en": "You always succeed in producing a result.",
+    "author": "Tony Robbins"
+  },
+  {
+    "text": "당신이 반대하는 모든 것은 당신을 약하게 하고, 당신이 지지하는 모든 것은 당신에게 힘을 준다.",
+    "text_en": "Everything you are against weakens you. Everything you are for empowers you.",
+    "author": "Wayne Dyer"
+  },
+  {
+    "text": "자신을 위험에 내맡길 때 우리는 성장한다. 모든 새로운 경험은 하나의 모험이다.",
+    "text_en": "As we risk ourselves, we grow. Each new experience is a risk.",
+    "author": "Fran Watson"
+  },
+  {
+    "text": "우리가 누구인지는 결코 변하지 않는다. 변하는 것은 우리가 누구라고 생각하는지다.",
+    "text_en": "Who we are never changes. Who we think we are does.",
+    "author": "Mary Almanac"
+  },
+  {
+    "text": "위대함의 마지막 증거는 원망 없이 비판을 견딜 수 있는 데 있다.",
+    "text_en": "The final proof of greatness lies in being able to endure criticism without resentment.",
+    "author": "Elbert Hubbard"
+  },
+  {
+    "text": "군대의 침략은 막을 수 있어도, 때를 만난 생각은 막을 수 없다.",
+    "text_en": "An invasion of armies can be resisted, but not an idea whose time has come.",
+    "author": "Victor Hugo"
+  },
+  {
+    "text": "탁월함은 기술이 아니라 태도다.",
+    "text_en": "Excellence is not a skill. It is an attitude.",
+    "author": "Ralph Marston"
+  },
+  {
+    "text": "사람들은 당신의 말은 의심할지 몰라도, 당신의 행동은 믿을 것이다.",
+    "text_en": "People may doubt what you say, but they will believe what you do.",
+    "author": "Lewis Cass"
+  },
+  {
+    "text": "온갖 종류의 오류에 맞서는 가장 강력한 무기는 이성이다.",
+    "text_en": "The most formidable weapon against errors of every kind is reason.",
+    "author": "Thomas Paine"
+  },
+  {
+    "text": "말로 산을 옮길 수 없다는 것을 알아야 한다. 일, 고된 일이 산을 옮긴다.",
+    "text_en": "It's important to know that words don't move mountains. Work, exacting work moves mountains.",
+    "author": "Danilo Dolci"
+  },
+  {
+    "text": "기회를 놓치지 않도록 조심하라. 그렇지 않으면 언젠가는 완전히 늦어 버릴지도 모른다.",
+    "text_en": "Beware of missing chances; otherwise it may be altogether too late some day.",
+    "author": "Franz Liszt"
+  }
+]

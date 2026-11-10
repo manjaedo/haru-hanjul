@@ -1,0 +1,67 @@
+<!DOCTYPE html>
+<html lang="ko">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0, viewport-fit=cover" />
+  <meta name="theme-color" content="#f8f5ee" />
+  <title>오늘의 조선 야사</title>
+  <link rel="icon" type="image/svg+xml" href="icon.svg" />
+  <link rel="stylesheet" href="styles.css?v=6" />
+</head>
+<body>
+  <div class="page-wrap">
+    <!-- 심플 헤더 -->
+    <header class="top-bar">
+      <h1 class="site-title" id="btnHome">오늘의 조선 야사</h1>
+      <div class="top-actions">
+        <button type="button" class="text-btn" id="btnSendTelegram" title="현재 날짜의 가장 흥미로운 야사를 텔레그램으로 받기">🔔 오늘 야사 알림받기</button>
+        <button type="button" class="text-btn" id="btnToggleTheme" aria-label="테마 전환">🌙</button>
+      </div>
+    </header>
+
+    <!-- 심플 날짜 이동 -->
+    <nav class="date-bar" aria-label="날짜 이동">
+      <button type="button" class="nav-arrow" id="btnPrevDay">‹ 어제</button>
+
+      <div class="date-center">
+        <button type="button" class="date-display" id="btnOpenDatePicker" title="날짜 선택">
+          <span id="displayMonthDay">11월 2일</span>
+        </button>
+        <input type="date" id="datePicker" class="sr-only-date" aria-label="날짜 선택" />
+        <button type="button" class="sub-link" id="btnToday">오늘</button>
+        <span class="dot">·</span>
+        <button type="button" class="sub-link" id="btnRandomDate">랜덤 날짜</button>
+      </div>
+
+      <button type="button" class="nav-arrow" id="btnNextDay">내일 ›</button>
+    </nav>
+
+    <!-- 심플 카테고리 탭 -->
+    <div class="cat-bar" id="categoryBar">
+      <button type="button" class="cat-link active" data-cat="all">전체</button>
+      <button type="button" class="cat-link" data-cat="mystery">기이한 일</button>
+      <button type="button" class="cat-link" data-cat="scandal">궁중 비화</button>
+      <button type="button" class="cat-link" data-cat="folklore">야담·기인</button>
+      <button type="button" class="cat-link" data-cat="episode">왕의 일상</button>
+      <button type="button" class="cat-link" data-cat="legends">명장면 모음</button>
+    </div>
+
+    <!-- 오늘자 야사 제목 리스트 바로가기 -->
+    <nav id="quickTitleList" class="quick-title-box" aria-label="오늘의 야사 제목 바로가기"></nav>
+
+    <!-- 본문 리스트 -->
+    <main id="storiesContainer" class="story-list"></main>
+  </div>
+
+  <!-- 심플 하단 알림창 (알림 버튼 눌렀을 때만 표시) -->
+  <div class="simple-toast" id="simpleToast">
+    <div class="toast-inner">
+      <p id="toastMessage">오늘의 가장 흥미로운 야사를 알림으로 보냈습니다.</p>
+      <button type="button" id="btnCloseToast">닫기</button>
+    </div>
+  </div>
+
+  <script src="data.js?v=6"></script>
+  <script src="app.js?v=6"></script>
+</body>
+</html>

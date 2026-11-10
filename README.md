@@ -1,0 +1,86 @@
+# 📜 하루한줄 (Haru-Hanjul)
+> **매일 배달되는 삶의 지혜와 역사 이야기 — 동서고금 명언, 사자성어, 조선왕조 야사 통합 프로젝트**
+
+---
+
+## 🌟 프로젝트 소개 (Overview)
+
+**`haru-hanjul` (하루한줄)**은 바쁜 일상 속에서 하루 한 줄의 영감과 지혜, 역사적 교훈을 얻을 수 있도록 제작된 콘텐츠 & 자동화 알림 통합 모음집입니다.
+
+웹 리더, 스마트폰 앱, 텔레그램 봇, 파이썬 CLI 등 다양한 디바이스와 플랫폼으로 매일 정해진 시간에 지혜를 전합니다.
+
+---
+
+## 📁 서브 프로젝트 구성 (Subprojects)
+
+```text
+haru-hanjul/
+├── 📜 joseon-daily-yasa/     # [웹앱] 오늘의 조선 야사 (역사 속 오늘 일어난 실록 & 야사 리더)
+├── 📱 daily-quote-android/   # [안드로이드] 매일 4회(09·13·17·21시) 한국어 명언 알림 앱
+├── 🤖 telegram-quote-bot/    # [텔레그램 봇 & 웹] 동서고금 1,500 명언·사자성어 검색기 & 발송 봇
+└── 🐍 wise-saying-cli/       # [파이썬/CLI] 명언 1,000선 터미널 리더 & ntfy/텔레그램 발송 스크립트
+```
+
+---
+
+## 🔍 서브 프로젝트 상세 안내
+
+### 1. 📜 [오늘의 조선 야사 (`joseon-daily-yasa`)](./joseon-daily-yasa/)
+* **성격:** 웹 표준 PWA 역사 스토리 리더 웹앱
+* **주요 내용:**
+  * 접속한 오늘 날짜(양력)에 실제로 일어났던 《조선왕조실록》 기록 및 관련 야사 매칭
+  * 5대 카테고리 필터: 기이한 일(미스터리), 궁중 비화, 야담·기인, 왕의 일상, 명장면 모음
+  * 종이책 질감의 한지 톤 라이트 모드 & 야간 독서용 다크 모드
+* **웹 데모:** [https://manjaedo.github.io/joseon-daily-yasa/](https://manjaedo.github.io/joseon-daily-yasa/)
+
+### 2. 📱 [데일리 쿼트 안드로이드 (`daily-quote-android`)](./daily-quote-android/)
+* **성격:** Kotlin / Android 네이티브 명언 알림 애플리케이션
+* **주요 내용:**
+  * 하루 4번(09시, 13시, 17시, 21시) 스마트폰 푸시 알림으로 명언 배달
+  * 명언 1,000선 데이터 내장 (오프라인에서도 정상 동작)
+  * 즐겨찾기(별표) 저장 및 복사/공유 기능
+
+### 3. 🤖 [텔레그램 명언 봇 & 검색기 (`telegram-quote-bot`)](./telegram-quote-bot/)
+* **성격:** 1,500선 마스터 데이터셋 구축, 웹 검색기 및 텔레그램 자동 발송
+* **주요 내용:**
+  * **총 1,500선 정밀 데이터셋:**
+    1. 🇰🇷 한국 위인·국왕·명장·선현 명언 (500선)
+    2. 🇺🇸 세계 영어 명언 및 한국어 번역 (500선)
+    3. 🀄 동양 사자성어 및 한자 고전 명문장 (500선)
+  * Node.js / Google Apps Script 기반 텔레그램 카드형 알림 자동 발송
+  * 실시간 키워드 검색 및 미리보기 웹 대시보드 (`index.html`)
+
+### 4. 🐍 [와이즈 세잉 CLI (`wise-saying-cli`)](./wise-saying-cli/)
+* **성격:** 순수 파이썬 표준 라이브러리 기반 CLI 및 ntfy/텔레그램 알림 스크립트
+* **주요 내용:**
+  * 터미널에서 `python3 quote.py`로 무작위 명언 확인
+  * GitHub Actions 연동 3시간 주기 자동 알림 스케줄러
+  * `python3 -m unittest` 100% 통과 단위 테스트 슈트
+
+---
+
+## 🚀 빠른 시작 (Quick Start)
+
+### 1. 조선 야사 웹앱 바로 열기
+```bash
+cd joseon-daily-yasa
+# 브라우저로 index.html 열기 (또는 로컬 서버 구동)
+python3 -m http.server 3000
+```
+
+### 2. 1,500선 명언 검색기 열기
+```bash
+cd telegram-quote-bot
+open index.html
+```
+
+### 3. 파이썬 터미널에서 명언 보기
+```bash
+cd wise-saying-cli
+python3 quote.py
+```
+
+---
+
+## 📜 라이선스
+MIT License

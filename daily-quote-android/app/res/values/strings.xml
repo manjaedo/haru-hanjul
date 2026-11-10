@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">오늘의 명언</string>
+    <string name="channel_name">오늘의 명언</string>
+    <string name="channel_description">하루 네 번, 명언을 알려줍니다.</string>
+</resources>

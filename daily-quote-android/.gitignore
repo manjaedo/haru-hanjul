@@ -1,0 +1,12 @@
+# 빌드 산출물
+build/
+
+# 서명 키 (절대 커밋하지 않음)
+keys/
+
+# 실행 로그 / 임시 파일
+dist/server.log
+dist/*.idsig
+data/raw.html
+*.tmp
+.DS_Store

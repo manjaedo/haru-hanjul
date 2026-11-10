@@ -1,0 +1,11 @@
+{
+  "server": "https://ntfy.sh",
+  "topic": "YOUR-TOPIC-HERE",
+  "title": "오늘의 명언",
+  "times": [
+    "09:00",
+    "13:00",
+    "17:00",
+    "21:00"
+  ]
+}

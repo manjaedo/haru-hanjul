@@ -1,0 +1,19 @@
+name: Daily quote
+
+on:
+  schedule:
+    # 3시간마다, 00:00~06:00 KST 제외 → 06, 09, 12, 15, 18, 21시 KST (UTC 21, 00, 03, 06, 09, 12시)
+    - cron: "0 0,3,6,9,12,21 * * *"
+  workflow_dispatch:
+
+jobs:
+  notify:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - name: Send quote to ntfy and Telegram
+        env:
+          NTFY_TOPIC: ${{ secrets.NTFY_TOPIC }}
+          TELEGRAM_BOT_TOKEN: ${{ secrets.TELEGRAM_BOT_TOKEN }}
+          TELEGRAM_CHAT_ID: ${{ secrets.TELEGRAM_CHAT_ID }}
+        run: python3 notify.py

@@ -21,9 +21,9 @@ on:
           - 1000
 
 jobs:
-  # 1. 1,500선 명언 & 사자성어 발송 (Node.js)
+  # 1. 1,500선 명언 & 사자성어 발송 (1500 전용 봇)
   send-quote-1500:
-    name: 📜 1,500선 명언 & 사자성어 발송
+    name: 📜 1,500선 명언 & 사자성어 발송 (1500 봇)
     runs-on: ubuntu-latest
     if: |
       github.event_name == 'workflow_dispatch' && (inputs.target == 'all' || inputs.target == '1500') ||
@@ -40,13 +40,14 @@ jobs:
       - name: Send Quote to Telegram
         working-directory: ./quote-1500-hub
         env:
-          TELEGRAM_BOT_TOKEN: ${{ secrets.TELEGRAM_BOT_TOKEN }}
-          TELEGRAM_CHAT_ID: ${{ secrets.TELEGRAM_CHAT_ID }}
+          # 1500 전용 토큰을 먼저 읽고, 없으면 공통 토큰 사용
+          TELEGRAM_BOT_TOKEN: ${{ secrets.TELEGRAM_BOT_TOKEN_1500 || secrets.TELEGRAM_BOT_TOKEN }}
+          TELEGRAM_CHAT_ID: ${{ secrets.TELEGRAM_CHAT_ID_1500 || secrets.TELEGRAM_CHAT_ID }}
         run: node send_quote.js
 
-  # 2. 1,000선 세계 명언 발송 (Python)
+  # 2. 1,000선 세계 명언 발송 (1000 전용 봇)
   send-quote-1000:
-    name: 🐍 1,000선 세계 명언 발송
+    name: 🐍 1,000선 세계 명언 발송 (1000 봇)
     runs-on: ubuntu-latest
     if: |
       github.event_name == 'workflow_dispatch' && (inputs.target == 'all' || inputs.target == '1000') ||
@@ -63,7 +64,8 @@ jobs:
       - name: Send Quote to Telegram
         working-directory: ./quote-1000-python
         env:
-          TELEGRAM_BOT_TOKEN: ${{ secrets.TELEGRAM_BOT_TOKEN }}
-          TELEGRAM_CHAT_ID: ${{ secrets.TELEGRAM_CHAT_ID }}
+          # 1000 전용 토큰을 먼저 읽고, 없으면 공통 토큰 사용
+          TELEGRAM_BOT_TOKEN: ${{ secrets.TELEGRAM_BOT_TOKEN_1000 || secrets.TELEGRAM_BOT_TOKEN }}
+          TELEGRAM_CHAT_ID: ${{ secrets.TELEGRAM_CHAT_ID_1000 || secrets.TELEGRAM_CHAT_ID }}
           NTFY_TOPIC: ${{ secrets.NTFY_TOPIC }}
         run: python3 notify.py

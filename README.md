@@ -17,8 +17,8 @@
 haru-hanjul/
 ├── 📜 joseon-daily-yasa/     # [웹앱] 오늘의 조선 야사 (역사 속 오늘 일어난 실록 & 야사 리더)
 ├── 📱 daily-quote-android/   # [안드로이드] 매일 4회(09·13·17·21시) 한국어 명언 알림 앱
-├── 🤖 telegram-quote-bot/    # [텔레그램 봇 & 웹] 동서고금 1,500 명언·사자성어 검색기 & 발송 봇
-└── 🐍 wise-saying-cli/       # [파이썬/CLI] 명언 1,000선 터미널 리더 & ntfy/텔레그램 발송 스크립트
+├── 🤖 quote-1500-hub/        # [텔레그램 봇 & 웹] 동서고금 1,500 명언·사자성어 검색기 & 발송 봇
+└── 🐍 quote-1000-python/     # [파이썬/CLI] 명언 1,000선 터미널 리더 & ntfy/텔레그램 발송 스크립트
 ```
 
 ---
@@ -40,7 +40,7 @@ haru-hanjul/
   * 명언 1,000선 데이터 내장 (오프라인에서도 정상 동작)
   * 즐겨찾기(별표) 저장 및 복사/공유 기능
 
-### 3. 🤖 [텔레그램 명언 봇 & 검색기 (`telegram-quote-bot`)](./telegram-quote-bot/)
+### 3. 🤖 [텔레그램 명언 봇 & 검색기 (`quote-1500-hub`)](./quote-1500-hub/)
 * **성격:** 1,500선 마스터 데이터셋 구축, 웹 검색기 및 텔레그램 자동 발송
 * **주요 내용:**
   * **총 1,500선 정밀 데이터셋:**
@@ -50,7 +50,7 @@ haru-hanjul/
   * Node.js / Google Apps Script 기반 텔레그램 카드형 알림 자동 발송
   * 실시간 키워드 검색 및 미리보기 웹 대시보드 (`index.html`)
 
-### 4. 🐍 [와이즈 세잉 CLI (`wise-saying-cli`)](./wise-saying-cli/)
+### 4. 🐍 [와이즈 세잉 CLI (`quote-1000-python`)](./quote-1000-python/)
 * **성격:** 순수 파이썬 표준 라이브러리 기반 CLI 및 ntfy/텔레그램 알림 스크립트
 * **주요 내용:**
   * 터미널에서 `python3 quote.py`로 무작위 명언 확인
@@ -70,13 +70,13 @@ python3 -m http.server 3000
 
 ### 2. 1,500선 명언 검색기 열기
 ```bash
-cd telegram-quote-bot
+cd quote-1500-hub
 open index.html
 ```
 
 ### 3. 파이썬 터미널에서 명언 보기
 ```bash
-cd wise-saying-cli
+cd quote-1000-python
 python3 quote.py
 ```
 

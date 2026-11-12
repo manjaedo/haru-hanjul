@@ -461,14 +461,43 @@ function bindEvents() {
     }
   });
 
-  document.getElementById('categoryBar').addEventListener('click', (e) => {
+  const catBar = document.getElementById('categoryBar');
+  const btnCatPrev = document.getElementById('btnCatPrev');
+  const btnCatNext = document.getElementById('btnCatNext');
+
+  function updateCatScrollButtons() {
+    if (!catBar || !btnCatPrev || !btnCatNext) return;
+    const maxScroll = catBar.scrollWidth - catBar.clientWidth;
+    btnCatPrev.classList.toggle('hidden', catBar.scrollLeft <= 2);
+    btnCatNext.classList.toggle('hidden', maxScroll <= 2 || catBar.scrollLeft >= maxScroll - 2);
+  }
+
+  catBar.addEventListener('click', (e) => {
     const btn = e.target.closest('.cat-link');
     if (!btn) return;
     document.querySelectorAll('.cat-link').forEach(b => b.classList.remove('active'));
     btn.classList.add('active');
     state.category = btn.dataset.cat;
+    btn.scrollIntoView({ behavior: 'smooth', inline: 'nearest', block: 'nearest' });
     render();
   });
+
+  catBar.addEventListener('scroll', updateCatScrollButtons, { passive: true });
+  catBar.addEventListener('wheel', (e) => {
+    if (Math.abs(e.deltaY) > Math.abs(e.deltaX)) {
+      catBar.scrollLeft += e.deltaY;
+      e.preventDefault();
+    }
+  }, { passive: false });
+  window.addEventListener('resize', updateCatScrollButtons);
+
+  btnCatPrev?.addEventListener('click', () => {
+    catBar.scrollBy({ left: -160, behavior: 'smooth' });
+  });
+  btnCatNext?.addEventListener('click', () => {
+    catBar.scrollBy({ left: 160, behavior: 'smooth' });
+  });
+  setTimeout(updateCatScrollButtons, 50);
 
   document.getElementById('btnCloseToast').addEventListener('click', () => {
     document.getElementById('simpleToast').classList.remove('show');

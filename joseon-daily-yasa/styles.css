@@ -154,14 +154,49 @@ html, body {
   pointer-events: none;
 }
 
-/* 3. 심플 카테고리 탭 */
-.cat-bar {
+/* 3. 심플 카테고리 슬라이드 탭 */
+.cat-bar-wrap {
+  position: relative;
   display: flex;
-  flex-wrap: wrap;
-  gap: 4px 14px;
+  align-items: center;
   border-bottom: 1px solid var(--line);
   margin-bottom: 20px;
-  padding-bottom: 4px;
+}
+
+.cat-bar {
+  flex: 1;
+  min-width: 0;
+  display: flex;
+  flex-wrap: nowrap;
+  gap: 14px;
+  overflow-x: auto;
+  scroll-behavior: smooth;
+  scrollbar-width: none;
+  -webkit-overflow-scrolling: touch;
+}
+
+.cat-bar::-webkit-scrollbar {
+  display: none;
+}
+
+.cat-scroll-btn {
+  flex-shrink: 0;
+  background: var(--bg);
+  border: none;
+  color: var(--sub);
+  font-size: 1.15rem;
+  line-height: 1;
+  padding: 6px 6px 8px;
+  cursor: pointer;
+  transition: color 0.15s ease, opacity 0.15s ease;
+}
+
+.cat-scroll-btn:hover {
+  color: var(--accent);
+}
+
+.cat-scroll-btn.hidden {
+  display: none;
 }
 
 .cat-link {

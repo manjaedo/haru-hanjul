@@ -418,6 +418,157 @@ html, body {
   color: var(--accent);
 }
 
+/* 즐겨찾기 & 메모 액션 */
+.story-meta-row {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  justify-content: space-between;
+  gap: 8px;
+  margin-bottom: 8px;
+}
+
+.story-meta-row .story-meta {
+  margin-bottom: 0;
+}
+
+.story-actions {
+  display: flex;
+  align-items: center;
+  gap: 6px;
+}
+
+.action-pill {
+  background: none;
+  border: 1px solid var(--line);
+  color: var(--sub);
+  padding: 3px 9px;
+  border-radius: 999px;
+  font-size: 0.76rem;
+  font-weight: 500;
+  cursor: pointer;
+  font-family: inherit;
+  white-space: nowrap;
+  transition: all 0.15s ease;
+}
+
+.action-pill:hover {
+  border-color: var(--accent);
+  color: var(--accent);
+}
+
+.fav-btn.active,
+.memo-btn.has-memo {
+  border-color: var(--accent);
+  color: var(--accent);
+  background: var(--quote-bg);
+  font-weight: 600;
+}
+
+.memo-box {
+  margin-top: 14px;
+  padding: 12px 14px;
+  background: var(--quote-bg);
+  border: 1px dashed var(--line);
+  border-radius: 8px;
+}
+
+.memo-box-head {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  font-size: 0.8rem;
+  font-weight: 600;
+  color: var(--accent);
+  margin-bottom: 6px;
+}
+
+.memo-box-btns {
+  display: flex;
+  gap: 10px;
+}
+
+.memo-link-btn {
+  background: none;
+  border: none;
+  color: var(--sub);
+  font-size: 0.76rem;
+  cursor: pointer;
+  font-family: inherit;
+  padding: 0;
+}
+
+.memo-link-btn:hover {
+  color: var(--accent);
+  text-decoration: underline;
+}
+
+.memo-link-btn.danger:hover {
+  color: #dc2626;
+}
+
+.memo-box-text {
+  font-size: 0.9rem;
+  color: var(--text);
+  white-space: pre-wrap;
+  line-height: 1.6;
+}
+
+.memo-editor {
+  margin-top: 14px;
+  padding: 12px;
+  background: var(--quote-bg);
+  border: 1px solid var(--line);
+  border-radius: 8px;
+}
+
+.memo-textarea {
+  width: 100%;
+  background: var(--card);
+  color: var(--text);
+  border: 1px solid var(--line);
+  border-radius: 6px;
+  padding: 8px 10px;
+  font-family: inherit;
+  font-size: 0.9rem;
+  line-height: 1.5;
+  resize: vertical;
+}
+
+.memo-textarea:focus {
+  outline: none;
+  border-color: var(--accent);
+}
+
+.memo-editor-actions {
+  display: flex;
+  justify-content: flex-end;
+  gap: 8px;
+  margin-top: 8px;
+}
+
+.memo-save-btn,
+.memo-cancel-btn {
+  padding: 5px 12px;
+  border-radius: 6px;
+  font-size: 0.82rem;
+  font-weight: 500;
+  cursor: pointer;
+  font-family: inherit;
+}
+
+.memo-save-btn {
+  background: var(--accent);
+  color: #fff;
+  border: 1px solid var(--accent);
+}
+
+.memo-cancel-btn {
+  background: none;
+  color: var(--sub);
+  border: 1px solid var(--line);
+}
+
 @media (max-width: 480px) {
   .page-wrap {
     padding: 0 14px 48px;

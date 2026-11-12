@@ -3,8 +3,62 @@
 const state = {
   currentDate: new Date(),
   category: 'all',
-  theme: localStorage.getItem('joseon_theme') || 'light'
+  theme: localStorage.getItem('joseon_theme') || 'light',
+  favorites: new Set(JSON.parse(localStorage.getItem('joseon_favorites') || '[]')),
+  memos: JSON.parse(localStorage.getItem('joseon_memos') || '{}'),
+  openMemoIds: new Set()
 };
+
+let _storyMapCache = null;
+function getStoryMap() {
+  if (_storyMapCache) return _storyMapCache;
+  const map = new Map();
+  if (typeof CURATED_STORIES !== 'undefined') {
+    Object.values(CURATED_STORIES).forEach(list => {
+      list.forEach(item => {
+        if (!map.has(item.id)) map.set(item.id, item);
+      });
+    });
+  }
+  if (typeof getAllLegendStories === 'function') {
+    getAllLegendStories().forEach(item => {
+      if (!map.has(item.id)) map.set(item.id, item);
+    });
+  }
+  _storyMapCache = map;
+  return map;
+}
+
+function escapeHtml(str) {
+  return String(str || '')
+    .replace(/&/g, '&amp;')
+    .replace(/</g, '&lt;')
+    .replace(/>/g, '&gt;')
+    .replace(/"/g, '&quot;')
+    .replace(/'/g, '&#39;');
+}
+
+function saveFavorites() {
+  localStorage.setItem('joseon_favorites', JSON.stringify([...state.favorites]));
+  updateTabCounts();
+}
+
+function saveMemosStorage() {
+  localStorage.setItem('joseon_memos', JSON.stringify(state.memos));
+  updateTabCounts();
+}
+
+function updateTabCounts() {
+  const favTab = document.getElementById('tabFavorites');
+  const memoTab = document.getElementById('tabMemos');
+  if (favTab) {
+    favTab.textContent = state.favorites.size > 0 ? `⭐ 즐겨찾기 (${state.favorites.size})` : '⭐ 즐겨찾기';
+  }
+  const memoCount = Object.keys(state.memos).length;
+  if (memoTab) {
+    memoTab.textContent = memoCount > 0 ? `📝 메모 (${memoCount})` : '📝 메모';
+  }
+}
 
 const elMonthDay = document.getElementById('displayMonthDay');
 const elDatePicker = document.getElementById('datePicker');
@@ -20,6 +74,7 @@ function init() {
   }
 
   applyTheme(state.theme);
+  updateTabCounts();
   syncDateInput();
   render();
   bindEvents();
@@ -48,6 +103,16 @@ function render() {
   if (state.category === 'legends') {
     elMonthDay.textContent = '명장면 모음';
     stories = getAllLegendStories();
+  } else if (state.category === 'favorites') {
+    elMonthDay.textContent = '⭐ 즐겨찾기';
+    const map = getStoryMap();
+    stories = [...state.favorites].map(id => map.get(id)).filter(Boolean);
+    stories.sort((a, b) => (a.year - b.year) || (a.month - b.month) || (a.day - b.day));
+  } else if (state.category === 'memos') {
+    elMonthDay.textContent = '📝 메모';
+    const map = getStoryMap();
+    stories = Object.keys(state.memos).map(id => map.get(id)).filter(Boolean);
+    stories.sort((a, b) => (state.memos[b.id]?.updatedAt || 0) - (state.memos[a.id]?.updatedAt || 0));
   } else {
     elMonthDay.textContent = `${month}월 ${day}일`;
     stories = getStoriesForDate(month, day);
@@ -58,6 +123,24 @@ function render() {
 
   if (!stories.length) {
     if (elQuickTitleList) elQuickTitleList.style.display = 'none';
+    if (state.category === 'favorites') {
+      elContainer.innerHTML = `
+        <div class="empty-state-box">
+          <p class="empty-state-msg">⭐ 아직 즐겨찾기한 이야기가 없습니다.</p>
+          <p class="empty-state-sub">마음에 드는 이야기 오른쪽 위의 ☆ 버튼을 눌러 모아보세요.</p>
+        </div>
+      `;
+      return;
+    }
+    if (state.category === 'memos') {
+      elContainer.innerHTML = `
+        <div class="empty-state-box">
+          <p class="empty-state-msg">📝 아직 작성한 메모가 없습니다.</p>
+          <p class="empty-state-sub">이야기 오른쪽 위의 '📝 메모' 버튼을 눌러 나만의 감상이나 기록을 남겨보세요.</p>
+        </div>
+      `;
+      return;
+    }
     const hasAnyForDate = state.category !== 'legends' && getStoriesForDate(month, day).length > 0;
     if (hasAnyForDate && state.category !== 'all') {
       elContainer.innerHTML = `
@@ -103,9 +186,10 @@ function render() {
 
   if (elQuickTitleList) {
     elQuickTitleList.style.display = 'block';
-    const listTitle = state.category === 'legends'
-      ? `📜 명장면 야사 제목 바로가기 (${stories.length}편)`
-      : `📜 ${month}월 ${day}일 연도별 실록·야사 (${stories.length}편)`;
+    let listTitle = `📜 ${month}월 ${day}일 연도별 실록·야사 (${stories.length}편)`;
+    if (state.category === 'legends') listTitle = `📜 명장면 야사 제목 바로가기 (${stories.length}편)`;
+    else if (state.category === 'favorites') listTitle = `⭐ 즐겨찾기한 이야기 (${stories.length}편)`;
+    else if (state.category === 'memos') listTitle = `📝 메모가 있는 이야기 (${stories.length}편)`;
 
     elQuickTitleList.innerHTML = `
       <div class="quick-title-header">${listTitle}</div>
@@ -141,15 +225,51 @@ function render() {
 
   elContainer.innerHTML = stories.map((s, idx) => {
     const cat = CATEGORIES[s.category] || CATEGORIES.mystery;
+    const isFav = state.favorites.has(s.id);
+    const memoObj = state.memos[s.id];
+    const hasMemo = Boolean(memoObj && memoObj.text);
+    const isEditorOpen = state.openMemoIds.has(s.id);
+
     return `
-      <article class="story-item" id="story-card-${idx}">
-        <div class="story-meta">${s.year}년 · ${s.month}월 ${s.day}일 · ${s.king} · ${cat.shortLabel}</div>
+      <article class="story-item" id="story-card-${idx}" data-story-id="${escapeHtml(s.id)}">
+        <div class="story-meta-row">
+          <div class="story-meta">${s.year}년 · ${s.month}월 ${s.day}일 · ${s.king} · ${cat.shortLabel}</div>
+          <div class="story-actions">
+            <button type="button" class="action-pill fav-btn ${isFav ? 'active' : ''}" data-action="toggle-fav" data-id="${escapeHtml(s.id)}" aria-label="즐겨찾기">
+              ${isFav ? '★ 저장됨' : '☆ 즐겨찾기'}
+            </button>
+            <button type="button" class="action-pill memo-btn ${hasMemo ? 'has-memo' : ''}" data-action="toggle-memo" data-id="${escapeHtml(s.id)}" aria-label="메모">
+              ${hasMemo ? '📝 메모됨' : '📝 메모'}
+            </button>
+          </div>
+        </div>
         <h2 class="story-title">${s.title}</h2>
         <div class="story-body">${s.yasaStory}</div>
         <div class="sillok-quote">
           <strong>실록 기록 (${s.source})</strong>
           "${s.officialRecord}"
         </div>
+        ${hasMemo && !isEditorOpen ? `
+          <div class="memo-box">
+            <div class="memo-box-head">
+              <span>📝 내 메모</span>
+              <div class="memo-box-btns">
+                <button type="button" class="memo-link-btn" data-action="edit-memo" data-id="${escapeHtml(s.id)}">수정</button>
+                <button type="button" class="memo-link-btn danger" data-action="delete-memo" data-id="${escapeHtml(s.id)}">삭제</button>
+              </div>
+            </div>
+            <p class="memo-box-text">${escapeHtml(memoObj.text)}</p>
+          </div>
+        ` : ''}
+        ${isEditorOpen ? `
+          <div class="memo-editor">
+            <textarea class="memo-textarea" rows="3" placeholder="이 실록·야사에 대한 나만의 메모나 감상을 남겨보세요...">${hasMemo ? escapeHtml(memoObj.text) : ''}</textarea>
+            <div class="memo-editor-actions">
+              <button type="button" class="memo-save-btn" data-action="save-memo" data-id="${escapeHtml(s.id)}">저장</button>
+              <button type="button" class="memo-cancel-btn" data-action="cancel-memo" data-id="${escapeHtml(s.id)}">취소</button>
+            </div>
+          </div>
+        ` : ''}
       </article>
     `;
   }).join('');
@@ -218,15 +338,22 @@ function bindEvents() {
 
   document.getElementById('btnSendTelegram').addEventListener('click', sendTodayBestAlert);
 
+  function resetSpecialTabIfNeeded() {
+    if (['legends', 'favorites', 'memos'].includes(state.category)) {
+      state.category = 'all';
+      document.querySelectorAll('.cat-link').forEach(b => b.classList.toggle('active', b.dataset.cat === 'all'));
+    }
+  }
+
   document.getElementById('btnPrevDay').addEventListener('click', () => {
-    if (state.category === 'legends') state.category = 'all';
+    resetSpecialTabIfNeeded();
     state.currentDate.setDate(state.currentDate.getDate() - 1);
     syncDateInput();
     render();
   });
 
   document.getElementById('btnNextDay').addEventListener('click', () => {
-    if (state.category === 'legends') state.category = 'all';
+    resetSpecialTabIfNeeded();
     state.currentDate.setDate(state.currentDate.getDate() + 1);
     syncDateInput();
     render();
@@ -261,10 +388,62 @@ function bindEvents() {
   elDatePicker.addEventListener('change', (e) => {
     if (!e.target.value) return;
     const [y, m, d] = e.target.value.split('-').map(Number);
-    if (state.category === 'legends') state.category = 'all';
+    resetSpecialTabIfNeeded();
     state.currentDate = new Date(y, m - 1, d);
     syncDateInput();
     render();
+  });
+
+  elContainer.addEventListener('click', (e) => {
+    const btn = e.target.closest('[data-action]');
+    if (!btn) return;
+    const action = btn.dataset.action;
+    const id = btn.dataset.id;
+    if (!id) return;
+
+    if (action === 'toggle-fav') {
+      if (state.favorites.has(id)) {
+        state.favorites.delete(id);
+        showToast('즐겨찾기에서 해제했습니다.');
+      } else {
+        state.favorites.add(id);
+        showToast('⭐ 즐겨찾기에 저장했습니다.');
+      }
+      saveFavorites();
+      render();
+    } else if (action === 'toggle-memo' || action === 'edit-memo') {
+      if (action === 'toggle-memo' && state.openMemoIds.has(id)) {
+        state.openMemoIds.delete(id);
+      } else {
+        state.openMemoIds.add(id);
+      }
+      render();
+      const card = elContainer.querySelector(`[data-story-id="${CSS.escape(id)}"]`);
+      card?.querySelector('.memo-textarea')?.focus();
+    } else if (action === 'cancel-memo') {
+      state.openMemoIds.delete(id);
+      render();
+    } else if (action === 'save-memo') {
+      const card = btn.closest('.story-item');
+      const textarea = card?.querySelector('.memo-textarea');
+      const text = (textarea?.value || '').trim();
+      if (!text) {
+        delete state.memos[id];
+        showToast('빈 메모는 삭제되었습니다.');
+      } else {
+        state.memos[id] = { text, updatedAt: Date.now() };
+        showToast('📝 메모를 저장했습니다.');
+      }
+      state.openMemoIds.delete(id);
+      saveMemosStorage();
+      render();
+    } else if (action === 'delete-memo') {
+      delete state.memos[id];
+      state.openMemoIds.delete(id);
+      saveMemosStorage();
+      showToast('메모를 삭제했습니다.');
+      render();
+    }
   });
 
   document.getElementById('categoryBar').addEventListener('click', (e) => {

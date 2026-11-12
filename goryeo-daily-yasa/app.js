@@ -125,6 +125,7 @@ function render() {
   const day = state.currentDate.getDate();
 
   let stories = [];
+  window._fallbackDateInfo = null;
   if (state.category === 'legends') {
     elMonthDay.textContent = '명장면 모음';
     stories = getAllLegendStories();
@@ -259,7 +260,10 @@ function render() {
     });
   }
 
-  elContainer.innerHTML = stories.map((s, idx) => {
+  const fb = window._fallbackDateInfo;
+  const fbBanner = fb ? `<div class="fallback-notice">📌 ${fb.origM}월 ${fb.origD}일의 직접 기록이 아직 없어, 실제 기록이 있는 <strong>${fb.pickM}월 ${fb.pickD}일</strong>의 이야기를 함께 보여드립니다.</div>` : '';
+
+  elContainer.innerHTML = fbBanner + stories.map((s, idx) => {
     const cat = CATEGORIES[s.category] || CATEGORIES.mystery;
     const isFav = state.favorites.has(s.id);
     const memoObj = state.memos[s.id];

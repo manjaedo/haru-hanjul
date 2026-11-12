@@ -1,4 +1,4 @@
-// 한국어 위키백과 366일 실제 날짜별 사건 보강 (60편, 54일)
+// 한국어 위키백과 366일 실제 날짜별 사건 보강 (119편, 94일)
 const WIKI_STORIES = [
   {
     "id": "wiki-turkey-0101-2005-0",
@@ -31,7 +31,52 @@ const WIKI_STORIES = [
     "yasaStory": "2017년 1월 1일에 실제로 기록된 역사 사건입니다.\n\n이스탄불 레이나 클럽 총기 난사 사건이 발생하여 39명이 사망하였다. Local News|성=Şafak|이름=Yeni|언어=en-US|확인날짜=2025-06-11}}"
   },
   {
-    "id": "wiki-turkey-0112-2016-2",
+    "id": "wiki-turkey-0102-1699-2",
+    "month": 1,
+    "day": 2,
+    "year": 1699,
+    "king": "오스만 제국",
+    "lunarDate": "양력 1월 2일 실제 기록",
+    "category": "episode",
+    "interestScore": 88,
+    "title": "오스만 제국의 술탄이자 황제 오스만 3세. (~1757년)",
+    "source": "한국어 위키백과 (1월 2일 연표)",
+    "sillokUrl": "https://ko.wikipedia.org/wiki/1%EC%9B%94_2%EC%9D%BC",
+    "officialRecord": "오스만 제국의 술탄이자 황제 오스만 3세. (~1757년)",
+    "yasaStory": "1699년 1월 2일에 실제로 기록된 역사 사건입니다.\n\n오스만 제국의 술탄이자 황제 오스만 3세. (~1757년)"
+  },
+  {
+    "id": "wiki-turkey-0115-1595-3",
+    "month": 1,
+    "day": 15,
+    "year": 1595,
+    "king": "오스만 제국",
+    "lunarDate": "양력 1월 15일 실제 기록",
+    "category": "episode",
+    "interestScore": 88,
+    "title": "오스만 제국의 12대 술탄 무라트 3세. (1546년~)",
+    "source": "한국어 위키백과 (1월 15일 연표)",
+    "sillokUrl": "https://ko.wikipedia.org/wiki/1%EC%9B%94_15%EC%9D%BC",
+    "officialRecord": "오스만 제국의 12대 술탄 무라트 3세. (1546년~)",
+    "yasaStory": "1595년 1월 15일에 실제로 기록된 역사 사건입니다.\n\n오스만 제국의 12대 술탄 무라트 3세. (1546년~)"
+  },
+  {
+    "id": "wiki-turkey-0111-1891-4",
+    "month": 1,
+    "day": 11,
+    "year": 1891,
+    "king": "오스만 제국",
+    "lunarDate": "양력 1월 11일 실제 기록",
+    "category": "episode",
+    "interestScore": 88,
+    "title": "프랑스의 도시계획가, 남작 조르주외젠 오스만. (1809년~)",
+    "source": "한국어 위키백과 (1월 11일 연표)",
+    "sillokUrl": "https://ko.wikipedia.org/wiki/1%EC%9B%94_11%EC%9D%BC",
+    "officialRecord": "프랑스의 도시계획가, 남작 조르주외젠 오스만. (1809년~)",
+    "yasaStory": "1891년 1월 11일에 실제로 기록된 역사 사건입니다.\n\n프랑스의 도시계획가, 남작 조르주외젠 오스만. (1809년~)"
+  },
+  {
+    "id": "wiki-turkey-0112-2016-5",
     "month": 1,
     "day": 12,
     "year": 2016,
@@ -46,7 +91,52 @@ const WIKI_STORIES = [
     "yasaStory": "2016년 1월 12일에 실제로 기록된 역사 사건입니다.\n\n튀르키예 이스탄불 술탄마흐메트 인근 광장에서 폭탄테러가 발생하여 10명이 사망하고 15명이 부상을 입었다."
   },
   {
-    "id": "wiki-turkey-0127-2011-3",
+    "id": "wiki-turkey-0112-2014-6",
+    "month": 1,
+    "day": 12,
+    "year": 2014,
+    "king": "튀르키예 공화국",
+    "lunarDate": "양력 1월 12일 실제 기록",
+    "category": "episode",
+    "interestScore": 88,
+    "title": "튀르키예의 고고학자, 펜싱 선수 할레트 참벨. (1916년~)",
+    "source": "한국어 위키백과 (1월 12일 연표)",
+    "sillokUrl": "https://ko.wikipedia.org/wiki/1%EC%9B%94_12%EC%9D%BC",
+    "officialRecord": "튀르키예의 고고학자, 펜싱 선수 할레트 참벨. (1916년~)",
+    "yasaStory": "2014년 1월 12일에 실제로 기록된 역사 사건입니다.\n\n튀르키예의 고고학자, 펜싱 선수 할레트 참벨. (1916년~)"
+  },
+  {
+    "id": "wiki-turkey-0114-1861-7",
+    "month": 1,
+    "day": 14,
+    "year": 1861,
+    "king": "오스만 제국",
+    "lunarDate": "양력 1월 14일 실제 기록",
+    "category": "episode",
+    "interestScore": 88,
+    "title": "오스만 제국의 황제, 칼리프 메흐메드 6세. (~1926년)",
+    "source": "한국어 위키백과 (1월 14일 연표)",
+    "sillokUrl": "https://ko.wikipedia.org/wiki/1%EC%9B%94_14%EC%9D%BC",
+    "officialRecord": "오스만 제국의 황제, 칼리프 메흐메드 6세. (~1926년)",
+    "yasaStory": "1861년 1월 14일에 실제로 기록된 역사 사건입니다.\n\n오스만 제국의 황제, 칼리프 메흐메드 6세. (~1926년)"
+  },
+  {
+    "id": "wiki-turkey-0130-1987-8",
+    "month": 1,
+    "day": 30,
+    "year": 1987,
+    "king": "튀르키예 공화국",
+    "lunarDate": "양력 1월 30일 실제 기록",
+    "category": "episode",
+    "interestScore": 88,
+    "title": "튀르키예의 축구 선수 아르다 투란.",
+    "source": "한국어 위키백과 (1월 30일 연표)",
+    "sillokUrl": "https://ko.wikipedia.org/wiki/1%EC%9B%94_30%EC%9D%BC",
+    "officialRecord": "튀르키예의 축구 선수 아르다 투란.",
+    "yasaStory": "1987년 1월 30일에 실제로 기록된 역사 사건입니다.\n\n튀르키예의 축구 선수 아르다 투란."
+  },
+  {
+    "id": "wiki-turkey-0127-2011-9",
     "month": 1,
     "day": 27,
     "year": 2011,
@@ -61,7 +151,7 @@ const WIKI_STORIES = [
     "yasaStory": "2011년 1월 27일에 실제로 기록된 역사 사건입니다.\n\n튀르키예 에르주룸에서 2011년 동계 유니버시아드 개막."
   },
   {
-    "id": "wiki-turkey-0126-1699-4",
+    "id": "wiki-turkey-0126-1699-10",
     "month": 1,
     "day": 26,
     "year": 1699,
@@ -76,7 +166,37 @@ const WIKI_STORIES = [
     "yasaStory": "1699년 1월 26일에 실제로 기록된 역사 사건입니다.\n\n카를로비츠 조약: 도나우강변의 카를로비츠에서 신성 동맹 전쟁에서 패한 오스만 제국과 유럽 동맹국들 사이에 조약이 체결되다. 이 조약에 따라 오스만 제국이 도나우 강 이북의 영토를 기독교 국가들에 영구적으로 할양하다."
   },
   {
-    "id": "wiki-turkey-0203-1451-5",
+    "id": "wiki-turkey-0126-1959-11",
+    "month": 1,
+    "day": 26,
+    "year": 1959,
+    "king": "튀르키예 공화국",
+    "lunarDate": "양력 1월 26일 실제 기록",
+    "category": "episode",
+    "interestScore": 88,
+    "title": "튀르키예의 영화 감독, 사진가, 배우 누리 빌게 제일란.",
+    "source": "한국어 위키백과 (1월 26일 연표)",
+    "sillokUrl": "https://ko.wikipedia.org/wiki/1%EC%9B%94_26%EC%9D%BC",
+    "officialRecord": "튀르키예의 영화 감독, 사진가, 배우 누리 빌게 제일란.",
+    "yasaStory": "1959년 1월 26일에 실제로 기록된 역사 사건입니다.\n\n튀르키예의 영화 감독, 사진가, 배우 누리 빌게 제일란."
+  },
+  {
+    "id": "wiki-turkey-0120-1029-12",
+    "month": 1,
+    "day": 20,
+    "year": 1029,
+    "king": "오스만 제국",
+    "lunarDate": "양력 1월 20일 실제 기록",
+    "category": "episode",
+    "interestScore": 88,
+    "title": "셀주크 제국의 제2대 술탄 알프 아르슬란. (~1072년)",
+    "source": "한국어 위키백과 (1월 20일 연표)",
+    "sillokUrl": "https://ko.wikipedia.org/wiki/1%EC%9B%94_20%EC%9D%BC",
+    "officialRecord": "셀주크 제국의 제2대 술탄 알프 아르슬란. (~1072년)",
+    "yasaStory": "1029년 1월 20일에 실제로 기록된 역사 사건입니다.\n\n셀주크 제국의 제2대 술탄 알프 아르슬란. (~1072년)"
+  },
+  {
+    "id": "wiki-turkey-0203-1451-13",
     "month": 2,
     "day": 3,
     "year": 1451,
@@ -91,7 +211,22 @@ const WIKI_STORIES = [
     "yasaStory": "1451년 2월 3일에 실제로 기록된 역사 사건입니다.\n\n메흐메트 2세가 오스만 제국 술탄의 지위를 물려받다."
   },
   {
-    "id": "wiki-turkey-0206-1819-6",
+    "id": "wiki-turkey-0203-1451-14",
+    "month": 2,
+    "day": 3,
+    "year": 1451,
+    "king": "오스만 제국",
+    "lunarDate": "양력 2월 3일 실제 기록",
+    "category": "episode",
+    "interestScore": 88,
+    "title": "오스만 제국의 제6대 술탄 무라트 2세. (1404년~)",
+    "source": "한국어 위키백과 (2월 3일 연표)",
+    "sillokUrl": "https://ko.wikipedia.org/wiki/2%EC%9B%94_3%EC%9D%BC",
+    "officialRecord": "오스만 제국의 제6대 술탄 무라트 2세. (1404년~)",
+    "yasaStory": "1451년 2월 3일에 실제로 기록된 역사 사건입니다.\n\n오스만 제국의 제6대 술탄 무라트 2세. (1404년~)"
+  },
+  {
+    "id": "wiki-turkey-0206-1819-15",
     "month": 2,
     "day": 6,
     "year": 1819,
@@ -106,7 +241,7 @@ const WIKI_STORIES = [
     "yasaStory": "1819년 2월 6일에 실제로 기록된 역사 사건입니다.\n\n토머스 스탬퍼드 래플스와 조호르의 후세인 술탄이 싱가포르에 무역 거점을 세우는 내용의 협정을 체결함."
   },
   {
-    "id": "wiki-turkey-0206-2011-7",
+    "id": "wiki-turkey-0206-2011-16",
     "month": 2,
     "day": 6,
     "year": 2011,
@@ -121,7 +256,7 @@ const WIKI_STORIES = [
     "yasaStory": "2011년 2월 6일에 실제로 기록된 역사 사건입니다.\n\n튀르키예 에르주룸에서 2011년 동계 유니버시아드 폐막."
   },
   {
-    "id": "wiki-turkey-0217-2016-8",
+    "id": "wiki-turkey-0217-2016-17",
     "month": 2,
     "day": 17,
     "year": 2016,
@@ -136,7 +271,22 @@ const WIKI_STORIES = [
     "yasaStory": "2016년 2월 17일에 실제로 기록된 역사 사건입니다.\n\n터키 앙카라에서 폭탄테러가 발생하여 28명이 사망하고 61명이 부상을 입었다."
   },
   {
-    "id": "wiki-turkey-0302-2012-9",
+    "id": "wiki-turkey-0228-2015-18",
+    "month": 2,
+    "day": 28,
+    "year": 2015,
+    "king": "튀르키예 공화국",
+    "lunarDate": "양력 2월 28일 실제 기록",
+    "category": "episode",
+    "interestScore": 88,
+    "title": "터키의 소설가 야샤르 케말. (1923년~)",
+    "source": "한국어 위키백과 (2월 28일 연표)",
+    "sillokUrl": "https://ko.wikipedia.org/wiki/2%EC%9B%94_28%EC%9D%BC",
+    "officialRecord": "터키의 소설가 야샤르 케말. (1923년~)",
+    "yasaStory": "2015년 2월 28일에 실제로 기록된 역사 사건입니다.\n\n터키의 소설가 야샤르 케말. (1923년~)"
+  },
+  {
+    "id": "wiki-turkey-0302-2012-19",
     "month": 3,
     "day": 2,
     "year": 2012,
@@ -151,7 +301,7 @@ const WIKI_STORIES = [
     "yasaStory": "2012년 3월 2일에 실제로 기록된 역사 사건입니다.\n\n거대한 토네이도가 미국 남부 지역에서 발생, 오하이오 밸리 지역(펜실베이니아, 오하이오, 웨스트버지니아, 인디아나, 켄터키, 일리노이의 6개주)을 강타하여 40명이 숨지다."
   },
   {
-    "id": "wiki-turkey-0303-1284-10",
+    "id": "wiki-turkey-0303-1284-20",
     "month": 3,
     "day": 3,
     "year": 1284,
@@ -166,7 +316,7 @@ const WIKI_STORIES = [
     "yasaStory": "1284년 3월 3일에 실제로 기록된 역사 사건입니다.\n\n투카로이 전투(Battle of Tukaroi): 무굴 제국의 악바르 대제가 벵갈의 술탄 다우드 카라니(Daud Khan Karrani)를 물리치다."
   },
   {
-    "id": "wiki-turkey-0303-1878-11",
+    "id": "wiki-turkey-0303-1878-21",
     "month": 3,
     "day": 3,
     "year": 1878,
@@ -181,7 +331,37 @@ const WIKI_STORIES = [
     "yasaStory": "1878년 3월 3일에 실제로 기록된 역사 사건입니다.\n\n산스테파노 조약으로 불가리아가 오스만 제국으로부터 자치권을 얻다."
   },
   {
-    "id": "wiki-turkey-0225-2009-12",
+    "id": "wiki-turkey-0304-1769-22",
+    "month": 3,
+    "day": 4,
+    "year": 1769,
+    "king": "오스만 제국",
+    "lunarDate": "양력 3월 4일 실제 기록",
+    "category": "episode",
+    "interestScore": 88,
+    "title": "오스만 제국의 이집트 총독 무함마드 알리. (~1849년)",
+    "source": "한국어 위키백과 (3월 4일 연표)",
+    "sillokUrl": "https://ko.wikipedia.org/wiki/3%EC%9B%94_4%EC%9D%BC",
+    "officialRecord": "오스만 제국의 이집트 총독 무함마드 알리. (~1849년)",
+    "yasaStory": "1769년 3월 4일에 실제로 기록된 역사 사건입니다.\n\n오스만 제국의 이집트 총독 무함마드 알리. (~1849년)"
+  },
+  {
+    "id": "wiki-turkey-0304-1193-23",
+    "month": 3,
+    "day": 4,
+    "year": 1193,
+    "king": "오스만 제국",
+    "lunarDate": "양력 3월 4일 실제 기록",
+    "category": "episode",
+    "interestScore": 88,
+    "title": "쿠르드족의 출신 술탄 살라딘. (?~)",
+    "source": "한국어 위키백과 (3월 4일 연표)",
+    "sillokUrl": "https://ko.wikipedia.org/wiki/3%EC%9B%94_4%EC%9D%BC",
+    "officialRecord": "쿠르드족의 출신 술탄 살라딘. (?~)",
+    "yasaStory": "1193년 3월 4일에 실제로 기록된 역사 사건입니다.\n\n쿠르드족의 출신 술탄 살라딘. (?~)"
+  },
+  {
+    "id": "wiki-turkey-0225-2009-24",
     "month": 2,
     "day": 25,
     "year": 2009,
@@ -196,7 +376,22 @@ const WIKI_STORIES = [
     "yasaStory": "2009년 2월 25일에 실제로 기록된 역사 사건입니다.\n\n네덜란드 암스테르담 스키폴 국제공항에서 승객과 승무원 134명을 태운 터키항공 소속 보잉 737-800이 착륙을 시도하다가 불시착해 기장과 부기장을 포함해 9명이 사망하고 125명이 살아남았다."
   },
   {
-    "id": "wiki-turkey-0308-1957-13",
+    "id": "wiki-turkey-0221-1543-25",
+    "month": 2,
+    "day": 21,
+    "year": 1543,
+    "king": "오스만 제국",
+    "lunarDate": "양력 2월 21일 실제 기록",
+    "category": "episode",
+    "interestScore": 88,
+    "title": "아달 술탄국의 장군 아흐마드 이븐 이브리힘 알가지. (1506년~)",
+    "source": "한국어 위키백과 (2월 21일 연표)",
+    "sillokUrl": "https://ko.wikipedia.org/wiki/2%EC%9B%94_21%EC%9D%BC",
+    "officialRecord": "아달 술탄국의 장군 아흐마드 이븐 이브리힘 알가지. (1506년~)",
+    "yasaStory": "1543년 2월 21일에 실제로 기록된 역사 사건입니다.\n\n아달 술탄국의 장군 아흐마드 이븐 이브리힘 알가지. (1506년~)"
+  },
+  {
+    "id": "wiki-turkey-0308-1957-26",
     "month": 3,
     "day": 8,
     "year": 1957,
@@ -211,7 +406,37 @@ const WIKI_STORIES = [
     "yasaStory": "1957년 3월 8일에 실제로 기록된 역사 사건입니다.\n\n대한민국, 터키와 수교."
   },
   {
-    "id": "wiki-turkey-0313-2016-14",
+    "id": "wiki-turkey-0308-1975-27",
+    "month": 3,
+    "day": 8,
+    "year": 1975,
+    "king": "튀르키예 공화국",
+    "lunarDate": "양력 3월 8일 실제 기록",
+    "category": "episode",
+    "interestScore": 88,
+    "title": "러시아의 권투 선수 술탄 이브라기모프.",
+    "source": "한국어 위키백과 (3월 8일 연표)",
+    "sillokUrl": "https://ko.wikipedia.org/wiki/3%EC%9B%94_8%EC%9D%BC",
+    "officialRecord": "러시아의 권투 선수 술탄 이브라기모프.",
+    "yasaStory": "1975년 3월 8일에 실제로 기록된 역사 사건입니다.\n\n러시아의 권투 선수 술탄 이브라기모프."
+  },
+  {
+    "id": "wiki-turkey-0310-1938-28",
+    "month": 3,
+    "day": 10,
+    "year": 1938,
+    "king": "튀르키예 공화국",
+    "lunarDate": "양력 3월 10일 실제 기록",
+    "category": "episode",
+    "interestScore": 88,
+    "title": "튀르키예의 레슬링 선수 카즘 아이바즈.(~2020년)",
+    "source": "한국어 위키백과 (3월 10일 연표)",
+    "sillokUrl": "https://ko.wikipedia.org/wiki/3%EC%9B%94_10%EC%9D%BC",
+    "officialRecord": "튀르키예의 레슬링 선수 카즘 아이바즈.(~2020년)",
+    "yasaStory": "1938년 3월 10일에 실제로 기록된 역사 사건입니다.\n\n튀르키예의 레슬링 선수 카즘 아이바즈.(~2020년)"
+  },
+  {
+    "id": "wiki-turkey-0313-2016-29",
     "month": 3,
     "day": 13,
     "year": 2016,
@@ -226,7 +451,22 @@ const WIKI_STORIES = [
     "yasaStory": "2016년 3월 13일에 실제로 기록된 역사 사건입니다.\n\n터키 앙카라에서 폭탄테러가 발생하여 34명이 사망하고 125명이 부상을 입었다."
   },
   {
-    "id": "wiki-turkey-0319-2016-15",
+    "id": "wiki-turkey-0313-1900-30",
+    "month": 3,
+    "day": 13,
+    "year": 1900,
+    "king": "오스만 제국",
+    "lunarDate": "양력 3월 13일 실제 기록",
+    "category": "episode",
+    "interestScore": 88,
+    "title": "튀르키예의 시인 요르고스 세페리스. (~1971년)",
+    "source": "한국어 위키백과 (3월 13일 연표)",
+    "sillokUrl": "https://ko.wikipedia.org/wiki/3%EC%9B%94_13%EC%9D%BC",
+    "officialRecord": "튀르키예의 시인 요르고스 세페리스. (~1971년)",
+    "yasaStory": "1900년 3월 13일에 실제로 기록된 역사 사건입니다.\n\n튀르키예의 시인 요르고스 세페리스. (~1971년)"
+  },
+  {
+    "id": "wiki-turkey-0319-2016-31",
     "month": 3,
     "day": 19,
     "year": 2016,
@@ -241,7 +481,37 @@ const WIKI_STORIES = [
     "yasaStory": "2016년 3월 19일에 실제로 기록된 역사 사건입니다.\n\n터키 이스탄불 도심에서 폭탄테러가 발생하여 5명이 사망하고 36명이 부상을 입었다."
   },
   {
-    "id": "wiki-turkey-0328-1966-16",
+    "id": "wiki-turkey-0323-1995-32",
+    "month": 3,
+    "day": 23,
+    "year": 1995,
+    "king": "튀르키예 공화국",
+    "lunarDate": "양력 3월 23일 실제 기록",
+    "category": "episode",
+    "interestScore": 88,
+    "title": "튀르키예의 축구 선수 오잔 투판.",
+    "source": "한국어 위키백과 (3월 23일 연표)",
+    "sillokUrl": "https://ko.wikipedia.org/wiki/3%EC%9B%94_23%EC%9D%BC",
+    "officialRecord": "튀르키예의 축구 선수 오잔 투판.",
+    "yasaStory": "1995년 3월 23일에 실제로 기록된 역사 사건입니다.\n\n튀르키예의 축구 선수 오잔 투판."
+  },
+  {
+    "id": "wiki-turkey-0327-1809-33",
+    "month": 3,
+    "day": 27,
+    "year": 1809,
+    "king": "오스만 제국",
+    "lunarDate": "양력 3월 27일 실제 기록",
+    "category": "episode",
+    "interestScore": 88,
+    "title": "프랑스의 도시계획가 조르주외젠 오스만. (~1891년)",
+    "source": "한국어 위키백과 (3월 27일 연표)",
+    "sillokUrl": "https://ko.wikipedia.org/wiki/3%EC%9B%94_27%EC%9D%BC",
+    "officialRecord": "프랑스의 도시계획가 조르주외젠 오스만. (~1891년)",
+    "yasaStory": "1809년 3월 27일에 실제로 기록된 역사 사건입니다.\n\n프랑스의 도시계획가 조르주외젠 오스만. (~1891년)"
+  },
+  {
+    "id": "wiki-turkey-0328-1966-34",
     "month": 3,
     "day": 28,
     "year": 1966,
@@ -256,7 +526,7 @@ const WIKI_STORIES = [
     "yasaStory": "1966년 3월 28일에 실제로 기록된 역사 사건입니다.\n\n카말 귀르셀이 터키대통령의 임기를 끝냈다."
   },
   {
-    "id": "wiki-turkey-0329-1430-17",
+    "id": "wiki-turkey-0329-1430-35",
     "month": 3,
     "day": 29,
     "year": 1430,
@@ -271,7 +541,7 @@ const WIKI_STORIES = [
     "yasaStory": "1430년 3월 29일에 실제로 기록된 역사 사건입니다.\n\n오스만 제국의 무라트 2세가 동로마 제국의 도시 테살로니키를 점령하다."
   },
   {
-    "id": "wiki-turkey-0501-1977-18",
+    "id": "wiki-turkey-0501-1977-36",
     "month": 5,
     "day": 1,
     "year": 1977,
@@ -286,7 +556,7 @@ const WIKI_STORIES = [
     "yasaStory": "1977년 5월 1일에 실제로 기록된 역사 사건입니다.\n\n튀르키예 이스탄불 탁심 광장에서 5·1 유혈 진압으로 최소 34명이 사망하고 126명이 부상당했다."
   },
   {
-    "id": "wiki-turkey-0501-2007-19",
+    "id": "wiki-turkey-0501-2007-37",
     "month": 5,
     "day": 1,
     "year": 2007,
@@ -301,7 +571,7 @@ const WIKI_STORIES = [
     "yasaStory": "2007년 5월 1일에 실제로 기록된 역사 사건입니다.\n\n튀르키예 헌법재판소가 4월 27일 실시된 대통령 선거 1차 투표가 무효라는 판결을 내렸다."
   },
   {
-    "id": "wiki-turkey-0413-1204-20",
+    "id": "wiki-turkey-0413-1204-38",
     "month": 4,
     "day": 13,
     "year": 1204,
@@ -316,7 +586,7 @@ const WIKI_STORIES = [
     "yasaStory": "1204년 4월 13일에 실제로 기록된 역사 사건입니다.\n\n제4차 십자군이 콘스탄티노플을 점령하다."
   },
   {
-    "id": "wiki-turkey-0414-1915-21",
+    "id": "wiki-turkey-0414-1915-39",
     "month": 4,
     "day": 14,
     "year": 1915,
@@ -331,7 +601,52 @@ const WIKI_STORIES = [
     "yasaStory": "1915년 4월 14일에 실제로 기록된 역사 사건입니다.\n\n오스만 투르크가 아르메니아를 침공하다."
   },
   {
-    "id": "wiki-turkey-0423-1917-22",
+    "id": "wiki-turkey-0415-1642-40",
+    "month": 4,
+    "day": 15,
+    "year": 1642,
+    "king": "오스만 제국",
+    "lunarDate": "양력 4월 15일 실제 기록",
+    "category": "episode",
+    "interestScore": 88,
+    "title": "오스만 제국의 술탄 쉴레이만 2세. (~1691년)",
+    "source": "한국어 위키백과 (4월 15일 연표)",
+    "sillokUrl": "https://ko.wikipedia.org/wiki/4%EC%9B%94_15%EC%9D%BC",
+    "officialRecord": "오스만 제국의 술탄 쉴레이만 2세. (~1691년)",
+    "yasaStory": "1642년 4월 15일에 실제로 기록된 역사 사건입니다.\n\n오스만 제국의 술탄 쉴레이만 2세. (~1691년)"
+  },
+  {
+    "id": "wiki-turkey-0415-1558-41",
+    "month": 4,
+    "day": 15,
+    "year": 1558,
+    "king": "오스만 제국",
+    "lunarDate": "양력 4월 15일 실제 기록",
+    "category": "episode",
+    "interestScore": 88,
+    "title": "오스만 제국의 술탄인 쉴레이만 1세의 황귀비 록셀라나. (1502년~)",
+    "source": "한국어 위키백과 (4월 15일 연표)",
+    "sillokUrl": "https://ko.wikipedia.org/wiki/4%EC%9B%94_15%EC%9D%BC",
+    "officialRecord": "오스만 제국의 술탄인 쉴레이만 1세의 황귀비 록셀라나. (1502년~)",
+    "yasaStory": "1558년 4월 15일에 실제로 기록된 역사 사건입니다.\n\n오스만 제국의 술탄인 쉴레이만 1세의 황귀비 록셀라나. (1502년~)"
+  },
+  {
+    "id": "wiki-turkey-0418-2021-42",
+    "month": 4,
+    "day": 18,
+    "year": 2021,
+    "king": "튀르키예 공화국",
+    "lunarDate": "양력 4월 18일 실제 기록",
+    "category": "episode",
+    "interestScore": 88,
+    "title": "터키의 군인 네즈데트 위루으. (1921년~)",
+    "source": "한국어 위키백과 (4월 18일 연표)",
+    "sillokUrl": "https://ko.wikipedia.org/wiki/4%EC%9B%94_18%EC%9D%BC",
+    "officialRecord": "터키의 군인 네즈데트 위루으. (1921년~)",
+    "yasaStory": "2021년 4월 18일에 실제로 기록된 역사 사건입니다.\n\n터키의 군인 네즈데트 위루으. (1921년~)"
+  },
+  {
+    "id": "wiki-turkey-0423-1917-43",
     "month": 4,
     "day": 23,
     "year": 1917,
@@ -346,7 +661,52 @@ const WIKI_STORIES = [
     "yasaStory": "1917년 4월 23일에 실제로 기록된 역사 사건입니다.\n\n오스만 제국이 미국에 대한 국교 단절을 선언하다."
   },
   {
-    "id": "wiki-turkey-0511-2013-23",
+    "id": "wiki-turkey-0425-1823-44",
+    "month": 4,
+    "day": 25,
+    "year": 1823,
+    "king": "오스만 제국",
+    "lunarDate": "양력 4월 25일 실제 기록",
+    "category": "episode",
+    "interestScore": 88,
+    "title": "오스만 제국의 31대 파디샤 압뒬메지트 1세. (~1861년)",
+    "source": "한국어 위키백과 (4월 25일 연표)",
+    "sillokUrl": "https://ko.wikipedia.org/wiki/4%EC%9B%94_25%EC%9D%BC",
+    "officialRecord": "오스만 제국의 31대 파디샤 압뒬메지트 1세. (~1861년)",
+    "yasaStory": "1823년 4월 25일에 실제로 기록된 역사 사건입니다.\n\n오스만 제국의 31대 파디샤 압뒬메지트 1세. (~1861년)"
+  },
+  {
+    "id": "wiki-turkey-0503-2025-45",
+    "month": 5,
+    "day": 3,
+    "year": 2025,
+    "king": "튀르키예 공화국",
+    "lunarDate": "양력 5월 3일 실제 기록",
+    "category": "episode",
+    "interestScore": 88,
+    "title": "튀르키예의 영화배우 스르 쉬레이야 왼데르. (1962년~)",
+    "source": "한국어 위키백과 (5월 3일 연표)",
+    "sillokUrl": "https://ko.wikipedia.org/wiki/5%EC%9B%94_3%EC%9D%BC",
+    "officialRecord": "튀르키예의 영화배우 스르 쉬레이야 왼데르. (1962년~)",
+    "yasaStory": "2025년 5월 3일에 실제로 기록된 역사 사건입니다.\n\n튀르키예의 영화배우 스르 쉬레이야 왼데르. (1962년~)"
+  },
+  {
+    "id": "wiki-turkey-0509-2015-46",
+    "month": 5,
+    "day": 9,
+    "year": 2015,
+    "king": "튀르키예 공화국",
+    "lunarDate": "양력 5월 9일 실제 기록",
+    "category": "episode",
+    "interestScore": 88,
+    "title": "터키의 제7대 대통령 케난 에브렌. (1917년~)",
+    "source": "한국어 위키백과 (5월 9일 연표)",
+    "sillokUrl": "https://ko.wikipedia.org/wiki/5%EC%9B%94_9%EC%9D%BC",
+    "officialRecord": "터키의 제7대 대통령 케난 에브렌. (1917년~)",
+    "yasaStory": "2015년 5월 9일에 실제로 기록된 역사 사건입니다.\n\n터키의 제7대 대통령 케난 에브렌. (1917년~)"
+  },
+  {
+    "id": "wiki-turkey-0511-2013-47",
     "month": 5,
     "day": 11,
     "year": 2013,
@@ -361,7 +721,7 @@ const WIKI_STORIES = [
     "yasaStory": "2013년 5월 11일에 실제로 기록된 역사 사건입니다.\n\n터키 남부 레이한리 지역에서 연쇄 차량폭탄 테러가 발생, 적어도 46명이 사망하다."
   },
   {
-    "id": "wiki-turkey-0513-1981-24",
+    "id": "wiki-turkey-0513-1981-48",
     "month": 5,
     "day": 13,
     "year": 1981,
@@ -376,7 +736,7 @@ const WIKI_STORIES = [
     "yasaStory": "1981년 5월 13일에 실제로 기록된 역사 사건입니다.\n\n바티칸 시국 성 베드로 광장에서 튀르키예인 과격파 청년 메흐메트 알리 아자가 교황 요한 바오로 2세를 총으로 쏴 심한 상처를 입히다."
   },
   {
-    "id": "wiki-turkey-0518-1268-25",
+    "id": "wiki-turkey-0518-1268-49",
     "month": 5,
     "day": 18,
     "year": 1268,
@@ -391,7 +751,7 @@ const WIKI_STORIES = [
     "yasaStory": "1268년 5월 18일에 실제로 기록된 역사 사건입니다.\n\n맘루크 술탄국의 5대 술탄 바이바르스가 이끄는 맘루크 무슬림 군이 안티오키아 점령하여 안티오키아 공국을 멸망시키고 학살하는 사건이 일어났다."
   },
   {
-    "id": "wiki-turkey-0520-526-26",
+    "id": "wiki-turkey-0520-526-50",
     "month": 5,
     "day": 20,
     "year": 526,
@@ -406,7 +766,52 @@ const WIKI_STORIES = [
     "yasaStory": "526년 5월 20일에 실제로 기록된 역사 사건입니다.\n\n안티오키아 지진: 동로마 제국의 안티오키아(현재의 시리아와 튀르키예 일대)에 진도 7.0의 지진이 발생, 최소 25만 명이 사망하다."
   },
   {
-    "id": "wiki-turkey-0527-1960-27",
+    "id": "wiki-turkey-0520-1886-51",
+    "month": 5,
+    "day": 20,
+    "year": 1886,
+    "king": "오스만 제국",
+    "lunarDate": "양력 5월 20일 실제 기록",
+    "category": "episode",
+    "interestScore": 88,
+    "title": "터키의 축구 감독 알리 사미 옌. (~1951년)",
+    "source": "한국어 위키백과 (5월 20일 연표)",
+    "sillokUrl": "https://ko.wikipedia.org/wiki/5%EC%9B%94_20%EC%9D%BC",
+    "officialRecord": "터키의 축구 감독 알리 사미 옌. (~1951년)",
+    "yasaStory": "1886년 5월 20일에 실제로 기록된 역사 사건입니다.\n\n터키의 축구 감독 알리 사미 옌. (~1951년)"
+  },
+  {
+    "id": "wiki-turkey-0521-1947-52",
+    "month": 5,
+    "day": 21,
+    "year": 1947,
+    "king": "튀르키예 공화국",
+    "lunarDate": "양력 5월 21일 실제 기록",
+    "category": "episode",
+    "interestScore": 88,
+    "title": "튀르키예의 역사학자 일베르 오르타이르. (~2026년)",
+    "source": "한국어 위키백과 (5월 21일 연표)",
+    "sillokUrl": "https://ko.wikipedia.org/wiki/5%EC%9B%94_21%EC%9D%BC",
+    "officialRecord": "튀르키예의 역사학자 일베르 오르타이르. (~2026년)",
+    "yasaStory": "1947년 5월 21일에 실제로 기록된 역사 사건입니다.\n\n튀르키예의 역사학자 일베르 오르타이르. (~2026년)"
+  },
+  {
+    "id": "wiki-turkey-0526-1566-53",
+    "month": 5,
+    "day": 26,
+    "year": 1566,
+    "king": "오스만 제국",
+    "lunarDate": "양력 5월 26일 실제 기록",
+    "category": "episode",
+    "interestScore": 88,
+    "title": "오스만 제국의 술탄 메흐메트 3세. (~1603년)",
+    "source": "한국어 위키백과 (5월 26일 연표)",
+    "sillokUrl": "https://ko.wikipedia.org/wiki/5%EC%9B%94_26%EC%9D%BC",
+    "officialRecord": "오스만 제국의 술탄 메흐메트 3세. (~1603년)",
+    "yasaStory": "1566년 5월 26일에 실제로 기록된 역사 사건입니다.\n\n오스만 제국의 술탄 메흐메트 3세. (~1603년)"
+  },
+  {
+    "id": "wiki-turkey-0527-1960-54",
     "month": 5,
     "day": 27,
     "year": 1960,
@@ -421,7 +826,7 @@ const WIKI_STORIES = [
     "yasaStory": "1960년 5월 27일에 실제로 기록된 역사 사건입니다.\n\n튀르키예의 대통령에 카말 귀르셀이 취임하다."
   },
   {
-    "id": "wiki-turkey-0528-2013-28",
+    "id": "wiki-turkey-0528-2013-55",
     "month": 5,
     "day": 28,
     "year": 2013,
@@ -436,7 +841,22 @@ const WIKI_STORIES = [
     "yasaStory": "2013년 5월 28일에 실제로 기록된 역사 사건입니다.\n\n튀르키예에서 탁심 게지 공원 시위가 일어났다."
   },
   {
-    "id": "wiki-turkey-0529-1453-29",
+    "id": "wiki-turkey-0528-1524-56",
+    "month": 5,
+    "day": 28,
+    "year": 1524,
+    "king": "오스만 제국",
+    "lunarDate": "양력 5월 28일 실제 기록",
+    "category": "episode",
+    "interestScore": 88,
+    "title": "오스탄 제국의 제11대 술탄 셀림 2세. (~1574년)",
+    "source": "한국어 위키백과 (5월 28일 연표)",
+    "sillokUrl": "https://ko.wikipedia.org/wiki/5%EC%9B%94_28%EC%9D%BC",
+    "officialRecord": "오스탄 제국의 제11대 술탄 셀림 2세. (~1574년)",
+    "yasaStory": "1524년 5월 28일에 실제로 기록된 역사 사건입니다.\n\n오스탄 제국의 제11대 술탄 셀림 2세. (~1574년)"
+  },
+  {
+    "id": "wiki-turkey-0529-1453-57",
     "month": 5,
     "day": 29,
     "year": 1453,
@@ -451,7 +871,67 @@ const WIKI_STORIES = [
     "yasaStory": "1453년 5월 29일에 실제로 기록된 역사 사건입니다.\n\n콘스탄티노폴리스를 오스만 제국이 함락되면서 동로마 제국이 멸망하다."
   },
   {
-    "id": "wiki-turkey-0601-2022-30",
+    "id": "wiki-turkey-0529-1868-58",
+    "month": 5,
+    "day": 29,
+    "year": 1868,
+    "king": "오스만 제국",
+    "lunarDate": "양력 5월 29일 실제 기록",
+    "category": "episode",
+    "interestScore": 88,
+    "title": "오스만 제국의 마지막 황제 압뒬메지드 2세. (~1944년)",
+    "source": "한국어 위키백과 (5월 29일 연표)",
+    "sillokUrl": "https://ko.wikipedia.org/wiki/5%EC%9B%94_29%EC%9D%BC",
+    "officialRecord": "오스만 제국의 마지막 황제 압뒬메지드 2세. (~1944년)",
+    "yasaStory": "1868년 5월 29일에 실제로 기록된 역사 사건입니다.\n\n오스만 제국의 마지막 황제 압뒬메지드 2세. (~1944년)"
+  },
+  {
+    "id": "wiki-turkey-0529-2019-59",
+    "month": 5,
+    "day": 29,
+    "year": 2019,
+    "king": "튀르키예 공화국",
+    "lunarDate": "양력 5월 29일 실제 기록",
+    "category": "episode",
+    "interestScore": 88,
+    "title": "터키의 레슬링 선수 바이람 시트. (1930년~)",
+    "source": "한국어 위키백과 (5월 29일 연표)",
+    "sillokUrl": "https://ko.wikipedia.org/wiki/5%EC%9B%94_29%EC%9D%BC",
+    "officialRecord": "터키의 레슬링 선수 바이람 시트. (1930년~)",
+    "yasaStory": "2019년 5월 29일에 실제로 기록된 역사 사건입니다.\n\n터키의 레슬링 선수 바이람 시트. (1930년~)"
+  },
+  {
+    "id": "wiki-turkey-0625-1861-60",
+    "month": 6,
+    "day": 25,
+    "year": 1861,
+    "king": "오스만 제국",
+    "lunarDate": "양력 6월 25일 실제 기록",
+    "category": "episode",
+    "interestScore": 88,
+    "title": "오스만 제국의 제31대 파디샤 압뒬메지트 1세. (1823년~)",
+    "source": "한국어 위키백과 (6월 25일 연표)",
+    "sillokUrl": "https://ko.wikipedia.org/wiki/6%EC%9B%94_25%EC%9D%BC",
+    "officialRecord": "오스만 제국의 제31대 파디샤 압뒬메지트 1세. (1823년~)",
+    "yasaStory": "1861년 6월 25일에 실제로 기록된 역사 사건입니다.\n\n오스만 제국의 제31대 파디샤 압뒬메지트 1세. (1823년~)"
+  },
+  {
+    "id": "wiki-turkey-0701-1277-61",
+    "month": 7,
+    "day": 1,
+    "year": 1277,
+    "king": "오스만 제국",
+    "lunarDate": "양력 7월 1일 실제 기록",
+    "category": "episode",
+    "interestScore": 88,
+    "title": "이슬람 맘루크 왕조의 술탄 바이바르스. (1223년~)",
+    "source": "한국어 위키백과 (7월 1일 연표)",
+    "sillokUrl": "https://ko.wikipedia.org/wiki/7%EC%9B%94_1%EC%9D%BC",
+    "officialRecord": "이슬람 맘루크 왕조의 술탄 바이바르스. (1223년~)",
+    "yasaStory": "1277년 7월 1일에 실제로 기록된 역사 사건입니다.\n\n이슬람 맘루크 왕조의 술탄 바이바르스. (1223년~)"
+  },
+  {
+    "id": "wiki-turkey-0601-2022-62",
     "month": 6,
     "day": 1,
     "year": 2022,
@@ -466,7 +946,22 @@ const WIKI_STORIES = [
     "yasaStory": "2022년 6월 1일에 실제로 기록된 역사 사건입니다.\n\n튀르키예의 영어 국호를 ‘터키’에서 튀르키예로 변경해 달라는 요청을 유엔이 최종 승인하다."
   },
   {
-    "id": "wiki-turkey-0704-2013-31",
+    "id": "wiki-turkey-0706-1940-63",
+    "month": 7,
+    "day": 6,
+    "year": 1940,
+    "king": "튀르키예 공화국",
+    "lunarDate": "양력 7월 6일 실제 기록",
+    "category": "episode",
+    "interestScore": 88,
+    "title": "카자흐스탄의 정치인 누르술탄 나자르바예프.",
+    "source": "한국어 위키백과 (7월 6일 연표)",
+    "sillokUrl": "https://ko.wikipedia.org/wiki/7%EC%9B%94_6%EC%9D%BC",
+    "officialRecord": "카자흐스탄의 정치인 누르술탄 나자르바예프.",
+    "yasaStory": "1940년 7월 6일에 실제로 기록된 역사 사건입니다.\n\n카자흐스탄의 정치인 누르술탄 나자르바예프."
+  },
+  {
+    "id": "wiki-turkey-0704-2013-64",
     "month": 7,
     "day": 4,
     "year": 2013,
@@ -481,7 +976,37 @@ const WIKI_STORIES = [
     "yasaStory": "2013년 7월 4일에 실제로 기록된 역사 사건입니다.\n\n터키에서 개최된 2013년 FIFA U-20 월드컵에서 대한민국이 콜롬비아에 승부차기 끝에 8:7로 승리하였다."
   },
   {
-    "id": "wiki-turkey-0716-2016-32",
+    "id": "wiki-turkey-0704-1546-65",
+    "month": 7,
+    "day": 4,
+    "year": 1546,
+    "king": "오스만 제국",
+    "lunarDate": "양력 7월 4일 실제 기록",
+    "category": "episode",
+    "interestScore": 88,
+    "title": "오스만 제국의 제12대 술탄 무라트 3세. (~1595년)",
+    "source": "한국어 위키백과 (7월 4일 연표)",
+    "sillokUrl": "https://ko.wikipedia.org/wiki/7%EC%9B%94_4%EC%9D%BC",
+    "officialRecord": "오스만 제국의 제12대 술탄 무라트 3세. (~1595년)",
+    "yasaStory": "1546년 7월 4일에 실제로 기록된 역사 사건입니다.\n\n오스만 제국의 제12대 술탄 무라트 3세. (~1595년)"
+  },
+  {
+    "id": "wiki-turkey-0707-1962-66",
+    "month": 7,
+    "day": 7,
+    "year": 1962,
+    "king": "튀르키예 공화국",
+    "lunarDate": "양력 7월 7일 실제 기록",
+    "category": "episode",
+    "interestScore": 88,
+    "title": "튀르키예의 영화배우 스르 쉬레이야 왼데르. (~2025년)",
+    "source": "한국어 위키백과 (7월 7일 연표)",
+    "sillokUrl": "https://ko.wikipedia.org/wiki/7%EC%9B%94_7%EC%9D%BC",
+    "officialRecord": "튀르키예의 영화배우 스르 쉬레이야 왼데르. (~2025년)",
+    "yasaStory": "1962년 7월 7일에 실제로 기록된 역사 사건입니다.\n\n튀르키예의 영화배우 스르 쉬레이야 왼데르. (~2025년)"
+  },
+  {
+    "id": "wiki-turkey-0716-2016-67",
     "month": 7,
     "day": 16,
     "year": 2016,
@@ -496,7 +1021,37 @@ const WIKI_STORIES = [
     "yasaStory": "2016년 7월 16일에 실제로 기록된 역사 사건입니다.\n\n튀르키예에서 쿠데타가 발생하다."
   },
   {
-    "id": "wiki-turkey-0615-1389-33",
+    "id": "wiki-turkey-0608-1999-68",
+    "month": 6,
+    "day": 8,
+    "year": 1999,
+    "king": "튀르키예 공화국",
+    "lunarDate": "양력 6월 8일 실제 기록",
+    "category": "episode",
+    "interestScore": 88,
+    "title": "튀르키예의 양궁 선수 메테 가조즈.",
+    "source": "한국어 위키백과 (6월 8일 연표)",
+    "sillokUrl": "https://ko.wikipedia.org/wiki/6%EC%9B%94_8%EC%9D%BC",
+    "officialRecord": "튀르키예의 양궁 선수 메테 가조즈.",
+    "yasaStory": "1999년 6월 8일에 실제로 기록된 역사 사건입니다.\n\n튀르키예의 양궁 선수 메테 가조즈."
+  },
+  {
+    "id": "wiki-turkey-0610-1895-69",
+    "month": 6,
+    "day": 10,
+    "year": 1895,
+    "king": "오스만 제국",
+    "lunarDate": "양력 6월 10일 실제 기록",
+    "category": "episode",
+    "interestScore": 88,
+    "title": "터키의 군인, 정치인, 대통령 제말 귀르셀. (~1966년)",
+    "source": "한국어 위키백과 (6월 10일 연표)",
+    "sillokUrl": "https://ko.wikipedia.org/wiki/6%EC%9B%94_10%EC%9D%BC",
+    "officialRecord": "터키의 군인, 정치인, 대통령 제말 귀르셀. (~1966년)",
+    "yasaStory": "1895년 6월 10일에 실제로 기록된 역사 사건입니다.\n\n터키의 군인, 정치인, 대통령 제말 귀르셀. (~1966년)"
+  },
+  {
+    "id": "wiki-turkey-0615-1389-70",
     "month": 6,
     "day": 15,
     "year": 1389,
@@ -511,7 +1066,7 @@ const WIKI_STORIES = [
     "yasaStory": "1389년 6월 15일에 실제로 기록된 역사 사건입니다.\n\n세르비아와 오스만 제국간의 제 1차 코소보 전투가 벌어진다."
   },
   {
-    "id": "wiki-turkey-0617-1291-34",
+    "id": "wiki-turkey-0617-1291-71",
     "month": 6,
     "day": 17,
     "year": 1291,
@@ -526,7 +1081,7 @@ const WIKI_STORIES = [
     "yasaStory": "1291년 6월 17일에 실제로 기록된 역사 사건입니다.\n\n술탄 알 아슈라프 칼릴이 이끄는 무슬림 군대가 십자군의 최후 거점 도시인 아크레를 함락하다."
   },
   {
-    "id": "wiki-turkey-0617-1462-35",
+    "id": "wiki-turkey-0617-1462-72",
     "month": 6,
     "day": 17,
     "year": 1462,
@@ -541,7 +1096,22 @@ const WIKI_STORIES = [
     "yasaStory": "1462년 6월 17일에 실제로 기록된 역사 사건입니다.\n\n블라드 3세가 야간 공격(the night attack)으로 메흐메트 2세의 암살을 시도하고 왈라키아로부터 그의 군대를 축출하다."
   },
   {
-    "id": "wiki-turkey-0622-2002-36",
+    "id": "wiki-turkey-0617-2015-73",
+    "month": 6,
+    "day": 17,
+    "year": 2015,
+    "king": "튀르키예 공화국",
+    "lunarDate": "양력 6월 17일 실제 기록",
+    "category": "episode",
+    "interestScore": 88,
+    "title": "터키의 제9대 대통령 쉴레이만 데미렐. (1924년~)",
+    "source": "한국어 위키백과 (6월 17일 연표)",
+    "sillokUrl": "https://ko.wikipedia.org/wiki/6%EC%9B%94_17%EC%9D%BC",
+    "officialRecord": "터키의 제9대 대통령 쉴레이만 데미렐. (1924년~)",
+    "yasaStory": "2015년 6월 17일에 실제로 기록된 역사 사건입니다.\n\n터키의 제9대 대통령 쉴레이만 데미렐. (1924년~)"
+  },
+  {
+    "id": "wiki-turkey-0622-2002-74",
     "month": 6,
     "day": 22,
     "year": 2002,
@@ -556,7 +1126,7 @@ const WIKI_STORIES = [
     "yasaStory": "2002년 6월 22일에 실제로 기록된 역사 사건입니다.\n\n2002 FIFA 월드컵에서 대한민국이 스페인에 승부차기 끝에 PK 결과 5-3으로 승리하여 아시아 최초로 4강에 진출한다. (터키도 일한 만시즈의 결승골로 세네갈을 1:0으로 꺾고 4강에 진출함.)"
   },
   {
-    "id": "wiki-turkey-0623-1565-37",
+    "id": "wiki-turkey-0623-1565-75",
     "month": 6,
     "day": 23,
     "year": 1565,
@@ -571,7 +1141,7 @@ const WIKI_STORIES = [
     "yasaStory": "1565년 6월 23일에 실제로 기록된 역사 사건입니다.\n\n오스만 제국 해군 제독이자 해적이었던 터굿 레이스가 몰타 공방전 중에 전사하다"
   },
   {
-    "id": "wiki-turkey-0815-1461-38",
+    "id": "wiki-turkey-0815-1461-76",
     "month": 8,
     "day": 15,
     "year": 1461,
@@ -586,7 +1156,22 @@ const WIKI_STORIES = [
     "yasaStory": "1461년 8월 15일에 실제로 기록된 역사 사건입니다.\n\n오스만 제국의 공격으로 트라페주스 제국이 무너지다."
   },
   {
-    "id": "wiki-turkey-0817-1999-39",
+    "id": "wiki-turkey-0803-1964-77",
+    "month": 8,
+    "day": 3,
+    "year": 1964,
+    "king": "튀르키예 공화국",
+    "lunarDate": "양력 8월 3일 실제 기록",
+    "category": "episode",
+    "interestScore": 88,
+    "title": "튀르키예의 권투 선수 에위프 잔.",
+    "source": "한국어 위키백과 (8월 3일 연표)",
+    "sillokUrl": "https://ko.wikipedia.org/wiki/8%EC%9B%94_3%EC%9D%BC",
+    "officialRecord": "튀르키예의 권투 선수 에위프 잔.",
+    "yasaStory": "1964년 8월 3일에 실제로 기록된 역사 사건입니다.\n\n튀르키예의 권투 선수 에위프 잔."
+  },
+  {
+    "id": "wiki-turkey-0817-1999-78",
     "month": 8,
     "day": 17,
     "year": 1999,
@@ -601,7 +1186,52 @@ const WIKI_STORIES = [
     "yasaStory": "1999년 8월 17일에 실제로 기록된 역사 사건입니다.\n\n튀르키예에 진도 7.8의 강진이 발생해 17,000여 명이 사망하고 44,000~50,000여 명이 부상하다."
   },
   {
-    "id": "wiki-turkey-0826-1071-40",
+    "id": "wiki-turkey-0817-1978-79",
+    "month": 8,
+    "day": 17,
+    "year": 1978,
+    "king": "튀르키예 공화국",
+    "lunarDate": "양력 8월 17일 실제 기록",
+    "category": "episode",
+    "interestScore": 88,
+    "title": "튀르키예의 레슬링 선수 아흐메트 키레치. (1914년~)",
+    "source": "한국어 위키백과 (8월 17일 연표)",
+    "sillokUrl": "https://ko.wikipedia.org/wiki/8%EC%9B%94_17%EC%9D%BC",
+    "officialRecord": "튀르키예의 레슬링 선수 아흐메트 키레치. (1914년~)",
+    "yasaStory": "1978년 8월 17일에 실제로 기록된 역사 사건입니다.\n\n튀르키예의 레슬링 선수 아흐메트 키레치. (1914년~)"
+  },
+  {
+    "id": "wiki-turkey-0823-1944-80",
+    "month": 8,
+    "day": 23,
+    "year": 1944,
+    "king": "튀르키예 공화국",
+    "lunarDate": "양력 8월 23일 실제 기록",
+    "category": "episode",
+    "interestScore": 88,
+    "title": "오스만 제국의 마지막 황제 압뒬메지드 2세. (1868년~)",
+    "source": "한국어 위키백과 (8월 23일 연표)",
+    "sillokUrl": "https://ko.wikipedia.org/wiki/8%EC%9B%94_23%EC%9D%BC",
+    "officialRecord": "오스만 제국의 마지막 황제 압뒬메지드 2세. (1868년~)",
+    "yasaStory": "1944년 8월 23일에 실제로 기록된 역사 사건입니다.\n\n오스만 제국의 마지막 황제 압뒬메지드 2세. (1868년~)"
+  },
+  {
+    "id": "wiki-turkey-0824-1970-81",
+    "month": 8,
+    "day": 24,
+    "year": 1970,
+    "king": "튀르키예 공화국",
+    "lunarDate": "양력 8월 24일 실제 기록",
+    "category": "episode",
+    "interestScore": 88,
+    "title": "터키의 전 축구 선수 투가이 케리몰루.",
+    "source": "한국어 위키백과 (8월 24일 연표)",
+    "sillokUrl": "https://ko.wikipedia.org/wiki/8%EC%9B%94_24%EC%9D%BC",
+    "officialRecord": "터키의 전 축구 선수 투가이 케리몰루.",
+    "yasaStory": "1970년 8월 24일에 실제로 기록된 역사 사건입니다.\n\n터키의 전 축구 선수 투가이 케리몰루."
+  },
+  {
+    "id": "wiki-turkey-0826-1071-82",
     "month": 8,
     "day": 26,
     "year": 1071,
@@ -616,7 +1246,7 @@ const WIKI_STORIES = [
     "yasaStory": "1071년 8월 26일에 실제로 기록된 역사 사건입니다.\n\n만지케르트 전투에서 동로마 제국군이 셀주크 제국군에게 대패하다."
   },
   {
-    "id": "wiki-turkey-0827-1896-41",
+    "id": "wiki-turkey-0827-1896-83",
     "month": 8,
     "day": 27,
     "year": 1896,
@@ -631,7 +1261,22 @@ const WIKI_STORIES = [
     "yasaStory": "1896년 8월 27일에 실제로 기록된 역사 사건입니다.\n\n역사상 가장 최단기의 전쟁인 영국과 잔지바르 술탄국사이의 영국-잔지바르 전쟁 발발"
   },
   {
-    "id": "wiki-turkey-0829-1526-42",
+    "id": "wiki-turkey-0827-1916-84",
+    "month": 8,
+    "day": 27,
+    "year": 1916,
+    "king": "오스만 제국",
+    "lunarDate": "양력 8월 27일 실제 기록",
+    "category": "episode",
+    "interestScore": 88,
+    "title": "튀르키예의 고고학자, 펜싱 선수 할레트 참벨. (~2014년)",
+    "source": "한국어 위키백과 (8월 27일 연표)",
+    "sillokUrl": "https://ko.wikipedia.org/wiki/8%EC%9B%94_27%EC%9D%BC",
+    "officialRecord": "튀르키예의 고고학자, 펜싱 선수 할레트 참벨. (~2014년)",
+    "yasaStory": "1916년 8월 27일에 실제로 기록된 역사 사건입니다.\n\n튀르키예의 고고학자, 펜싱 선수 할레트 참벨. (~2014년)"
+  },
+  {
+    "id": "wiki-turkey-0829-1526-85",
     "month": 8,
     "day": 29,
     "year": 1526,
@@ -646,7 +1291,7 @@ const WIKI_STORIES = [
     "yasaStory": "1526년 8월 29일에 실제로 기록된 역사 사건입니다.\n\n모하치 전투에서 헝가리 왕국이 오스만 제국에게 대패하다."
   },
   {
-    "id": "wiki-turkey-0829-1541-43",
+    "id": "wiki-turkey-0829-1541-86",
     "month": 8,
     "day": 29,
     "year": 1541,
@@ -661,7 +1306,67 @@ const WIKI_STORIES = [
     "yasaStory": "1541년 8월 29일에 실제로 기록된 역사 사건입니다.\n\n오스만 제국이 헝가리 왕국의 수도 부다 성 점령."
   },
   {
-    "id": "wiki-turkey-0720-1402-44",
+    "id": "wiki-turkey-0903-1967-87",
+    "month": 9,
+    "day": 3,
+    "year": 1967,
+    "king": "튀르키예 공화국",
+    "lunarDate": "양력 9월 3일 실제 기록",
+    "category": "episode",
+    "interestScore": 88,
+    "title": "튀르키예와 미국의 경제학자 다론 아제모을루.",
+    "source": "한국어 위키백과 (9월 3일 연표)",
+    "sillokUrl": "https://ko.wikipedia.org/wiki/9%EC%9B%94_3%EC%9D%BC",
+    "officialRecord": "튀르키예와 미국의 경제학자 다론 아제모을루.",
+    "yasaStory": "1967년 9월 3일에 실제로 기록된 역사 사건입니다.\n\n튀르키예와 미국의 경제학자 다론 아제모을루."
+  },
+  {
+    "id": "wiki-turkey-0904-1953-88",
+    "month": 9,
+    "day": 4,
+    "year": 1953,
+    "king": "튀르키예 공화국",
+    "lunarDate": "양력 9월 4일 실제 기록",
+    "category": "episode",
+    "interestScore": 88,
+    "title": "터키의 전직 축구 선수, 현재 축구 감독 파티흐 테림.",
+    "source": "한국어 위키백과 (9월 4일 연표)",
+    "sillokUrl": "https://ko.wikipedia.org/wiki/9%EC%9B%94_4%EC%9D%BC",
+    "officialRecord": "터키의 전직 축구 선수, 현재 축구 감독 파티흐 테림.",
+    "yasaStory": "1953년 9월 4일에 실제로 기록된 역사 사건입니다.\n\n터키의 전직 축구 선수, 현재 축구 감독 파티흐 테림."
+  },
+  {
+    "id": "wiki-turkey-0905-1566-89",
+    "month": 9,
+    "day": 5,
+    "year": 1566,
+    "king": "오스만 제국",
+    "lunarDate": "양력 9월 5일 실제 기록",
+    "category": "episode",
+    "interestScore": 88,
+    "title": "오스만 제국의 술탄 쉴레이만 1세. (1494년~)",
+    "source": "한국어 위키백과 (9월 5일 연표)",
+    "sillokUrl": "https://ko.wikipedia.org/wiki/9%EC%9B%94_5%EC%9D%BC",
+    "officialRecord": "오스만 제국의 술탄 쉴레이만 1세. (1494년~)",
+    "yasaStory": "1566년 9월 5일에 실제로 기록된 역사 사건입니다.\n\n오스만 제국의 술탄 쉴레이만 1세. (1494년~)"
+  },
+  {
+    "id": "wiki-turkey-0719-1223-90",
+    "month": 7,
+    "day": 19,
+    "year": 1223,
+    "king": "오스만 제국",
+    "lunarDate": "양력 7월 19일 실제 기록",
+    "category": "episode",
+    "interestScore": 88,
+    "title": "맘루크 왕조의 제3대 술탄 바이바르스. (~1277년)",
+    "source": "한국어 위키백과 (7월 19일 연표)",
+    "sillokUrl": "https://ko.wikipedia.org/wiki/7%EC%9B%94_19%EC%9D%BC",
+    "officialRecord": "맘루크 왕조의 제3대 술탄 바이바르스. (~1277년)",
+    "yasaStory": "1223년 7월 19일에 실제로 기록된 역사 사건입니다.\n\n맘루크 왕조의 제3대 술탄 바이바르스. (~1277년)"
+  },
+  {
+    "id": "wiki-turkey-0720-1402-91",
     "month": 7,
     "day": 20,
     "year": 1402,
@@ -676,7 +1381,52 @@ const WIKI_STORIES = [
     "yasaStory": "1402년 7월 20일에 실제로 기록된 역사 사건입니다.\n\n앙카라 전투에서 티무르 제국의 티무르가 오스만 제국의 바예지드 1세를 격파하다."
   },
   {
-    "id": "wiki-turkey-0912-1980-45",
+    "id": "wiki-turkey-0720-1785-92",
+    "month": 7,
+    "day": 20,
+    "year": 1785,
+    "king": "오스만 제국",
+    "lunarDate": "양력 7월 20일 실제 기록",
+    "category": "episode",
+    "interestScore": 88,
+    "title": "오스만 제국의 30대 술탄 마흐무트 2세. (~1839년)",
+    "source": "한국어 위키백과 (7월 20일 연표)",
+    "sillokUrl": "https://ko.wikipedia.org/wiki/7%EC%9B%94_20%EC%9D%BC",
+    "officialRecord": "오스만 제국의 30대 술탄 마흐무트 2세. (~1839년)",
+    "yasaStory": "1785년 7월 20일에 실제로 기록된 역사 사건입니다.\n\n오스만 제국의 30대 술탄 마흐무트 2세. (~1839년)"
+  },
+  {
+    "id": "wiki-turkey-0721-1959-93",
+    "month": 7,
+    "day": 21,
+    "year": 1959,
+    "king": "튀르키예 공화국",
+    "lunarDate": "양력 7월 21일 실제 기록",
+    "category": "episode",
+    "interestScore": 88,
+    "title": "튀르키예의 방송인 레하 무흐타르. (~2026년)",
+    "source": "한국어 위키백과 (7월 21일 연표)",
+    "sillokUrl": "https://ko.wikipedia.org/wiki/7%EC%9B%94_21%EC%9D%BC",
+    "officialRecord": "튀르키예의 방송인 레하 무흐타르. (~2026년)",
+    "yasaStory": "1959년 7월 21일에 실제로 기록된 역사 사건입니다.\n\n튀르키예의 방송인 레하 무흐타르. (~2026년)"
+  },
+  {
+    "id": "wiki-turkey-0729-1951-94",
+    "month": 7,
+    "day": 29,
+    "year": 1951,
+    "king": "튀르키예 공화국",
+    "lunarDate": "양력 7월 29일 실제 기록",
+    "category": "episode",
+    "interestScore": 88,
+    "title": "터키의 축구 감독 알리 사미 옌. (1886년~)",
+    "source": "한국어 위키백과 (7월 29일 연표)",
+    "sillokUrl": "https://ko.wikipedia.org/wiki/7%EC%9B%94_29%EC%9D%BC",
+    "officialRecord": "터키의 축구 감독 알리 사미 옌. (1886년~)",
+    "yasaStory": "1951년 7월 29일에 실제로 기록된 역사 사건입니다.\n\n터키의 축구 감독 알리 사미 옌. (1886년~)"
+  },
+  {
+    "id": "wiki-turkey-0912-1980-95",
     "month": 9,
     "day": 12,
     "year": 1980,
@@ -691,7 +1441,7 @@ const WIKI_STORIES = [
     "yasaStory": "1980년 9월 12일에 실제로 기록된 역사 사건입니다.\n\n합참의장 케난 에브렌의 주도로 튀르키예에서 쿠데타가 발생하다."
   },
   {
-    "id": "wiki-turkey-0914-1829-46",
+    "id": "wiki-turkey-0914-1829-96",
     "month": 9,
     "day": 14,
     "year": 1829,
@@ -706,7 +1456,22 @@ const WIKI_STORIES = [
     "yasaStory": "1829년 9월 14일에 실제로 기록된 역사 사건입니다.\n\n오스만 제국과 러시아 제국이 러시아-터키 전쟁을 끝내는 아드리아노폴 조약을 체결."
   },
   {
-    "id": "wiki-turkey-0925-1396-47",
+    "id": "wiki-turkey-0914-1966-97",
+    "month": 9,
+    "day": 14,
+    "year": 1966,
+    "king": "튀르키예 공화국",
+    "lunarDate": "양력 9월 14일 실제 기록",
+    "category": "episode",
+    "interestScore": 88,
+    "title": "터키의 군인, 정치인, 대통령 제말 귀르셀. (1895년~)",
+    "source": "한국어 위키백과 (9월 14일 연표)",
+    "sillokUrl": "https://ko.wikipedia.org/wiki/9%EC%9B%94_14%EC%9D%BC",
+    "officialRecord": "터키의 군인, 정치인, 대통령 제말 귀르셀. (1895년~)",
+    "yasaStory": "1966년 9월 14일에 실제로 기록된 역사 사건입니다.\n\n터키의 군인, 정치인, 대통령 제말 귀르셀. (1895년~)"
+  },
+  {
+    "id": "wiki-turkey-0925-1396-98",
     "month": 9,
     "day": 25,
     "year": 1396,
@@ -721,7 +1486,22 @@ const WIKI_STORIES = [
     "yasaStory": "1396년 9월 25일에 실제로 기록된 역사 사건입니다.\n\n니코폴리스 전투에서 오스만 제국이 유럽 십자군을 격파하다."
   },
   {
-    "id": "wiki-turkey-1006-1923-48",
+    "id": "wiki-turkey-0930-2020-99",
+    "month": 9,
+    "day": 30,
+    "year": 2020,
+    "king": "튀르키예 공화국",
+    "lunarDate": "양력 9월 30일 실제 기록",
+    "category": "episode",
+    "interestScore": 88,
+    "title": "튀르키예의 정치인 알리 보제르. (1925년~)",
+    "source": "한국어 위키백과 (9월 30일 연표)",
+    "sillokUrl": "https://ko.wikipedia.org/wiki/9%EC%9B%94_30%EC%9D%BC",
+    "officialRecord": "튀르키예의 정치인 알리 보제르. (1925년~)",
+    "yasaStory": "2020년 9월 30일에 실제로 기록된 역사 사건입니다.\n\n튀르키예의 정치인 알리 보제르. (1925년~)"
+  },
+  {
+    "id": "wiki-turkey-1006-1923-100",
     "month": 10,
     "day": 6,
     "year": 1923,
@@ -736,7 +1516,22 @@ const WIKI_STORIES = [
     "yasaStory": "1923년 10월 6일에 실제로 기록된 역사 사건입니다.\n\n제1차 세계 대전: 오스만 제국이 항복한다."
   },
   {
-    "id": "wiki-turkey-1008-1912-49",
+    "id": "wiki-turkey-1006-1923-101",
+    "month": 10,
+    "day": 6,
+    "year": 1923,
+    "king": "튀르키예 공화국",
+    "lunarDate": "양력 10월 6일 실제 기록",
+    "category": "episode",
+    "interestScore": 88,
+    "title": "튀르키예의 소설가 야샤르 케말. (~2015년)",
+    "source": "한국어 위키백과 (10월 6일 연표)",
+    "sillokUrl": "https://ko.wikipedia.org/wiki/10%EC%9B%94_6%EC%9D%BC",
+    "officialRecord": "튀르키예의 소설가 야샤르 케말. (~2015년)",
+    "yasaStory": "1923년 10월 6일에 실제로 기록된 역사 사건입니다.\n\n튀르키예의 소설가 야샤르 케말. (~2015년)"
+  },
+  {
+    "id": "wiki-turkey-1008-1912-102",
     "month": 10,
     "day": 8,
     "year": 1912,
@@ -751,7 +1546,22 @@ const WIKI_STORIES = [
     "yasaStory": "1912년 10월 8일에 실제로 기록된 역사 사건입니다.\n\n제1차 발칸 전쟁: 세르비아, 불가리아, 몬테네그로가 터키에 선전포고."
   },
   {
-    "id": "wiki-turkey-1024-1945-50",
+    "id": "wiki-turkey-1013-1895-103",
+    "month": 10,
+    "day": 13,
+    "year": 1895,
+    "king": "오스만 제국",
+    "lunarDate": "양력 10월 13일 실제 기록",
+    "category": "episode",
+    "interestScore": 88,
+    "title": "터키의 정치인 제말 귀르셀. (~1966년)",
+    "source": "한국어 위키백과 (10월 13일 연표)",
+    "sillokUrl": "https://ko.wikipedia.org/wiki/10%EC%9B%94_13%EC%9D%BC",
+    "officialRecord": "터키의 정치인 제말 귀르셀. (~1966년)",
+    "yasaStory": "1895년 10월 13일에 실제로 기록된 역사 사건입니다.\n\n터키의 정치인 제말 귀르셀. (~1966년)"
+  },
+  {
+    "id": "wiki-turkey-1024-1945-104",
     "month": 10,
     "day": 24,
     "year": 1945,
@@ -766,7 +1576,7 @@ const WIKI_STORIES = [
     "yasaStory": "1945년 10월 24일에 실제로 기록된 역사 사건입니다.\n\n유엔 창설. 뉴질랜드, 니카라과, 덴마크, 도미니카 공화국, 미국, 벨라루스, 레바논, 룩셈부르크, 사우디아라비아, 시리아, 아르헨티나, 아이티, 엘살바도르, 영국, 이란, 이집트, 중화민국, 칠레, 쿠바, 터키, 파라과이, 폴란드, 프랑스, 필리핀이 유엔에 가입하다."
   },
   {
-    "id": "wiki-turkey-1211-361-51",
+    "id": "wiki-turkey-1211-361-105",
     "month": 12,
     "day": 11,
     "year": 361,
@@ -781,7 +1591,7 @@ const WIKI_STORIES = [
     "yasaStory": "361년 12월 11일에 실제로 기록된 역사 사건입니다.\n\n배교자 율리아누스가 유일한 로마 제국의 황제로서 콘스탄티노플에 입성하다."
   },
   {
-    "id": "wiki-turkey-1102-1914-52",
+    "id": "wiki-turkey-1102-1914-106",
     "month": 11,
     "day": 2,
     "year": 1914,
@@ -796,7 +1606,7 @@ const WIKI_STORIES = [
     "yasaStory": "1914년 11월 2일에 실제로 기록된 역사 사건입니다.\n\n제1차 세계 대전: 러시아 제국이 오스만 제국에 전쟁을 선포하다."
   },
   {
-    "id": "wiki-turkey-1103-1987-53",
+    "id": "wiki-turkey-1103-1987-107",
     "month": 11,
     "day": 3,
     "year": 1987,
@@ -811,7 +1621,7 @@ const WIKI_STORIES = [
     "yasaStory": "1987년 11월 3일에 실제로 기록된 역사 사건입니다.\n\n그리스·터키 총리, 별도 정상회담을 통해 상호 무력사용 포기 및 1년 이상 보류되고 있는 불가침조약 이행 합의. 두 나라는 역사적 배경으로 관계가 좋지 않은데다가 키프로스 문제를 둘러싸고 계속 반목을 거듭."
   },
   {
-    "id": "wiki-turkey-1105-1914-54",
+    "id": "wiki-turkey-1105-1914-108",
     "month": 11,
     "day": 5,
     "year": 1914,
@@ -826,7 +1636,22 @@ const WIKI_STORIES = [
     "yasaStory": "1914년 11월 5일에 실제로 기록된 역사 사건입니다.\n\n제1차 세계 대전: 영국-프랑스, 對 오스만 제국 선전포고. 키프로스 합병 선언."
   },
   {
-    "id": "wiki-turkey-1110-1444-55",
+    "id": "wiki-turkey-1106-1494-109",
+    "month": 11,
+    "day": 6,
+    "year": 1494,
+    "king": "오스만 제국",
+    "lunarDate": "양력 11월 6일 실제 기록",
+    "category": "episode",
+    "interestScore": 88,
+    "title": "오스만 트루크 제국의 제10대 술탄 쉴레이만 1세. (~1566년)",
+    "source": "한국어 위키백과 (11월 6일 연표)",
+    "sillokUrl": "https://ko.wikipedia.org/wiki/11%EC%9B%94_6%EC%9D%BC",
+    "officialRecord": "오스만 트루크 제국의 제10대 술탄 쉴레이만 1세. (~1566년)",
+    "yasaStory": "1494년 11월 6일에 실제로 기록된 역사 사건입니다.\n\n오스만 트루크 제국의 제10대 술탄 쉴레이만 1세. (~1566년)"
+  },
+  {
+    "id": "wiki-turkey-1110-1444-110",
     "month": 11,
     "day": 10,
     "year": 1444,
@@ -841,7 +1666,22 @@ const WIKI_STORIES = [
     "yasaStory": "1444년 11월 10일에 실제로 기록된 역사 사건입니다.\n\n바르나 전투: 브와디스와프 3세가 무라드 2세 술탄의 오스만 제국의 근위부대에 포위되어 전사하다."
   },
   {
-    "id": "wiki-turkey-1115-2003-56",
+    "id": "wiki-turkey-1110-1938-111",
+    "month": 11,
+    "day": 10,
+    "year": 1938,
+    "king": "튀르키예 공화국",
+    "lunarDate": "양력 11월 10일 실제 기록",
+    "category": "episode",
+    "interestScore": 88,
+    "title": "터키의 대통령 무스타파 케말. (1881년~)",
+    "source": "한국어 위키백과 (11월 10일 연표)",
+    "sillokUrl": "https://ko.wikipedia.org/wiki/11%EC%9B%94_10%EC%9D%BC",
+    "officialRecord": "터키의 대통령 무스타파 케말. (1881년~)",
+    "yasaStory": "1938년 11월 10일에 실제로 기록된 역사 사건입니다.\n\n터키의 대통령 무스타파 케말. (1881년~)"
+  },
+  {
+    "id": "wiki-turkey-1115-2003-112",
     "month": 11,
     "day": 15,
     "year": 2003,
@@ -856,7 +1696,22 @@ const WIKI_STORIES = [
     "yasaStory": "2003년 11월 15일에 실제로 기록된 역사 사건입니다.\n\n이스탄불의 시나고그를 목표로 한 두 차례의 차량 폭탄 테러로 23명(그중 6명은 유태인)이 사망하고 300여 명이 부상하다."
   },
   {
-    "id": "wiki-turkey-1123-1990-57",
+    "id": "wiki-turkey-1121-1949-113",
+    "month": 11,
+    "day": 21,
+    "year": 1949,
+    "king": "튀르키예 공화국",
+    "lunarDate": "양력 11월 21일 실제 기록",
+    "category": "episode",
+    "interestScore": 88,
+    "title": "튀르키예의 축구 선수 체티네르 에르도안. (~2017년)",
+    "source": "한국어 위키백과 (11월 21일 연표)",
+    "sillokUrl": "https://ko.wikipedia.org/wiki/11%EC%9B%94_21%EC%9D%BC",
+    "officialRecord": "튀르키예의 축구 선수 체티네르 에르도안. (~2017년)",
+    "yasaStory": "1949년 11월 21일에 실제로 기록된 역사 사건입니다.\n\n튀르키예의 축구 선수 체티네르 에르도안. (~2017년)"
+  },
+  {
+    "id": "wiki-turkey-1123-1990-114",
     "month": 11,
     "day": 23,
     "year": 1990,
@@ -871,7 +1726,7 @@ const WIKI_STORIES = [
     "yasaStory": "1990년 11월 23일에 실제로 기록된 역사 사건입니다.\n\n누르술탄 나자르바예프 카자흐스탄 공화국 대통령 방한."
   },
   {
-    "id": "wiki-turkey-1124-380-58",
+    "id": "wiki-turkey-1124-380-115",
     "month": 11,
     "day": 24,
     "year": 380,
@@ -886,7 +1741,22 @@ const WIKI_STORIES = [
     "yasaStory": "380년 11월 24일에 실제로 기록된 역사 사건입니다.\n\n테오도시우스 1세가 헤브도몬에서 시작된 행렬을 이끌고 콘스탄티노플에 공식적으로 입성하다."
   },
   {
-    "id": "wiki-turkey-1029-1923-59",
+    "id": "wiki-turkey-1027-1914-116",
+    "month": 10,
+    "day": 27,
+    "year": 1914,
+    "king": "오스만 제국",
+    "lunarDate": "양력 10월 27일 실제 기록",
+    "category": "episode",
+    "interestScore": 88,
+    "title": "튀르키예의 레슬링 선수 아흐메트 키레치. (~1978년)",
+    "source": "한국어 위키백과 (10월 27일 연표)",
+    "sillokUrl": "https://ko.wikipedia.org/wiki/10%EC%9B%94_27%EC%9D%BC",
+    "officialRecord": "튀르키예의 레슬링 선수 아흐메트 키레치. (~1978년)",
+    "yasaStory": "1914년 10월 27일에 실제로 기록된 역사 사건입니다.\n\n튀르키예의 레슬링 선수 아흐메트 키레치. (~1978년)"
+  },
+  {
+    "id": "wiki-turkey-1029-1923-117",
     "month": 10,
     "day": 29,
     "year": 1923,
@@ -899,6 +1769,21 @@ const WIKI_STORIES = [
     "sillokUrl": "https://ko.wikipedia.org/wiki/10%EC%9B%94_29%EC%9D%BC",
     "officialRecord": "터키가 공화국이 되다.",
     "yasaStory": "1923년 10월 29일에 실제로 기록된 역사 사건입니다.\n\n터키가 공화국이 되다."
+  },
+  {
+    "id": "wiki-turkey-1222-1603-118",
+    "month": 12,
+    "day": 22,
+    "year": 1603,
+    "king": "오스만 제국",
+    "lunarDate": "양력 12월 22일 실제 기록",
+    "category": "episode",
+    "interestScore": 88,
+    "title": "오스만 제국의 제13대 술탄 메흐메트 3세. (1566년~)",
+    "source": "한국어 위키백과 (12월 22일 연표)",
+    "sillokUrl": "https://ko.wikipedia.org/wiki/12%EC%9B%94_22%EC%9D%BC",
+    "officialRecord": "오스만 제국의 제13대 술탄 메흐메트 3세. (1566년~)",
+    "yasaStory": "1603년 12월 22일에 실제로 기록된 역사 사건입니다.\n\n오스만 제국의 제13대 술탄 메흐메트 3세. (1566년~)"
   }
 ];
 

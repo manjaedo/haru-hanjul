@@ -104,9 +104,8 @@ async function main() {
       const day = parseInt(mMatch[2], 10);
       const raw = p.revisions?.[0]?.slots?.main?.['*'] || '';
 
-      // '사건' 섹션만 추출 (출생/사망 제외하면 사건 위주!)
-      const eventSection = raw.split(/==\s*탄생\s*==|==\s*출생\s*==|==\s*사망\s*==/)[0] || raw;
-      const lines = eventSection.split('\n').filter(l => /^\*\s*/.test(l));
+      // 사건 + 탄생 + 사망 섹션 모두 탐색 (인물 탄생·서거 포함해 커버리지 극대화)
+      const lines = raw.split('\n').filter(l => /^\*\s*/.test(l));
 
       for (const l of lines) {
         const cleaned = cleanWikiText(l);

@@ -1,4 +1,4 @@
-// 한국어 위키백과 366일 실제 날짜별 사건 보강 (4편, 4일)
+// 한국어 위키백과 366일 실제 날짜별 사건 보강 (14편, 14일)
 const WIKI_STORIES = [
   {
     "id": "wiki-herodotus-0301--86-0",
@@ -16,7 +16,82 @@ const WIKI_STORIES = [
     "yasaStory": "기원전 86년 3월 1일에 실제로 기록된 역사 사건입니다.\n\n로마 공화정 군대의 수장 루키우스 코르넬리우스 술라가 아테네에 입성, 미트리다테스 6세의 지원을 받은 폭군 아리스티온(Aristion)을 제거하다."
   },
   {
-    "id": "wiki-herodotus-0611--1184-1",
+    "id": "wiki-herodotus-0302-274-1",
+    "month": 3,
+    "day": 2,
+    "year": 274,
+    "king": "헬레니즘 시대",
+    "lunarDate": "양력 3월 2일 실제 기록",
+    "category": "episode",
+    "interestScore": 88,
+    "title": "페르시아의 예언자로 마니교의 창시자 마니. (216년~)",
+    "source": "한국어 위키백과 (3월 2일 연표)",
+    "sillokUrl": "https://ko.wikipedia.org/wiki/3%EC%9B%94_2%EC%9D%BC",
+    "officialRecord": "페르시아의 예언자로 마니교의 창시자 마니. (216년~)",
+    "yasaStory": "274년 3월 2일에 실제로 기록된 역사 사건입니다.\n\n페르시아의 예언자로 마니교의 창시자 마니. (216년~)"
+  },
+  {
+    "id": "wiki-herodotus-0307--322-2",
+    "month": 3,
+    "day": 7,
+    "year": -322,
+    "king": "헬레니즘 시대",
+    "lunarDate": "양력 3월 7일 실제 기록",
+    "category": "episode",
+    "interestScore": 88,
+    "title": "그리스 로마의 철학자 아리스토텔레스. (기원전 384년~)",
+    "source": "한국어 위키백과 (3월 7일 연표)",
+    "sillokUrl": "https://ko.wikipedia.org/wiki/3%EC%9B%94_7%EC%9D%BC",
+    "officialRecord": "그리스 로마의 철학자 아리스토텔레스. (기원전 384년~)",
+    "yasaStory": "기원전 322년 3월 7일에 실제로 기록된 역사 사건입니다.\n\n그리스 로마의 철학자 아리스토텔레스. (기원전 384년~)"
+  },
+  {
+    "id": "wiki-herodotus-0315-270-3",
+    "month": 3,
+    "day": 15,
+    "year": 270,
+    "king": "헬레니즘 시대",
+    "lunarDate": "양력 3월 15일 실제 기록",
+    "category": "episode",
+    "interestScore": 88,
+    "title": "그리스의 성직자 성 니콜라오스. (~343년)",
+    "source": "한국어 위키백과 (3월 15일 연표)",
+    "sillokUrl": "https://ko.wikipedia.org/wiki/3%EC%9B%94_15%EC%9D%BC",
+    "officialRecord": "그리스의 성직자 성 니콜라오스. (~343년)",
+    "yasaStory": "270년 3월 15일에 실제로 기록된 역사 사건입니다.\n\n그리스의 성직자 성 니콜라오스. (~343년)"
+  },
+  {
+    "id": "wiki-herodotus-0507--347-4",
+    "month": 5,
+    "day": 7,
+    "year": -347,
+    "king": "고대 그리스·지중해",
+    "lunarDate": "양력 5월 7일 실제 기록",
+    "category": "episode",
+    "interestScore": 88,
+    "title": "고대 그리스의 철학자 플라톤. (~기원전 347년)",
+    "source": "한국어 위키백과 (5월 7일 연표)",
+    "sillokUrl": "https://ko.wikipedia.org/wiki/5%EC%9B%94_7%EC%9D%BC",
+    "officialRecord": "고대 그리스의 철학자 플라톤. (~기원전 347년)",
+    "yasaStory": "기원전 347년 5월 7일에 실제로 기록된 역사 사건입니다.\n\n고대 그리스의 철학자 플라톤. (~기원전 347년)"
+  },
+  {
+    "id": "wiki-herodotus-0610--323-5",
+    "month": 6,
+    "day": 10,
+    "year": -323,
+    "king": "헬레니즘 시대",
+    "lunarDate": "양력 6월 10일 실제 기록",
+    "category": "episode",
+    "interestScore": 88,
+    "title": "마케도니아 왕국의 제26대 군주 알렉산드로스 대왕. (기원전 356년~)",
+    "source": "한국어 위키백과 (6월 10일 연표)",
+    "sillokUrl": "https://ko.wikipedia.org/wiki/6%EC%9B%94_10%EC%9D%BC",
+    "officialRecord": "마케도니아 왕국의 제26대 군주 알렉산드로스 대왕. (기원전 356년~)",
+    "yasaStory": "기원전 323년 6월 10일에 실제로 기록된 역사 사건입니다.\n\n마케도니아 왕국의 제26대 군주 알렉산드로스 대왕. (기원전 356년~)"
+  },
+  {
+    "id": "wiki-herodotus-0611--1184-6",
     "month": 6,
     "day": 11,
     "year": -1184,
@@ -31,7 +106,37 @@ const WIKI_STORIES = [
     "yasaStory": "기원전 1184년 6월 11일에 실제로 기록된 역사 사건입니다.\n\n트로이아 전쟁: 트로이아가 그리스의 오디세우스에게 함락되다."
   },
   {
-    "id": "wiki-herodotus-0922--480-2",
+    "id": "wiki-herodotus-0619--384-7",
+    "month": 6,
+    "day": 19,
+    "year": -384,
+    "king": "고대 그리스·지중해",
+    "lunarDate": "양력 6월 19일 실제 기록",
+    "category": "episode",
+    "interestScore": 88,
+    "title": "고대 그리스의 철학자 아리스토텔레스. (~기원전 322년)",
+    "source": "한국어 위키백과 (6월 19일 연표)",
+    "sillokUrl": "https://ko.wikipedia.org/wiki/6%EC%9B%94_19%EC%9D%BC",
+    "officialRecord": "고대 그리스의 철학자 아리스토텔레스. (~기원전 322년)",
+    "yasaStory": "기원전 384년 6월 19일에 실제로 기록된 역사 사건입니다.\n\n고대 그리스의 철학자 아리스토텔레스. (~기원전 322년)"
+  },
+  {
+    "id": "wiki-herodotus-0720--356-8",
+    "month": 7,
+    "day": 20,
+    "year": -356,
+    "king": "고대 그리스·지중해",
+    "lunarDate": "양력 7월 20일 실제 기록",
+    "category": "episode",
+    "interestScore": 88,
+    "title": "마케도니아 왕국의 아르게아다이 왕조 제26대 군주 알렉산드로스 대왕. (~기원전 323년)",
+    "source": "한국어 위키백과 (7월 20일 연표)",
+    "sillokUrl": "https://ko.wikipedia.org/wiki/7%EC%9B%94_20%EC%9D%BC",
+    "officialRecord": "마케도니아 왕국의 아르게아다이 왕조 제26대 군주 알렉산드로스 대왕. (~기원전 323년)",
+    "yasaStory": "기원전 356년 7월 20일에 실제로 기록된 역사 사건입니다.\n\n마케도니아 왕국의 아르게아다이 왕조 제26대 군주 알렉산드로스 대왕. (~기원전 323년)"
+  },
+  {
+    "id": "wiki-herodotus-0922--480-9",
     "month": 9,
     "day": 22,
     "year": -480,
@@ -46,7 +151,22 @@ const WIKI_STORIES = [
     "yasaStory": "기원전 480년 9월 22일에 실제로 기록된 역사 사건입니다.\n\n살라미스 해전: 테미스토클레스의 그리스 연합 함대가 크세르크세스 1세의 페르시아 함대를 격파하다."
   },
   {
-    "id": "wiki-herodotus-1012--539-3",
+    "id": "wiki-herodotus-1008--319-10",
+    "month": 10,
+    "day": 8,
+    "year": -319,
+    "king": "헬레니즘 시대",
+    "lunarDate": "양력 10월 8일 실제 기록",
+    "category": "episode",
+    "interestScore": 88,
+    "title": "헬레니즘 시대 그리스의 장군 피로스. (~기원전 272년)",
+    "source": "한국어 위키백과 (10월 8일 연표)",
+    "sillokUrl": "https://ko.wikipedia.org/wiki/10%EC%9B%94_8%EC%9D%BC",
+    "officialRecord": "헬레니즘 시대 그리스의 장군 피로스. (~기원전 272년)",
+    "yasaStory": "기원전 319년 10월 8일에 실제로 기록된 역사 사건입니다.\n\n헬레니즘 시대 그리스의 장군 피로스. (~기원전 272년)"
+  },
+  {
+    "id": "wiki-herodotus-1012--539-11",
     "month": 10,
     "day": 12,
     "year": -539,
@@ -59,6 +179,36 @@ const WIKI_STORIES = [
     "sillokUrl": "https://ko.wikipedia.org/wiki/10%EC%9B%94_12%EC%9D%BC",
     "officialRecord": "페르시아의 키루스 대왕이 바빌론에 입성하다.(율리우스력)",
     "yasaStory": "기원전 539년 10월 12일에 실제로 기록된 역사 사건입니다.\n\n페르시아의 키루스 대왕이 바빌론에 입성하다.(율리우스력)"
+  },
+  {
+    "id": "wiki-herodotus-1204--530-12",
+    "month": 12,
+    "day": 4,
+    "year": -530,
+    "king": "고대 그리스·지중해",
+    "lunarDate": "양력 12월 4일 실제 기록",
+    "category": "episode",
+    "interestScore": 88,
+    "title": "페르시아 제국의 왕 키루스 2세. (?~)",
+    "source": "한국어 위키백과 (12월 4일 연표)",
+    "sillokUrl": "https://ko.wikipedia.org/wiki/12%EC%9B%94_4%EC%9D%BC",
+    "officialRecord": "페르시아 제국의 왕 키루스 2세. (?~)",
+    "yasaStory": "기원전 530년 12월 4일에 실제로 기록된 역사 사건입니다.\n\n페르시아 제국의 왕 키루스 2세. (?~)"
+  },
+  {
+    "id": "wiki-herodotus-1127-111-13",
+    "month": 11,
+    "day": 27,
+    "year": 111,
+    "king": "헬레니즘 시대",
+    "lunarDate": "양력 11월 27일 실제 기록",
+    "category": "episode",
+    "interestScore": 88,
+    "title": "비티니아의 고대 그리스인 안티누스. (~130년)",
+    "source": "한국어 위키백과 (11월 27일 연표)",
+    "sillokUrl": "https://ko.wikipedia.org/wiki/11%EC%9B%94_27%EC%9D%BC",
+    "officialRecord": "비티니아의 고대 그리스인 안티누스. (~130년)",
+    "yasaStory": "111년 11월 27일에 실제로 기록된 역사 사건입니다.\n\n비티니아의 고대 그리스인 안티누스. (~130년)"
   }
 ];
 

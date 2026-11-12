@@ -59,12 +59,14 @@ html, body {
   font-weight: 700;
   cursor: pointer;
   letter-spacing: -0.02em;
+  white-space: nowrap;
 }
 
 .top-actions {
   display: flex;
   align-items: center;
-  gap: 8px;
+  gap: 6px;
+  flex-shrink: 0;
 }
 
 .text-btn {
@@ -77,6 +79,7 @@ html, body {
   font-weight: 500;
   cursor: pointer;
   font-family: inherit;
+  white-space: nowrap;
 }
 
 .text-btn:hover {
@@ -223,16 +226,33 @@ html, body {
   background: var(--quote-bg);
   border: 1px solid var(--line);
   border-radius: 10px;
-  padding: 14px 16px;
-  margin-bottom: 20px;
+  padding: 10px 14px;
+  margin-bottom: 16px;
 }
 
-.quick-title-header {
+.quick-title-toggle {
+  width: 100%;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: 8px;
+  background: none;
+  border: none;
+  padding: 2px 0;
   font-family: 'Noto Serif KR', serif;
-  font-size: 0.9rem;
+  font-size: 0.88rem;
   font-weight: 700;
   color: var(--accent);
-  margin-bottom: 8px;
+  cursor: pointer;
+  text-align: left;
+}
+
+.quick-toggle-icon {
+  font-family: 'Noto Sans KR', sans-serif;
+  font-size: 0.76rem;
+  font-weight: 500;
+  color: var(--sub);
+  white-space: nowrap;
 }
 
 .quick-title-items {
@@ -240,6 +260,11 @@ html, body {
   display: flex;
   flex-direction: column;
   gap: 4px;
+  margin-top: 8px;
+}
+
+.quick-title-items.collapsed {
+  display: none;
 }
 
 .quick-title-btn {
@@ -608,15 +633,54 @@ html, body {
 
 @media (max-width: 480px) {
   .page-wrap {
-    padding: 0 14px 48px;
+    padding: 0 12px 48px;
+  }
+  .hide-on-mobile {
+    display: none;
+  }
+  .top-bar {
+    padding: 10px 0 8px;
+  }
+  .site-title {
+    font-size: 1rem;
+  }
+  .text-btn {
+    padding: 4px 8px;
+    font-size: 0.76rem;
+  }
+  .date-bar {
+    padding: 8px 0;
+  }
+  .nav-arrow {
+    font-size: 0.82rem;
+    padding: 4px 4px;
+    white-space: nowrap;
+  }
+  .date-center {
+    gap: 5px;
+  }
+  .date-display {
+    font-size: 1.15rem;
+    white-space: nowrap;
+  }
+  .sub-link {
+    font-size: 0.75rem;
+    white-space: nowrap;
+  }
+  .cat-bar-wrap {
+    margin-bottom: 12px;
+  }
+  .cat-link {
+    padding: 6px 2px 8px;
+    font-size: 0.84rem;
   }
   .story-item {
-    padding: 18px 16px;
+    padding: 16px 14px;
   }
   .story-title {
-    font-size: 1.12rem;
+    font-size: 1.1rem;
   }
   .story-body {
-    font-size: 0.96rem;
+    font-size: 0.95rem;
   }
 }

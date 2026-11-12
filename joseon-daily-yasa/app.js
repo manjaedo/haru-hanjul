@@ -6,7 +6,8 @@ const state = {
   theme: localStorage.getItem('joseon_theme') || 'light',
   favorites: new Set(JSON.parse(localStorage.getItem('joseon_favorites') || '[]')),
   memos: JSON.parse(localStorage.getItem('joseon_memos') || '{}'),
-  openMemoIds: new Set()
+  openMemoIds: new Set(),
+  isQuickListOpen: false
 };
 
 let _storyMapCache = null;
@@ -203,8 +204,11 @@ function render() {
     else if (state.category === 'memos') listTitle = `📝 메모가 있는 이야기 (${stories.length}편)`;
 
     elQuickTitleList.innerHTML = `
-      <div class="quick-title-header">${listTitle}</div>
-      <ol class="quick-title-items">
+      <button type="button" class="quick-title-toggle" id="btnToggleQuickList" aria-expanded="${state.isQuickListOpen}">
+        <span>${listTitle}</span>
+        <span class="quick-toggle-icon">${state.isQuickListOpen ? '▴ 접기' : '▾ 목차 보기'}</span>
+      </button>
+      <ol class="quick-title-items ${state.isQuickListOpen ? '' : 'collapsed'}">
         ${stories.map((s, idx) => {
           const cat = CATEGORIES[s.category] || CATEGORIES.mystery;
           return `
@@ -220,6 +224,16 @@ function render() {
         }).join('')}
       </ol>
     `;
+
+    document.getElementById('btnToggleQuickList')?.addEventListener('click', () => {
+      state.isQuickListOpen = !state.isQuickListOpen;
+      const itemsEl = elQuickTitleList.querySelector('.quick-title-items');
+      const iconEl = elQuickTitleList.querySelector('.quick-toggle-icon');
+      const toggleBtn = document.getElementById('btnToggleQuickList');
+      if (itemsEl) itemsEl.classList.toggle('collapsed', !state.isQuickListOpen);
+      if (iconEl) iconEl.textContent = state.isQuickListOpen ? '▴ 접기' : '▾ 목차 보기';
+      if (toggleBtn) toggleBtn.setAttribute('aria-expanded', String(state.isQuickListOpen));
+    });
 
     elQuickTitleList.querySelectorAll('.quick-title-btn').forEach(btn => {
       btn.addEventListener('click', () => {

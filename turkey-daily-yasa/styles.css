@@ -138,6 +138,47 @@ html, body {
   text-decoration: none;
 }
 
+
+/* 보기 모드 (날짜별 / 카테고리별) 탭 */
+.view-mode-bar {
+  display: flex;
+  gap: 6px;
+  padding: 8px 0 4px;
+  border-bottom: 1px dashed var(--line);
+  margin-bottom: 6px;
+}
+
+.mode-tab {
+  flex: 1;
+  background: var(--card-bg, #fff);
+  border: 1px solid var(--line);
+  border-radius: 8px;
+  padding: 8px 10px;
+  font-size: 0.85rem;
+  font-weight: 500;
+  color: var(--sub);
+  cursor: pointer;
+  font-family: inherit;
+  transition: all 0.15s ease;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: 4px;
+}
+
+.mode-tab:hover {
+  border-color: var(--accent);
+  color: var(--text);
+}
+
+.mode-tab.active {
+  background: var(--accent);
+  border-color: var(--accent);
+  color: #fff;
+  font-weight: 700;
+  box-shadow: 0 2px 6px rgba(0, 0, 0, 0.1);
+}
+
 /* 2. 날짜 이동 바 */
 .date-bar {
   display: flex;

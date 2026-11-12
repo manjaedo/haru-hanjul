@@ -3,7 +3,7 @@ const CATEGORIES = {
   mystery: { id: "mystery", label: "기이한 일", shortLabel: "기이한 일" },
   scandal: { id: "scandal", label: "궁중 비화", shortLabel: "궁중 비화" },
   folklore: { id: "folklore", label: "야담·영웅", shortLabel: "야담·영웅" },
-  episode: { id: "episode", label: "술탄의 일상", shortLabel: "술탄의 일상" }
+  episode: { id: "episode", label: "궁중·서민 일상", shortLabel: "궁중·서민 일상" }
 };
 
 const CURATED_STORIES = {
@@ -141,8 +141,24 @@ function getNearestRecordDate(month, day) {
   return { month: m, day: d, key: bestKey, count: CURATED_STORIES[bestKey].length };
 }
 
+function getAllStoriesByCategory(category) {
+  const map = new Map();
+  if (typeof CURATED_STORIES !== 'undefined') {
+    Object.values(CURATED_STORIES).forEach(list => {
+      list.forEach(item => {
+        if (!map.has(item.id)) map.set(item.id, item);
+      });
+    });
+  }
+  const all = [...map.values()];
+  if (!category || category === 'all') {
+    return all.sort((a, b) => (b.interestScore - a.interestScore) || (a.year - b.year));
+  }
+  return all
+    .filter(s => s.category === category)
+    .sort((a, b) => (b.interestScore - a.interestScore) || (a.year - b.year));
+}
+
 function getAllLegendStories() {
-  const all = [];
-  Object.values(CURATED_STORIES).forEach(list => list.forEach(item => all.push(item)));
-  return all.sort((a, b) => b.interestScore - a.interestScore);
+  return getAllStoriesByCategory().slice(0, 50);
 }

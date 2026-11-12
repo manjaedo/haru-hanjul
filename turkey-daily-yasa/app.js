@@ -3,6 +3,7 @@ function formatYear(y) { return y < 0 ? '기원전 ' + Math.abs(y) + '년' : y +
 
 const state = {
   currentDate: new Date(),
+  viewMode: 'date',
   category: 'all',
   theme: localStorage.getItem('turkey_theme') || 'light',
   favorites: new Set(JSON.parse(localStorage.getItem('turkey_favorites') || '[]')),
@@ -369,6 +370,14 @@ function showToast(msg) {
 }
 
 function bindEvents() {
+  document.getElementById('btnModeDate')?.addEventListener('click', () => {
+    state.viewMode = 'date';
+    render();
+  });
+  document.getElementById('btnModeCategory')?.addEventListener('click', () => {
+    state.viewMode = 'category';
+    render();
+  });
   document.getElementById('btnHome').addEventListener('click', () => {
     state.currentDate = new Date();
     state.category = 'all';

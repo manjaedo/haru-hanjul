@@ -1,0 +1,715 @@
+@import url('https://fonts.googleapis.com/css2?family=Gowun+Batang:wght@400;700&family=Noto+Sans+KR:wght@400;500;600&family=Noto+Serif+KR:wght@600;700&display=swap');
+
+:root {
+  --bg: #f5f7f4;
+  --card: #ffffff;
+  --quote-bg: #ecf2ee;
+  --text: #1f2421;
+  --sub: #5f6c64;
+  --accent: #1f6f5c;
+  --line: #d6e2dc;
+}
+
+[data-theme="dark"] {
+  --bg: #121715;
+  --card: #19201d;
+  --quote-bg: #202a26;
+  --text: #e5ece8;
+  --sub: #93a69c;
+  --accent: #4db69c;
+  --line: #2c3833;
+}
+
+*, *::before, *::after {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+
+html, body {
+  width: 100%;
+  max-width: 100%;
+  overflow-x: hidden;
+  background: var(--bg);
+  color: var(--text);
+  font-family: 'Noto Sans KR', -apple-system, sans-serif;
+  line-height: 1.75;
+  word-break: keep-all;
+  -webkit-text-size-adjust: 100%;
+}
+
+.page-wrap {
+  max-width: 660px;
+  margin: 0 auto;
+  padding: 0 16px 60px;
+}
+
+/* 1. 상단 바 */
+.top-bar {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  padding: 16px 0 12px;
+  border-bottom: 1px solid var(--line);
+}
+
+.site-title {
+  font-family: 'Noto Serif KR', serif;
+  font-size: 1.15rem;
+  font-weight: 700;
+  cursor: pointer;
+  letter-spacing: -0.02em;
+  white-space: nowrap;
+}
+
+.top-actions {
+  display: flex;
+  align-items: center;
+  gap: 6px;
+  flex-shrink: 0;
+}
+
+.text-btn {
+  background: none;
+  border: 1px solid var(--line);
+  color: var(--text);
+  padding: 5px 10px;
+  border-radius: 6px;
+  font-size: 0.8rem;
+  font-weight: 500;
+  cursor: pointer;
+  font-family: inherit;
+  white-space: nowrap;
+}
+
+.text-btn:hover {
+  border-color: var(--accent);
+  color: var(--accent);
+}
+
+.text-btn.logged-in {
+  border-color: var(--accent);
+  color: var(--accent);
+  font-weight: 600;
+}
+
+.nav-era-link {
+  text-decoration: none;
+}
+
+/* 2. 날짜 이동 바 */
+.date-bar {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  padding: 14px 0;
+}
+
+.nav-arrow {
+  background: none;
+  border: none;
+  color: var(--sub);
+  font-size: 0.9rem;
+  font-weight: 500;
+  cursor: pointer;
+  padding: 4px 8px;
+  font-family: inherit;
+}
+
+.nav-arrow:hover {
+  color: var(--text);
+}
+
+.date-center {
+  display: flex;
+  align-items: baseline;
+  gap: 8px;
+  position: relative;
+}
+
+.date-display {
+  background: none;
+  border: none;
+  font-family: 'Noto Serif KR', serif;
+  font-size: 1.4rem;
+  font-weight: 700;
+  color: var(--text);
+  cursor: pointer;
+}
+
+.sub-link {
+  background: none;
+  border: none;
+  color: var(--sub);
+  font-size: 0.8rem;
+  cursor: pointer;
+  text-decoration: underline;
+  text-underline-offset: 3px;
+  font-family: inherit;
+}
+
+.dot {
+  color: var(--sub);
+  font-size: 0.8rem;
+}
+
+.sr-only-date {
+  position: absolute;
+  width: 1px;
+  height: 1px;
+  opacity: 0;
+  pointer-events: none;
+}
+
+/* 3. 심플 카테고리 슬라이드 탭 */
+.cat-bar-wrap {
+  position: relative;
+  display: flex;
+  align-items: center;
+  border-bottom: 1px solid var(--line);
+  margin-bottom: 20px;
+}
+
+.cat-bar {
+  flex: 1;
+  min-width: 0;
+  display: flex;
+  flex-wrap: nowrap;
+  gap: 14px;
+  overflow-x: auto;
+  scroll-behavior: smooth;
+  scrollbar-width: none;
+  -webkit-overflow-scrolling: touch;
+}
+
+.cat-bar::-webkit-scrollbar {
+  display: none;
+}
+
+.cat-scroll-btn {
+  flex-shrink: 0;
+  background: var(--bg);
+  border: none;
+  color: var(--sub);
+  font-size: 1.15rem;
+  line-height: 1;
+  padding: 6px 6px 8px;
+  cursor: pointer;
+  transition: color 0.15s ease, opacity 0.15s ease;
+}
+
+.cat-scroll-btn:hover {
+  color: var(--accent);
+}
+
+.cat-scroll-btn.hidden {
+  display: none;
+}
+
+.cat-link {
+  background: none;
+  border: none;
+  border-bottom: 2px solid transparent;
+  padding: 8px 2px 10px;
+  font-size: 0.88rem;
+  font-weight: 500;
+  color: var(--sub);
+  cursor: pointer;
+  white-space: nowrap;
+  font-family: inherit;
+}
+
+.cat-link.active {
+  color: var(--accent);
+  border-bottom-color: var(--accent);
+  font-weight: 600;
+}
+
+/* 3-1. 상단 오늘자 야사 제목 리스트 바로가기 */
+.quick-title-box {
+  background: var(--quote-bg);
+  border: 1px solid var(--line);
+  border-radius: 10px;
+  padding: 10px 14px;
+  margin-bottom: 16px;
+}
+
+.quick-title-toggle {
+  width: 100%;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: 8px;
+  background: none;
+  border: none;
+  padding: 2px 0;
+  font-family: 'Noto Serif KR', serif;
+  font-size: 0.88rem;
+  font-weight: 700;
+  color: var(--accent);
+  cursor: pointer;
+  text-align: left;
+}
+
+.quick-toggle-icon {
+  font-family: 'Noto Sans KR', sans-serif;
+  font-size: 0.76rem;
+  font-weight: 500;
+  color: var(--sub);
+  white-space: nowrap;
+}
+
+.quick-title-items {
+  list-style: none;
+  display: flex;
+  flex-direction: column;
+  gap: 4px;
+  margin-top: 8px;
+}
+
+.quick-title-items.collapsed {
+  display: none;
+}
+
+.quick-title-btn {
+  width: 100%;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  gap: 2px;
+  text-align: left;
+  background: none;
+  border: none;
+  padding: 7px 8px;
+  border-radius: 6px;
+  color: var(--text);
+  font-size: 0.88rem;
+  font-family: inherit;
+  cursor: pointer;
+  transition: background 0.15s ease, color 0.15s ease;
+}
+
+.quick-title-btn:hover {
+  background: var(--card);
+  color: var(--accent);
+}
+
+.quick-text {
+  font-weight: 600;
+  line-height: 1.42;
+  word-break: keep-all;
+}
+
+.quick-sub {
+  font-size: 0.75rem;
+  color: var(--sub);
+}
+
+@keyframes cardFlash {
+  0% { border-color: var(--accent); box-shadow: 0 0 0 2px var(--accent); }
+  100% { border-color: var(--line); box-shadow: none; }
+}
+
+.story-item.highlight-flash {
+  animation: cardFlash 1.4s ease-out;
+}
+
+/* 4. 본문 이야기 카드 (책 페이지처럼 차분한 구성) */
+.story-list {
+  display: flex;
+  flex-direction: column;
+  gap: 24px;
+}
+
+.story-item {
+  background: var(--card);
+  border: 1px solid var(--line);
+  border-radius: 10px;
+  padding: 24px 22px;
+}
+
+.story-meta {
+  font-size: 0.8rem;
+  color: var(--accent);
+  font-weight: 600;
+  margin-bottom: 6px;
+}
+
+.story-title {
+  font-family: 'Noto Serif KR', serif;
+  font-size: 1.22rem;
+  font-weight: 700;
+  line-height: 1.45;
+  margin-bottom: 14px;
+  color: var(--text);
+}
+
+.story-body {
+  font-family: 'Gowun Batang', serif;
+  font-size: 1rem;
+  line-height: 1.85;
+  color: var(--text);
+  white-space: pre-line;
+  margin-bottom: 18px;
+}
+
+.sillok-quote {
+  background: var(--quote-bg);
+  border-left: 3px solid var(--line);
+  padding: 12px 14px;
+  border-radius: 4px;
+  font-size: 0.84rem;
+  color: var(--sub);
+  line-height: 1.65;
+}
+
+.sillok-quote strong {
+  color: var(--text);
+  display: block;
+  margin-bottom: 2px;
+  font-size: 0.78rem;
+}
+
+/* 심플 토스트 알림 */
+.simple-toast {
+  position: fixed;
+  bottom: 20px;
+  left: 50%;
+  transform: translateX(-50%);
+  width: calc(100% - 32px);
+  max-width: 460px;
+  background: var(--text);
+  color: var(--bg);
+  padding: 12px 16px;
+  border-radius: 8px;
+  font-size: 0.85rem;
+  display: none;
+  z-index: 900;
+}
+
+.simple-toast.show {
+  display: block;
+}
+
+.toast-inner {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: 12px;
+}
+
+.toast-inner button {
+  background: none;
+  border: 1px solid currentColor;
+  color: inherit;
+  padding: 3px 8px;
+  border-radius: 4px;
+  font-size: 0.75rem;
+  cursor: pointer;
+  white-space: nowrap;
+}
+
+.quick-year {
+  font-family: 'Noto Serif KR', serif;
+  font-weight: 700;
+  font-size: 0.8rem;
+  color: var(--accent);
+  min-width: 48px;
+  white-space: nowrap;
+}
+
+.empty-state-box {
+  background: var(--card);
+  border: 1px solid var(--line);
+  border-radius: 10px;
+  padding: 36px 20px;
+  text-align: center;
+}
+
+.empty-state-msg {
+  font-size: 1rem;
+  font-weight: 600;
+  color: var(--text);
+  margin-bottom: 6px;
+}
+
+.empty-state-sub {
+  font-size: 0.86rem;
+  color: var(--sub);
+  margin-bottom: 18px;
+}
+
+.empty-state-actions {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  gap: 8px;
+}
+
+.empty-action-btn {
+  background: none;
+  border: 1px solid var(--line);
+  color: var(--text);
+  padding: 8px 14px;
+  border-radius: 6px;
+  font-size: 0.86rem;
+  font-weight: 500;
+  cursor: pointer;
+  font-family: inherit;
+}
+
+.empty-action-btn.primary {
+  border-color: var(--accent);
+  color: var(--accent);
+  font-weight: 600;
+}
+
+.empty-action-btn:hover {
+  border-color: var(--accent);
+  color: var(--accent);
+}
+
+/* 즐겨찾기 & 메모 액션 */
+.story-meta-row {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  justify-content: space-between;
+  gap: 8px;
+  margin-bottom: 8px;
+}
+
+.story-meta-row .story-meta {
+  margin-bottom: 0;
+}
+
+.story-actions {
+  display: flex;
+  align-items: center;
+  gap: 6px;
+}
+
+.action-pill {
+  background: none;
+  border: 1px solid var(--line);
+  color: var(--sub);
+  padding: 3px 9px;
+  border-radius: 999px;
+  font-size: 0.76rem;
+  font-weight: 500;
+  cursor: pointer;
+  font-family: inherit;
+  white-space: nowrap;
+  transition: all 0.15s ease;
+}
+
+.action-pill:hover {
+  border-color: var(--accent);
+  color: var(--accent);
+}
+
+.fav-btn.active,
+.memo-btn.has-memo {
+  border-color: var(--accent);
+  color: var(--accent);
+  background: var(--quote-bg);
+  font-weight: 600;
+}
+
+.memo-box {
+  margin-top: 14px;
+  padding: 12px 14px;
+  background: var(--quote-bg);
+  border: 1px dashed var(--line);
+  border-radius: 8px;
+}
+
+.memo-box-head {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  font-size: 0.8rem;
+  font-weight: 600;
+  color: var(--accent);
+  margin-bottom: 6px;
+}
+
+.memo-box-btns {
+  display: flex;
+  gap: 10px;
+}
+
+.memo-link-btn {
+  background: none;
+  border: none;
+  color: var(--sub);
+  font-size: 0.76rem;
+  cursor: pointer;
+  font-family: inherit;
+  padding: 0;
+}
+
+.memo-link-btn:hover {
+  color: var(--accent);
+  text-decoration: underline;
+}
+
+.memo-link-btn.danger:hover {
+  color: #dc2626;
+}
+
+.memo-box-text {
+  font-size: 0.9rem;
+  color: var(--text);
+  white-space: pre-wrap;
+  line-height: 1.6;
+}
+
+.memo-editor {
+  margin-top: 14px;
+  padding: 12px;
+  background: var(--quote-bg);
+  border: 1px solid var(--line);
+  border-radius: 8px;
+}
+
+.memo-textarea {
+  width: 100%;
+  background: var(--card);
+  color: var(--text);
+  border: 1px solid var(--line);
+  border-radius: 6px;
+  padding: 8px 10px;
+  font-family: inherit;
+  font-size: 0.9rem;
+  line-height: 1.5;
+  resize: vertical;
+}
+
+.memo-textarea:focus {
+  outline: none;
+  border-color: var(--accent);
+}
+
+.memo-editor-actions {
+  display: flex;
+  justify-content: flex-end;
+  gap: 8px;
+  margin-top: 8px;
+}
+
+.memo-save-btn,
+.memo-cancel-btn {
+  padding: 5px 12px;
+  border-radius: 6px;
+  font-size: 0.82rem;
+  font-weight: 500;
+  cursor: pointer;
+  font-family: inherit;
+}
+
+.memo-save-btn {
+  background: var(--accent);
+  color: #fff;
+  border: 1px solid var(--accent);
+}
+
+.memo-cancel-btn {
+  background: none;
+  color: var(--sub);
+  border: 1px solid var(--line);
+}
+
+.story-illust {
+  margin: 12px 0 16px;
+  border-radius: 8px;
+  overflow: hidden;
+  border: 1px solid var(--line);
+  background: var(--quote-bg);
+}
+
+.story-illust img {
+  display: block;
+  width: 100%;
+  aspect-ratio: 16 / 9;
+  object-fit: cover;
+}
+
+.story-illust figcaption {
+  padding: 6px 10px;
+  font-size: 0.76rem;
+  color: var(--sub);
+  text-align: center;
+  border-top: 1px solid var(--line);
+}
+
+.sillok-link-wrap {
+  margin-top: 8px;
+}
+
+.sillok-link {
+  display: inline-block;
+  font-size: 0.8rem;
+  font-weight: 600;
+  color: var(--accent);
+  text-decoration: none;
+  border-bottom: 1px solid transparent;
+}
+
+.sillok-link:hover {
+  border-bottom-color: var(--accent);
+}
+
+@media (max-width: 480px) {
+  .page-wrap {
+    padding: 0 12px 48px;
+  }
+  .hide-on-mobile {
+    display: none;
+  }
+  .top-bar {
+    padding: 10px 0 8px;
+  }
+  .site-title {
+    font-size: 1rem;
+  }
+  .text-btn {
+    padding: 4px 8px;
+    font-size: 0.76rem;
+  }
+  .date-bar {
+    padding: 8px 0;
+  }
+  .nav-arrow {
+    font-size: 0.82rem;
+    padding: 4px 4px;
+    white-space: nowrap;
+  }
+  .date-center {
+    gap: 5px;
+  }
+  .date-display {
+    font-size: 1.15rem;
+    white-space: nowrap;
+  }
+  .sub-link {
+    font-size: 0.75rem;
+    white-space: nowrap;
+  }
+  .cat-bar-wrap {
+    margin-bottom: 12px;
+  }
+  .cat-link {
+    padding: 6px 2px 8px;
+    font-size: 0.84rem;
+  }
+  .story-item {
+    padding: 16px 14px;
+  }
+  .story-title {
+    font-size: 1.1rem;
+  }
+  .story-body {
+    font-size: 0.95rem;
+  }
+}

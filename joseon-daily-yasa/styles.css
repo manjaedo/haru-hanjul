@@ -616,6 +616,29 @@ html, body {
   border: 1px solid var(--line);
 }
 
+.story-illust {
+  margin: 12px 0 16px;
+  border-radius: 8px;
+  overflow: hidden;
+  border: 1px solid var(--line);
+  background: var(--quote-bg);
+}
+
+.story-illust img {
+  display: block;
+  width: 100%;
+  aspect-ratio: 16 / 9;
+  object-fit: cover;
+}
+
+.story-illust figcaption {
+  padding: 6px 10px;
+  font-size: 0.76rem;
+  color: var(--sub);
+  text-align: center;
+  border-top: 1px solid var(--line);
+}
+
 @media (max-width: 480px) {
   .page-wrap {
     padding: 0 12px 48px;

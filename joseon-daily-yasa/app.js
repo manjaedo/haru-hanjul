@@ -30,6 +30,19 @@ function getStoryMap() {
   return map;
 }
 
+function getSeasonalIllustration(month) {
+  if (month >= 3 && month <= 5) {
+    return { src: 'images/spring-palace.jpg', caption: '봄 궁궐 풍경 · 매화와 버들이 피어난 아침' };
+  }
+  if (month >= 6 && month <= 8) {
+    return { src: 'images/summer-palace.jpg', caption: '여름 궁궐 풍경 · 연꽃이 피어난 경회루 연못' };
+  }
+  if (month >= 9 && month <= 11) {
+    return { src: 'images/autumn-palace.jpg', caption: '가을 궁궐 풍경 · 단풍과 은행잎 물든 고궁 뜰' };
+  }
+  return { src: 'images/winter-palace.jpg', caption: '겨울 궁궐 풍경 · 흰 눈 내린 전각과 호롱불' };
+}
+
 function escapeHtml(str) {
   return String(str || '')
     .replace(/&/g, '&amp;')
@@ -252,6 +265,8 @@ function render() {
     const memoObj = state.memos[s.id];
     const hasMemo = Boolean(memoObj && memoObj.text);
     const isEditorOpen = state.openMemoIds.has(s.id);
+    const showIllust = idx === 0;
+    const illust = showIllust ? getSeasonalIllustration(s.month || month) : null;
 
     return `
       <article class="story-item" id="story-card-${idx}" data-story-id="${escapeHtml(s.id)}">
@@ -267,6 +282,12 @@ function render() {
           </div>
         </div>
         <h2 class="story-title">${s.title}</h2>
+        ${illust ? `
+          <figure class="story-illust">
+            <img src="${illust.src}" alt="${escapeHtml(illust.caption)}" loading="lazy" />
+            <figcaption>${illust.caption}</figcaption>
+          </figure>
+        ` : ''}
         <div class="story-body">${s.yasaStory}</div>
         <div class="sillok-quote">
           <strong>실록 기록 (${s.source})</strong>

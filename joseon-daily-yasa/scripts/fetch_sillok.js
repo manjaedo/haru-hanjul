@@ -130,7 +130,17 @@ const SEARCH_QUERIES = [
   { word: '균역법', category: 'episode', tags: ['균역법', '군역', '영조'] },
   { word: '탕평', category: 'episode', tags: ['탕평책', '영조', '정조'] },
   { word: '의원', category: 'episode', tags: ['의원', '내의원', '의술'] },
-  { word: '허준', category: 'episode', tags: ['허준', '동의보감', '의술'] }
+  { word: '허준', category: 'episode', tags: ['허준', '동의보감', '의술'] },
+  { word: '빙고', category: 'episode', tags: ['빙고', '얼음', '계절일상'] },
+  { word: '동지', category: 'episode', tags: ['동지', '세시풍속', '겨울'] },
+  { word: '단오', category: 'episode', tags: ['단오', '부채', '세시풍속'] },
+  { word: '추석', category: 'episode', tags: ['추석', '가을', '세시풍속'] },
+  { word: '모내기', category: 'episode', tags: ['모내기', '농사', '봄여름'] },
+  { word: '수라', category: 'episode', tags: ['수라상', '궁중음식', '왕의일상'] },
+  { word: '매화', category: 'episode', tags: ['매화', '봄풍경', '궁궐'] },
+  { word: '국화', category: 'episode', tags: ['국화', '가을풍경', '궁궐'] },
+  { word: '부채', category: 'episode', tags: ['부채', '여름', '진상품'] },
+  { word: '세찬', category: 'episode', tags: ['세찬', '설날', '겨울'] }
 ];
 
 function stripHtml(str) {

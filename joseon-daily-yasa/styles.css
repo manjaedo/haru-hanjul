@@ -84,6 +84,12 @@ html, body {
   color: var(--accent);
 }
 
+.text-btn.logged-in {
+  border-color: var(--accent);
+  color: var(--accent);
+  font-weight: 600;
+}
+
 /* 2. 날짜 이동 바 */
 .date-bar {
   display: flex;

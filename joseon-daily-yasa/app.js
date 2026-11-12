@@ -41,12 +41,23 @@ function escapeHtml(str) {
 function saveFavorites() {
   localStorage.setItem('joseon_favorites', JSON.stringify([...state.favorites]));
   updateTabCounts();
+  window.yasaCloudSync?.pushState(state.favorites, state.memos);
 }
 
 function saveMemosStorage() {
   localStorage.setItem('joseon_memos', JSON.stringify(state.memos));
   updateTabCounts();
+  window.yasaCloudSync?.pushState(state.favorites, state.memos);
 }
+
+window.applyCloudState = function (favoritesArr, memosObj) {
+  state.favorites = new Set(Array.isArray(favoritesArr) ? favoritesArr : []);
+  state.memos = memosObj && typeof memosObj === 'object' ? memosObj : {};
+  localStorage.setItem('joseon_favorites', JSON.stringify([...state.favorites]));
+  localStorage.setItem('joseon_memos', JSON.stringify(state.memos));
+  updateTabCounts();
+  render();
+};
 
 function updateTabCounts() {
   const favTab = document.getElementById('tabFavorites');
@@ -334,6 +345,10 @@ function bindEvents() {
 
   document.getElementById('btnToggleTheme').addEventListener('click', () => {
     applyTheme(state.theme === 'dark' ? 'light' : 'dark');
+  });
+
+  document.getElementById('btnAuth')?.addEventListener('click', () => {
+    window.yasaCloudSync?.signInOrOut();
   });
 
   document.getElementById('btnSendTelegram').addEventListener('click', sendTodayBestAlert);

@@ -358,6 +358,66 @@ html, body {
   white-space: nowrap;
 }
 
+.quick-year {
+  font-family: 'Noto Serif KR', serif;
+  font-weight: 700;
+  font-size: 0.8rem;
+  color: var(--accent);
+  min-width: 48px;
+  white-space: nowrap;
+}
+
+.empty-state-box {
+  background: var(--card);
+  border: 1px solid var(--line);
+  border-radius: 10px;
+  padding: 36px 20px;
+  text-align: center;
+}
+
+.empty-state-msg {
+  font-size: 1rem;
+  font-weight: 600;
+  color: var(--text);
+  margin-bottom: 6px;
+}
+
+.empty-state-sub {
+  font-size: 0.86rem;
+  color: var(--sub);
+  margin-bottom: 18px;
+}
+
+.empty-state-actions {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  gap: 8px;
+}
+
+.empty-action-btn {
+  background: none;
+  border: 1px solid var(--line);
+  color: var(--text);
+  padding: 8px 14px;
+  border-radius: 6px;
+  font-size: 0.86rem;
+  font-weight: 500;
+  cursor: pointer;
+  font-family: inherit;
+}
+
+.empty-action-btn.primary {
+  border-color: var(--accent);
+  color: var(--accent);
+  font-weight: 600;
+}
+
+.empty-action-btn:hover {
+  border-color: var(--accent);
+  color: var(--accent);
+}
+
 @media (max-width: 480px) {
   .page-wrap {
     padding: 0 14px 48px;

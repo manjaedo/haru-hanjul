@@ -58,7 +58,46 @@ function render() {
 
   if (!stories.length) {
     if (elQuickTitleList) elQuickTitleList.style.display = 'none';
-    elContainer.innerHTML = `<p style="padding:40px 0; text-align:center; color:var(--sub);">해당 주제의 기록이 없습니다.</p>`;
+    const hasAnyForDate = state.category !== 'legends' && getStoriesForDate(month, day).length > 0;
+    if (hasAnyForDate && state.category !== 'all') {
+      elContainer.innerHTML = `
+        <div class="empty-state-box">
+          <p class="empty-state-msg">${month}월 ${day}일의 해당 주제 기록이 없습니다.</p>
+          <div class="empty-state-actions">
+            <button type="button" class="empty-action-btn" id="btnShowAllCats">전체 주제 보기</button>
+          </div>
+        </div>
+      `;
+      document.getElementById('btnShowAllCats')?.addEventListener('click', () => {
+        state.category = 'all';
+        document.querySelectorAll('.cat-link').forEach(b => b.classList.toggle('active', b.dataset.cat === 'all'));
+        render();
+      });
+    } else {
+      const nearest = typeof getNearestRecordDate === 'function' ? getNearestRecordDate(month, day) : null;
+      elContainer.innerHTML = `
+        <div class="empty-state-box">
+          <p class="empty-state-msg">📅 ${month}월 ${day}일에 등록된 실록·야사 기록이 아직 없습니다.</p>
+          <p class="empty-state-sub">같은 이야기가 반복 노출되지 않도록 실제 날짜 기록만 표시합니다.</p>
+          <div class="empty-state-actions">
+            ${nearest ? `<button type="button" class="empty-action-btn primary" id="btnGoNearest">가까운 기록일 (${nearest.month}월 ${nearest.day}일 · ${nearest.count}편) 보기</button>` : ''}
+            <button type="button" class="empty-action-btn" id="btnGoRandomRecord">기록 있는 랜덤 날짜</button>
+          </div>
+        </div>
+      `;
+      if (nearest) {
+        document.getElementById('btnGoNearest')?.addEventListener('click', () => {
+          state.category = 'all';
+          document.querySelectorAll('.cat-link').forEach(b => b.classList.toggle('active', b.dataset.cat === 'all'));
+          state.currentDate = new Date(state.currentDate.getFullYear(), nearest.month - 1, nearest.day);
+          syncDateInput();
+          render();
+        });
+      }
+      document.getElementById('btnGoRandomRecord')?.addEventListener('click', () => {
+        document.getElementById('btnRandomDate')?.click();
+      });
+    }
     return;
   }
 
@@ -66,7 +105,7 @@ function render() {
     elQuickTitleList.style.display = 'block';
     const listTitle = state.category === 'legends'
       ? `📜 명장면 야사 제목 바로가기 (${stories.length}편)`
-      : `📜 ${month}월 ${day}일 야사 제목 바로가기 (${stories.length}편)`;
+      : `📜 ${month}월 ${day}일 연도별 실록·야사 (${stories.length}편)`;
 
     elQuickTitleList.innerHTML = `
       <div class="quick-title-header">${listTitle}</div>
@@ -76,7 +115,7 @@ function render() {
           return `
             <li>
               <button type="button" class="quick-title-btn" data-target="story-card-${idx}">
-                <span class="quick-num">${idx + 1}.</span>
+                <span class="quick-year">${s.year}년</span>
                 <span class="quick-cat">[${cat.shortLabel}]</span>
                 <span class="quick-text">${s.title}</span>
                 <span class="quick-king">${s.king}</span>
@@ -104,7 +143,7 @@ function render() {
     const cat = CATEGORIES[s.category] || CATEGORIES.mystery;
     return `
       <article class="story-item" id="story-card-${idx}">
-        <div class="story-meta">${s.month}월 ${s.day}일 · ${s.king} (${s.year}년) · ${cat.shortLabel}</div>
+        <div class="story-meta">${s.year}년 · ${s.month}월 ${s.day}일 · ${s.king} · ${cat.shortLabel}</div>
         <h2 class="story-title">${s.title}</h2>
         <div class="story-body">${s.yasaStory}</div>
         <div class="sillok-quote">

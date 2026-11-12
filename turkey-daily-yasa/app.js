@@ -370,12 +370,18 @@ function showToast(msg) {
 }
 
 function bindEvents() {
-  document.getElementById('btnModeDate')?.addEventListener('click', () => {
+  document.getElementById('btnModeDate')?.addEventListener('click', (e) => {
+    e.preventDefault();
     state.viewMode = 'date';
     render();
   });
-  document.getElementById('btnModeCategory')?.addEventListener('click', () => {
+  document.getElementById('btnModeCategory')?.addEventListener('click', (e) => {
+    e.preventDefault();
     state.viewMode = 'category';
+    if (state.category === 'all') {
+      state.category = 'mystery';
+      document.querySelectorAll('.cat-link').forEach(b => b.classList.toggle('active', b.dataset.cat === 'mystery'));
+    }
     render();
   });
   document.getElementById('btnHome').addEventListener('click', () => {

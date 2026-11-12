@@ -292,6 +292,13 @@ function render() {
         <div class="sillok-quote">
           <strong>실록 기록 (${s.source})</strong>
           "${s.officialRecord}"
+          ${s.sillokUrl ? `
+            <div class="sillok-link-wrap">
+              <a href="${escapeHtml(s.sillokUrl)}" target="_blank" rel="noopener noreferrer" class="sillok-link">
+                📖 ${s.sillokUrl.includes('/id/') ? '국사편찬위원회 실록 원문 전체 보기' : '국사편찬위원회 실록 바로가기'} ↗
+              </a>
+            </div>
+          ` : ''}
         </div>
         ${hasMemo && !isEditorOpen ? `
           <div class="memo-box">

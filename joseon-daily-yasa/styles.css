@@ -639,6 +639,23 @@ html, body {
   border-top: 1px solid var(--line);
 }
 
+.sillok-link-wrap {
+  margin-top: 8px;
+}
+
+.sillok-link {
+  display: inline-block;
+  font-size: 0.8rem;
+  font-weight: 600;
+  color: var(--accent);
+  text-decoration: none;
+  border-bottom: 1px solid transparent;
+}
+
+.sillok-link:hover {
+  border-bottom-color: var(--accent);
+}
+
 @media (max-width: 480px) {
   .page-wrap {
     padding: 0 12px 48px;

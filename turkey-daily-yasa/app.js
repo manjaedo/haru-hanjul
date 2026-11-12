@@ -115,6 +115,23 @@ function render() {
   const month = state.currentDate.getMonth() + 1;
   const day = state.currentDate.getDate();
 
+  const btnModeDate = document.getElementById('btnModeDate');
+  const btnModeCat = document.getElementById('btnModeCategory');
+  const dateBar = document.querySelector('.date-bar');
+  const isCatMode = state.viewMode === 'category';
+
+  if (btnModeDate) {
+    btnModeDate.classList.toggle('active', !isCatMode);
+    btnModeDate.setAttribute('aria-selected', String(!isCatMode));
+  }
+  if (btnModeCat) {
+    btnModeCat.classList.toggle('active', isCatMode);
+    btnModeCat.setAttribute('aria-selected', String(isCatMode));
+  }
+  if (dateBar) {
+    dateBar.style.display = isCatMode ? 'none' : 'flex';
+  }
+
   let stories = [];
   window._fallbackDateInfo = null;
   if (state.category === 'legends') {
@@ -130,6 +147,10 @@ function render() {
     const map = getStoryMap();
     stories = Object.keys(state.memos).map(id => map.get(id)).filter(Boolean);
     stories.sort((a, b) => (state.memos[b.id]?.updatedAt || 0) - (state.memos[a.id]?.updatedAt || 0));
+  } else if (isCatMode) {
+    const catObj = CATEGORIES[state.category];
+    elMonthDay.textContent = catObj ? catObj.label : '전체 주제 모아보기';
+    stories = getAllStoriesByCategory(state.category);
   } else {
     elMonthDay.textContent = `${month}월 ${day}일`;
     stories = getStoriesForDate(month, day);
@@ -204,7 +225,10 @@ function render() {
   if (elQuickTitleList) {
     elQuickTitleList.style.display = 'block';
     let listTitle = `📜 ${month}월 ${day}일 연도별 오스만·터키 사료 (${stories.length}편)`;
-    if (state.category === 'legends') listTitle = `📜 명장면 야사 제목 바로가기 (${stories.length}편)`;
+    if (state.viewMode === 'category') {
+      const catObj = CATEGORIES[state.category];
+      listTitle = catObj ? `📚 ${catObj.label} 전체 이야기 (${stories.length}편)` : `📚 전체 주제 이야기 모아보기 (${stories.length}편)`;
+    } else if (state.category === 'legends') listTitle = `📜 명장면 야사 제목 바로가기 (${stories.length}편)`;
     else if (state.category === 'favorites') listTitle = `⭐ 즐겨찾기한 이야기 (${stories.length}편)`;
     else if (state.category === 'memos') listTitle = `📝 메모가 있는 이야기 (${stories.length}편)`;
 

@@ -19,6 +19,28 @@ function cleanWikiText(line) {
     .trim();
 }
 
+const GENERIC_TR_TITLES = new Set([
+  'Türkiye', 'Osmanlı İmparatorluğu', 'İstanbul', 'Ankara', 'İzmir', 'Bursa',
+  'Türkiye Büyük Millet Meclisi', 'Türkler', 'Anadolu'
+]);
+
+const TR_MONTH_REGEX = new RegExp(`^\\d{1,2}\\s+(${TR_MONTHS.slice(1).join('|')})$`, 'i');
+
+function extractMainWikiLink(line) {
+  const matches = [...line.matchAll(/\[\[([^|\]]+)(?:\|[^\]]+)?\]\]/g)].map(m => m[1].trim());
+  const candidates = [];
+  for (const target of matches) {
+    if (/^(MÖ\s*)?\d{1,4}$/i.test(target)) continue;
+    if (TR_MONTH_REGEX.test(target)) continue;
+    if (/^(Dosya|Resim|Kategori|Şablon|File|Category):/i.test(target)) continue;
+    if (target.includes('#')) continue;
+    candidates.push(target);
+  }
+  if (!candidates.length) return null;
+  const specific = candidates.find(t => !GENERIC_TR_TITLES.has(t));
+  return specific || candidates[0];
+}
+
 function parseYear(line) {
   const bc = line.match(/MÖ\s*(\d+)/i);
   if (bc) return -parseInt(bc[1], 10);
@@ -28,6 +50,37 @@ function parseYear(line) {
 }
 
 const sleep = (ms) => new Promise(r => setTimeout(r, ms));
+
+async function fetchTrExtracts(docTitles) {
+  const map = new Map();
+  const unique = [...new Set(docTitles)];
+  for (let i = 0; i < unique.length; i += 20) {
+    const batch = unique.slice(i, i + 20);
+    const url = `https://tr.wikipedia.org/w/api.php?action=query&prop=extracts&exintro=1&explaintext=1&exchars=520&redirects=1&format=json&titles=${encodeURIComponent(batch.join('|'))}`;
+    try {
+      const res = await fetch(url, {
+        headers: { 'User-Agent': 'HaruHanjulHistoryBot/1.0 (https://manjaedo.github.io/haru-hanjul/)' }
+      });
+      const data = await res.json();
+      const normalized = new Map();
+      (data.query?.normalized || []).forEach(n => normalized.set(n.to, n.from));
+      const redirects = new Map();
+      (data.query?.redirects || []).forEach(r => redirects.set(r.to, r.from));
+
+      for (const page of Object.values(data.query?.pages || {})) {
+        if (!page.extract) continue;
+        const cleanExtract = page.extract.replace(/\s+/g, ' ').trim();
+        if (cleanExtract.length < 50) continue;
+        const info = { extract: cleanExtract, finalTitle: page.title };
+        map.set(page.title, info);
+        if (redirects.has(page.title)) map.set(redirects.get(page.title), info);
+        if (normalized.has(page.title)) map.set(normalized.get(page.title), info);
+      }
+    } catch (e) {}
+    await sleep(250);
+  }
+  return map;
+}
 
 async function translateBatch(texts) {
   if (!texts.length) return [];
@@ -51,8 +104,34 @@ async function translateBatch(texts) {
     } catch {
       out.push(t);
     }
+    await sleep(100);
   }
   return out;
+}
+
+async function translateAll(texts) {
+  const results = new Array(texts.length);
+  let i = 0;
+  while (i < texts.length) {
+    const batch = [];
+    let charLen = 0;
+    while (i < texts.length && batch.length < 10 && charLen + texts[i].length < 1800) {
+      batch.push({ idx: i, text: texts[i] });
+      charLen += texts[i].length + 15;
+      i++;
+    }
+    if (!batch.length && i < texts.length) {
+      batch.push({ idx: i, text: texts[i].slice(0, 1500) });
+      i++;
+    }
+    const translated = await translateBatch(batch.map(b => b.text));
+    batch.forEach((b, k) => {
+      results[b.idx] = translated[k] || b.text;
+    });
+    if (i % 100 < 10) console.log(`Translated ${i}/${texts.length} texts...`);
+    await sleep(220);
+  }
+  return results;
 }
 
 async function main() {
@@ -86,7 +165,7 @@ async function main() {
 
       let pickedForDay = 0;
       for (const l of lines) {
-        if (pickedForDay >= 4) break;
+        if (pickedForDay >= 6) break;
         const cleaned = cleanWikiText(l);
         const year = parseYear(cleaned);
         if (year === null || year < 1000 || year > 1990) continue;
@@ -95,49 +174,64 @@ async function main() {
         const trText = cleaned.replace(/^(\d{3,4})\s*[-–—:]?\s*/, '').trim();
         if (trText.length < 15) continue;
 
-        rawItems.push({ month, day, year, trText, pageTitle: p.title });
+        const docTitle = extractMainWikiLink(l);
+        if (!docTitle) continue;
+
+        rawItems.push({ month, day, year, trText, pageTitle: p.title, docTitle });
         pickedForDay++;
       }
     }
-    console.log(`TR Wiki batch ${i / 50 + 1}/${Math.ceil(allTitles.length / 50)}, collected=${rawItems.length}`);
-    await sleep(800);
+    console.log(`TR Wiki batch ${i / 50 + 1}/${Math.ceil(allTitles.length / 50)}, raw candidates=${rawItems.length}`);
+    await sleep(600);
   }
 
-  console.log(`Translating ${rawItems.length} Turkish events to Korean...`);
-  const stories = [];
-  for (let i = 0; i < rawItems.length; i += 15) {
-    const chunk = rawItems.slice(i, i + 15);
-    const translated = await translateBatch(chunk.map(x => x.trText));
-    chunk.forEach((item, idx) => {
-      const koText = translated[idx] || item.trText;
-      const kingLabel = item.year < 1923 ? '오스만 제국' : '튀르키예 공화국';
-      const cat = /deprem|yangın|fırtına/i.test(item.item || item.trText)
-        ? 'mystery'
-        : /suikast|darbe|idam|isyan|antlaşma|devrim/i.test(item.trText)
-          ? 'scandal'
-          : /savaş|fetih|zafer|kuşatma|muharebe/i.test(item.trText)
-            ? 'folklore'
-            : 'episode';
+  console.log(`Fetching detailed Turkish Wikipedia extracts for ${rawItems.length} candidates...`);
+  const extractMap = await fetchTrExtracts(rawItems.map(x => x.docTitle));
 
-      stories.push({
-        id: `trwiki-${String(item.month).padStart(2, '0')}${String(item.day).padStart(2, '0')}-${item.year}-${i + idx}`,
-        month: item.month,
-        day: item.day,
-        year: item.year,
-        king: kingLabel,
-        lunarDate: `양력 ${item.month}월 ${item.day}일 (${item.pageTitle})`,
-        category: cat,
-        interestScore: 90,
-        title: koText.length > 56 ? koText.slice(0, 54) + '…' : koText,
-        source: `터키어 위키백과 (${item.pageTitle})`,
-        sillokUrl: `https://tr.wikipedia.org/wiki/${encodeURIComponent(item.pageTitle.replace(/ /g, '_'))}`,
-        officialRecord: item.trText,
-        yasaStory: `${item.year}년 ${item.month}월 ${item.day}일 터키·오스만 역사 기록입니다.\n\n${koText}\n\n(※ 아래 원문 인용에서 터키어 원문을 함께 확인하실 수 있습니다.)`
-      });
-    });
-    if ((i / 15) % 10 === 0) console.log(`Translated ${Math.min(i + 15, rawItems.length)}/${rawItems.length}`);
-    await sleep(250);
+  const perDayCount = new Map();
+  const validItems = [];
+  for (const item of rawItems) {
+    const info = extractMap.get(item.docTitle);
+    if (!info || !info.extract || info.extract.length < 50) continue;
+    const key = `${item.month}-${item.day}`;
+    const c = perDayCount.get(key) || 0;
+    if (c >= 4) continue;
+    perDayCount.set(key, c + 1);
+    validItems.push({ ...item, extract: info.extract, finalTitle: info.finalTitle });
   }
+
+  console.log(`Filtered to ${validItems.length} rich events with extracts. Translating summaries & extracts to Korean...`);
+  const koSummaries = await translateAll(validItems.map(x => x.trText));
+  const koExtracts = await translateAll(validItems.map(x => x.extract));
+
+  const stories = validItems.map((item, idx) => {
+    const koText = koSummaries[idx] || item.trText;
+    const koDetail = koExtracts[idx] || item.extract;
+    const kingLabel = item.year < 1923 ? '오스만 제국' : '튀르키예 공화국';
+    const cat = /deprem|yangın|fırtına/i.test(item.trText)
+      ? 'mystery'
+      : /suikast|darbe|idam|isyan|antlaşma|devrim/i.test(item.trText)
+        ? 'scandal'
+        : /savaş|fetih|zafer|kuşatma|muharebe/i.test(item.trText)
+          ? 'folklore'
+          : 'episode';
+
+    return {
+      id: `trwiki-${String(item.month).padStart(2, '0')}${String(item.day).padStart(2, '0')}-${item.year}-${idx}`,
+      month: item.month,
+      day: item.day,
+      year: item.year,
+      king: kingLabel,
+      lunarDate: `양력 ${item.month}월 ${item.day}일 (${item.pageTitle})`,
+      category: cat,
+      interestScore: 90,
+      title: koText.length > 56 ? koText.slice(0, 54) + '…' : koText,
+      source: `터키어 위키백과 (${item.finalTitle})`,
+      sillokUrl: `https://tr.wikipedia.org/wiki/${encodeURIComponent(item.finalTitle.replace(/ /g, '_'))}`,
+      officialRecord: `${item.trText} — ${item.extract}`,
+      yasaStory: `${koText}\n\n[역사 상세 기록: ${item.finalTitle}]\n${koDetail}`
+    };
+  });
 
   const coveredDates = new Set(stories.map(s => `${s.month}-${s.day}`)).size;
   console.log(`Done! Total Turkish stories: ${stories.length}, covered dates: ${coveredDates}`);

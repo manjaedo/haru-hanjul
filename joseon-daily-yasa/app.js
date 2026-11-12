@@ -214,10 +214,8 @@ function render() {
           return `
             <li>
               <button type="button" class="quick-title-btn" data-target="story-card-${idx}">
-                <span class="quick-year">${s.year}년</span>
-                <span class="quick-cat">[${cat.shortLabel}]</span>
-                <span class="quick-text">${s.title}</span>
-                <span class="quick-king">${s.king}</span>
+                <span class="quick-text">${idx + 1}. ${s.title}</span>
+                <span class="quick-sub">${s.year}년 · ${s.king} · ${cat.shortLabel}</span>
               </button>
             </li>
           `;

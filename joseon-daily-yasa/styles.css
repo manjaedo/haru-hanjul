@@ -157,15 +157,11 @@ html, body {
 /* 3. 심플 카테고리 탭 */
 .cat-bar {
   display: flex;
-  gap: 14px;
-  overflow-x: auto;
+  flex-wrap: wrap;
+  gap: 4px 14px;
   border-bottom: 1px solid var(--line);
   margin-bottom: 20px;
-  scrollbar-width: none;
-}
-
-.cat-bar::-webkit-scrollbar {
-  display: none;
+  padding-bottom: 4px;
 }
 
 .cat-link {

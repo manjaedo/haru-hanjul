@@ -19,6 +19,18 @@ function cleanWikiText(line) {
     .trim();
 }
 
+function extractMainWikiLink(line) {
+  // 연도 링크([[1928년]], [[기원전 44년]])가 아닌 첫 번째 핵심 문서 링크 추출
+  const matches = [...line.matchAll(/\[\[([^|\]]+)(?:\|[^\]]+)?\]\]/g)].map(m => m[1].trim());
+  for (const target of matches) {
+    if (/^(기원전\s*)?\d+년$/.test(target)) continue;
+    if (/^\d+월\s*\d+일$/.test(target)) continue;
+    if (/^파일:|^분류:/.test(target)) continue;
+    return target;
+  }
+  return null;
+}
+
 function parseYear(line) {
   const bc = line.match(/기원전\s*(\d+)년/);
   if (bc) return -parseInt(bc[1], 10);
@@ -30,7 +42,7 @@ function parseYear(line) {
 const ERAS = [
   {
     dir: 'samguk-daily-yasa',
-    match: (y, txt) => y <= 935 && /신라|고구려|백제|가야|삼국|광개토|김유신|계백|원효|을지문덕|진덕|선덕|문무왕|장보고/.test(txt),
+    match: (y, txt) => y <= 935 && /신라|고구려|백제|가야|삼국|광개토|김유신|계백|원효|을지문덕|선덕|문무왕|장보고/.test(txt),
     kingLabel: (y) => (y < 0 ? '삼국 초기' : y <= 668 ? '삼국시대' : '통일신라·남북국'),
     cat: (txt) => /일식|혜성|지진|기이|신화|전설|꿈/.test(txt) ? 'mystery' : /즉위|암살|반란|폐위|정변/.test(txt) ? 'scandal' : /전투|승리|건국|장군|대첩/.test(txt) ? 'folklore' : 'episode'
   },
@@ -80,9 +92,38 @@ const ERAS = [
 
 const sleep = (ms) => new Promise(r => setTimeout(r, ms));
 
+async function fetchExtracts(docTitles) {
+  const map = new Map();
+  const unique = [...new Set(docTitles)];
+  for (let i = 0; i < unique.length; i += 20) {
+    const batch = unique.slice(i, i + 20);
+    const url = `https://ko.wikipedia.org/w/api.php?action=query&prop=extracts&exintro=1&explaintext=1&exchars=500&redirects=1&format=json&titles=${encodeURIComponent(batch.join('|'))}`;
+    try {
+      const res = await fetch(url, {
+        headers: { 'User-Agent': 'HaruHanjulHistoryBot/1.0 (https://manjaedo.github.io/haru-hanjul/)' }
+      });
+      const data = await res.json();
+      const normalized = new Map();
+      (data.query?.normalized || []).forEach(n => normalized.set(n.to, n.from));
+      const redirects = new Map();
+      (data.query?.redirects || []).forEach(r => redirects.set(r.to, r.from));
+
+      for (const page of Object.values(data.query?.pages || {})) {
+        if (!page.extract || page.extract.length < 40) continue;
+        const cleanExtract = page.extract.replace(/\s+/g, ' ').trim();
+        map.set(page.title, { extract: cleanExtract, finalTitle: page.title });
+        if (redirects.has(page.title)) map.set(redirects.get(page.title), { extract: cleanExtract, finalTitle: page.title });
+        if (normalized.has(page.title)) map.set(normalized.get(page.title), { extract: cleanExtract, finalTitle: page.title });
+      }
+    } catch (e) {}
+    await sleep(300);
+  }
+  return map;
+}
+
 async function main() {
-  const buckets = {};
-  ERAS.forEach(e => { buckets[e.dir] = []; });
+  const candidates = [];
+  const docTitlesToFetch = [];
 
   for (let i = 0; i < titles.length; i += 50) {
     const batch = titles.slice(i, i + 50);
@@ -90,10 +131,6 @@ async function main() {
     const res = await fetch(url, {
       headers: { 'User-Agent': 'HaruHanjulHistoryBot/1.0 (https://manjaedo.github.io/haru-hanjul/)' }
     });
-    if (!res.ok) {
-      console.error('HTTP error:', res.status);
-      break;
-    }
     const data = await res.json();
     const pages = Object.values(data.query?.pages || {});
 
@@ -104,48 +141,71 @@ async function main() {
       const day = parseInt(mMatch[2], 10);
       const raw = p.revisions?.[0]?.slots?.main?.['*'] || '';
 
-      // 사건 + 탄생 + 사망 섹션 모두 탐색 (인물 탄생·서거 포함해 커버리지 극대화)
-      const lines = raw.split('\n').filter(l => /^\*\s*/.test(l));
+      // 오직 '사건' 섹션만 사용 (단순 이름/생몰연도 나열인 탄생·사망 섹션 완전 배제!)
+      const eventSection = raw.split(/==\s*탄생\s*==|==\s*출생\s*==|==\s*사망\s*==/)[0] || '';
+      const lines = eventSection.split('\n').filter(l => /^\*\s*/.test(l));
 
       for (const l of lines) {
         const cleaned = cleanWikiText(l);
+        // 단순 생몰연도 줄 추가 차단
+        if (/\(~\s*\d+년\)|\(\d+년\s*~\)/.test(cleaned)) continue;
+
         const year = parseYear(cleaned);
         if (year === null) continue;
         const bodyText = cleaned.replace(/^(기원전\s*)?\d+년\s*[-–—:]?\s*/, '').trim();
-        if (bodyText.length < 10) continue;
+        if (bodyText.length < 12) continue;
 
+        const mainDoc = extractMainWikiLink(l);
         for (const era of ERAS) {
           if (era.match(year, cleaned)) {
-            buckets[era.dir].push({
-              id: `wiki-${era.dir.split('-')[0]}-${String(month).padStart(2, '0')}${String(day).padStart(2, '0')}-${year}-${buckets[era.dir].length}`,
-              month,
-              day,
-              year,
-              king: era.kingLabel(year),
-              lunarDate: `양력 ${month}월 ${day}일 실제 기록`,
-              category: era.cat(bodyText),
-              interestScore: 88,
-              title: bodyText.length > 52 ? bodyText.slice(0, 50) + '…' : bodyText,
-              source: `한국어 위키백과 (${month}월 ${day}일 연표)`,
-              sillokUrl: `https://ko.wikipedia.org/wiki/${encodeURIComponent(`${month}월_${day}일`)}`,
-              officialRecord: bodyText,
-              yasaStory: `${year < 0 ? '기원전 ' + Math.abs(year) : year}년 ${month}월 ${day}일에 실제로 기록된 역사 사건입니다.\n\n${bodyText}`
-            });
+            candidates.push({ era, month, day, year, bodyText, mainDoc });
+            if (mainDoc) docTitlesToFetch.push(mainDoc);
           }
         }
       }
     }
-    console.log(`Fetched batch ${i / 50 + 1}/${Math.ceil(titles.length / 50)}`);
-    await sleep(1000);
+    console.log(`Wiki events batch ${i / 50 + 1}/${Math.ceil(titles.length / 50)}`);
+    await sleep(700);
+  }
+
+  console.log(`Fetching detailed extracts for ${new Set(docTitlesToFetch).size} linked articles...`);
+  const extractMap = await fetchExtracts(docTitlesToFetch);
+
+  const buckets = {};
+  ERAS.forEach(e => { buckets[e.dir] = []; });
+
+  for (const c of candidates) {
+    const info = c.mainDoc ? extractMap.get(c.mainDoc) : null;
+    // 실제 배경 설명(extract)이 없거나 너무 짧으면 제외해 '빈약한 1줄짜리' 방지
+    if (!info || info.extract.length < 50) continue;
+
+    const yearStr = c.year < 0 ? `기원전 ${Math.abs(c.year)}년` : `${c.year}년`;
+    const docUrl = `https://ko.wikipedia.org/wiki/${encodeURIComponent(info.finalTitle.replace(/ /g, '_'))}`;
+
+    buckets[c.era.dir].push({
+      id: `wiki-${c.era.dir.split('-')[0]}-${String(c.month).padStart(2, '0')}${String(c.day).padStart(2, '0')}-${c.year}-${buckets[c.era.dir].length}`,
+      month: c.month,
+      day: c.day,
+      year: c.year,
+      king: c.era.kingLabel(c.year),
+      lunarDate: `양력 ${c.month}월 ${c.day}일`,
+      category: c.era.cat(c.bodyText),
+      interestScore: 90,
+      title: c.bodyText.length > 54 ? c.bodyText.slice(0, 52) + '…' : c.bodyText,
+      source: `위키백과 · ${info.finalTitle}`,
+      sillokUrl: docUrl,
+      officialRecord: c.bodyText,
+      yasaStory: `${yearStr} ${c.month}월 ${c.day}일 사건: ${c.bodyText}\n\n${info.extract}`
+    });
   }
 
   for (const era of ERAS) {
     const list = buckets[era.dir];
     const uniqueDates = new Set(list.map(x => `${x.month}-${x.day}`)).size;
-    console.log(`[${era.dir}] stories=${list.length}, dates=${uniqueDates}`);
+    console.log(`[${era.dir}] quality stories=${list.length}, dates=${uniqueDates}`);
 
     const outPath = path.join('c:/Users/manja/Desktop/Workspace/haru-hanjul', era.dir, 'stories_wiki.js');
-    const content = `// 한국어 위키백과 366일 실제 날짜별 사건 보강 (${list.length}편, ${uniqueDates}일)
+    const content = `// 한국어 위키백과 실제 사건 + 상세 본문 요약 (${list.length}편, ${uniqueDates}일)
 const WIKI_STORIES = ${JSON.stringify(list, null, 2)};
 
 if (typeof CURATED_STORIES !== 'undefined') {

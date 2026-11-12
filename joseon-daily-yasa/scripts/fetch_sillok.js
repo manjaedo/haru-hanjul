@@ -31,8 +31,37 @@ const KING_INFO = {
   kza: { name: '고종', baseYear: 1864 }
 };
 
-// 흥미로운 야사/사건 중심 검색 키워드 및 카테고리 매핑 (대폭 확충)
+// 건조한 행정·의례 기사 제외 패턴
+const BORING_PATTERNS = [
+  /복명하다$/,
+  /제사를 지내다/,
+  /하례를 받다/,
+  /진하하다/,
+  /사은하다/,
+  /윤대하다/,
+  /상참을 받다/,
+  /조참을 받다/,
+  /정사를 보다/,
+  /친히 제사/,
+  /사신을 보내/,
+  /방물을 바치/,
+  /시호를 내리/,
+  /능에 거둥/,
+  /관직을 제수/,
+  /로 삼다$/
+];
+
+// 서사·드라마·기이함 가산점 패턴
+const DRAMATIC_KEYWORDS = [
+  '죽이다', '살해', '도망', '몰래', '밤에', '괴이', '변괴', '불덩이', '울다', '통곡',
+  '웃다', '속이다', '역모', '모반', '자객', '독약', '사약', '귀신', '호랑이', '표범',
+  '벼락', '혜성', '지진', '우박', '유배', '파직', '국문', '고문', '투서', '벽서',
+  '기생', '간통', '궁녀', '암행어사', '도둑', '의병', '거북선', '화포', '표류'
+];
+
+// 시대·인물·사건 중심 확장 키워드
 const SEARCH_QUERIES = [
+  // 미스터리·천변·기이한 일
   { word: '호랑이', category: 'mystery', tags: ['호랑이', '야생동물', '한양야사'] },
   { word: '표범', category: 'mystery', tags: ['표범', '야생동물', '한양야사'] },
   { word: '혜성', category: 'mystery', tags: ['혜성', '천변', '관상감'] },
@@ -40,64 +69,68 @@ const SEARCH_QUERIES = [
   { word: '유성', category: 'mystery', tags: ['유성', '별똥별', '천문'] },
   { word: '지진', category: 'mystery', tags: ['지진', '천변', '재이'] },
   { word: '일식', category: 'mystery', tags: ['일식', '천문', '관상감'] },
-  { word: '월식', category: 'mystery', tags: ['월식', '천문', '관상감'] },
   { word: '도깨비', category: 'mystery', tags: ['도깨비', '괴담', '민간전승'] },
   { word: '무지개', category: 'mystery', tags: ['무지개', '천변', '기상'] },
-  { word: '서리', category: 'mystery', tags: ['서리', '이상기후', '농사'] },
   { word: '벼락', category: 'mystery', tags: ['벼락', '천변', '기이한일'] },
   { word: '화재', category: 'mystery', tags: ['화재', '한양도성', '금화'] },
-  { word: '역병', category: 'mystery', tags: ['역병', '의술', '민생'] },
-  { word: '메뚜기', category: 'mystery', tags: ['메뚜기', '황충', '기근'] },
   { word: '괴이', category: 'mystery', tags: ['괴이', '미스터리', '기문'] },
+  { word: '불덩이', category: 'mystery', tags: ['불덩이', '천변', '미스터리'] },
+  { word: '피비', category: 'mystery', tags: ['피비', '괴변', '천변'] },
+  { word: '쌍태아', category: 'mystery', tags: ['기문', '민생', '야사'] },
+
+  // 궁중 비화·정쟁·핵심 인물
+  { word: '장녹수', category: 'scandal', tags: ['장녹수', '연산군', '궁중비화'] },
+  { word: '장희빈', category: 'scandal', tags: ['장희빈', '숙종', '궁중비화'] },
+  { word: '사도세자', category: 'scandal', tags: ['사도세자', '영조', '정조'] },
+  { word: '김안로', category: 'scandal', tags: ['김안로', '권신', '정쟁'] },
+  { word: '김개시', category: 'scandal', tags: ['김개시', '광해군', '궁중비화'] },
+  { word: '정여립', category: 'scandal', tags: ['정여립', '기축옥사', '선조'] },
+  { word: '허균', category: 'scandal', tags: ['허균', '홍길동', '광해군'] },
+  { word: '이괄', category: 'scandal', tags: ['이괄의난', '인조', '반란'] },
+  { word: '홍경래', category: 'scandal', tags: ['홍경래의난', '순조', '민란'] },
+  { word: '어우동', category: 'scandal', tags: ['어우동', '성종', '스캔들'] },
   { word: '역모', category: 'scandal', tags: ['역모', '옥사', '궁중비화'] },
+  { word: '투서', category: 'scandal', tags: ['투서', '벽서', '음모'] },
+  { word: '독약', category: 'scandal', tags: ['독약', '암살', '궁중비화'] },
   { word: '금주령', category: 'scandal', tags: ['금주령', '술', '풍속'] },
   { word: '궁녀', category: 'scandal', tags: ['궁녀', '궁중생활', '비화'] },
+  { word: '간통', category: 'scandal', tags: ['간통', '풍속', '형벌'] },
   { word: '뇌물', category: 'scandal', tags: ['뇌물', '탐관오리', '감찰'] },
   { word: '사치', category: 'scandal', tags: ['사치', '풍속단속', '양반'] },
-  { word: '내시', category: 'scandal', tags: ['내시', '환관', '궁중비화'] },
-  { word: '유배', category: 'scandal', tags: ['유배', '정쟁', '사화'] },
-  { word: '탄핵', category: 'scandal', tags: ['탄핵', '사헌부', '정쟁'] },
-  { word: '투서', category: 'scandal', tags: ['투서', '벽서', '음모'] },
-  { word: '무고', category: 'scandal', tags: ['무고', '옥사', '재판'] },
-  { word: '간통', category: 'scandal', tags: ['간통', '풍속', '형벌'] },
-  { word: '첩', category: 'scandal', tags: ['첩', '양반가', '궁중비화'] },
-  { word: '장녹수', category: 'scandal', tags: ['장녹수', '연산군', '비화'] },
-  { word: '김안로', category: 'scandal', tags: ['김안로', '권신', '정쟁'] },
+
+  // 야담·기인·백성 이야기
   { word: '암행어사', category: 'folklore', tags: ['암행어사', '민생', '탐관오리'] },
   { word: '도둑', category: 'folklore', tags: ['도둑', '치안', '야담'] },
+  { word: '임꺽정', category: 'folklore', tags: ['임꺽정', '의적', '명종'] },
   { word: '과거시험', category: 'folklore', tags: ['과거시험', '선비', '유생'] },
-  { word: '화포', category: 'folklore', tags: ['화포', '무기', '국방'] },
-  { word: '의병', category: 'folklore', tags: ['의병', '전란', '구국'] },
-  { word: '선비', category: 'folklore', tags: ['선비', '유학자', '야담'] },
-  { word: '승려', category: 'folklore', tags: ['승려', '사찰', '불교'] },
-  { word: '무당', category: 'folklore', tags: ['무당', '민간신앙', '기우제'] },
   { word: '포도청', category: 'folklore', tags: ['포도청', '치안', '수사'] },
-  { word: '보부상', category: 'folklore', tags: ['보부상', '상인', '장터'] },
   { word: '표류', category: 'folklore', tags: ['표류', '바다', '외국인'] },
-  { word: '왜구', category: 'folklore', tags: ['왜구', '해안방어', '수군'] },
-  { word: '거북선', category: 'folklore', tags: ['거북선', '수군', '해전'] },
-  { word: '활쏘기', category: 'folklore', tags: ['활쏘기', '무예', '과거'] },
   { word: '기생', category: 'folklore', tags: ['기생', '풍류', '야담'] },
+  { word: '무당', category: 'folklore', tags: ['무당', '민간신앙', '기우제'] },
+  { word: '보부상', category: 'folklore', tags: ['보부상', '상인', '장터'] },
+  { word: '화포', category: 'folklore', tags: ['화포', '무기', '국방'] },
+  { word: '거북선', category: 'folklore', tags: ['거북선', '수군', '해전'] },
+  { word: '의병', category: 'folklore', tags: ['의병', '전란', '구국'] },
+  { word: '이순신', category: 'folklore', tags: ['이순신', '임진왜란', '수군'] },
   { word: '효자', category: 'folklore', tags: ['효자', '미담', '포상'] },
-  { word: '기우제', category: 'episode', tags: ['기우제', '가뭄', '애민'] },
-  { word: '사냥', category: 'episode', tags: ['사냥', '강무', '왕의일상'] },
-  { word: '경연', category: 'episode', tags: ['경연', '학문', '토론'] },
+
+  // 왕의 일상·문화·과학·개혁
+  { word: '장영실', category: 'episode', tags: ['장영실', '세종', '과학'] },
   { word: '측우기', category: 'episode', tags: ['측우기', '과학', '기상'] },
   { word: '해시계', category: 'episode', tags: ['해시계', '천문', '과학'] },
-  { word: '백성', category: 'episode', tags: ['백성', '민생', '구휼'] },
-  { word: '귤', category: 'episode', tags: ['진상품', '제주귤', '궁중음식'] },
-  { word: '연회', category: 'episode', tags: ['연회', '궁중잔치', '풍악'] },
+  { word: '한글', category: 'episode', tags: ['한글', '언문', '세종'] },
+  { word: '정약용', category: 'episode', tags: ['정약용', '정조', '실학'] },
+  { word: '박지원', category: 'episode', tags: ['박지원', '실학', '정조'] },
+  { word: '김홍도', category: 'episode', tags: ['김홍도', '화원', '정조'] },
+  { word: '사냥', category: 'episode', tags: ['사냥', '강무', '왕의일상'] },
+  { word: '기우제', category: 'episode', tags: ['기우제', '가뭄', '애민'] },
   { word: '온천', category: 'episode', tags: ['온천', '행차', '요양'] },
-  { word: '인삼', category: 'episode', tags: ['인삼', '의약', '특산물'] },
-  { word: '금속활자', category: 'episode', tags: ['활자', '인쇄', '서적'] },
+  { word: '귤', category: 'episode', tags: ['진상품', '제주귤', '궁중음식'] },
   { word: '대동법', category: 'episode', tags: ['대동법', '세금개혁', '민생'] },
   { word: '균역법', category: 'episode', tags: ['균역법', '군역', '영조'] },
-  { word: '한글', category: 'episode', tags: ['한글', '언문', '세종'] },
+  { word: '탕평', category: 'episode', tags: ['탕평책', '영조', '정조'] },
   { word: '의원', category: 'episode', tags: ['의원', '내의원', '의술'] },
-  { word: '서원', category: 'episode', tags: ['서원', '유학', '교육'] },
-  { word: '거둥', category: 'episode', tags: ['거둥', '행차', '어가'] },
-  { word: '시전', category: 'episode', tags: ['시전', '상업', '한양'] },
-  { word: '노비', category: 'episode', tags: ['노비', '신분제', '사회'] }
+  { word: '허준', category: 'episode', tags: ['허준', '동의보감', '의술'] }
 ];
 
 function stripHtml(str) {
@@ -112,8 +145,41 @@ function stripHtml(str) {
     .trim();
 }
 
-async function fetchQuery(q) {
-  const params = new URLSearchParams({ topSearchWord: q.word, sillokType: 'S' });
+function scoreArticle(title, textRaw, year) {
+  // 건조한 행정·의례 기사 필터링
+  if (BORING_PATTERNS.some(p => p.test(title))) {
+    return -1;
+  }
+
+  let score = 78;
+  // 본문 구체성
+  if (textRaw.length >= 60) score += 4;
+  if (textRaw.length >= 110) score += 5;
+  if (textRaw.length >= 160) score += 3;
+
+  // 대화/인용 포함 여부
+  if (/[""'「」]|이르기를|말하기를|아뢰기를/.test(textRaw)) score += 6;
+
+  // 극적 사건 키워드
+  let dramaHits = 0;
+  for (const kw of DRAMATIC_KEYWORDS) {
+    if (title.includes(kw) || textRaw.includes(kw)) dramaHits++;
+  }
+  score += Math.min(12, dramaHits * 4);
+
+  // 후대 실록(1500년 이후) 균형 보너스
+  if (year >= 1500) score += 2;
+  if (year >= 1650) score += 2;
+
+  return Math.min(99, score);
+}
+
+async function fetchQueryPage(q, pageIndex) {
+  const params = new URLSearchParams({
+    topSearchWord: q.word,
+    sillokType: 'S',
+    pageIndex: String(pageIndex)
+  });
   const res = await fetch('https://sillok.history.go.kr/search/searchResultList.do', {
     method: 'POST',
     headers: { 'Content-Type': 'application/x-www-form-urlencoded' },
@@ -129,12 +195,10 @@ async function fetchQuery(q) {
     const subjectRaw = stripHtml(m[2]);
     const textRaw = stripHtml(m[3]);
 
-    // 예: "1. 태조실록 2권, 태조 1년 윤12월 20일 병신 1번째기사 / 성안에 들어온 호랑이를..."
     const kingPrefix = id.slice(0, 3);
     const kingMeta = KING_INFO[kingPrefix];
     if (!kingMeta) continue;
 
-    // 윤달 제외, 일반 월/일 파싱
     const metaMatch = subjectRaw.match(/^\d+\.\s*([^,]+),\s*([^\s]+)\s+(즉위년|\d+년)\s+(\d+)월\s+(\d+)일\s+[^/]+\/\s*(.+)$/);
     if (!metaMatch) continue;
 
@@ -146,10 +210,13 @@ async function fetchQuery(q) {
     const title = metaMatch[6].trim();
 
     if (month < 1 || month > 12 || day < 1 || day > 31) continue;
-    if (textRaw.length < 30 || title.length < 6) continue;
+    if (textRaw.length < 40 || title.length < 8) continue;
 
     const reignNum = reignYearStr === '즉위년' ? 0 : Math.max(0, parseInt(reignYearStr, 10) - 1);
     const year = kingMeta.baseYear + reignNum;
+
+    const interestScore = scoreArticle(title, textRaw, year);
+    if (interestScore < 82) continue; // 흥미도 미달(단순 보고 등) 제외
 
     items.push({
       id: `sillok-${id}`,
@@ -159,7 +226,7 @@ async function fetchQuery(q) {
       king: `${kingLabel} ${reignYearStr}`,
       lunarDate: `음력 ${month}월 ${day}일 (${sillokBook})`,
       category: q.category,
-      interestScore: 86 + (textRaw.length > 100 ? 4 : 0),
+      interestScore,
       title,
       subtitle: `${kingLabel} ${reignYearStr}에 기록된 실제 《조선왕조실록》 기사`,
       source: `《${sillokBook}》`,
@@ -167,8 +234,8 @@ async function fetchQuery(q) {
       tags: q.tags,
       summary: textRaw,
       officialRecord: textRaw,
-      yasaStory: `${year}년(${kingLabel} ${reignYearStr}) ${month}월 ${day}일 실록에 실제로 기록된 이야기입니다.\n\n당시 조정과 백성들 사이에서 일어난 이 사건은 《${sillokBook}》에 다음과 같이 생생히 남아 있습니다.\n\n"${textRaw}"\n\n(※ 원문 전체 및 한문 원전은 국사편찬위원회 조선왕조실록 링크에서 확인하실 수 있습니다.)`,
-      historianNote: `국사편찬위원회 조선왕조실록 아카이브 (기사 ID: ${id})`
+      yasaStory: `${year}년(${kingLabel} ${reignYearStr}) ${month}월 ${day}일 실록에 기록된 실제 사건입니다.\n\n"${textRaw}"\n\n(※ 원문 전체 및 한문 원전은 국사편찬위원회 조선왕조실록 링크에서 확인하실 수 있습니다.)`,
+      historianNote: `국사편찬위원회 조선왕조실록 정선 아카이브 (흥미도 ${interestScore}점 · ID: ${id})`
     });
   }
   return items;
@@ -176,34 +243,54 @@ async function fetchQuery(q) {
 
 async function main() {
   const seenIds = new Set();
-  const dateCounts = new Map();
-  const collected = [];
+  const byDate = new Map();
 
+  // 전 시대(초기·중기·후기) 분산을 위해 pageIndex 1, 3, 7 샘플링
+  const tasks = [];
   for (const q of SEARCH_QUERIES) {
-    try {
-      const items = await fetchQuery(q);
-      let added = 0;
+    tasks.push({ q, page: 1 });
+    tasks.push({ q, page: 3 });
+    tasks.push({ q, page: 7 });
+  }
+
+  // 8개씩 병렬 처리
+  for (let i = 0; i < tasks.length; i += 8) {
+    const batch = tasks.slice(i, i + 8);
+    const results = await Promise.all(
+      batch.map(({ q, page }) => fetchQueryPage(q, page).catch(() => []))
+    );
+    for (const items of results) {
       for (const item of items) {
         if (seenIds.has(item.id)) continue;
-        const key = `${String(item.month).padStart(2, '0')}-${String(item.day).padStart(2, '0')}`;
-        const curCount = dateCounts.get(key) || 0;
-        if (curCount >= 12) continue; // 날짜당 최대 12편까지 넉넉히 수집
-
         seenIds.add(item.id);
-        dateCounts.set(key, curCount + 1);
-        collected.push(item);
-        added++;
+        const key = `${String(item.month).padStart(2, '0')}-${String(item.day).padStart(2, '0')}`;
+        if (!byDate.has(key)) byDate.set(key, []);
+        byDate.get(key).push(item);
       }
-      console.log(`[${q.word}] fetched=${items.length}, added=${added}`);
-    } catch (e) {
-      console.error(`[${q.word}] error:`, e.message);
     }
   }
 
-  console.log(`Total collected: ${collected.length}, covered dates: ${dateCounts.size}`);
+  // 날짜별로 흥미도 점수 높은 순으로 정선 (최대 10편씩, 시대 분산)
+  const collected = [];
+  for (const [key, list] of byDate.entries()) {
+    list.sort((a, b) => b.interestScore - a.interestScore);
+    const picked = list.slice(0, 10);
+    collected.push(...picked);
+  }
+
+  // 시대별 분포 집계
+  const eraCount = { early: 0, mid: 0, late: 0 };
+  collected.forEach(s => {
+    if (s.year < 1500) eraCount.early++;
+    else if (s.year < 1650) eraCount.mid++;
+    else eraCount.late++;
+  });
+
+  console.log(`Total candidates: ${seenIds.size}, Curated selected: ${collected.length}, Dates: ${byDate.size}`);
+  console.log('Era distribution:', eraCount);
 
   const outPath = path.join(__dirname, '..', 'stories_sillok.js');
-  const fileContent = `// 국사편찬위원회 조선왕조실록(sillok.history.go.kr) 기반 날짜별 실록 기사 아카이브
+  const fileContent = `// 국사편찬위원회 조선왕조실록(sillok.history.go.kr) 기반 흥미도 정선 & 전 시대 아카이브
 // 자동 생성: ${new Date().toISOString().slice(0, 10)} (총 ${collected.length}편)
 
 const SILLOK_STORIES = ${JSON.stringify(collected, null, 2)};

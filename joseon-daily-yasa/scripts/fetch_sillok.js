@@ -31,32 +31,73 @@ const KING_INFO = {
   kza: { name: '고종', baseYear: 1864 }
 };
 
-// 흥미로운 야사/사건 중심 검색 키워드 및 카테고리 매핑
+// 흥미로운 야사/사건 중심 검색 키워드 및 카테고리 매핑 (대폭 확충)
 const SEARCH_QUERIES = [
   { word: '호랑이', category: 'mystery', tags: ['호랑이', '야생동물', '한양야사'] },
+  { word: '표범', category: 'mystery', tags: ['표범', '야생동물', '한양야사'] },
   { word: '혜성', category: 'mystery', tags: ['혜성', '천변', '관상감'] },
   { word: '우박', category: 'mystery', tags: ['우박', '이상기후', '천변'] },
   { word: '유성', category: 'mystery', tags: ['유성', '별똥별', '천문'] },
   { word: '지진', category: 'mystery', tags: ['지진', '천변', '재이'] },
   { word: '일식', category: 'mystery', tags: ['일식', '천문', '관상감'] },
+  { word: '월식', category: 'mystery', tags: ['월식', '천문', '관상감'] },
   { word: '도깨비', category: 'mystery', tags: ['도깨비', '괴담', '민간전승'] },
+  { word: '무지개', category: 'mystery', tags: ['무지개', '천변', '기상'] },
+  { word: '서리', category: 'mystery', tags: ['서리', '이상기후', '농사'] },
+  { word: '벼락', category: 'mystery', tags: ['벼락', '천변', '기이한일'] },
+  { word: '화재', category: 'mystery', tags: ['화재', '한양도성', '금화'] },
+  { word: '역병', category: 'mystery', tags: ['역병', '의술', '민생'] },
+  { word: '메뚜기', category: 'mystery', tags: ['메뚜기', '황충', '기근'] },
+  { word: '괴이', category: 'mystery', tags: ['괴이', '미스터리', '기문'] },
   { word: '역모', category: 'scandal', tags: ['역모', '옥사', '궁중비화'] },
   { word: '금주령', category: 'scandal', tags: ['금주령', '술', '풍속'] },
   { word: '궁녀', category: 'scandal', tags: ['궁녀', '궁중생활', '비화'] },
   { word: '뇌물', category: 'scandal', tags: ['뇌물', '탐관오리', '감찰'] },
   { word: '사치', category: 'scandal', tags: ['사치', '풍속단속', '양반'] },
+  { word: '내시', category: 'scandal', tags: ['내시', '환관', '궁중비화'] },
+  { word: '유배', category: 'scandal', tags: ['유배', '정쟁', '사화'] },
+  { word: '탄핵', category: 'scandal', tags: ['탄핵', '사헌부', '정쟁'] },
+  { word: '투서', category: 'scandal', tags: ['투서', '벽서', '음모'] },
+  { word: '무고', category: 'scandal', tags: ['무고', '옥사', '재판'] },
+  { word: '간통', category: 'scandal', tags: ['간통', '풍속', '형벌'] },
+  { word: '첩', category: 'scandal', tags: ['첩', '양반가', '궁중비화'] },
+  { word: '장녹수', category: 'scandal', tags: ['장녹수', '연산군', '비화'] },
+  { word: '김안로', category: 'scandal', tags: ['김안로', '권신', '정쟁'] },
   { word: '암행어사', category: 'folklore', tags: ['암행어사', '민생', '탐관오리'] },
   { word: '도둑', category: 'folklore', tags: ['도둑', '치안', '야담'] },
   { word: '과거시험', category: 'folklore', tags: ['과거시험', '선비', '유생'] },
   { word: '화포', category: 'folklore', tags: ['화포', '무기', '국방'] },
   { word: '의병', category: 'folklore', tags: ['의병', '전란', '구국'] },
+  { word: '선비', category: 'folklore', tags: ['선비', '유학자', '야담'] },
+  { word: '승려', category: 'folklore', tags: ['승려', '사찰', '불교'] },
+  { word: '무당', category: 'folklore', tags: ['무당', '민간신앙', '기우제'] },
+  { word: '포도청', category: 'folklore', tags: ['포도청', '치안', '수사'] },
+  { word: '보부상', category: 'folklore', tags: ['보부상', '상인', '장터'] },
+  { word: '표류', category: 'folklore', tags: ['표류', '바다', '외국인'] },
+  { word: '왜구', category: 'folklore', tags: ['왜구', '해안방어', '수군'] },
+  { word: '거북선', category: 'folklore', tags: ['거북선', '수군', '해전'] },
+  { word: '활쏘기', category: 'folklore', tags: ['활쏘기', '무예', '과거'] },
+  { word: '기생', category: 'folklore', tags: ['기생', '풍류', '야담'] },
+  { word: '효자', category: 'folklore', tags: ['효자', '미담', '포상'] },
   { word: '기우제', category: 'episode', tags: ['기우제', '가뭄', '애민'] },
   { word: '사냥', category: 'episode', tags: ['사냥', '강무', '왕의일상'] },
   { word: '경연', category: 'episode', tags: ['경연', '학문', '토론'] },
   { word: '측우기', category: 'episode', tags: ['측우기', '과학', '기상'] },
   { word: '해시계', category: 'episode', tags: ['해시계', '천문', '과학'] },
   { word: '백성', category: 'episode', tags: ['백성', '민생', '구휼'] },
-  { word: '귤', category: 'episode', tags: ['진상품', '제주귤', '궁중음식'] }
+  { word: '귤', category: 'episode', tags: ['진상품', '제주귤', '궁중음식'] },
+  { word: '연회', category: 'episode', tags: ['연회', '궁중잔치', '풍악'] },
+  { word: '온천', category: 'episode', tags: ['온천', '행차', '요양'] },
+  { word: '인삼', category: 'episode', tags: ['인삼', '의약', '특산물'] },
+  { word: '금속활자', category: 'episode', tags: ['활자', '인쇄', '서적'] },
+  { word: '대동법', category: 'episode', tags: ['대동법', '세금개혁', '민생'] },
+  { word: '균역법', category: 'episode', tags: ['균역법', '군역', '영조'] },
+  { word: '한글', category: 'episode', tags: ['한글', '언문', '세종'] },
+  { word: '의원', category: 'episode', tags: ['의원', '내의원', '의술'] },
+  { word: '서원', category: 'episode', tags: ['서원', '유학', '교육'] },
+  { word: '거둥', category: 'episode', tags: ['거둥', '행차', '어가'] },
+  { word: '시전', category: 'episode', tags: ['시전', '상업', '한양'] },
+  { word: '노비', category: 'episode', tags: ['노비', '신분제', '사회'] }
 ];
 
 function stripHtml(str) {
@@ -146,7 +187,7 @@ async function main() {
         if (seenIds.has(item.id)) continue;
         const key = `${String(item.month).padStart(2, '0')}-${String(item.day).padStart(2, '0')}`;
         const curCount = dateCounts.get(key) || 0;
-        if (curCount >= 4) continue; // 특정 날짜 쏠림 방지
+        if (curCount >= 12) continue; // 날짜당 최대 12편까지 넉넉히 수집
 
         seenIds.add(item.id);
         dateCounts.set(key, curCount + 1);

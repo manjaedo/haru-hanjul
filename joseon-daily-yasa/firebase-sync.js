@@ -63,14 +63,11 @@
   async function pushState(favoritesSet, memosObj) {
     if (!currentUser || isApplyingRemote) return;
     try {
-      await getDocRef(currentUser.uid).set(
-        {
-          favorites: [...favoritesSet],
-          memos: memosObj,
-          updatedAt: Date.now()
-        },
-        { merge: true }
-      );
+      await getDocRef(currentUser.uid).set({
+        favorites: [...favoritesSet],
+        memos: memosObj,
+        updatedAt: Date.now()
+      });
     } catch (e) {
       console.warn('Firestore 저장 실패:', e.message);
     }
@@ -124,10 +121,7 @@
       isApplyingRemote = false;
 
       // 병합된 결과를 클라우드에 반영
-      await docRef.set(
-        { favorites: merged.favorites, memos: merged.memos, updatedAt: Date.now() },
-        { merge: true }
-      );
+      await docRef.set({ favorites: merged.favorites, memos: merged.memos, updatedAt: Date.now() });
 
       if (typeof showToast === 'function') {
         showToast('☁️ 구글 계정과 즐겨찾기·메모가 동기화되었습니다.');
@@ -135,7 +129,7 @@
 
       // 실시간 동기화 리스너
       unsubscribeDoc = docRef.onSnapshot((docSnap) => {
-        if (!docSnap.exists) return;
+        if (!docSnap.exists || docSnap.metadata.hasPendingWrites) return;
         const data = docSnap.data();
         isApplyingRemote = true;
         if (typeof window.applyCloudState === 'function') {

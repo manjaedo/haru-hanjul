@@ -6,13 +6,19 @@
   <meta name="theme-color" content="#f8f5ee" />
   <title>오늘의 조선 야사</title>
   <link rel="icon" type="image/svg+xml" href="icon.svg" />
-  <link rel="stylesheet" href="styles.css?v=17" />
+  <link rel="stylesheet" href="styles.css?v=18" />
 </head>
 <body>
   <div class="page-wrap">
     <!-- 심플 헤더 -->
     <header class="top-bar">
-      <h1 class="site-title" id="btnHome">오늘의 조선 야사</h1>
+      <div class="brand-group">
+        <h1 class="site-title" id="btnHome">오늘의 조선 야사</h1>
+        <div class="era-switch" role="navigation" aria-label="시대 전환">
+          <a href="../goryeo-daily-yasa/" class="era-tab">고려</a>
+          <span class="era-tab active" aria-current="page">조선</span>
+        </div>
+      </div>
       <div class="top-actions">
         <button type="button" class="text-btn" id="btnAuth" title="구글 로그인으로 기기 간 즐겨찾기·메모 동기화">🔐 로그인</button>
         <button type="button" class="text-btn" id="btnSendTelegram" title="현재 날짜의 가장 흥미로운 야사를 텔레그램으로 받기">🔔<span class="hide-on-mobile"> 오늘 야사 알림받기</span></button>

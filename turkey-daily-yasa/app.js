@@ -1,25 +1,11 @@
 function formatYear(y) { return y < 0 ? '기원전 ' + Math.abs(y) + '년' : y + '년'; }
 // 오늘의 조선 야사 — 미니멀 리더 버전 (v6)
 
-// 모든 데이터 소스(WIKI_STORIES, TR_STORIES, EXTRA_TURKEY_STORIES)가 CURATED_STORIES에 누락 없이 병합되도록 보장
-function ensureAllStoriesMerged() {
-  if (typeof CURATED_STORIES === 'undefined') return;
-  const sources = [
-    typeof EXTRA_TURKEY_STORIES !== 'undefined' ? EXTRA_TURKEY_STORIES : [],
-    typeof WIKI_STORIES !== 'undefined' ? WIKI_STORIES : [],
-    typeof TR_STORIES !== 'undefined' ? TR_STORIES : []
-  ];
-  sources.forEach(arr => {
-    arr.forEach(story => {
-      const key = `${String(story.month).padStart(2, '0')}-${String(story.day).padStart(2, '0')}`;
-      if (!CURATED_STORIES[key]) CURATED_STORIES[key] = [];
-      if (!CURATED_STORIES[key].some(e => e.id === story.id)) {
-        CURATED_STORIES[key].push(story);
-      }
-    });
-  });
+// 이야기 한 편의 머리줄. 날짜가 전하지 않는 전승·풍속은 가짜 날짜 대신 그 사실을 그대로 밝힌다.
+function storyMetaLine(s, cat) {
+  if (s.undated) return `날짜가 전하지 않는 이야기 · ${formatYear(s.year)} 무렵 · ${s.king} · ${cat.shortLabel}`;
+  return `${formatYear(s.year)} · ${s.month}월 ${s.day}일 · ${s.king} · ${cat.shortLabel}`;
 }
-ensureAllStoriesMerged();
 
 const state = {
   currentDate: new Date(),
@@ -244,7 +230,7 @@ function render() {
 
   if (elQuickTitleList) {
     elQuickTitleList.style.display = 'block';
-    let listTitle = `📜 ${month}월 ${day}일 연도별 오스만·터키 사료 (${stories.length}편)`;
+    let listTitle = `📜 ${month}월 ${day}일의 오스만·터키 이야기 (${stories.length}편)`;
     if (state.viewMode === 'category') {
       const catObj = CATEGORIES[state.category];
       listTitle = catObj ? `📚 ${catObj.label} 전체 이야기 (${stories.length}편)` : `📚 전체 주제 이야기 모아보기 (${stories.length}편)`;
@@ -264,7 +250,7 @@ function render() {
             <li>
               <button type="button" class="quick-title-btn" data-target="story-card-${idx}">
                 <span class="quick-text">${s.title}</span>
-                <span class="quick-sub">${formatYear(s.year)} · ${s.king} · ${cat.shortLabel}</span>
+                <span class="quick-sub">${s.undated ? '전승·풍속' : formatYear(s.year)} · ${s.king} · ${cat.shortLabel}</span>
               </button>
             </li>
           `;
@@ -306,12 +292,12 @@ function render() {
     const isEditorOpen = state.openMemoIds.has(s.id);
     const showIllust = idx === 0;
     const illust = showIllust ? getSeasonalIllustration(s.month || month) : null;
-    const isLongStory = (s.yasaStory && (s.yasaStory.length > 200 || s.yasaStory.split('\n').filter(Boolean).length >= 3));
+    const isLongStory = (s.yasaStory && s.yasaStory.length > 420);
 
     return `
       <article class="story-item" id="story-card-${idx}" data-story-id="${escapeHtml(s.id)}">
         <div class="story-meta-row">
-          <div class="story-meta">${formatYear(s.year)} · ${s.month}월 ${s.day}일 · ${s.king} · ${cat.shortLabel}</div>
+          <div class="story-meta">${storyMetaLine(s, cat)}</div>
           <div class="story-actions">
             <button type="button" class="action-pill fav-btn ${isFav ? 'active' : ''}" data-action="toggle-fav" data-id="${escapeHtml(s.id)}" aria-label="즐겨찾기">
               ${isFav ? '★ 저장됨' : '☆ 즐겨찾기'}
@@ -337,12 +323,12 @@ function render() {
           ` : ''}
         </div>
         <div class="sillok-quote">
-          <strong>오스만 사료 (${s.source})</strong>
-          "${s.officialRecord}"
+          <strong>기록 한 줄 · ${s.source}</strong>
+          ${s.officialRecord}
           ${s.sillokUrl ? `
             <div class="sillok-link-wrap">
               <a href="${escapeHtml(s.sillokUrl)}" target="_blank" rel="noopener noreferrer" class="sillok-link">
-                📖 ${s.sillokUrl.includes('/id/') ? '터키·오스만 역사 백과 보기' : '터키·오스만 역사 백과 보기'} ↗
+                📖 더 읽어보기 ↗
               </a>
             </div>
           ` : ''}

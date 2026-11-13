@@ -1,0 +1,34 @@
+name: Publish Turkey Daily Yasa
+
+on:
+  push:
+    paths:
+      - 'turkey-daily-yasa/**'
+      - '.github/workflows/publish-turkey.yml'
+    branches:
+      - main
+  workflow_dispatch:
+
+jobs:
+  build-and-deploy:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - name: Set up Node
+        uses: actions/setup-node@v4
+        with:
+          node-version: '20'
+      - name: Install dependencies (if any)
+        run: |
+          if [ -f package.json ]; then npm ci; fi
+      - name: Build (optional)
+        run: |
+          if [ -f package.json ] && grep -q "build" package.json; then npm run build; fi
+      - name: Deploy to GitHub Pages
+        uses: peaceiris/actions-gh-pages@v4
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          publish_dir: ./turkey-daily-yasa
+          # force orphan branch for clean gh‑pages
+          keep_files: false
+          enable_jekyll: false

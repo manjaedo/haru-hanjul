@@ -286,6 +286,7 @@ function render() {
     const isEditorOpen = state.openMemoIds.has(s.id);
     const showIllust = idx === 0;
     const illust = showIllust ? getSeasonalIllustration(s.month || month) : null;
+    const isLongStory = (s.yasaStory && (s.yasaStory.length > 200 || s.yasaStory.split('\n').filter(Boolean).length >= 3));
 
     return `
       <article class="story-item" id="story-card-${idx}" data-story-id="${escapeHtml(s.id)}">
@@ -307,7 +308,14 @@ function render() {
             <figcaption>${illust.caption}</figcaption>
           </figure>
         ` : ''}
-        <div class="story-body">${s.yasaStory}</div>
+        <div class="story-body-wrap">
+          <div class="story-body ${isLongStory ? 'is-collapsed' : ''}" id="story-body-${idx}">${s.yasaStory}</div>
+          ${isLongStory ? `
+            <button type="button" class="btn-toggle-expand" data-action="toggle-expand" data-target="story-body-${idx}" aria-expanded="false">
+              <span class="expand-label">펼쳐보기 ▾</span>
+            </button>
+          ` : ''}
+        </div>
         <div class="sillok-quote">
           <strong>오스만 사료 (${s.source})</strong>
           "${s.officialRecord}"
@@ -486,6 +494,31 @@ function bindEvents() {
     const btn = e.target.closest('[data-action]');
     if (!btn) return;
     const action = btn.dataset.action;
+
+    if (action === 'toggle-expand') {
+      const targetId = btn.dataset.target;
+      const targetEl = document.getElementById(targetId);
+      const isExpanded = btn.getAttribute('aria-expanded') === 'true';
+      if (targetEl) {
+        if (isExpanded) {
+          targetEl.classList.remove('is-expanded');
+          targetEl.classList.add('is-collapsed');
+          btn.setAttribute('aria-expanded', 'false');
+          btn.innerHTML = '<span class="expand-label">펼쳐보기 ▾</span>';
+          const card = btn.closest('.story-item');
+          if (card && card.getBoundingClientRect().top < 60) {
+            card.scrollIntoView({ behavior: 'smooth', block: 'start' });
+          }
+        } else {
+          targetEl.classList.remove('is-collapsed');
+          targetEl.classList.add('is-expanded');
+          btn.setAttribute('aria-expanded', 'true');
+          btn.innerHTML = '<span class="expand-label">간략히 ▴</span>';
+        }
+      }
+      return;
+    }
+
     const id = btn.dataset.id;
     if (!id) return;
 

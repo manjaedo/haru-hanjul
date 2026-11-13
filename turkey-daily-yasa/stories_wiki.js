@@ -422,6 +422,16 @@ const WIKI_STORIES = [
   }
 ];
 
+if (typeof CURATED_STORIES !== 'undefined') {
+  WIKI_STORIES.forEach(story => {
+    const key = `${String(story.month).padStart(2, '0')}-${String(story.day).padStart(2, '0')}`;
+    if (!CURATED_STORIES[key]) CURATED_STORIES[key] = [];
+    if (!CURATED_STORIES[key].some(e => e.id === story.id)) {
+      CURATED_STORIES[key].push(story);
+    }
+  });
+}
+
 if (typeof module !== 'undefined' && module.exports) {
   module.exports = { WIKI_STORIES };
 }

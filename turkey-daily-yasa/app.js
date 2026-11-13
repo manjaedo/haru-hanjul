@@ -1,6 +1,26 @@
 function formatYear(y) { return y < 0 ? '기원전 ' + Math.abs(y) + '년' : y + '년'; }
 // 오늘의 조선 야사 — 미니멀 리더 버전 (v6)
 
+// 모든 데이터 소스(WIKI_STORIES, TR_STORIES, EXTRA_TURKEY_STORIES)가 CURATED_STORIES에 누락 없이 병합되도록 보장
+function ensureAllStoriesMerged() {
+  if (typeof CURATED_STORIES === 'undefined') return;
+  const sources = [
+    typeof EXTRA_TURKEY_STORIES !== 'undefined' ? EXTRA_TURKEY_STORIES : [],
+    typeof WIKI_STORIES !== 'undefined' ? WIKI_STORIES : [],
+    typeof TR_STORIES !== 'undefined' ? TR_STORIES : []
+  ];
+  sources.forEach(arr => {
+    arr.forEach(story => {
+      const key = `${String(story.month).padStart(2, '0')}-${String(story.day).padStart(2, '0')}`;
+      if (!CURATED_STORIES[key]) CURATED_STORIES[key] = [];
+      if (!CURATED_STORIES[key].some(e => e.id === story.id)) {
+        CURATED_STORIES[key].push(story);
+      }
+    });
+  });
+}
+ensureAllStoriesMerged();
+
 const state = {
   currentDate: new Date(),
   viewMode: 'date',
@@ -410,9 +430,9 @@ function bindEvents() {
   document.getElementById('btnModeCategory')?.addEventListener('click', (e) => {
     e.preventDefault();
     state.viewMode = 'category';
-    if (state.category === 'all') {
-      state.category = 'mystery';
-      document.querySelectorAll('.cat-link').forEach(b => b.classList.toggle('active', b.dataset.cat === 'mystery'));
+    if (['legends', 'favorites', 'memos'].includes(state.category)) {
+      state.category = 'all';
+      document.querySelectorAll('.cat-link').forEach(b => b.classList.toggle('active', b.dataset.cat === 'all'));
     }
     render();
   });

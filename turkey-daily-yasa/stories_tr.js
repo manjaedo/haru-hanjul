@@ -7487,6 +7487,16 @@ const TR_STORIES = [
   }
 ];
 
+if (typeof CURATED_STORIES !== 'undefined') {
+  TR_STORIES.forEach(story => {
+    const key = `${String(story.month).padStart(2, '0')}-${String(story.day).padStart(2, '0')}`;
+    if (!CURATED_STORIES[key]) CURATED_STORIES[key] = [];
+    if (!CURATED_STORIES[key].some(e => e.id === story.id)) {
+      CURATED_STORIES[key].push(story);
+    }
+  });
+}
+
 if (typeof module !== 'undefined' && module.exports) {
   module.exports = { TR_STORIES };
 }

@@ -1,5 +1,5 @@
 // 07월 — 대영제국·브리타니아 연대기
-// 출처: 위키백과 영국사·왕실 사료 기반
+// 출처: 앵글로색슨 연대기 및 영국 왕조사 원문 사료 기반
 addStories([
   {
     d: '07-01', y: 1543, id: 'b-0701-treaty-of-greenwich', k: '튜더 왕조', c: 'scandal', s: 94,
@@ -57,59 +57,63 @@ addStories([
 어린 공작을 헌신적으로 보호하던 후견인들과 가정교사들이 잇달아 피살되는 극심한 위기 속에서 윌리엄은 스스로 강철 같은 의지와 군사적 기민함을 체득했습니다. 오직 살아남기 위해 칼을 쥐어야 했던 사생아 소년은 훗날 도버해협을 건너 잉글랜드를 송두리째 뒤바꿀 '정복왕'으로 무섭게 성장해 갔습니다.`
   },
   {
-    d: '07-03', y: 324, id: 'b-0703-battle-of-adrianople', k: '로마 제국', c: 'episode', s: 86,
-    t: '아드리아노폴리스 전투, 콘스탄티누스의 단독 지배를 향한 진격',
-    r: '324년 7월 3일 콘스탄티누스 대제가 아드리아노폴리스에서 동방 황제 리키니우스를 격파하고 제국의 단일 통일을 향한 결정타를 날렸습니다.',
-    src: '위키백과 · 아드리아노폴리스 전투 (324년)',
-    url: 'https://en.wikipedia.org/wiki/Battle_of_Adrianople_%28324%29',
-    img: 'https://upload.wikimedia.org/wikipedia/commons/b/b1/Constantine-cameo.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled',
-    b: `사두정치가 붕괴된 로마 세계는 서방의 콘스탄티누스와 동방의 리키니우스라는 두 거인의 최후 패권 결전으로 치달았습니다. 트라키아의 헤브루스 강가에 견고한 진을 친 리키니우스의 15만 대군은 콘스탄티누스의 거침없는 진군을 막아서며 제국의 분열을 고착화하려 했습니다.
+    d: '07-03', y: 1940, id: 'b-0703-operation-catapult-mers-el-kebir-churchill', k: '윈스턴 처칠과 현대 브리튼', c: 'episode', s: 95,
+    t: '동맹을 격침하라, 처칠의 고뇌와 메르스엘케비르 공습',
+    r: '프랑스가 나치에 항복하자 지중해의 프랑스 함대가 히틀러 손에 넘어가는 것을 막기 위해, 처칠은 어제의 동맹 함대를 포격 격침하는 \'캐터펄트 작전\'을 감행했다.',
+    src: '위키백과 · 메르스엘케비르 해전',
+    url: 'https://en.wikipedia.org/wiki/Attack_on_Mers-el-K%C3%A9bir',
+    img: 'https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/Attack_on_Mers-el-K%C3%A9bir.jpg/800px-Attack_on_Mers-el-K%C3%A9bir.jpg',
+    b: `1940년 7월 3일, 알제리 오랑 인근의 메르스엘케비르 군항에서 세계 해전사상 가장 비극적인 포격전이 벌어졌습니다. 제임스 서머빌 제독이 지휘하는 영국 해군 H전대가 나치 독일에 항복한 프랑스 해군의 주력 전함들을 향해 일제히 주포를 발사한 것입니다.
 
-콘스탄티누스는 치밀한 야간 양동작전으로 강을 건넌 뒤, 그리스도의 성스러운 모노그램이 새겨진 라바룸 깃발을 앞세워 적진을 맹렬히 돌파했습니다. 수만 명의 병력을 잃은 리키니우스는 비잔티움으로 패주했고, 이 찬란한 승리는 훗날 새 수도 콘스탄티노폴리스 건설과 단독 황제 지배의 확고한 초석이 되었습니다.`
+단독으로 히틀러에 맞서게 된 영국의 전시 총리 윈스턴 처칠은 프랑스의 막강한 전함들이 독일 손에 넘어갈 경우 왕국의 해상 생명선이 끊길 것을 두려워했습니다. 영국으로 망명하거나 자침하라는 최후통첩이 거부당하자 처칠은 피눈물을 머금고 격침 명령을 내렸습니다.
+
+불과 몇 주 전까지 전우였던 프랑스 수병 1,297명이 전사하고 브르타뉴호 등 거함들이 불길 속으로 침몰했습니다. 이 참혹한 결단은 전 세계에 어떤 대가를 치르더라도 나치에 굴복하지 않고 끝까지 싸우겠다는 대영제국의 무서운 결기를 각인시켰습니다.`
   },
   {
-    d: '07-04', y: 414, id: 'b-0704-aelia-pulcheria', k: '비잔티움 제국', c: 'episode', s: 85,
-    t: '동정 서약을 바치고 제국을 지킨 여걸 풀케리아',
-    r: '414년 7월 4일 열다섯 살의 동로마 황녀 아엘리아 풀케리아가 평생 동정을 서약하고 아우구스타 칭호를 받으며 남동생 테오도시우스 2세의 섭정을 맡았습니다.',
-    src: '위키백과 · 풀케리아',
-    url: 'https://en.wikipedia.org/wiki/Pulcheria',
-    img: 'https://upload.wikimedia.org/wikipedia/commons/c/cf/Pulcheria_coin.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled',
-    b: `열다섯 살의 어린 나이에 불과했던 풀케리아 황녀는 나약한 남동생 테오도시우스 2세를 대신해 거대한 비잔티움 제국의 혼란을 수습해야 하는 무거운 책무를 짊어졌습니다. 그녀는 권력욕에 눈먼 귀족들의 정략결혼 희생양이 되어 황권을 위협받지 않기 위해 스스로 하느님 앞에 평생 동정을 엄숙히 서약했습니다.
+    d: '07-04', y: 1189, id: 'b-0704-henry-ii-betrayal', k: '플랜태저넷 왕조', c: 'scandal', s: 95,
+    t: '발랑의 굴욕과 무너진 제왕, 헨리 2세의 비극적 최후',
+    r: '1189년 7월 4일 앙주 제국의 건설자 헨리 2세가 아들 리처드와 프랑스 국왕 필리프 2세에게 굴복하여 평화 협정을 맺고, 가장 아끼던 막내아들 존의 배신에 충격을 받아 쓰러졌습니다.',
+    src: '위키백과 · 헨리 2세',
+    url: 'https://en.wikipedia.org/wiki/Henry_II_of_England',
+    img: 'https://upload.wikimedia.org/wikipedia/commons/5/58/Henry_II_Illumination.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled',
+    b: `앙주 제국의 광대한 영토를 호령하던 잉글랜드 국왕 헨리 2세는 말년에 이르러 반역을 일으킨 친자식들과 참혹한 골육상쟁을 벌였습니다. 고열과 지병으로 신음하던 노왕은 투르 인근 발랑의 벌판에서 프랑스 국왕 필리프 2세와 장남 리처드 앞에 무릎을 꿇고 굴욕적인 항복 조약에 서명해야 했습니다.
 
-황궁을 수도원처럼 정결한 규율과 기도로 다스린 풀케리아는 깊은 신앙심과 탁월한 외교력으로 훈족의 침략 위협과 교회의 이단 논쟁에 단호히 맞섰습니다. 스스로 성모 마리아의 헌신을 본받고자 했던 이 강인한 황녀는 사후 성인으로 시성되며 비잔티움 제국의 안녕을 굳건히 지켜낸 위대한 여걸로 남았습니다.`
+패배의 치욕을 삼키며 돌아선 헨리는 자신에게 반기를 든 반역자들의 명단을 건네받았습니다. 그러나 명단의 맨 꼭대기에 자신이 목숨처럼 아끼고 총애하던 막내아들 존의 이름이 적힌 것을 본 순간, 노왕은 피를 토하듯 절규하며 삶의 의지를 완전히 놓아버렸습니다. 왕은 이틀 뒤 쓸쓸한 시농 성에서 분노와 비탄 속에 파란만장한 생을 마감했습니다.`
   },
   {
-    d: '07-04', y: 638, id: 'b-0704-heraclonas-caesars', k: '비잔티움 제국', c: 'scandal', s: 84,
-    t: '헤라클로나스의 부제 서임, 황실을 뒤흔든 궁중 암투',
-    r: '638년 7월 4일 헤라클리우스 황제가 후처 마르티나의 소생인 헤라클로나스를 공동 황제로 세우며 후계 갈등의 불씨를 지폈습니다.',
-    src: '위키백과 · 헤라클로나스',
-    url: 'https://en.wikipedia.org/wiki/Heraclonas',
-    img: 'https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6c/Solidus_Heraclius_sb_767_%28obverse%29.png/960px-Solidus_Heraclius_sb_767_%28obverse%29.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail',
-    b: `페르시아를 격퇴했으나 발흥하는 이슬람의 맹렬한 팽창 앞에 고뇌하던 헤라클리우스 대제는 만년에 심각한 궁중 암투에 휘말렸습니다. 그의 조카이자 두 번째 황후였던 마르티나는 전처 소생의 병약한 장남 콘스탄티누스를 배제하고 자신의 친아들 헤라클로나스를 후계자로 세우고자 집요하게 공작을 펼쳤습니다.
+    d: '07-04', y: 1653, id: 'b-0704-barebones-parliament', k: '잉글랜드 공화국', c: 'episode', s: 89,
+    t: '바본 의회의 소집, 크롬웰과 신의 왕국을 꿈꾼 성도들',
+    r: '1653년 7월 4일 올리버 크롬웰이 잔여 의회를 해산한 뒤 140인의 청교도 종교 엘리트로 구성된 \'바본 의회\'(지명 의회)를 소집하여 지상 천국 건설을 선언했습니다.',
+    src: '위키백과 · 바본 의회',
+    url: 'https://en.wikipedia.org/wiki/Barebone%27s_Parliament',
+    img: 'https://thumb.wikimedia.org/wikipedia/commons/thumb/2/24/Oliver_Cromwell_by_Samuel_Cooper.jpg/960px-Oliver_Cromwell_by_Samuel_Cooper.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail',
+    b: `국왕 찰스 1세를 처형한 뒤 부패한 의회에 환멸을 느낀 올리버 크롬웰은 잉글랜드를 신앙의 이상 국가로 탈바꿈시키고자 파격적인 결단을 내렸습니다. 독립파 교회의 추천을 받아 엄선된 140인의 경건한 청교도 인사들을 화이트홀 궁전으로 불러 모아 사상 초유의 '성자들의 의회'를 개원한 것입니다.
 
-결국 열두 살의 헤라클로나스가 부제(카이사르)에 오르며 권력의 추가 기울었으나, 근친혼에 대한 백성들의 깊은 반감과 황실 내부의 불신은 극에 달했습니다. 헤라클리우스 사후 벌어진 피비린내 나는 군사 쿠데타와 코가 잘려 추방당한 모자의 비참한 운명은 이미 이 무리한 책봉에서 예견된 비극이었습니다.`
+이 의회는 런던의 열렬한 침례교 피혁 상인이자 의원이었던 '프레이즈갓 바본'의 이름을 따 훗날 '바본 의회'로 불리게 되었습니다. 의원들은 교회 십일조 폐지와 사법 제도 개혁 등 급진적인 천년왕국적 개혁안을 쏟아냈으나, 기득권층과의 극심한 마찰과 내부 분열 끝에 불과 5개월여 만에 스스로 해산을 결의하고 호국경 체제에 권력을 넘겨주고 말았습니다.`
   },
   {
-    d: '07-05', y: 1294, id: 'b-0705-pope-celestine-v', k: '교황청과 중세 유럽', c: 'mystery', s: 87,
-    t: '은둔자 교황 첼레스티노 5세, 2년의 공백을 깬 파격의 선출',
-    r: '1294년 7월 5일 추기경들의 오랜 정파 싸움 끝에 아브루초 산골의 은둔 수사 피에트로 델 모로네가 교황 첼레스티노 5세로 선출되었습니다.',
-    src: '위키백과 · 1292–1294년 교황 선거',
-    url: 'https://en.wikipedia.org/wiki/1292%E2%80%931294_papal_election',
-    img: 'https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6b/Celestine_V_Castel_Nuovo_Napoli_n02.jpg/960px-Celestine_V_Castel_Nuovo_Napoli_n02.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail',
-    b: `니콜라오 4세 교황의 서거 이후 로마 명문가 귀족들의 치열한 당파 싸움으로 인해 교황좌는 무려 2년 넘게 주인을 찾지 못한 채 방치되었습니다. 제국과 왕국들의 불안이 극에 달했을 때, 아브루초 산골짜기 동굴에서 고행하던 늙은 은둔 수사 피에트로가 보낸 '신의 진노가 임할 것'이라는 경고 서한이 추기경단을 뒤흔들었습니다.
+    d: '07-05', y: 1643, id: 'b-0705-battle-of-lansdowne', k: '스튜어트 왕조', c: 'episode', s: 91,
+    t: '랜스다운 언덕의 혈전, 내전의 비극 속에서 마주친 두 벗',
+    r: '1643년 7월 5일 잉글랜드 내전 최대 격전 중 하나인 랜스다운 전투에서 왕당파 랄프 홉튼과 의회파 윌리엄 월러가 오랜 사적 우정을 뒤로한 채 처절하게 충돌했습니다.',
+    src: '위키백과 · 랜스다운 전투',
+    url: 'https://en.wikipedia.org/wiki/Battle_of_Lansdowne',
+    img: 'https://thumb.wikimedia.org/wikipedia/commons/thumb/d/de/Ralph_Hopton%2C_1st_Baron_Hopton_of_Stratton_from_NPG.jpg/960px-Ralph_Hopton%2C_1st_Baron_Hopton_of_Stratton_from_NPG.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail',
+    b: `서머싯의 바스 북쪽 랜스다운 언덕에서 잉글랜드 내전의 가장 비극적이고 치열한 전투가 벌어졌습니다. 놀랍게도 왕당파를 이끄는 랄프 홉튼 경과 의회파 지휘관 윌리엄 월러 경은 과거 대륙에서 함께 피를 흘린 둘도 없는 전우이자 생사의 벗이었습니다.
 
-벼락같은 영감에 사로잡힌 추기경들은 속세의 권력에 물들지 않은 팔순의 은둔자를 만장일치로 교황 첼레스티노 5세에 옹립했습니다. 그러나 산속에서 기도만 드리던 순박한 영혼에게 로마 교황청의 음흉한 정치 싸움은 감당할 수 없는 십자가였고, 결국 그는 역사상 보기 드문 자진 사임의 길을 택했습니다.`
+월러는 전투 직전 "나의 사랑하는 친구여, 이 내전은 증오 없는 전쟁이오"라는 편지를 보냈으나, 전장의 총칼은 무자비했습니다. 가파른 언덕 위 참호와 포대를 향해 콘월 보병대가 돌격을 감행하여 간신히 고지를 탈환했지만, 승리 직후 왕당파의 탄약 마차가 폭발하며 홉튼 경이 중상을 입고 눈이 머는 비극이 잇따랐습니다. 벗들의 비애 속에 잉글랜드는 피로 물들어 갔습니다.`
   },
   {
-    d: '07-05', y: 1413, id: 'b-0705-battle-of-camurlu', k: '오스만 제국', c: 'episode', s: 86,
-    t: '차무를루 전투, 11년 공위시대를 끝내고 제국을 부활시킨 메흐메트 1세',
-    r: '1413년 7월 5일 오스만 왕자 메흐메트 첼레비가 차무를루 전투에서 형제 무사를 꺾고 내전을 종식하며 술탄 메흐메트 1세로 등극했습니다.',
-    src: '위키백과 · 메흐메트 1세',
-    url: 'https://en.wikipedia.org/wiki/Mehmed_I',
-    img: 'https://thumb.wikimedia.org/wikipedia/commons/thumb/7/77/Mehmet_I_honoraries_miniature.jpg/960px-Mehmet_I_honoraries_miniature.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail',
-    b: `앙카라 전투에서 바예지트 1세가 티무르에게 포로로 붙잡히며 사분오열되었던 오스만 제국은 네 형제의 피비린내 나는 골육상쟁으로 신음하고 있었습니다. 11년간 이어진 참혹한 대공위시대의 마지막 명운을 가를 최후 결전이 오늘날 불가리아 소피아 인근 차무를루 평원에서 벌어졌습니다.
+    d: '07-05', y: 1687, id: 'b-0705-isaac-newton-principia-mathematica-published', k: '스튜어트 왕조', c: 'episode', s: 98,
+    t: '우주의 질서를 새로 쓴 날, 뉴턴의 프린키피아 출간',
+    r: '에드먼드 핼리의 사비 후원과 헌신으로, 인류 지성사의 일대 전환점이 된 아이작 뉴턴의 역작 \'자연철학의 수학적 원리(프린키피아)\'가 세상에 빛을 보았다.',
+    src: '위키백과 · 자연철학의 수학적 원리',
+    url: 'https://en.wikipedia.org/wiki/Philosophi%C3%A6_Naturalis_Principia_Mathematica',
+    img: 'https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/Newtons_Principia_title_page.jpg/800px-Newtons_Principia_title_page.jpg',
+    b: `1687년 7월 5일, 런던 왕립학회의 인가를 받아 라틴어로 쓰인 세 권의 책 《자연철학의 수학적 원리》, 즉 인류 지성사를 뒤바꿀 불멸의 고전 '프린키피아(Principia)'가 마침내 출판되었습니다.
 
-지혜로운 메흐메트 첼레비는 세르비아 군주와 비잔티움 황제의 외교적 지지를 이끌어내며 폭압적인 형제 무사의 군대를 완전히 분쇄했습니다. 패주하다 진흙탕에서 붙잡혀 처형된 무사의 죽음과 함께 내전은 마침내 끝났고, 제국을 수렁에서 건져낸 메흐메트 1세는 오스만의 진정한 재건자로 등극했습니다.`
+케임브리지 대학의 은둔형 천재 아이작 뉴턴이 완성한 만유인력의 법칙과 운동 법칙은, 천체의 궤도부터 지상의 사과 낙하까지 우주 삼라만상을 단 하나의 보편 수학 원리로 명쾌하게 설명해 냈습니다. 중세적 신비주의와 미신에 갇혀 있던 서양 과학이 진정한 근대 물리학으로 도약한 순간이었습니다.
+
+이 위대한 역작의 탄생 뒤에는 천문학자 에드먼드 핼리의 헌신이 있었습니다. 왕립학회의 재정이 바닥나 출간이 무산될 위기에 처하자 핼리는 자신의 사비를 털어 인쇄 비용을 전액 감당했습니다. 한 과학자의 집념과 동료의 신뢰가 인류에게 우주의 비밀을 여는 열쇠를 쥐여주었습니다.`
   },
   {
     d: '07-06', y: 1557, id: 'b-0706-philip-ii-departure', k: '튜더 왕조', c: 'scandal', s: 93,
@@ -210,15 +214,15 @@ addStories([
 그러나 페어팩스의 정확한 포병 화력과 크롬웰 기병대의 맹렬한 개울 돌파는 왕당파의 견고한 방어선을 단숨에 유린했습니다. 고링의 군대는 궤멸되었고 수천 명이 포로로 잡히며 왕당파는 잉글랜드 평원에 야전군을 내보낼 능력을 완전히 상실했습니다. 왕권의 몰락을 확정 지은 결정적 승리였습니다.`
   },
   {
-    d: '07-10', y: 518, id: 'b-0710-emperor-justin-i', k: '비잔티움 제국', c: 'episode', s: 86,
-    t: '양치기 소년에서 황제로, 유스티누스 1세의 기적 같은 등극',
-    r: '518년 7월 10일 아나스타시우스 1세 황제가 후계 없이 서거하자 근위대장이던 일리리아 농부 출신 유스티누스 1세가 황제에 추대되었습니다.',
-    src: '위키백과 · 유스티누스 1세',
-    url: 'https://en.wikipedia.org/wiki/Justin_I',
-    img: 'https://thumb.wikimedia.org/wikipedia/commons/thumb/2/20/Solidus_of_Justin_I_%28obverse%29.jpg/960px-Solidus_of_Justin_I_%28obverse%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail',
-    b: `문맹의 일리리아 농민 출신으로 가난을 피해 콘스탄티노폴리스로 건너와 말단 병사로 시작했던 유스티누스는 충직함과 용맹으로 황실 근위대장에 올랐습니다. 아나스타시우스 황제가 급서하자 궁정 관료들은 자신들의 꼭두각시로 삼기 위해 돈을 건네며 그를 매수하려 했습니다.
+    d: '07-10', y: 1553, id: 'b-0710-jane-grey-proclaimed', k: '튜더 왕조', c: 'scandal', s: 96,
+    t: '런던탑의 비운의 왕관, \'9일의 여왕\' 제인 그레이의 등극',
+    r: '1553년 7월 10일 열다섯 살의 소년왕 에드워드 6세가 서거하자, 노섬벌랜드 공작의 권력욕 속에 열여섯 살의 학구적인 소녀 레이디 제인 그레이가 잉글랜드의 여왕으로 선포되었습니다.',
+    src: '위키백과 · 제인 그레이',
+    url: 'https://en.wikipedia.org/wiki/Lady_Jane_Grey',
+    img: 'https://thumb.wikimedia.org/wikipedia/commons/thumb/8/87/Streathamladyjayne.jpg/960px-Streathamladyjayne.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail',
+    b: `에드워드 6세가 열다섯의 나이에 결핵으로 숨을 거두자, 섭정 노섬벌랜드 공작 존 더들리는 권력을 지키기 위해 가톨릭 신자인 메리 공주를 배제하는 극단적인 왕위 찬탈을 감행했습니다. 자신의 며느리이자 헨리 7세의 증손녀인 열여섯 살의 총명한 소녀 레이디 제인 그레이가 강제로 왕위에 올려졌습니다.
 
-그러나 노련한 노장은 귀족들의 뇌물을 이용해 원로원과 군대의 마음을 사로잡고 자신이 직접 황금빛 황제관을 머리에 썼습니다. 비록 글을 몰라 나무판을 대고 서명했으나, 그는 조카 유스티니아누스를 양자로 삼아 로마 법전과 비잔티움의 황금시대를 열어갈 위대한 길을 닦았습니다.`
+7월 10일 오후, 런던탑에 도착한 제인은 자신이 여왕이라는 소식을 듣고 바닥에 주저앉아 눈물을 쏟으며 왕관을 완강히 거부했습니다. 그러나 강요 끝에 대관 준비에 들어간 그녀를 향해 런던 시민들은 싸늘한 침묵을 지켰습니다. 정통 후계자 메리가 민중의 압도적 지지를 등에 업고 진군해 오면서, 제인의 치세는 불과 아흐레 만에 형장의 이슬로 사라질 참혹한 운명을 맞이하고 있었습니다.`
   },
   {
     d: '07-11', y: 1848, id: 'b-0711-waterloo-station-opens', k: '빅토리아 시대', c: 'episode', s: 90,
@@ -232,15 +236,15 @@ addStories([
 개통 첫날 여섯 개 승강장의 소박한 목조 역사로 출발했으나, 역은 하루가 다르게 밀려드는 통근 열차로 붐비며 세계에서 가장 분주한 교통의 중심지로 확장되었습니다. 자욱한 석탄 연기와 기적 소리는 산업혁명의 정점에 선 빅토리아 제국의 거침없는 번영과 역동성을 상징하는 일상의 풍경이 되었습니다.`
   },
   {
-    d: '07-11', y: 1276, id: 'b-0711-pope-adrian-v', k: '교황청과 중세 유럽', c: 'mystery', s: 85,
-    t: '한 달 만에 저문 교황좌, 하드리아노 5세의 덧없는 영광',
-    r: '1276년 7월 11일 인노첸시오 5세의 급서 후 앙주 샤를의 삼엄한 압박 속에서 피에스키 가문의 추기경이 하드리아노 5세 교황으로 선출되었습니다.',
-    src: '위키백과 · 1276년 7월 콘클라베',
-    url: 'https://en.wikipedia.org/wiki/July_1276_conclave',
-    img: 'https://upload.wikimedia.org/wikipedia/commons/5/55/A20_ADRIANO_V.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled',
-    b: `1276년은 한 해 동안 네 명의 교황이 거쳐 간 교황청 역사상 가장 혼란스러운 해였습니다. 시칠리아 국왕 앙주 샤를은 콘클라베 장소인 라테라노 궁전의 식량 공급을 차단하며 추기경들을 혹독하게 몰아세워 친프랑스파 인물의 선출을 강요했습니다.
+    d: '07-11', y: 1708, id: 'b-0711-battle-of-oudenarde', k: '스튜어트 왕조', c: 'episode', s: 94,
+    t: '오우데나르데 전투, 말버러 공작이 펼친 기습의 예술',
+    r: '1708년 7월 11일 스페인 왕위 계승 전쟁의 향방을 가른 오우데나르데에서 말버러 공작과 사보이공 외젠이 이끄는 연합군이 강행군 끝에 프랑스 정예군을 기습 포위하여 대승을 거두었습니다.',
+    src: '위키백과 · 오우데나르데 전투',
+    url: 'https://en.wikipedia.org/wiki/Battle_of_Oudenarde',
+    img: 'https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d8/Copy_after_Jan_van_Huchtenburgh_%28Haarlem_1647-Amsterdam_1733%29_-_The_Battle_of_Oudenarde%2C_1708._-_RCIN_404900_-_Royal_Collection.jpg/960px-Copy_after_Jan_van_Huchtenburgh_%28Haarlem_1647-Amsterdam_1733%29_-_The_Battle_of_Oudenarde%2C_1708._-_RCIN_404900_-_Royal_Collection.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail',
+    b: `플랑드르의 셸더 강변 오우데나르데에서 프랑스 명장 방돔 공작과 부르고뉴 공작이 이끄는 8만 대군이 유리한 고지를 점하고 있었습니다. 그러나 영국 역사상 가장 탁월한 지략가로 꼽히는 제1대 말버러 공작 존 처칠은 예상을 깨고 연합군을 이끌고 하룻밤 새 80킬로미터가 넘는 살인적인 강행군을 감행했습니다.
 
-고난 끝에 선출된 하드리아노 5세는 오랜 외교관 경력으로 잉글랜드 남작 전쟁을 중재했던 유능한 인물이었으나 극도로 쇠약해져 있었습니다. 그는 사제 서품조차 받지 못한 채 여름 무더위를 피해 비테르보로 향했다가 즉위 38일 만에 숨을 거두며 덧없는 권력의 무상함을 보여주었습니다.`
+강을 건너 프랑스군 선봉을 불시에 타격한 말버러는 동맹군 사령관 사보이공 외젠과 완벽한 호흡을 맞추며 프랑스군 양 날개를 서서히 옥죄어 들어갔습니다. 해 질 녘에 이르러 전개된 대규모 포위 섬멸전에 프랑스군은 무려 1만 5천 명의 사상자를 내며 패주했고, 태양왕 루이 14세의 야욕은 벨기에 땅에서 산산이 부서졌습니다.`
   },
   {
     d: '07-12', y: 1543, id: 'b-0712-henry-viii-catherine-parr', k: '튜더 왕조', c: 'episode', s: 94,
@@ -331,15 +335,15 @@ addStories([
 농민군이 런던탑을 장악하고 신분제 철폐를 외쳤으나, 지도자 와트 타일러의 비열한 암살과 함께 반란은 피의 보복으로 진압되었습니다. 체포된 존 볼 사제는 어린 국왕 리처드 2세가 지켜보는 가운데 사지가 찢기는 능지처참을 당했습니다. 그러나 그가 뿌린 만인 평등의 외침은 잉글랜드 자유와 민주주의의 꺼지지 않는 새벽빛이었습니다.`
   },
   {
-    d: '07-16', y: 1054, id: 'b-0716-east-west-schism', k: '교황청과 중세 유럽', c: 'mystery', s: 96,
-    t: '하기아 소피아 제단 위의 파문장, 동서 교회의 비극적 분열',
-    r: '1054년 7월 16일 로마 교황의 특사 훔베르트 추기경이 콘스탄티노폴리스 총대주교를 파문하며 기독교 세계가 동방정교회와 가톨릭으로 갈라섰습니다.',
-    src: '위키백과 · 교황 특사',
-    url: 'https://en.wikipedia.org/wiki/Papal_legate',
-    img: 'https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e2/K._Henry_2._Kissing_the_knee_of_the_Popes_Legate_comming_into_England.gif/960px-K._Henry_2._Kissing_the_knee_of_the_Popes_Legate_comming_into_England.gif?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail',
-    b: `로마와 콘스탄티노폴리스 사이의 교리적 대립과 수위권 다툼이 극에 달했던 토요일 오후, 엄숙한 전례가 거행되던 하기아 소피아 대성당의 문이 거칠게 열렸습니다. 교황 레오 9세의 특사 훔베르트 추기경 일행이 제단 앞으로 성큼성큼 걸어 들어왔습니다.
+    d: '07-16', y: 1377, id: 'b-0716-richard-ii-coronation', k: '플랜태저넷 왕조', c: 'episode', s: 93,
+    t: '열 살 소년의 화려한 왕관, 리처드 2세의 웨스트민스터 대관식',
+    r: '1377년 7월 16일 노왕 에드워드 3세와 영웅 흑태자가 연이어 숨진 뒤, 열 살의 리처드 2세가 웨스트민스터 사원에서 플랜태저넷 왕조 역사상 가장 찬란한 대관식을 거행했습니다.',
+    src: '위키백과 · 리처드 2세',
+    url: 'https://en.wikipedia.org/wiki/Richard_II_of_England',
+    img: 'https://upload.wikimedia.org/wikipedia/commons/c/c5/The_Westminster_Portrait_of_Richard_II_of_England_%281390s%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled',
+    b: `백년전쟁의 위대한 군주 에드워드 3세와 영국의 자랑이었던 흑태자 에드워드가 잇달아 세상을 떠나자, 플랜태저넷 왕관의 무게는 열 살 난 어린 손자 리처드에게 내려앉았습니다. 1377년 7월 16일 웨스트민스터 사원은 붉은 융단과 금빛 휘장으로 호화롭게 물들었고, 소년 국왕은 귀족들의 호위 속에 성유를 발랐습니다.
 
-특사들은 총대주교 케룰라리오스를 파문한다는 서한을 제단 위에 내동댕이치고 성당을 박차고 나가며 먼지를 털어버렸습니다. 총대주교 역시 즉각 맞파문으로 응수했고, 이 순간 천 년간 이어져 온 단 하나의 보편 교회는 로마 가톨릭과 동방 정교회라는 돌아올 수 없는 두 갈래 길로 영원히 갈라섰습니다.`
+지나치게 길고 장엄한 의식에 탈진한 어린 왕은 식이 끝난 뒤 기사들의 어깨에 들려 침실로 옮겨져야 했습니다. 이 대관식에서는 국왕의 대리인 기사가 말을 타고 홀에 들어와 왕위 도전자에게 결투를 신청하는 '국왕의 챔피언' 전통이 처음으로 공식 기록되었습니다. 그러나 화려한 축복 속에 시작된 소년의 즉위는 훗날 폐위와 굶주림이라는 비극적 운명의 서막이었습니다.`
   },
   {
     d: '07-16', y: 1251, id: 'b-0716-carmelite-scapular', k: '가톨릭 수도회 전승', c: 'folklore', s: 85,
@@ -429,15 +433,15 @@ addStories([
 화려한 예식의 환호 속에서도 리처드의 가슴은 이미 무슬림에게 함락된 성지 예루살렘을 향해 뜨겁게 불타오르고 있었습니다. 잉글랜드 국왕이라는 칭호를 얻게 된 그는 궁정의 안락함보다는 십자군 원정에 필요한 막대한 군자금을 마련하기 위해 모든 정열을 쏟아부으며 전설적인 원정의 채비를 서둘렀습니다.`
   },
   {
-    d: '07-20', y: 514, id: 'b-0720-pope-hormisdas', k: '로마 교황청', c: 'episode', s: 84,
-    t: '아카키우스 분열을 봉합한 지혜, 교황 호르미스다의 즉위',
-    r: '514년 7월 20일 심마코 교황의 뒤를 이어 프로시노네 출신의 부제 호르미스다가 제52대 교황으로 성직에 올랐습니다.',
-    src: '위키백과 · 교황 호르미스다',
-    url: 'https://en.wikipedia.org/wiki/Pope_Hormisdas',
-    img: 'https://thumb.wikimedia.org/wikipedia/commons/thumb/3/32/Tafel_paepste.jpg/960px-Tafel_paepste.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail',
-    b: `심마코 교황 시절의 극심한 대립교황 분열로 로마 교회가 깊은 상처를 입은 시기에 교황좌에 오른 호르미스다는 온화함과 탁월한 외교력의 소유자였습니다. 그는 동방 콘스탄티노폴리스 교회와 서방 로마 교회가 35년간 단절되었던 '아카키우스 분열'을 종식시키고자 전력을 다했습니다.
+    d: '07-20', y: 1398, id: 'b-0720-battle-of-kellistown', k: '플랜태저넷 왕조', c: 'episode', s: 88,
+    t: '켈리스다운의 매복, 왕위 계승자 로저 모티머의 허망한 최후',
+    r: '1398년 7월 20일 아일랜드 섭정이자 리처드 2세의 유력한 후계자였던 제4대 마치 백작 로저 모티머가 켈리스다운에서 게일족 전사들의 기습에 쓰러져 왕국의 운명을 뒤흔들었습니다.',
+    src: '위키백과 · 로저 모티머',
+    url: 'https://en.wikipedia.org/wiki/Roger_Mortimer,_4th_Earl_of_March',
+    img: 'https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5b/Arms_of_the_House_of_Mortimer.svg/960px-Arms_of_the_House_of_Mortimer.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail',
+    b: `에드워드 3세의 차남 라이오넬의 외손자로서 적법한 잉글랜드 왕위 추정 상속인으로 인정받던 제4대 마치 백작 로저 모티머는 당대 최고의 귀족이자 촉망받는 무장이었습니다. 그는 반항적인 아일랜드 부족들을 평정하고자 직접 대군을 이끌고 칼로의 켈리스다운 벌판으로 진격했습니다.
 
-그가 작성한 정통 신앙고백서인 '호르미스다 신조'는 동로마 황제 유스티누스 1세와 동방 주교들의 서명을 이끌어내며 교회의 일치를 회복했습니다. 그의 현명한 통치 아래 로마 교황청은 다시금 유럽 기독교 세계의 도덕적 구심점으로 굳건히 자리매김했습니다.`
+그러나 숲과 늪지대를 이용한 아일랜드 게일족 전사들의 맹렬한 매복 기습 앞에 잉글랜드 기사단은 무력하게 무너졌습니다. 적진 한가운데서 분전하던 로저 모티머는 비참하게 전사했고, 시신마저 갈기갈기 찢겨 수습하기 어려울 지경이었습니다. 후계자의 충격적인 죽음에 격분한 리처드 2세가 아일랜드 원정을 단행하면서 런던을 비우자, 볼링브룩(헨리 4세)이 왕위를 찬탈하는 결정적 계기가 되었습니다.`
   },
   {
     d: '07-21', y: 1242, id: 'b-0721-battle-of-taillebourg', k: '카페 왕조', c: 'episode', s: 89,
@@ -484,15 +488,15 @@ addStories([
 웰링턴은 번개 같은 측면 기습과 파괴적인 기병 돌격을 명령했습니다. 불과 40분 만에 프랑스 방어선은 산산조각이 났고 1만 4천 명의 사상자를 내며 참패했습니다. 살라망카의 압도적인 승리는 마드리드 해방으로 이어지며 나폴레옹의 이베리아 반도 지배를 근본적으로 뒤흔들었습니다.`
   },
   {
-    d: '07-23', y: 685, id: 'b-0723-pope-john-v', k: '로마 교황청', c: 'episode', s: 83,
-    t: '동로마 황제의 굴레를 벗다, 교황 요한 5세의 즉위',
-    r: '685년 7월 23일 베네딕토 2세의 선종 후 시리아 출신의 학식 높은 사제 요한 5세가 황제의 인준 없이 로마 주교로 즉위했습니다.',
-    src: '위키백과 · 교황 요한 5세',
-    url: 'https://en.wikipedia.org/wiki/Pope_John_V',
-    img: 'https://upload.wikimedia.org/wikipedia/commons/7/7b/Rivista_italiana_di_numismatica_1891_p_189.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled',
-    b: `콘스탄티노폴리스 황제의 사전 승인을 받아야만 교황에 오를 수 있었던 비잔티움 교황권 시대에 중대한 변화의 바람이 불었습니다. 콘스탄티누스 4세 황제가 로마 시민과 성직자들이 선출한 교황을 즉시 축성할 수 있도록 특권을 부여했기 때문입니다.
+    d: '07-23', y: 1745, id: 'b-0723-bonnie-prince-charlie-lands', k: '하노버 왕조', c: 'episode', s: 97,
+    t: '에리스케이 섬의 낭만 왕자, \'보니 프린스 찰리\'의 무모한 상륙',
+    r: '1745년 7월 23일 스튜어트 왕조의 망명 후계자 찰스 에드워드 왕자가 조상의 왕좌를 되찾고자 단 7명의 결사대와 함께 스코틀랜드 서쪽 끝 에리스케이 섬에 상륙했습니다.',
+    src: '위키백과 · 찰스 에드워드 스튜어트',
+    url: 'https://en.wikipedia.org/wiki/Charles_Edward_Stuart',
+    img: 'https://thumb.wikimedia.org/wikipedia/commons/thumb/b/bd/Lost_Portrait_of_Charles_Edward_Stuart.jpg/960px-Lost_Portrait_of_Charles_Edward_Stuart.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail',
+    b: `프랑스의 대규모 군사 지원 약속이 무산되었음에도, '젊은 왕위 요구자' 찰스 에드워드 스튜어트는 단 한 척의 프리깃함에 몸을 싣고 영국 해군의 감시망을 뚫었습니다. 1745년 7월 23일, 비바람이 몰아치는 하이랜드의 척박한 외딴섬 에리스케이의 백사장에 발을 디딘 이는 스물네 살의 눈부신 미청년 왕자와 단 일곱 명의 충신뿐이었습니다.
 
-제6차 보편공의회에서 라틴 교회의 입장을 명쾌하게 대변했던 시리아 출신의 요한 5세는 이 특권에 따라 지체 없이 교황좌에 올랐습니다. 지병으로 1년 만에 선종했으나, 그는 가난한 이들에게 아낌없이 유산을 베풀며 교황 선출의 자주성을 회복하는 중요한 이정표를 세웠습니다.`
+처음 만난 하이랜드 부족장 맥도널드가 "집으로 돌아가라"고 간곡히 만류하자, 왕자는 "내가 바로 내 백성의 집에 돌아왔소!"라며 뜨거운 눈빛으로 응수했습니다. 그의 당당한 기개와 낭만적인 열정은 가난한 스코틀랜드 하이랜더들의 가슴에 거대한 불을 지폈고, 대영제국의 심장부 런던을 공포로 몰아넣을 전설적인 '45년 자코바이트 반란'의 거대한 막이 올랐습니다.`
   },
   {
     d: '07-23', y: 1813, id: 'b-0723-thomas-maitland-malta', k: '대영제국 식민사', c: 'episode', s: 86,
@@ -550,15 +554,15 @@ addStories([
 그러나 자유분방하고 지적인 남부 귀족 엘레오노르와 수도승처럼 엄격하고 금욕적인 북부의 루이는 결코 어울리지 않는 부부였습니다. 훗날 이 결혼이 무효화되고 그녀가 잉글랜드 헨리 2세와 재혼하면서, 광대한 아키텐 영지는 백년전쟁의 거대한 불씨로 넘어가게 됩니다.`
   },
   {
-    d: '07-26', y: 1309, id: 'b-0726-emperor-henry-vii', k: '신성 로마 제국', c: 'episode', s: 86,
-    t: '단테가 찬양한 황제, 하인리히 7세의 로마왕 공인',
-    r: '1309년 7월 26일 아비뇽의 교황 클레멘스 5세가 룩셈부르크 백작 하인리히 7세를 신성 로마 제국의 로마왕으로 공식 승인했습니다.',
-    src: '위키백과 · 하인리히 7세 (신성 로마 제국)',
-    url: 'https://en.wikipedia.org/wiki/Henry_VII%2C_Holy_Roman_Emperor',
-    img: 'https://thumb.wikimedia.org/wikipedia/commons/thumb/0/03/Tino_di_camaino%2C_elementi_dal_monumento_funebre_di_arrigo_VII%2C_1315%2C_09_l%27imperatore_in_trono_2.jpg/960px-Tino_di_camaino%2C_elementi_dal_monumento_funebre_di_arrigo_VII%2C_1315%2C_09_l%27imperatore_in_trono_2.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail',
-    b: `대공위시대 이후 오랜 분열과 내전에 허덕이던 독일 제후들은 세력이 약해 다루기 쉬울 것이라는 얄팍한 계산으로 룩셈부르크 백작 하인리히를 독일 왕으로 선출했습니다. 그러나 하인리히는 기사도 정신과 고대 로마 제국의 이상에 불타는 웅대한 군주였습니다.
+    d: '07-26', y: 1469, id: 'b-0726-battle-of-edgecote-moor', k: '장미 전쟁 · 플랜태저넷 왕조', c: 'episode', s: 92,
+    t: '킹메이커의 반역과 국왕 포로: 에지코트 무어 전투',
+    r: '1469년 7월 26일, 에드워드 4세에 반기를 든 워릭 백작 리처드 네빌의 반란군이 에지코트 무어에서 국왕군을 격파하고 국왕을 사로잡으며 장미 전쟁의 판도를 뒤흔들었다.',
+    src: '위키백과 · 에지코트 무어 전투',
+    url: 'https://en.wikipedia.org/wiki/Battle_of_Edgcote',
+    img: 'https://thumb.wikimedia.org/wikipedia/commons/thumb/9/92/Danesmoor_%28site_of_the_Battle_of_Edgcote%29_-_geograph.org.uk_-_815349.jpg/330px-Danesmoor_%28site_of_the_Battle_of_Edgcote%29_-_geograph.org.uk_-_815349.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail',
+    b: `에드워드 4세를 왕좌에 앉힌 일등공신이자 '킹메이커'로 불리던 워릭 백작 리처드 네빌은 국왕이 우드빌 가문과 결탁해 자신을 소외시키자 분노의 칼을 뽑아 들었다. 국왕의 동생 클래런스 공작을 포섭한 워릭은 북부의 농민 반란군을 배후에서 조종하며 국왕군을 에지코트 무어로 유인했다.
 
-아비뇽의 교황 클레멘스 5세로부터 정식 로마왕으로 공인받은 그는 알프스를 넘어 분열된 이탈리아를 하나의 평화로운 제국 아래 통합하겠다는 꿈을 품고 로마 원정에 나섰습니다. 시인 단테는 그를 '고통받는 이탈리아를 구원할 평화의 사자'로 찬양했으나, 토스카나의 지독한 말라리아와 도시들의 반발 속에 황제의 꿈은 비운으로 끝을 맺었습니다.`
+1469년 7월 26일, 펨브룩 백작 윌리엄 허버트가 이끄는 국왕 충성파 군대는 워릭의 반란군과 격돌했으나, 내부 분열과 지원 지연으로 처참하게 궤멸당했다. 전투 직후 에드워드 4세는 워릭의 군대에 생포되어 워릭 성에 유폐되는 수모를 겪었다. 신하가 국왕을 감금하고 권력을 농단한 이 전대미문의 사건은 장미 전쟁의 피바람을 한층 더 격화시켰다.`
   },
   {
     d: '07-26', y: 1579, id: 'b-0726-francis-drake-california', k: '튜더 왕조', c: 'episode', s: 94,
@@ -649,35 +653,36 @@ addStories([
 그러나 헛스턴 총독이 지휘하는 헤리퍼드의 왕당파 수비대는 식량 부족 속에서도 결사 항전하며 스코틀랜드군의 파상 공세를 끝내 버텨냈습니다. 국왕 구원군의 접근 소식에 스코틀랜드군이 포위를 풀고 퇴각하면서, 헤리퍼드는 내전의 황혼기 왕당파에게 귀중한 한 줄기 자존심을 안겨주었습니다.`
   },
   {
-    d: '07-30', y: 657, id: 'b-0730-pope-vitalian', k: '로마 교황청', c: 'episode', s: 84,
-    t: '단서주의의 파도 속에서, 교황 비탈리아노의 즉위와 잉글랜드 선교',
-    r: '657년 7월 30일 마르티노 1세의 순교 이후 교황청과 비잔티움 황실의 화해를 모색한 비탈리아노가 제76대 교황으로 선출되었습니다.',
-    src: '위키백과 · 교황 비탈리아노',
-    url: 'https://en.wikipedia.org/wiki/Pope_Vitalian',
-    img: 'https://upload.wikimedia.org/wikipedia/commons/5/53/Bulle_vitaliani_16976.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled',
-    b: `전임 교황들이 그리스도 단의설 논쟁으로 콘스탄스 2세 황제에게 체포되어 유배지에서 비참하게 목숨을 잃는 혹독한 시련을 겪은 뒤, 세그니 출신의 온화한 사제 비탈리아노가 교황좌에 올랐습니다. 그는 신학적 타협 없이도 황제와의 외교적 파국을 피하는 절묘한 유연성을 발휘했습니다.
+    d: '07-30', y: 1689, id: 'b-0730-relief-of-derry', k: '스튜어트 왕조', c: 'episode', s: 94,
+    t: '데리 공성전의 빗장을 부수다, 105일 만의 극적인 구원선',
+    r: '1689년 7월 30일 105일 동안 쥐와 가죽을 씹으며 버티던 아일랜드 런던데리의 개신교 수성군 앞에 상선 마운트조이 호가 강철 차단망을 뚫고 식량을 전하며 공성전을 끝냈습니다.',
+    src: '위키백과 · 데리 공성전',
+    url: 'https://en.wikipedia.org/wiki/Siege_of_Derry',
+    img: 'https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f6/The_Mountjoy_breaking_the_boom_at_Londonderry.jpg/800px-The_Mountjoy_breaking_the_boom_at_Londonderry.jpg',
+    b: `명예혁명으로 왕위에서 쫓겨난 제임스 2세의 가톨릭 군대가 아일랜드 북부의 개신교 요충지 런던데리를 철통같이 에워쌌습니다. 성안의 3만 주민과 병사들은 105일 동안 극심한 기근 속에서 말과 개, 쥐와 신발 가죽까지 끓여 먹으며 "절대 항복하지 않는다(No Surrender!)"는 불굴의 신념으로 버텼습니다.
 
-특히 그는 앵글로색슨 잉글랜드 교회 역사에 결정적인 발자취를 남겼습니다. 타르수스 출신의 학자 테오도로를 캔터베리 대주교로 파견하여 잉글랜드 교회의 조직과 전례를 로마식으로 확고히 통합함으로써 훗날 잉글랜드 교회의 눈부신 학문적 르네상스를 꽃피우게 했습니다.`
+7월 30일 황혼 무렵, 포일 강 어귀에 구원 선단이 나타났습니다. 상선 마운트조이 호는 적의 맹렬한 대포 사격을 온몸으로 받아내며 강을 가로막고 있던 거대한 목재 차단 빗장을 전속력으로 들이받아 마침내 박살 냈습니다. 밀가루와 고기가 성벽 안으로 쏟아져 들어오자 자코바이트군은 포위를 풀고 퇴각했고, 데리의 기적적인 구원은 북아일랜드 역사의 잊을 수 없는 전설로 새겨졌습니다.`
   },
   {
-    d: '07-31', y: 398, id: 'b-0731-gildonic-war', k: '로마 제국', c: 'episode', s: 86,
-    t: '길도의 난 진압, 로마의 곡창 아프리카를 지킨 마스케젤',
-    r: '398년 7월 31일 북아프리카를 장악하고 로마로의 곡물 수송을 차단했던 반역자 길도가 친동생 마스케젤의 토벌군에게 패하고 자결했습니다.',
-    src: '위키백과 · 길도 전쟁',
-    url: 'https://en.wikipedia.org/wiki/Gildonic_War',
-    img: 'https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d0/Diocese_of_Africa_-_AD_400.png/960px-Diocese_of_Africa_-_AD_400.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail',
-    b: `서로마 황제 호노리우스의 재상 스틸리코에게 북아프리카 군사령관 길도의 반란은 로마 시민들을 굶주림으로 몰아넣는 치명적인 위협이었습니다. 길도는 동로마에 충성을 맹세하며 이탈리아로 가는 곡물 선단을 전면 봉쇄했습니다.
+    d: '07-31', y: 1703, id: 'b-0731-daniel-defoe-pillory-hymn', k: '스튜어트 왕조 · 앤 여왕', c: 'scandal', s: 94,
+    t: '치욕의 칼에 바쳐진 꽃다발: 다니엘 디포와 칼형대의 찬가',
+    r: '1703년 7월 31일, 국교회를 풍자한 죄로 칼형대에 세워진 소설가 다니엘 디포에게 런던 시민들은 썩은 채소 대신 꽃다발을 던지고 술을 권하며 환호했다.',
+    src: '위키백과 · 비국교도를 처리하는 가장 쉬운 방법',
+    url: 'https://en.wikipedia.org/wiki/The_Shortest_Way_with_the_Dissenters',
+    img: 'https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a3/Daniel_Defoe_Kneller_Style.jpg/330px-Daniel_Defoe_Kneller_Style.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail',
+    b: `『로빈슨 크루소』의 작가 다니엘 디포는 종교적 불관용을 통렬히 꼬집기 위해 국교회 강경파의 광신을 극단적으로 과장한 익명 풍자 팜플렛 『비국교도를 처리하는 가장 쉬운 방법』을 발표했다. 그러나 풍자를 진담으로 오해한 당국은 뒤늦게 조롱당했음을 깨닫고 격노하여 그를 체포했고, 사흘간 런던 도심의 칼형대에 세우는 치욕적인 형벌을 내렸다.
 
-스틸리코는 길도에게 자식들을 살해당한 친동생 마스케젤에게 5천 명의 정예병을 주어 아프리카로 급파했습니다. 테베스테 전투에서 마스케젤의 군대는 압도적인 수적 열세를 딛고 반란군을 격파했고, 도주하던 길도는 수치심과 절망 속에 목을 매달았습니다. 로마의 빵과 생명선은 다시 회복되었습니다.`
+1703년 7월 31일, 템플 바의 형대에 디포가 묶이자 예상치 못한 광경이 펼쳐졌다. 성난 군중이 오물을 던지던 관례와 달리, 런던 시민들은 그가 옥중에서 쓴 「칼형대에 바치는 찬가」를 소리 높여 합창하며 형대 주위에 장미꽃을 뿌렸다. 그들은 디포의 건강을 축복하는 건배를 올렸고, 권력이 내린 치욕의 무대는 사상의 자유를 증명하는 영광의 축제로 뒤바뀌었다.`
   },
   {
-    d: '07-31', y: 432, id: 'b-0731-pope-sixtus-iii', k: '로마 교황청', c: 'episode', s: 85,
-    t: '성모 마리아를 기리며, 식스토 3세 교황과 로마의 황금 모자이크',
-    r: '432년 7월 31일 첼레스티노 1세의 뒤를 이어 로마 명문가 출신의 식스토 3세가 즉위하여 산타 마리아 마조레 대성당 건립을 주도했습니다.',
-    src: '위키백과 · 교황 식스토 3세',
-    url: 'https://en.wikipedia.org/wiki/Pope_Sixtus_III',
-    b: `에페소 공의회에서 네스토리우스파를 물리치고 성모 마리아를 '하느님의 어머니(테오토코스)'로 선포한 직후 교황좌에 오른 식스토 3세는 교회의 정통 신앙을 찬란한 예술로 형상화하고자 했습니다. 그는 에스퀼리노 언덕에 로마 최대의 성모 대성당을 축조했습니다.
+    d: '07-31', y: 1667, id: 'b-0731-treaty-of-breda', k: '스튜어트 왕조', c: 'episode', s: 95,
+    t: '브레다 조약 체결, 뉴암스테르담이 \'뉴욕\'으로 다시 태어나다',
+    r: '1667년 7월 31일 제2차 영국-네덜란드 전쟁을 종결짓는 브레다 조약이 체결되어, 영국은 북미 대서양의 핵심 요충지 뉴암스테르담을 넘겨받아 \'뉴욕\'으로 명명했습니다.',
+    src: '위키백과 · 브레다 조약 (1667년)',
+    url: 'https://en.wikipedia.org/wiki/Treaty_of_Breda_(1667)',
+    img: 'https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a9/Congress_of_Breda.jpg/960px-Congress_of_Breda.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail',
+    b: `네덜란드 함대가 템스강 메드웨이까지 거슬러 올라와 영국 기함 로열 찰스 호를 나포하는 치욕을 안겼음에도, 네덜란드의 요한 더빗은 향료 무역의 보고인 육두구 산지 룬 섬과 수리남의 지배권을 확고히 하는 실리를 택했습니다. 양국은 네덜란드 남부 브레다에서 종전 조약에 최종 서명했습니다.
 
-성당 내부를 수놓은 눈부신 황금빛 모자이크는 야만족의 침략으로 멍든 로마 시민들에게 천상의 위로와 영광을 선사했습니다. 식스토 3세는 또한 알렉산드리아의 키릴로스와 안티오키아 교회 간의 해묵은 신학적 갈등을 중재하며 혼란스러운 5세기 지중해 기독교 세계의 일치를 굳건히 수호했습니다.`
+이 협정으로 잉글랜드 국왕 찰스 2세는 향신료 섬 대신 허드슨강 하구의 작은 네덜란드 교역 거점 뉴암스테르담을 넘겨받았습니다. 찰스 2세는 이 땅을 자신의 동생 요크 공작(훗날 제임스 2세)에게 하사하며 '뉴욕'이라는 새로운 이름을 붙였습니다. 당시에는 불모의 식민지 교환으로 보였던 이 조약은 훗날 세계 경제의 심장부가 될 거대 도시의 탄생을 알린 결정적 순간이었습니다.`
   }
 ]);

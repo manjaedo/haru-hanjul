@@ -1,5 +1,5 @@
 // 01월 — 대영제국·브리타니아 연대기
-// 출처: 위키백과 영국사·왕실 사료 기반
+// 출처: 앵글로색슨 연대기 및 영국 왕조사 원문 사료 기반
 addStories([
   {
     d: '01-01', y: 1651, id: 'b-0101-charles-ii-scone-coronation', k: '스튜어트 왕조 · 찰스 2세', c: 'episode', s: 95,
@@ -24,15 +24,15 @@ addStories([
 불과 38세의 나이에 별을 단 비티는 넬슨 제독 이후 최연소 제독이라는 경이로운 기록을 세웠다. 특유의 비스듬히 눌러쓴 제모와 당당한 기개로 유명했던 그는 훗날 유틀란트 해전에서 순양전함 함대를 이끌며 제1차 세계 대전 영국 해군의 상징적 영웅으로 자리매김했다.`
   },
   {
-    d: '01-02', y: 1444, id: 'b-0102-battle-of-kunovica', k: '중세 유럽 · 십자군', c: 'episode', s: 86,
-    t: '쿠노비차 산맥의 설전, 오스만 대군을 꺾은 후냐디 야노시',
-    r: '1444년 1월 2일, 헝가리와 폴란드 연합 십자군이 세르비아 쿠노비차 고개에서 오스만 제국 군대를 기습하여 대승을 거두었다.',
-    src: '위키백과 · 쿠노비차 전투',
-    url: 'https://en.wikipedia.org/wiki/Battle_of_Kunovica',
-    img: 'https://thumb.wikimedia.org/wikipedia/commons/thumb/c/cc/Suva_Planina_pogled_iz_Luznice.jpg/960px-Suva_Planina_pogled_iz_Luznice.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail',
-    b: `발칸반도로 거침없이 팽창하던 오스만 제국의 기세에 맞서, 백색의 기사 후냐디 야노시가 이끄는 기독교 연합군이 겨울 산악전을 감행했다. 눈 덮인 쿠노비차 험로에서 오스만 군의 후위를 차단한 연합군은 지형지물을 활용한 기민한 매복 작전으로 적의 대열을 완전히 무너뜨렸다.
+    d: '01-02', y: 1757, id: 'b-0102-robert-clive-recaptures-calcutta', k: '하노버 왕조 · 대영제국', c: 'episode', s: 93,
+    t: '캘커타 탈환과 제국의 도약: 로버트 클라이브의 기동',
+    r: '1757년 1월 2일, 로버트 클라이브 중령과 찰스 왓슨 제독의 영국군이 벵골 태수에게 빼앗겼던 캘커타를 전격 탈환하며 인도 지배의 결정적 발판을 마련했다.',
+    src: '위키백과 · 캘커타 탈환 (1757년)',
+    url: 'https://en.wikipedia.org/wiki/Siege_of_Calcutta',
+    img: 'https://thumb.wikimedia.org/wikipedia/commons/thumb/6/60/Robert_Clive%2C_1st_Baron_Clive_by_Nathaniel_Dance%2C_%28later_Sir_Nathaniel_Dance-Holland%2C_Bt%29.jpg/960px-Robert_Clive%2C_1st_Baron_Clive_by_Nathaniel_Dance%2C_%28later_Sir_Nathaniel_Dance-Holland%2C_Bt%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail',
+    b: `벵골의 젊은 나와브 시라지 웃다울라에게 동인도 회사의 거점 포트 윌리엄을 빼앗기고 '블랙홀'의 참사를 겪은 지 반년, 영국군은 처절한 설욕을 다짐했다. 마드라스에서 급파된 로버트 클라이브 중령과 찰스 왓슨 제독의 전함들은 안개 낀 후글리강을 거슬러 올라가 요새를 향해 일제 포격을 퍼부었다.
 
-이 격전에서 오스만 총사령관 카심 파샤의 매제이자 유력 사령관 마흐무드 베이가 생포되며 술탄 무라트 2세의 궁정은 큰 충격에 휩싸였다. 비록 바르나 십자군의 비극으로 이어지기 전의 짧은 승리였으나, 서유럽 군주들에게 오스만을 격퇴할 수 있다는 희망을 안겨준 전설적인 승전보였다.`
+기습적인 맹포격에 공황에 빠진 벵골 수비군은 단 몇 시간 만에 성문을 버리고 패주했다. 1757년 1월 2일 정오, 캘커타 상공에 다시 유니언 잭이 휘날리며 동인도 회사의 교두보가 완벽히 재건되었다. 이 전격적인 탈환전은 몇 달 뒤 인도의 운명을 영구히 뒤바꿀 플라시 전투의 서막이자, 대영제국이 아대륙 전체로 뻗어나갈 위대한 분수령이었다.`
   },
   {
     d: '01-02', y: 1941, id: 'b-0102-cardiff-blitz-cathedral', k: '윈스턴 처칠과 양차 대전', c: 'episode', s: 91,
@@ -46,15 +46,15 @@ addStories([
 그러나 잿더미 속에서도 웨일스 민중의 결의는 꺾이지 않았다. 처칠 총리의 독려 속에 소방대원과 시민들은 방공호와 전선을 지키며 항만 기능을 수일 만에 복구해 냈다. 카디프 대공습의 비극은 자유를 향한 영국의 불굴의 저항 의지를 더욱 단단하게 벼려낸 시련이었다.`
   },
   {
-    d: '01-03', y: 1868, id: 'b-0103-meiji-restoration-declaration', k: '대영제국과 세계 · 근대사', c: 'episode', s: 90,
-    t: '막부의 종말과 왕정복고: 극동의 세력 균형을 바꾼 정변',
-    r: '1868년 1월 3일, 일본 교토 황궁에서 사쓰마와 조슈 세력이 쿠데타를 일으켜 도쿠가와 막부 폐지와 메이지 천황 친정을 선포했다.',
-    src: '위키백과 · 메이지 유신',
-    url: 'https://en.wikipedia.org/wiki/Meiji_Restoration',
-    img: 'https://thumb.wikimedia.org/wikipedia/commons/thumb/d/de/Emperor_Meiji_by_Takahashi_Yuichi.jpg/960px-Emperor_Meiji_by_Takahashi_Yuichi.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail',
-    b: `서세동점의 파도가 아시아를 뒤흔들던 19세기 중엽, 260여 년간 군림하던 에도 막부의 문이 닫혔다. 영국 외교관 어니스트 사토우 등 서구 열강의 은밀한 시선이 쏠린 가운데, 사쓰마와 조슈의 젊은 지사들은 황궁을 장악하고 도쿠가와 요시노부의 쇼군 직책을 공식 박탈했다.
+    d: '01-03', y: 1946, id: 'b-0103-william-joyce-lord-haw-haw-hanged', k: '윈스턴 처칠과 양차 대전', c: 'scandal', s: 92,
+    t: '조롱하던 나치의 목소리, 교수대에 서다: \'로드 호호\'의 최후',
+    r: '1946년 1월 3일, 제2차 세계 대전 당시 나치 독일의 대영 선전 라디오로 연합국을 조롱했던 악명 높은 선전원 \'로드 호호\' 윌리엄 조이스가 대역죄로 처형되었다.',
+    src: '위키백과 · 윌리엄 조이스',
+    url: 'https://en.wikipedia.org/wiki/William_Joyce',
+    img: 'https://upload.wikimedia.org/wikipedia/commons/5/5f/The_Capture_of_William_Joyce%2C_Germany%2C_1945_BU6910.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled',
+    b: `"독일이 부른다, 독일이 부른다(Germany calling)..." 음산하면서도 거만한 콧소리로 공습에 지친 런던 시민들의 라디오를 파고들었던 목소리가 있었다. 나치 선전기구의 핵심 확성기였던 '로드 호호', 윌리엄 조이스였다. 영국 국적 여권을 발급받아 활동했던 그는 나치의 패망과 함께 숲속에서 영국군 장교에게 허무하게 생포되었다.
 
-'왕정복고의 대호령'과 함께 막을 연 메이지 유신은 봉건 사회를 단숨에 근대 제국으로 탈바꿈시켰다. 이 정변은 훗날 영일동맹을 거쳐 극동의 지정학적 질서를 근본적으로 뒤흔들 거대한 역사의 지각변동을 알리는 서막이었다.`
+재판정에서 그는 미국 출신임을 내세워 영국 법정에 관할권이 없다고 항변했으나, 국왕의 여권을 소지하며 외교적 보호를 받았던 이상 충성의 의무가 존재한다는 판결이 내려졌다. 1946년 1월 3일 새벽, 런던 원즈워스 교도소의 교수대에서 그의 목숨은 끊어졌다. 조국과 민주주의를 배신하고 적의 선봉에 섰던 비열한 선전원의 최후였다.`
   },
   {
     d: '01-03', y: 1911, id: 'b-0103-siege-of-sidney-street-churchill', k: '윈스턴 처칠과 에드워드 시대', c: 'scandal', s: 94,
@@ -134,15 +134,15 @@ addStories([
 런던 민병대와 정규군이 긴급 투입되어 치열한 골목전 끝에 반란을 진압했다. 주동자 베너는 처형되었으나, 이 사건은 청교도 급진파에 대한 사회적 공포를 극대화하며 왕정복고 초기 엄격한 국교 통제법령들이 줄지어 제정되는 결정적 계기가 되었다.`
   },
   {
-    d: '01-07', y: 1078, id: 'b-0107-constantinople-revolt-nikephoros', k: '중세 비잔티움 · 황위 찬탈', c: 'scandal', s: 85,
-    t: '성난 민중의 린치와 노장의 즉위: 콘스탄티노폴리스의 폭풍',
-    r: '1078년 1월 7일, 콘스탄티노폴리스 시민들이 탐욕스러운 재상 니케포리체스를 처단하고 아나톨리아의 반란 장군 니케포로스 3세를 새 황제로 옹립했다.',
-    src: '위키백과 · 니케포로스 3세 보타네이아테스',
-    url: 'https://en.wikipedia.org/wiki/Constantinople',
-    img: 'https://thumb.wikimedia.org/wikipedia/commons/thumb/b/bb/Byzantine_Constantinople-en.png/960px-Byzantine_Constantinople-en.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail',
-    b: `만지케르트 패배 이후 제국이 분열하던 혼란기, 곡물 독점과 가혹한 세금으로 민중의 원한을 샀던 환관 재상 니케포리체스에게 분노가 폭발했다. 수도 시민들은 거리로 쏟아져 나와 황궁을 포위하고 악덕 관료를 사로잡아 무자비하게 린치했다.
+    d: '01-07', y: 1536, id: 'b-0107-catherine-of-aragon-death-kimbolton', k: '튜더 왕조 · 헨리 8세', c: 'scandal', s: 97,
+    t: '황금빛 비단과 버림받은 왕비의 임종: 아라곤의 캐서린의 서거',
+    r: '1536년 1월 7일, 헨리 8세에게 버림받고 킴볼턴 성에 유폐되었던 비운의 왕비 아라곤의 캐서린이 숨을 거두었고, 국왕 부부는 노란 옷을 입고 축제를 벌였다.',
+    src: '위키백과 · 아라곤의 캐서린',
+    url: 'https://en.wikipedia.org/wiki/Catherine_of_Aragon',
+    img: 'https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6b/Catherine_of_Aragon_%281485-1536%29.jpg/960px-Catherine_of_Aragon_%281485-1536%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail',
+    b: `스페인의 공주로 태어나 잉글랜드의 왕비가 되었으나, 후계자를 낳지 못했다는 이유로 버림받았던 아라곤의 캐서린이 1536년 1월 7일 차가운 킴볼턴 성에서 홀로 눈을 감았다. 임종의 순간까지도 자신은 잉글랜드의 진정한 왕비임을 선언하며, 국왕에게 "나의 눈은 여전히 당신만을 바랍니다"라는 애절한 마지막 편지를 남겼다.
 
-무능한 미카엘 7세는 수도원으로 쫓겨났고, 동방 군단을 이끌고 진격해 온 칠순의 노장 니케포로스 보타네이아테스가 자색 제의를 입었다. 그러나 늙은 찬탈자의 즉위는 왕조의 몰락을 가속화했을 뿐, 콤네노스 가문이 권력을 쥘 때까지 혼란은 가라앉지 않았다.`
+그러나 런던 그리니치 궁정의 반응은 잔혹하기 이를 데 없었다. 비보를 전해 들은 헨리 8세와 앤 불린은 환호성을 질렀고, 머리부터 발끝까지 화려한 노란색 비단옷을 차려입은 채 갓난 딸 엘리자베스를 안고 궁정 무도회를 열었다. 폐위된 왕비의 비극적 죽음 앞에서 벌어진 이 잔인한 축제는 튜더 왕조 궁정의 서늘한 비정함을 상징하는 스캔들로 남았다.`
   },
   {
     d: '01-07', y: 1558, id: 'b-0107-siege-of-calais-guise', k: '튜더 왕조 · 메리 1세', c: 'episode', s: 96,
@@ -189,15 +189,15 @@ addStories([
 군주가 아닌 신하로서는 유례없는 최고의 국가적 예우였다. 기함 빅토리호의 수병들이 관을 덮었던 성조기를 찢어 가슴에 품으며 눈물을 흘리는 광경은 전 국민의 가슴을 울렸다. 그는 영원히 잠들었지만 영국의 100년 제해권 신화는 바로 그 무덤 위에서 피어났다.`
   },
   {
-    d: '01-09', y: 400, id: 'b-0109-aelia-eudoxia-empress', k: '고대 후기 · 동로마 제국', c: 'scandal', s: 85,
-    t: '황금의 입 요한과 맞선 여걸: 아일리아 에우독시아의 대관',
-    r: '400년 1월 9일, 동로마 황제 아르카디우스의 황후 아일리아 에우독시아가 정식으로 아우구스타(황후) 칭호를 받고 대관식을 올렸다.',
-    src: '위키백과 · 아일리아 에우독시아',
-    url: 'https://en.wikipedia.org/wiki/Aelia_Eudoxia',
-    img: 'https://upload.wikimedia.org/wikipedia/commons/5/59/Aelia_Eudoxia_solidus_%28obverse%29.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled',
-    b: `프랑크족 장군의 딸로 태어나 빼어난 미모와 강인한 지성으로 유약한 황제 아르카디우스의 마음을 사로잡은 에우독시아는 권력의 정점에 올랐다. 자신을 꼭두각시로 조종하려던 환관 에우트로피우스를 실각시킨 그녀는 마침내 제국의 공동 통치자로서 면류관을 썼다.
+    d: '01-09', y: 1909, id: 'b-0109-ernest-shackleton-farthest-south', k: '에드워드 시대 · 극지 탐험사', c: 'episode', s: 96,
+    t: '남극점 앞 97해리의 회군: 어니스트 섀클턴의 위대한 결단',
+    r: '1909년 1월 9일, 어니스트 섀클턴의 님로드 원정대가 남위 88도 23분에 도달하여 유니언 잭을 게양했으나 대원들의 생존을 위해 극점을 불과 180km 앞두고 퇴각했다.',
+    src: '위키백과 · 님로드 원정',
+    url: 'https://en.wikipedia.org/wiki/Nimrod_Expedition',
+    img: 'https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a7/Nimrod_South_9_Jan_09.jpg/960px-Nimrod_South_9_Jan_09.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail',
+    b: `살을 에는 눈보라와 굶주림을 뚫고 미답의 빙원을 가로지른 영국 탐험가 어니스트 섀클턴과 세 명의 대원은 마침내 남위 88도 23분에 도달했다. 1909년 1월 9일, 얼어붙은 대지에 에드워드 7세 국왕의 깃발을 꽂았을 때 남극점까지 남은 거리는 불과 97해리(약 180km)였다. 인류 최초의 극점 정복이라는 불멸의 영광이 손만 뻗으면 닿을 듯했다.
 
-그러나 그녀의 사치와 권위주의는 당대 최고의 설교자 '금구(金口)' 요한 크리소스토모스 대주교와 정면충돌했다. 대주교를 유배 보내며 승리를 거두는 듯했으나, 그녀의 격정적인 치세는 동방 교회의 분열과 황실의 깊은 도덕적 상처를 남겼다.`
+하지만 남은 비상식량은 바닥을 드러내고 있었고, 더 전진한다면 기지로 살아 돌아갈 길은 없었다. 섀클턴은 한 치의 망설임 없이 회군을 명령했다. 훗날 아내에게 "죽은 사자보다 살아남은 당나귀가 낫지 않겠소"라고 담담히 털어놓았던 그의 결단은, 헛된 야망 대신 부하들의 목숨을 지켜낸 참된 지도력의 정수로 길이 남았다.`
   },
   {
     d: '01-10', y: 1700, id: 'b-0110-wang-mang-xin-dynasty', k: '고대 동양사 · 한나라와 신나라', c: 'scandal', s: 84,
@@ -222,15 +222,15 @@ addStories([
 기스카르는 모스크로 개조되었던 고대 성당에 들어가 엄숙한 감사의 기도를 올렸다. 이 정복은 노르만 족이 잉글랜드를 정복한 것과 궤를 같이하며, 훗날 동서 문명이 화려하게 융합된 찬란한 시칠리아 왕국을 건설하는 주춧돌이 되었다.`
   },
   {
-    d: '01-11', y: 1055, id: 'b-0111-theodora-byzantine-empress', k: '중세 비잔티움 · 마케도니아 왕조', c: 'episode', s: 87,
-    t: '수도원에서 보좌로 귀환한 여제: 테오도라의 단독 통치',
-    r: '1055년 1월 11일, 마케도니아 왕조의 마지막 적통인 칠순의 황녀 테오도라가 조카의 사후 비잔티움 제국의 단독 여제로 즉위했다.',
-    src: '위키백과 · 테오도라 (11세기)',
-    url: 'https://en.wikipedia.org/wiki/Theodora_Porphyrogenita',
-    img: 'https://thumb.wikimedia.org/wikipedia/commons/thumb/8/88/Golden_seal_of_Empress_Theodora.png/960px-Golden_seal_of_Empress_Theodora.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail',
-    b: `마케도니아 왕조의 위대한 정복 군주 바실리오스 2세의 조카딸 테오도라는 정적들의 음모로 오랫동안 수도원에 유폐되어 있었다. 그러나 황제 콘스탄티노스 9세가 서거하자 황실의 적통을 지키려는 원로원과 수도 군사들은 주저 없이 늙은 황녀를 황궁으로 모셔왔다.
+    d: '01-11', y: 1787, id: 'b-0111-william-herschel-discovers-titania-oberon', k: '조지 시대 · 과학 혁명', c: 'episode', s: 91,
+    t: '밤하늘에 수놓은 셰익스피어의 요정: 윌리엄 허셜의 위성 발견',
+    r: '1787년 1월 11일, 영국 왕립천문학자 윌리엄 허셜이 손수 제작한 거대 반사망원경으로 천왕성의 두 주요 위성인 티타니아와 오베론을 최초로 관측하는 쾌거를 이루었다.',
+    src: '위키백과 · 티타니아 (위성)',
+    url: 'https://en.wikipedia.org/wiki/Titania_(moon)',
+    img: 'https://thumb.wikimedia.org/wikipedia/commons/thumb/3/36/William_Herschel01.jpg/960px-William_Herschel01.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail',
+    b: `천왕성을 발견하여 세상을 놀라게 했던 음악가 출신 천문학자 윌리엄 허셜은 조지 3세의 후원 아래 슬라우에 직접 설계한 대형 반사망원경을 세우고 밤마다 우주의 심연을 응시했다. 살을 에는 혹한이 몰아치던 1787년 1월 11일 밤, 허셜의 렌즈 끝에 천왕성 주위를 맴도는 희미한 두 개의 빛 알갱이가 포착되었다.
 
-75세의 고령에도 불구하고 테오도라는 남성 섭정을 거부하고 직접 정무를 관장하며 놀라운 통치력을 발휘했다. 그녀의 결단력 있는 치세는 짧았지만, 제국의 황금기를 이끌었던 유서 깊은 마케도니아 황조의 품격 있는 마지막 황혼을 장식했다.`
+수일에 걸친 끈질긴 추적 끝에 허셜은 이들이 행성의 중력에 묶여 공전하는 위성임을 확인했다. 영국 학계는 이 신비로운 천체들에 윌리엄 셰익스피어의 희곡 《한여름 밤의 꿈》에 나오는 요정 여왕 '티타니아'와 요정 왕 '오베론'의 이름을 바쳤다. 영국의 탁월한 과학적 집념이 문학적 낭만과 만나 우주의 지도 위에 새겨진 순간이었다.`
   },
   {
     d: '01-11', y: 1569, id: 'b-0111-first-english-lottery-elizabeth', k: '튜더 왕조 · 엘리자베스 1세', c: 'folklore', s: 88,
@@ -408,15 +408,15 @@ addStories([
 추위와 굶주림으로 수천 명이 해자에서 쓰러져간 끝에 마침내 성문이 열렸다. 헨리 5세는 웅장한 승전 행렬을 이끌며 루앙 대성당으로 들어갔고, 200년 만에 노르망디 전역을 잉글랜드 왕관 아래 복속시키며 프랑스 왕위 계승의 결정적 교두보를 확보했다.`
   },
   {
-    d: '01-19', y: 1421, id: 'b-0119-john-viii-palaiologos-coronation', k: '중세 비잔티움 · 팔레올로고스 왕조', c: 'episode', s: 85,
-    t: '황혼의 제국과 이탈리아 공주: 요안니스 8세의 공동 황제 대관',
-    r: '1421년 1월 19일, 요안니스 8세가 이탈리아 몬페라토의 소피아와 정략결혼을 맺고 부황 마누일 2세의 공동 황제로 즉위했다.',
-    src: '위키백과 · 요안니스 8세 팔레올로고스',
-    url: 'https://en.wikipedia.org/wiki/John_VIII_Palaiologos',
-    img: 'https://thumb.wikimedia.org/wikipedia/commons/thumb/2/24/Palaio.jpg/960px-Palaio.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail',
-    b: `오스만 튀르크의 거센 압박 속에 콘스탄티노폴리스 성벽만 간신히 보존하고 있던 비잔티움 제국은 서유럽의 군사 원조가 절실했다. 황태자 요안니스는 서방과의 유대를 강화하기 위해 이탈리아 명문 귀족의 딸 소피아와 혼인하며 아야 소피아 대성당에서 관을 썼다.
+    d: '01-19', y: 1547, id: 'b-0119-henry-howard-earl-surrey-beheaded', k: '튜더 왕조 · 헨리 8세', c: 'scandal', s: 95,
+    t: '타워힐에 떨어진 마지막 시인의 목: 서리 백작 헨리 하워드의 처형',
+    r: '1547년 1월 19일, 잉글랜드 소네트의 선구자이자 노퍽 공작가의 후계자인 서리 백작 헨리 하워드가 왕실 문장을 도용했다는 누명을 쓰고 타워힐에서 참수되었다.',
+    src: '위키백과 · 서리 백작 헨리 하워드',
+    url: 'https://en.wikipedia.org/wiki/Henry_Howard,_Earl_of_Surrey',
+    img: 'https://upload.wikimedia.org/wikipedia/commons/7/74/Holbein_-_henryhoward01.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled',
+    b: `영국 시문학사에 소네트와 무운시를 도입하며 르네상스 문예를 꽃피웠던 천재 시인이자 최고 명문가의 계승자 서리 백작 헨리 하워드. 빼어난 재능과 오만한 기품을 지녔던 그는 병상에서 죽음을 앞두고 극도의 의심에 사로잡힌 노왕 헨리 8세의 마지막 표적이 되었다. 정적들은 그가 참회왕 에드워드의 왕실 문장을 가문 문장에 무단으로 새겨 넣었다며 역모로 몰아세웠다.
 
-그러나 신부의 외모에 실망한 황태자가 그녀를 냉대하면서 불행한 파경을 맞았고 외교적 성과도 빛이 바랬다. 훗날 페라라-피렌체 공의회를 열어 동서 교회의 통합까지 추진하며 제국을 구하려 고투했던 비운의 군주의 쓸쓸한 즉위식이었다.`
+불과 서른 살의 젊은 귀족은 런던탑에 갇힌 채 결백을 주장했으나 사형선고를 피하지 못했다. 1547년 1월 19일, 차가운 타워힐의 처형대에서 도끼날이 번뜩이며 잉글랜드에서 가장 눈부신 시인의 숨을 멎게 했다. 그로부터 불과 9일 뒤 헨리 8세 본인도 서거했으니, 서리 백작은 피로 물든 튜더 궁정 공포정치의 마지막 비극적 희생양이었다.`
   },
   {
     d: '01-20', y: 1356, id: 'b-0120-edward-balliol-surrenders-crown', k: '플랜태저넷 왕조 · 스코틀랜드 독립전쟁', c: 'scandal', s: 90,
@@ -549,15 +549,15 @@ addStories([
 하지만 실권은 모후와 모티머의 손에 들려 있었고, 부왕은 얼마 지나지 않아 버클리성 지하 감옥에서 참혹하게 의문사했다. 수치심과 분노를 가슴에 묻은 어린 군주는 3년 뒤 노팅엄성에서 대담한 야간 친위 쿠데타를 일으켜 모티머를 처형하고 진정한 제왕으로 거듭났다.`
   },
   {
-    d: '01-26', y: 1564, id: 'b-0126-council-of-trent-confirmation', k: '종교개혁과 반종교개혁', c: 'episode', s: 88,
-    t: '반종교개혁의 교의 확립: 트리엔트 공의회 칙서 반포',
-    r: '1564년 1월 26일, 교황 비오 4세가 교황 칙서 \'베네딕투스 데우스\'를 통해 18년간 이어진 트리엔트 공의회의 결정 사항들을 공식 확정 반포했다.',
-    src: '위키백과 · 트리엔트 공의회',
-    url: 'https://en.wikipedia.org/wiki/Council_of_Trent',
-    img: 'https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7e/Concilio_Trento_Museo_Buonconsiglio.jpg/960px-Concilio_Trento_Museo_Buonconsiglio.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail',
-    b: `마르틴 루터와 칼뱅의 종교개혁으로 가톨릭 세계가 양분된 위기 속에서, 이탈리아 북부 트렌토에 모인 가톨릭 고위 성직자들은 오랜 격론 끝에 교회의 전통 교리를 재정립했다. 7성사와 교황 수위권, 불가타 성서의 권위를 재확인하며 프로테스탄트와의 경계선을 분명히 그었다.
+    d: '01-26', y: 1340, id: 'b-0126-edward-iii-declared-king-of-france', k: '플랜태저넷 왕조 · 에드워드 3세', c: 'episode', s: 96,
+    t: '헨트 광장의 선언과 백합 문양: 에드워드 3세, 프랑스 왕관을 요구하다',
+    r: '1340년 1월 26일, 잉글랜드 국왕 에드워드 3세가 플랑드르 헨트에서 자신을 정당한 프랑스 국왕으로 공식 선포하며 백년전쟁의 명분을 확립했다.',
+    src: '위키백과 · 에드워드 3세',
+    url: 'https://en.wikipedia.org/wiki/Edward_III_of_England',
+    img: 'https://upload.wikimedia.org/wikipedia/commons/d/de/Edward_III_of_England_%28Order_of_the_Garter%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled',
+    b: `프랑스 카페 왕조의 직계가 끊기자, 모계 혈통상 가장 가까운 계승권자였던 잉글랜드의 청년 군주 에드워드 3세는 발루아 가문의 필리프 6세에게 빼앗긴 왕관을 되찾겠다고 결심했다. 잉글랜드산 고급 양모에 생계가 걸려 있던 부유한 플랑드르 도시 연합은 에드워드에게 국왕 칭호를 걸고 참전할 것을 간청했다.
 
-동시에 성직 매매를 금지하고 신학교 설립을 의무화하는 등 뼈를 깎는 내부 쇄신을 단행했다. 잉글랜드 엘리자베스 1세 여왕이 국교회를 정착시키던 바로 그 시기에 발표된 이 결정은 근대 가톨릭교회의 정체성을 확립하고 유럽 종교 전쟁의 전선을 명확히 획정했다.`
+1340년 1월 26일, 헨트의 금요일 시장 광장에 모인 수천 군중 앞에서 에드워드 3세는 자신을 '잉글랜드와 프랑스의 국왕'으로 엄숙히 선포했다. 그는 잉글랜드의 황금 사자 문장에 프랑스 카페 가문의 백합(Fleur-de-lis) 문양을 사분합성한 방패를 들어 올렸다. 이 대담한 왕위 선언은 향후 한 세기가 넘도록 유럽 대륙을 뒤흔들 격전의 불씨를 당긴 역사적 순간이었다.`
   },
   {
     d: '01-26', y: 1765, id: 'b-0126-port-egmont-falklands-byron', k: '하노버 왕조 · 대영제국 해양 팽창', c: 'episode', s: 89,
@@ -582,15 +582,15 @@ addStories([
 포크스와 공모자들은 담담히 판결을 기다렸고 법정은 만장일치로 대역죄에 해당하는 교수·장기적출·능지처참형을 선고했다. 군주와 의회를 한 줌의 재로 만들려 했던 이 음모의 재판은 영국 사회에서 반영구적인 반가톨릭 정서를 굳히고 '가이 포크스의 밤'이라는 민속 전통을 낳았다.`
   },
   {
-    d: '01-27', y: 1868, id: 'b-0127-battle-of-toba-fushimi', k: '대영제국과 세계 · 일본 보신전쟁', c: 'episode', s: 87,
-    t: '비단 깃발과 최신 소총: 메이지 유신의 분수령 도바·후시미 전투',
-    r: '1868년 1월 27일, 교토 남쪽 도바와 후시미에서 사쓰마·조슈 중심의 유신 정부군과 도쿠가와 막부군이 격돌하며 보신전쟁이 발발했다.',
-    src: '위키백과 · 도바·후시미 전투',
-    url: 'https://en.wikipedia.org/wiki/Boshin_War',
-    img: 'https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8d/UenoSenso.jpg/960px-UenoSenso.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail',
-    b: `영국제 암스트롱포와 엔필드 소총으로 무장하고 해리 파크스 주일 영국 공사의 은밀한 외교적 지지를 받던 사쓰마와 조슈 군대는 병력 면에서 세 배나 많은 막부군과 마주했다. 좁은 가도에서 최신 화력의 집중 사격으로 막부군의 기세를 꺾은 정부군 진영에 메이지 천황의 '국화 문양 비단 깃발(금기)'이 내걸렸다.
+    d: '01-27', y: 1916, id: 'b-0127-military-service-act-conscription', k: '조지 5세 · 제1차 세계 대전', c: 'episode', s: 89,
+    t: '제국의 청년들을 참호로: 1916년 병역법과 영국의 총동원',
+    r: '1916년 1월 27일, 영국 의회가 역사상 최초의 전면적 징병제 법안인 \'1916년 병역법\'을 제정하여 참호전의 참화 속으로 국력을 총동원하기 시작했다.',
+    src: '위키백과 · 1916년 병역법',
+    url: 'https://en.wikipedia.org/wiki/Military_Service_Act_1916',
+    img: 'https://thumb.wikimedia.org/wikipedia/commons/thumb/0/01/30a_Sammlung_Eybl_Gro%C3%9Fbritannien._Alfred_Leete_%281882%E2%80%931933%29_Britons_%28Kitchener%29_wants_you_%28Briten_Kitchener_braucht_Euch%29._1914_%28Nachdruck%29%2C_74_x_50_cm._%28Slg.Nr._552%29.jpg/960px-thumbnail.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail',
+    b: `오랜 세월 동안 강력한 왕립해군과 민간 자원병에 국방을 맡겨왔던 영국은 제1차 세계 대전이라는 전대미문의 참호전 앞에서 벽에 부딪혔다. 키치너 경의 손가락 포스터를 보고 자원입대했던 수십만 청년들이 플랑드르와 갈리폴리의 진흙탕 속에서 쓰러지자, 자원병에만 의존해서는 전선을 지탱할 수 없다는 비통한 현실이 닥쳐왔다.
 
-천황의 깃발을 본 막부군은 하루아침에 반역 군대로 전락했다는 공포에 휩싸여 패주하기 시작했다. 오사카성으로 도망친 쇼군 요시노부의 전의는 꺾였고, 700년을 이어온 일본 무사 정권의 명운은 이 나흘간의 격전으로 완전히 기울었다.`
+1916년 1월 27일 국왕의 재가를 얻은 병역법은 18세부터 41세까지의 미혼 남성을 의무 복무 대상자로 지정했다. 개인의 자유를 숭상하던 영국 사회에서 격렬한 양심적 병역 거부와 위헌 논란이 일었지만, 총력전의 파도는 막을 수 없었다. 평화롭던 섬나라의 일상이 거대한 전쟁 기계의 톱니바퀴로 완전히 편입된 역사적 순간이었다.`
   },
   {
     d: '01-28', y: 1547, id: 'b-0128-edward-vi-accession-nine', k: '튜더 왕조 · 에드워드 6세', c: 'episode', s: 95,

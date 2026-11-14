@@ -138,6 +138,47 @@ html, body {
   text-decoration: none;
 }
 
+
+/* 보기 모드 (날짜별 / 카테고리별) 탭 */
+.view-mode-bar {
+  display: flex;
+  gap: 6px;
+  padding: 8px 0 4px;
+  border-bottom: 1px dashed var(--line);
+  margin-bottom: 6px;
+}
+
+.mode-tab {
+  flex: 1;
+  background: var(--card-bg, #fff);
+  border: 1px solid var(--line);
+  border-radius: 8px;
+  padding: 8px 10px;
+  font-size: 0.85rem;
+  font-weight: 500;
+  color: var(--sub);
+  cursor: pointer;
+  font-family: inherit;
+  transition: all 0.15s ease;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: 4px;
+}
+
+.mode-tab:hover {
+  border-color: var(--accent);
+  color: var(--text);
+}
+
+.mode-tab.active {
+  background: var(--accent);
+  border-color: var(--accent);
+  color: #fff;
+  font-weight: 700;
+  box-shadow: 0 2px 6px rgba(0, 0, 0, 0.1);
+}
+
 /* 2. 날짜 이동 바 */
 .date-bar {
   display: flex;
@@ -385,13 +426,59 @@ html, body {
   color: var(--text);
 }
 
+.story-body-wrap {
+  position: relative;
+  margin-bottom: 18px;
+}
+
 .story-body {
   font-family: 'Gowun Batang', serif;
   font-size: 1rem;
   line-height: 1.85;
   color: var(--text);
   white-space: pre-line;
-  margin-bottom: 18px;
+  margin-bottom: 0;
+}
+
+.story-body.is-collapsed {
+  max-height: 7.2em; /* 약 3~4줄 분량 */
+  overflow: hidden;
+  position: relative;
+  -webkit-mask-image: linear-gradient(to bottom, rgba(0, 0, 0, 1) 50%, rgba(0, 0, 0, 0) 100%);
+  mask-image: linear-gradient(to bottom, rgba(0, 0, 0, 1) 50%, rgba(0, 0, 0, 0) 100%);
+}
+
+.story-body.is-expanded {
+  max-height: none;
+  -webkit-mask-image: none;
+  mask-image: none;
+}
+
+.btn-toggle-expand {
+  display: inline-flex;
+  align-items: center;
+  gap: 4px;
+  margin-top: 8px;
+  padding: 5px 12px;
+  background: var(--quote-bg);
+  color: var(--accent);
+  border: 1px solid var(--line);
+  border-radius: 20px;
+  font-size: 0.82rem;
+  font-weight: 600;
+  cursor: pointer;
+  transition: all 0.2s ease;
+  font-family: inherit;
+}
+
+.btn-toggle-expand:hover {
+  background: var(--accent);
+  color: #ffffff;
+  border-color: var(--accent);
+}
+
+.btn-toggle-expand:active {
+  transform: scale(0.97);
 }
 
 .sillok-quote {
@@ -774,4 +861,40 @@ html, body {
 }
 .fallback-notice strong {
   color: var(--accent);
+}
+
+.solar-term-badge {
+  display: inline-block;
+  margin-left: 6px;
+  padding: 2px 8px;
+  border-radius: 999px;
+  background: var(--quote-bg);
+  border: 1px solid var(--line);
+  color: var(--accent);
+  font-size: 0.78rem;
+  font-weight: 600;
+  vertical-align: middle;
+}
+
+.story-figure {
+  margin: 12px 0 14px;
+  border-radius: 10px;
+  overflow: hidden;
+  border: 1px solid var(--line);
+  background: var(--quote-bg);
+}
+
+.story-figure img {
+  display: block;
+  width: 100%;
+  max-height: 290px;
+  object-fit: cover;
+  object-position: center 25%;
+}
+
+.story-figure figcaption {
+  padding: 6px 12px;
+  font-size: 0.76rem;
+  color: var(--sub);
+  border-top: 1px solid var(--line);
 }

@@ -3,16 +3,15 @@
 <head>
   <meta charset="UTF-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1.0, viewport-fit=cover" />
-  <meta name="theme-color" content="#f5f7fa" />
-  <title>오늘의 이란·페르시아 야사</title>
-  <link rel="stylesheet" href="styles.css?v=1" />
+  <meta name="theme-color" content="#f4f8f8" />
+  <title>오늘의 이란·페르시아 연대기</title>
+  <link rel="stylesheet" href="styles.css?v=5" />
 </head>
 <body>
   <div class="page-wrap">
-    <!-- 심플 헤더 -->
     <header class="top-bar">
       <div class="brand-group">
-        <h1 class="site-title" id="btnHome">이란·페르시아 야사</h1>
+        <h1 class="site-title" id="btnHome">이란·페르시아 연대기</h1>
         <div class="era-switch" role="navigation" aria-label="시대 전환">
           <a href="../samguk-daily-yasa/" class="era-tab">삼국</a>
           <a href="../goryeo-daily-yasa/" class="era-tab">고려</a>
@@ -31,24 +30,25 @@
       </div>
     </header>
 
-    <!-- 심플 날짜 이동 -->
     <nav class="date-bar" aria-label="날짜 이동">
       <button type="button" class="nav-arrow" id="btnPrevDay">‹ 어제</button>
-
       <div class="date-center">
         <button type="button" class="date-display" id="btnOpenDatePicker" title="날짜 선택">
-          <span id="displayMonthDay">11월 12일</span>
+          <span id="displayMonthDay">11월 14일</span>
         </button>
         <input type="date" id="datePicker" class="sr-only-date" aria-label="날짜 선택" />
         <button type="button" class="sub-link" id="btnToday">오늘</button>
         <span class="dot">·</span>
         <button type="button" class="sub-link" id="btnRandomDate">랜덤 날짜</button>
       </div>
-
       <button type="button" class="nav-arrow" id="btnNextDay">내일 ›</button>
     </nav>
 
-    <!-- 심플 카테고리 슬라이드 탭 -->
+    <div class="view-mode-bar" role="tablist" aria-label="보기 모드">
+      <button type="button" class="mode-tab active" id="btnModeDate" role="tab" aria-selected="true">📅 날짜별 연대기</button>
+      <button type="button" class="mode-tab" id="btnModeCategory" role="tab" aria-selected="false">📚 주제별 전체 모아보기</button>
+    </div>
+
     <div class="cat-bar-wrap">
       <button type="button" class="cat-scroll-btn" id="btnCatPrev" aria-label="카테고리 왼쪽으로 이동">‹</button>
       <div class="cat-bar" id="categoryBar">
@@ -56,7 +56,7 @@
         <button type="button" class="cat-link" data-cat="mystery">기이한 일</button>
         <button type="button" class="cat-link" data-cat="scandal">궁중 비화</button>
         <button type="button" class="cat-link" data-cat="folklore">야담·영웅</button>
-        <button type="button" class="cat-link" data-cat="episode">왕의 일상</button>
+        <button type="button" class="cat-link" data-cat="episode">풍속·기문</button>
         <button type="button" class="cat-link" data-cat="legends">명장면 모음</button>
         <button type="button" class="cat-link" data-cat="favorites" id="tabFavorites">⭐ 즐겨찾기</button>
         <button type="button" class="cat-link" data-cat="memos" id="tabMemos">📝 메모</button>
@@ -64,14 +64,10 @@
       <button type="button" class="cat-scroll-btn" id="btnCatNext" aria-label="카테고리 오른쪽으로 이동">›</button>
     </div>
 
-    <!-- 오늘자 야사 제목 리스트 바로가기 -->
     <nav id="quickTitleList" class="quick-title-box" aria-label="오늘의 야사 제목 바로가기"></nav>
-
-    <!-- 본문 리스트 -->
     <main id="storiesContainer" class="story-list"></main>
   </div>
 
-  <!-- 심플 하단 알림창 -->
   <div class="simple-toast" id="simpleToast">
     <div class="toast-inner">
       <p id="toastMessage"></p>
@@ -82,9 +78,20 @@
   <script src="https://www.gstatic.com/firebasejs/10.14.1/firebase-app-compat.js"></script>
   <script src="https://www.gstatic.com/firebasejs/10.14.1/firebase-auth-compat.js"></script>
   <script src="https://www.gstatic.com/firebasejs/10.14.1/firebase-firestore-compat.js"></script>
-  <script src="data.js?v=2"></script>
-  <script src="stories_wiki.js?v=2"></script>
-  <script src="app.js?v=1"></script>
+  <script src="data.js?v=5"></script>
+  <script src="stories/01.js?v=5"></script>
+  <script src="stories/02.js?v=5"></script>
+  <script src="stories/03.js?v=5"></script>
+  <script src="stories/04.js?v=5"></script>
+  <script src="stories/05.js?v=5"></script>
+  <script src="stories/06.js?v=5"></script>
+  <script src="stories/07.js?v=5"></script>
+  <script src="stories/08.js?v=5"></script>
+  <script src="stories/09.js?v=5"></script>
+  <script src="stories/10.js?v=5"></script>
+  <script src="stories/11.js?v=5"></script>
+  <script src="stories/12.js?v=5"></script>
+  <script src="app.js?v=5"></script>
   <script src="firebase-sync.js?v=1"></script>
 </body>
 </html>

@@ -21,6 +21,7 @@ function addStories(list) {
       month: m, day: d, year: o.y,
       king: o.k, category: o.c, interestScore: o.s || 80,
       title: o.t, source: o.src, sillokUrl: o.url || '',
+      imageUrl: o.img || o.imageUrl || '',
       officialRecord: o.r, yasaStory: o.b.trim(),
       undated: Boolean(o.u)
     };

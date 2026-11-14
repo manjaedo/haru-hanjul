@@ -7,6 +7,7 @@ addStories([
     r: '1057년 9월 1일, 동방 군단 사령관 이사키오스 1세 콤네노스가 콘스탄티노폴리스의 하기아 소피아에서 총대주교 미하일 케룰라리오스의 손에 의해 비잔티움 황제로 대관했다.',
     src: '위키백과 · 이사키오스 1세 콤네노스',
     url: 'https://en.wikipedia.org/wiki/Isaac_I_Komnenos',
+    img: 'https://upload.wikimedia.org/wikipedia/commons/f/f6/INC-3060-r_%D0%9D%D0%BE%D0%BC%D0%B8%D1%81%D0%BC%D0%B0_%D1%82%D0%B5%D1%82%D0%B0%D1%80%D1%82%D0%B5%D1%80%D0%BE%D0%BD._%D0%98%D1%81%D0%B0%D0%B0%D0%BA_I_%D0%9A%D0%BE%D0%BC%D0%BD%D0%B8%D0%BD._%D0%9E%D0%BA._1057%E2%80%941059_%D0%B3%D0%B3._%28%D1%80%D0%B5%D0%B2%D0%B5%D1%80%D1%81%29.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled',
     b: `어린 시절 고아가 되어 바실리오스 2세 아래서 자란 이사키오스 콤네노스는 동방 군단 총사령관으로 명성을 쌓은 무장이었다. 1057년, 미하일 6세 브링가스에게 불만을 품은 동방 장군들의 추대로 반란을 일으킨 그는 하데스 전투에서 황제파 군대를 격파했다.
 
 이사키오스는 미하일 6세의 후계자 지명 타협안도 수용할 뜻이 있었으나, 총대주교 미하일 케룰라리오스가 이끄는 파벌이 황제의 퇴위를 압박했다. 결국 8월 30일 미하일 6세가 물러나자, 9월 1일 이사키오스는 하기아 소피아에서 제관을 쓰며 콤네노스 왕조를 열었다.
@@ -19,6 +20,7 @@ addStories([
     r: '863년 9월 3일, 비잔티움 장군 페트로나스가 랄라카온 전투에서 에미르 우마르 알아크타가 이끄는 아랍 원정군을 격파하고 적장을 전사시켰다.',
     src: '위키백과 · 페트로나스 (장군)',
     url: 'https://en.wikipedia.org/wiki/Petronas_%28general%29',
+    img: 'https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0d/Petronas_with_John_the_monk.png/960px-Petronas_with_John_the_monk.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail',
     b: `테오도라 황후의 동생이자 테오필로스 황제의 처남이었던 페트로나스는 일찍이 궁정 고위 관직과 비글라 근위대 사령관을 지낸 비잔티움의 유력 귀족이었다. 성상 파괴 운동의 종식에 기여했던 그는 조카 미하일 3세의 섭정 테옥티스토스 치하에서 형 바르다스와 함께 한동안 권력의 중심에서 밀려나 있었다.
 
 그러나 855년 두 형제가 미하일 3세를 설득해 친정을 이끌어내면서 판도가 뒤집혔다. 테옥티스토스가 살해되고 바르다스가 수석 장관에 오르자, 페트로나스는 아랍 세력과의 전쟁을 지휘하는 중책을 맡았다.
@@ -31,6 +33,7 @@ addStories([
     r: '1919년 9월 4일, 훗날 튀르키예 공화국을 세운 무스타파 케말 아타튀르크가 아나톨리아와 트라키아의 미래를 결정하기 위해 시바스 회의를 소집했다.',
     src: '위키백과 · 무스타파 케말 아타튀르크',
     url: 'https://en.wikipedia.org/wiki/Mustafa_Kemal_Atat%C3%BCrk',
+    img: 'https://upload.wikimedia.org/wikipedia/commons/a/a8/Ataturk1930s.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled',
     b: `오스만 제국 살로니카 출신의 야전사령관 무스타파 케말은 젊은 시절부터 압뒬하미트 2세의 전제정에 맞서 활동했으며, 제1차 세계 대전 중 갈리폴리 방어전을 통해 국민적 영웅으로 떠올랐다. 그러나 제국이 패전하고 승전한 연합국들이 제국 영토의 분할을 추진하자, 그는 무너진 제국의 폐허 위에서 민족 저항 운동을 지휘하기 시작했다.
 
 1919년 9월 4일, 아타튀르크는 아나톨리아와 트라키아의 장래를 결정짓기 위해 시바스에 회의를 소집했다. 이 결집은 앙카라 임시정부의 수립과 튀르키예 독립 전쟁으로 이어지는 거대한 흐름의 토대가 되었고, 결국 그리스와 영국, 프랑스 등을 상대로 한 승리와 로잔 조약을 이끌어냈다.
@@ -43,6 +46,7 @@ addStories([
     r: '394년 9월 5일 프리기두스 전투 첫날, 아르보가스트가 이끈 서로마 병력이 동로마 황제 테오도시우스 1세의 군세에 맞서 진지를 방어해냈다.',
     src: '위키백과 · 프리기두스 전투',
     url: 'https://en.wikipedia.org/wiki/Battle_of_the_Frigidus',
+    img: 'https://thumb.wikimedia.org/wikipedia/commons/thumb/3/39/Janez_Vajkard_Valvasor_-_Bitka_med_Teodozijem_in_Evgenijem.jpg/960px-Janez_Vajkard_Valvasor_-_Bitka_med_Teodozijem_in_Evgenijem.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail',
     b: `394년 9월 5일, 이탈리아 동쪽 경계인 율리안 알프스 부근의 프리기두스 강 유역에서 동서 로마의 운명을 가르는 내전이 막을 올렸다. 동로마 황제 테오도시우스 1세는 고트족 동맹군과 함께 진격해 왔고, 맞은편에는 발렌티니아누스 2세의 의문사 이후 에우게니우스를 황제로 옹립한 서로마의 실권자 아르보가스트가 버티고 있었다.
 
 전투 첫날, 아르보가스트 휘하의 서로마 병력은 테오도시우스 1세가 이끄는 동로마군의 공세를 상대로 치열한 접전 끝에 자신들의 진지를 지켜내는 데 성공했다. 치열한 수성으로 첫날의 파고를 넘긴 듯 보였으나, 전세는 이튿날 급격히 기울었다.
@@ -55,6 +59,7 @@ addStories([
     r: '1955년 9월 6일, 이스탄불의 그리스인·유대인·아르메니아인 소수민족을 겨냥한 정부 주도의 폭동이 벌어져 수십 명이 희생되었다.',
     src: '위키백과 · 아르메니아인',
     url: 'https://en.wikipedia.org/wiki/Armenians',
+    img: 'https://thumb.wikimedia.org/wikipedia/commons/thumb/c/ca/Map_of_the_Armenian_Diaspora_in_the_World.svg/960px-Map_of_the_Armenian_Diaspora_in_the_World.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail',
     b: `1955년 9월 6일, 이스탄불 도심에서 그리스인과 유대인, 그리고 아르메니아인 공동체를 표적으로 삼은 대규모 폭동이 벌어졌다. 국가 권력이 개입한 이 집단 박해 속에서 도시는 순식간에 폭력의 소용돌이에 휘말렸고, 이어진 소요 사태로 수십 명의 무고한 이들이 목숨을 잃었다.
 
 표적이 된 아르메니아인은 고대 아르메니아 고원에 뿌리를 둔 민족으로, 4세기 초 세계 최초로 기독교를 국교로 받아들이고 405년 독자적인 문자를 창제한 유구한 역사를 지녔다. 아나톨리아와 이스탄불 일대에도 오랜 세월 터전을 일구며 살아왔으나, 20세기 들어 잇따른 비극과 추방 속에 세계 각지로 흩어지는 디아스포라의 길을 걸어야 했다.
@@ -67,6 +72,7 @@ addStories([
     r: '1903년 9월 7일, 오스만 제국이 동트라키아의 아나키스트 자치체 스트란자 코뮌에 대한 대대적인 반격을 개시하면서 코뮌이 해체되었다.',
     src: '위키백과 · 스트란자 코뮌',
     url: 'https://en.wikipedia.org/wiki/Strandzha_Commune',
+    img: 'https://thumb.wikimedia.org/wikipedia/commons/thumb/4/49/Strandzha_Commune.svg/960px-Strandzha_Commune.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail',
     b: `1903년 여름, 오스만 제국 치하의 동트라키아 스트란자 산악 지대에서는 이례적인 실험이 벌어지고 있었다. 불가리아 공국의 독립 이후 제국령에 남은 트라키아와 마케도니아의 해방을 꿈꾸던 혁명 조직 IMARO와 불가리아 아나키스트 미하일 게르지코프, 그리고 현지 농민들이 봉기를 일으켜 자유지상주의적 공산 공동체인 '스트란자 코뮌'을 선포한 것이다.
 
 스트란자 공화국으로도 불린 이 자치체는 오스만 통치에서 벗어난 해방구에 새로운 사회 질서를 세우며 국제적 연대를 모색했다. 그러나 외세의 지원은 닿지 않았고, 제국의 군사적 대응이 곧바로 뒤따랐다.
@@ -79,6 +85,7 @@ addStories([
     r: '1855년 9월 8일 크림 전쟁 중 프랑스군이 러시아의 말라코프 요새를 점령하며 이튿날 세바스토폴 함락을 이끌어냈다.',
     src: '위키백과 · 말라코프 전투',
     url: 'https://en.wikipedia.org/wiki/Battle_of_Malakoff',
+    img: 'https://thumb.wikimedia.org/wikipedia/commons/thumb/d/db/Combat_dans_la_gorge_de_Malakoff%2C_le_8_septembre_1855_%28par_Adolphe_Yvon%29.jpg/960px-Combat_dans_la_gorge_de_Malakoff%2C_le_8_septembre_1855_%28par_Adolphe_Yvon%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail',
     b: `11개월째 이어지던 세바스토폴 포위전의 승부처는 도시를 내려다보는 핵심 거점, 말라코프 보루였다. 1855년 6월 18일의 첫 번째 돌격이 뼈아픈 실패로 돌아간 뒤, 프랑스군은 다시 한 번 치밀한 공세를 준비했다.
 
 1855년 9월 8일, 마크마옹 장군이 지휘하는 프랑스군이 말라코프 보루를 향해 총공격을 감행했다. 같은 시각 남쪽 레단 요새를 노린 영국군의 공격은 러시아군의 완강한 저항에 부딪혀 격퇴되었으나, 말라코프에서는 전황이 달랐다. 주아브 병사 외젠 리보가 러시아 보루 꼭대기에 프랑스 국기를 꽂는 극적인 장면과 함께 요새가 마침내 함락된 것이다.
@@ -91,6 +98,7 @@ addStories([
     r: '니코시아 학살은 1570년 9월 9일 니코시아가 함락된 뒤 벌어졌다. 약 2만 명의 그리스계 주민이 죽었고, 교회와 관청이 약탈당했다.',
     src: '위키백과 · 니코시아 학살',
     url: 'https://en.wikipedia.org/wiki/Siege_of_Nicosia',
+    img: 'https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5e/Nicossia_-_Camocio_Giovanni_Francesco_-_1574.jpg/960px-Nicossia_-_Camocio_Giovanni_Francesco_-_1574.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail',
     b: `위키백과는 1570년 7월 3일 오스만군이 키프로스를 침공했고, 7월 22일 피알리 파샤가 니코시아를 포위했다고 적습니다. 도시는 한 달 넘게 버티다 9월 9일 15번째 공격에서 성벽이 뚫렸습니다. 이때 약 2만 명의 그리스계 주민이 죽었고, 교회와 관청, 궁전이 모두 약탈되었습니다. 여자와 소년만 노예로 팔리기 위해 살아남았습니다.
 
 기독교 연합 함대는 200척으로 크레타에 모였지만, 니코시아 함락 소식을 듣고 되돌아갔다고 원문은 적습니다. 1572년 인구 조사에서 도시의 인구는 2만 명에서 1천 명 남짓으로 줄었습니다.`
@@ -101,6 +109,7 @@ addStories([
     r: '422년 9월 10일, 교황 보니파시오 1세의 선종에 뒤이어 첼레스티노 1세가 로마 주교로 선출되었다.',
     src: '위키백과 · 교황 첼레스티노 1세',
     url: 'https://en.wikipedia.org/wiki/Pope_Celestine_I',
+    img: 'https://upload.wikimedia.org/wikipedia/commons/1/12/Dundalk_Saint_Patrick%27s_Pro-Cathedral_West_Aisle_Window_06_Lower_Lights_2013_09_23%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled',
     b: `422년 9월 초 교황 보니파시오 1세가 세상을 떠나자, 9월 10일 첼레스티노 1세가 새 로마 주교로 선출되었다. 432년 7월 선종할 때까지 약 10년간 이어진 그의 재위는 교회 안팎의 교리적 도전과 맞서 싸운 시기로 기록된다.
 
 첼레스티노 1세는 특히 에페소스 공의회에서 네스토리우스 사상을 정죄하는 데 결정적인 역할을 했다. 알렉산드리아의 키릴로스가 판단을 요청해 오자, 그는 네스토리우스가 자신의 가르침을 철회하지 않을 경우 정죄할 권한을 키릴로스에게 위임하며 단호한 입장을 취했다.
@@ -113,6 +122,7 @@ addStories([
     r: '1565년 9월 11일, 오스만 제국군이 몰타에서 철수하면서 유럽과 지중해의 명운이 걸렸던 몰타 대포위전이 막을 내렸다.',
     src: '위키백과 · 몰타',
     url: 'https://en.wikipedia.org/wiki/Malta',
+    img: 'https://thumb.wikimedia.org/wikipedia/commons/thumb/7/73/Flag_of_Malta.svg/960px-Flag_of_Malta.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail',
     b: `이탈리아 남쪽, 튀니지 동쪽의 지중해 한가운데 자리한 몰타는 기원전 6500년경부터 인류가 거주해 온 요충지다. 고대에는 페니키아와 카르타고, 그리스와 로마가 거쳐 갔고, 중세에는 아랍과 노르만, 아라곤의 지배를 받으며 지중해 패권의 열쇠로 꼽혔다.
 
 근대에 접어들어 구호기사단이 섬을 지키고 있던 1565년, 오스만 제국이 이 작은 섬을 점령하기 위해 대대적인 공세를 퍼부었다. 그러나 치열한 공방 끝에 1565년 9월 11일 오스만군은 결국 몰타에서 철수했고, 이로써 악명 높은 몰타 대포위전은 방어 측의 승리로 끝났다.
@@ -125,6 +135,7 @@ addStories([
     r: '1683년 9월 12일 빈 전투에서 여러 유럽 국가의 연합군이 오스만 제국군을 격파하며 대튀르크 전쟁의 판도를 뒤집었다.',
     src: '위키백과 · 대튀르크 전쟁',
     url: 'https://en.wikipedia.org/wiki/Great_Turkish_War',
+    img: 'https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ec/Great_Turkish_War_Collage.jpg/960px-Great_Turkish_War_Collage.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail',
     b: `1683년 9월 12일, 오스만 제국의 팽창에 맞서 결집한 유럽 연합군이 빈 전투에서 오스만군을 격파하며 역사의 물줄기를 바꾸어 놓았다. 이 승리는 신성 로마 제국과 폴란드-리투아니아, 베네치아, 헝가리 왕국, 그리고 훗날 러시아까지 가세한 신성동맹과 오스만 제국 사이의 대튀르크 전쟁이 본격화되는 서막이었다.
 
 물론 유럽의 이해관계가 마냥 단순했던 것은 아니다. 오스만과 비공식 동맹을 유지하던 프랑스의 루이 14세는 동맹에 참여하지 않았고, 신성동맹이 1688년 베오그라드를 함락할 정도로 승기를 잡자 합스부르크의 비대를 경계해 9년 전쟁을 일으키며 서부 전선으로 오스트리아의 병력을 분산시키기도 했다.
@@ -137,6 +148,7 @@ addStories([
     r: '533년 9월 13일, 비잔티움의 명장 벨리사리우스가 북아프리카 카르타고 인근 아드 데키뭄 전투에서 겔리메르가 이끄는 반달족을 격파했다.',
     src: '위키백과 · 벨리사리우스',
     url: 'https://en.wikipedia.org/wiki/Belisarius',
+    img: 'https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8b/Belisarius_mosaic.jpg/960px-Belisarius_mosaic.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail',
     b: `유스티니아누스 1세의 신임을 받던 명장 플라비우스 벨리사리우스는 빼앗긴 옛 서로마 제국 영토를 되찾는 원정의 선봉에 섰다. 빈약한 자원 속에서도 기발한 전략과 전술로 승리를 거두어 '최후의 로마인'이라 불린 그에게 첫 시험대는 북아프리카의 반달 왕국이었다.
 
 533년 9월 13일, 카르타고에서 그리 멀지 않은 아드 데키뭄에서 벨리사리우스의 비잔티움군은 겔리메르 왕이 이끄는 반달족 군대와 맞붙었다. 이 전투에서 벨리사리우스는 반달군을 격파하며 반달 전쟁의 승기를 단숨에 거머쥐었다.
@@ -149,6 +161,7 @@ addStories([
     r: '1115년 9월 14일, 안티오키아 섭정 살레르노의 로저가 이끈 십자군이 사르민 전투에서 수적으로 우세한 셀주크 군대를 격파했다.',
     src: '위키백과 · 살레르노의 로저',
     url: 'https://en.wikipedia.org/wiki/Roger_of_Salerno',
+    img: 'https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5f/Coin_of_Roger.png/960px-Coin_of_Roger.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail',
     b: `1112년 탕크레드의 뒤를 이어 어린 보에몽 2세를 대신해 안티오키아 공국의 섭정이 된 살레르노의 로저는 즉위 직후부터 거친 시련과 마주했다. 1114년부터 1115년 사이 발생한 대지진으로 공국의 요새들이 무너져 내린 틈을 타 셀주크 제국의 침공 소문까지 들려온 것이다.
 
 다급히 성벽을 보수한 로저는 셀주크 술탄이 파견한 부르수크 이븐 부르수크의 대군이 안티오키아로 진격해 오자 정면 승부에 나섰다. 1115년 9월 14일 사르민에서 벌어진 전투(텔 다니트 전투)에서 로저의 십자군은 수적 열세를 딛고 셀주크 군대를 상대로 결정적인 승리를 거두었다.
@@ -161,6 +174,7 @@ addStories([
     r: '533년 9월 15일, 벨리사리우스가 지휘하는 비잔티움 군대가 아드 데키뭄 전투의 승리에 힘입어 반달족의 수도 카르타고에 입성했다.',
     src: '위키백과 · 비잔티움 군대',
     url: 'https://en.wikipedia.org/wiki/Byzantine_army',
+    img: 'https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f2/Byzantine_imperial_flag%2C_14th_century.svg/960px-Byzantine_imperial_flag%2C_14th_century.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail',
     b: `아드 데키뭄에서 반달족을 꺾은 지 이틀 뒤인 533년 9월 15일, 벨리사리우스가 이끄는 비잔티움 군대는 마침내 북아프리카의 심장부 카르타고에 당당히 입성했다. 옛 서로마의 땅에 동로마의 군기가 다시 세워진 순간이었다.
 
 후기 헬레니즘과 동로마 군제의 유산을 계승한 비잔티움 군대는 철저한 규율과 치밀한 전략, 정교한 조직력을 바탕으로 6세기부터 12세기까지 서유라시아 최강의 군사력을 자랑했다. 지휘관의 전술적 역량을 극대화하는 이들의 운용 방식은 중세 유럽이나 칼리프조조차 쉽게 따라잡지 못할 정도였다.
@@ -173,6 +187,7 @@ addStories([
     r: '681년 9월 16일, 제3차 콘스탄티노폴리스 공의회가 638년 선종한 교황 호노리오 1세를 사후 파문했다.',
     src: '위키백과 · 교황 호노리오 1세',
     url: 'https://en.wikipedia.org/wiki/Pope_Honorius_I',
+    img: 'https://upload.wikimedia.org/wikipedia/commons/1/1c/Pope_Honorius_I_%E2%80%93_Apse_mosaic_of_Sant%27Agnese_fuori_le_mura_%E2%80%93_Rome_%282016%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled',
     b: `625년부터 638년까지 로마 주교좌를 지켰던 교황 호노리오 1세는 생전에는 앵글로색슨족의 개종을 적극 후원하고, 아일랜드와 브리타니아 교회가 로마식 부활절 계산법을 따르도록 힘쓴 목회자였다.
 
 그러나 그의 이름을 역사에 오점으로 남긴 것은 콘스탄티노폴리스 총대주교 세르기우스 1세와 주고받은 서신이었다. 그는 당시 교회를 뒤흔든 단의론 논쟁에 얽혀 이단으로 규정된 가르침에 동조하고 이를 확인해 주었다는 비판을 피하지 못했다.
@@ -185,6 +200,7 @@ addStories([
     r: '1176년 9월 17일, 비잔티움 제국이 셀주크 튀르크의 매복에 걸려 패배한 미리오케팔론 전투는 중앙 아나톨리아 수복을 위한 마지막 시도로 끝났다.',
     src: '위키백과 · 미리오케팔론 전투',
     url: 'https://en.wikipedia.org/wiki/Battle_of_Myriokephalon',
+    img: 'https://upload.wikimedia.org/wikipedia/commons/8/82/Crusades_surprised_by_turks.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled',
     b: `1161년 비잔티움 황제 마누일 1세 콤네노스와 룸 셀주크 술탄 클르츠 아르슬란 2세는 평화 조약을 맺었지만, 1174년 이후 술탄이 다니슈멘드 영토를 정복하고 반환 요구를 묵살하자 전운이 다시 감돌았다. 1176년 마누일 1세는 대군을 이끌고 콘야를 향한 원정에 나섰다.
 
 그러나 9월 17일, 콘야 서쪽 산악 지대의 좁은 치브리체 고개를 지나던 비잔티움군은 클르츠 아르슬란 2세가 치밀하게 파놓은 매복에 걸려들었다. 비잔티움 역사가 니케타스 호니아테스에 따르면, 고개 근처에 있던 폐허 요새의 이름에서 유래해 '미리오케팔론 전투'라 불리게 된 이 싸움에서 제국군은 전략적 패배를 당했다.
@@ -209,6 +225,7 @@ addStories([
     r: '634년 9월 19일, 할리드 이븐 알왈리드가 이끄는 정통 칼리프조 아랍군이 비잔티움 제국으로부터 다마스쿠스를 점령했다.',
     src: '위키백과 · 다마스쿠스 공방전 (634년)',
     url: 'https://en.wikipedia.org/wiki/Siege_of_Damascus_%28634%29',
+    img: 'https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f5/Damascus-Bab_Kisan.jpg/960px-Damascus-Bab_Kisan.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail',
     b: `634년 4월 아즈나다인 전투에서 비잔티움군을 꺾은 정통 칼리프조 아랍군은 북상하여 8월 21일부터 다마스쿠스를 포위했다. 시리아 정복 전쟁에서 동로마 제국의 첫 주요 거점이 걸린 공방전이었다.
 
 긴 대치의 균형은 한 주교가 야간에 방어가 허술한 지점을 무슬림 총사령관 할리드 이븐 알왈리드에게 알려주면서 깨졌다. 9월 19일 할리드가 동쪽 성문을 돌파해 돌입하던 바로 그 시각, 비잔티움 수비대장 토마스는 자비야 성문에서 부사령관 아부 우바이다와 평화적인 항복 협상을 맺고 있었다.
@@ -221,6 +238,7 @@ addStories([
     r: '1854년 9월 20일 크림 전쟁 중 영국·프랑스·오스만 연합군이 알마 전투에서 러시아군을 격파했다.',
     src: '위키백과 · 알마 전투',
     url: 'https://en.wikipedia.org/wiki/Battle_of_the_Alma',
+    img: 'https://thumb.wikimedia.org/wikipedia/commons/thumb/8/81/La_bataille_de_l%27Alma%2C_le_20_septembre_1854.jpg/960px-La_bataille_de_l%27Alma%2C_le_20_septembre_1854.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail',
     b: `1854년 9월 14일 크림반도에 기습 상륙한 영국·프랑스·오스만 연합군은 전략 요충지 세바스토폴을 향해 진격했다. 이에 맞서 러시아 사령관 멘시코프 공작은 세바스토폴 앞 마지막 천연 방어선인 알마 강 남쪽 고지에 병력을 급히 배치했다.
 
 9월 20일 벌어진 전투는 연합군의 호흡이 다소 엇갈리며 전개되었으나, 프랑스군이 러시아군이 등반 불가능하다고 여겼던 가파른 절벽을 기어올라 러시아 좌익을 우회 타격하면서 전황이 요동쳤다. 프랑스군의 공격 결과를 지켜보던 영국군 역시 두 차례의 정면 돌격 실패를 딛고 우월한 소총 화력을 앞세워 러시아군을 밀어붙였다.
@@ -233,6 +251,7 @@ addStories([
     r: '454년 9월 21일, 서로마 황제 발렌티니아누스 3세가 환관 헤라클리우스와 원로원 의원 페트로니우스 막시무스의 사주를 받아 명장 플라비우스 아에티우스를 살해했다.',
     src: '위키백과 · 로마 황제',
     url: 'https://en.wikipedia.org/wiki/Roman_emperor',
+    img: 'https://upload.wikimedia.org/wikipedia/commons/1/10/Better_Imperial_Aquila.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled',
     b: `454년 9월 21일, 서로마 궁정에서 제국의 운명을 스스로 꺾는 비극이 일어났다. 서로마 황제 발렌티니아누스 3세가 환관 헤라클리우스와 원로원 의원 페트로니우스 막시무스의 부추김에 넘어가, 제국을 지키던 핵심 장군 플라비우스 아에티우스를 직접 살해한 것이다.
 
 기원전 27년 아우구스투스 이래 로마 황제의 정통성은 본질적으로 군대에 대한 통제력과 원로원의 인정에 기반을 두고 있었다. 그러나 후기 제국에 이르러 동서로 분할된 통치 체제 속에서, 게르만족의 침입에 시달리던 서로마는 황권과 군권의 균열 속에 점차 쇠락의 길을 걷고 있었다.
@@ -245,6 +264,7 @@ addStories([
     r: '1789년 9월 22일 림니크 전투에서 알렉산드르 수보로프가 이끈 러시아·오스트리아 연합군이 훨씬 대규모였던 오스만 제국군을 대파했다.',
     src: '위키백과 · 림니크 전투',
     url: 'https://en.wikipedia.org/wiki/Battle_of_Rymnik',
+    img: 'https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1c/%D0%A1%D1%80%D0%B0%D0%B6%D0%B5%D0%BD%D0%B8%D0%B5_%D0%BF%D1%80%D0%B8_%D0%A0%D1%8B%D0%BC%D0%BD%D0%B8%D0%BA%D0%B5._%D0%93%D1%80%D0%B0%D0%B2%D1%8E%D1%80%D0%B0.jpg/960px-%D0%A1%D1%80%D0%B0%D0%B6%D0%B5%D0%BD%D0%B8%D0%B5_%D0%BF%D1%80%D0%B8_%D0%A0%D1%8B%D0%BC%D0%BD%D0%B8%D0%BA%D0%B5._%D0%93%D1%80%D0%B0%D0%B2%D1%8E%D1%80%D0%B0.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail',
     b: `1789년 9월 22일, 왈라키아의 림니크 강가에서 러시아 장군 알렉산드르 수보로프와 합스부르크의 코부르크 공자 요시아스가 이끄는 연합군이 대재상 체나제 하산 파샤 휘하의 오스만 대군과 마주했다. 병력 규모에서는 오스만군이 압도적이었다.
 
 전투는 수보로프의 대담한 구상대로 전개되었다. 병력의 다수를 차지한 오스트리아군이 오스만군의 정면 공세를 온몸으로 받아내며 좌익에서 포위 직전까지 몰렸으나 끝내 버텨냈고, 그사이 수보로프의 러시아군은 험준한 지형을 가로질러 오스만군 좌익을 깊숙이 우회 타격했다.
@@ -257,6 +277,7 @@ addStories([
     r: '1918년 9월 23일 제1차 세계 대전 중 영국군과 인도 기병 여단이 오스만 제국으로부터 하이파와 아크레, 에스살트를 점령했다.',
     src: '위키백과 · 하이파 전투 (1918년)',
     url: 'https://en.wikipedia.org/wiki/Battle_of_Haifa_%281918%29',
+    img: 'https://thumb.wikimedia.org/wikipedia/commons/thumb/4/43/Indian_lancers_in_Haifa_1918.jpg/960px-Indian_lancers_in_Haifa_1918.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail',
     b: `제1차 세계 대전 말기인 1918년 9월, 시나이·팔레스타인 전역의 결정타인 메기도 전투가 막바지에 접어들었다. 영국 제국 보병대가 오스만 제8군의 전선을 돌파하고 사막 기병 군단이 후방 보급로를 포위하자, 오스만군은 다마스쿠스를 향해 퇴각하기 시작했다.
 
 9월 23일, 이전의 공세가 번번이 저지되었던 하이파와 아크레를 점령하기 위해 인도 제15 기병 여단과 제5 기병 사단이 나섰다. 마이소르 창기병대와 셔우드 레인저스 의용기병대가 오스트리아 포병 진지를 들이치며 포문을 열었고, 이어 조드푸르 창기병대와 경장갑차 부대가 독일군 후위 진지를 돌파하며 하이파 시내를 장악했다.
@@ -269,6 +290,7 @@ addStories([
     r: '867년 9월 24일, 비잔티움 황제 미하일 3세가 자신의 침실에서 공동 황제 바실리오스 1세에게 암살당했다.',
     src: '위키백과 · 미하일 3세',
     url: 'https://en.wikipedia.org/wiki/Michael_III',
+    img: 'https://upload.wikimedia.org/wikipedia/commons/0/0e/Michael_iii.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled',
     b: `태어난 지 4~8개월 만에 황제 칭호를 받고 두 살의 나이에 정식 황제에 올랐던 미하일 3세는 아모리온 왕조의 마지막 군주였다. 훗날 그를 밀어내고 제위를 차지한 마케도니아 왕조의 사가들은 그를 '주정뱅이 미하일'이라 깎아내렸으나, 현대 연구는 그의 치세가 9세기 비잔티움 국력 부흥에 중요한 역할을 했음을 재평가하고 있다.
 
 그러나 궁정의 권력 구도는 그의 편이 아니었다. 미하일 3세는 자신이 발탁해 공동 황제(카이사르) 자리까지 올린 바실리오스 1세의 야심을 막아내지 못했다.
@@ -281,6 +303,7 @@ addStories([
     r: '1396년 9월 25일 니코폴리스 전투에서 오스만 술탄 바예지드 1세가 유럽 연합 십자군을 격파하고 제2차 불가리아 제국을 멸망시켰다.',
     src: '위키백과 · 니코폴리스 전투',
     url: 'https://en.wikipedia.org/wiki/Battle_of_Nicopolis',
+    img: 'https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e3/NikopolisSchlacht.jpg/960px-NikopolisSchlacht.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail',
     b: `1396년 9월 25일, 다뉴브 강변의 요새 니코폴리스 앞에서 유럽 각국에서 모인 연합 십자군과 베네치아 함대의 지원을 받는 기독교 동맹군이 오스만 술탄 바예지드 1세의 군대와 맞붙었다.
 
 1443~1444년 바르나 십자군과 함께 중세 최후의 대규모 십자군으로 꼽히는 '니코폴리스 십자군'은 오스만군의 반격 앞에 참혹한 패배를 당했다. 이 승리로 니코폴리스 포위를 푼 오스만 제국은 제2차 불가리아 제국의 숨통을 완전히 끊어 놓았다.
@@ -293,6 +316,7 @@ addStories([
     r: '1687년 9월 26일 모레아 전쟁 중 오스만 수비대가 화약고로 쓰던 아테네 파르테논 신전이 베네치아군의 아크로폴리스 포격으로 크게 파괴되었다.',
     src: '위키백과 · 모레아 전쟁',
     url: 'https://en.wikipedia.org/wiki/Morean_War',
+    img: 'https://upload.wikimedia.org/wikipedia/commons/b/b8/Medal_for_the_Venetian_victories_in_the_Morean_War%2C_G._Hautsch%2C_Nuremberg%2C_1687.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled',
     b: `크레타 전쟁의 패배를 설욕하려던 베네치아 공화국은 오스만 제국이 빈 공방전 실패 이후 합스부르크와의 북방 전선에 묶인 틈을 타 1684년 모레아 전쟁(제6차 오스만-베네치아 전쟁)을 일으켰다. 대튀르크 전쟁의 일환으로 달마티아에서 에게해까지 전선이 확대되었다.
 
 전쟁의 참화는 고대 그리스 문명의 상징마저 비켜가지 않았다. 1687년 9월 26일 베네치아군이 아크로폴리스를 포위 포격하던 중, 당시 오스만 수비대가 화약 저장고로 사용하던 파르테논 신전이 포탄에 맞아 내부가 폭발하며 심각하게 파괴되고 만 것이다.
@@ -305,6 +329,7 @@ addStories([
     r: '1529년 9월 27일, 오스만 술탄 슐레이만 1세가 10만 대군을 이끌고 빈을 공격하면서 제1차 빈 포위전이 시작되었다.',
     src: '위키백과 · 빈 포위전 (1529년)',
     url: 'https://en.wikipedia.org/wiki/Siege_of_Vienna_%281529%29',
+    img: 'https://upload.wikimedia.org/wikipedia/commons/f/f6/Siegeofvienna1529.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled',
     b: `1526년 모하치 전투에서 헝가리 국왕 러요시 2세가 전사한 뒤 헝가리는 합스부르크의 페르디난트 1세와 오스만의 봉신이 된 서포여이 야노시로 갈라져 내전에 휩싸였다. 헝가리 문제에 개입한 오스만 술탄 슐레이만 대제는 마침내 신성 로마 제국의 심장부인 오스트리아 빈을 정조준했다.
 
 1529년 9월 27일, 10만 명이 넘는 오스만 대군이 빈 성벽을 에워싸며 공세가 시작되었다. 니클라스 그라프 잘름이 지휘하는 빈 수비대는 2만 1,000여 명에 불과했으나, 10월 15일까지 이어진 2주 남짓의 포위를 끝내 견뎌내며 도시를 지켜냈다.
@@ -317,6 +342,7 @@ addStories([
     r: '이탈리아-튀르크 전쟁은 1911년 9월 29일부터 1912년 10월 18일까지 벌어졌다. 이탈리아는 트리폴리타니아와 키레나이카 해안을 차지했다. 이 전쟁은 제1차 발칸 전쟁과 제1차 세계대전의 전조가 되었다.',
     src: '위키백과 · 이탈리아-튀르크 전쟁',
     url: 'https://en.wikipedia.org/wiki/Italo-Turkish_War',
+    img: 'https://upload.wikimedia.org/wikipedia/commons/f/f1/Italo-Turkish_war_collage.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled',
     b: `위키백과는 이탈리아-튀르크 전쟁이 1911년 9월 29일부터 1912년 10월 18일까지 벌어졌다고 적습니다. 이탈리아는 트리폴리 주의 해안 지역을 차지해 나중의 이탈리아 리비아가 되었습니다. 이탈리아군은 에게 해의 도데카니스 제도도 점령했습니다. 1912년 우쉬 조약으로 전쟁이 끝났고, 도데카니스는 오스만에 돌려주기로 했지만 결국 돌려받지 못했습니다.
 
 원문은 이탈리아가 쉽게 이기는 것을 본 발칸 연맹이 1912년 10월 오스만을 공격해 제1차 발칸 전쟁이 시작되었다고 설명합니다.`
@@ -327,6 +353,7 @@ addStories([
     r: '술레이만 1세(1494~1566)는 1520년 9월 30일 아버지 셀림 1세를 이어 술탄이 되었다. 1520년부터 1566년까지 재위했고, 가장 오래 재위한 오스만 술탄이다.',
     src: '위키백과 · 술레이만 1세',
     url: 'https://en.wikipedia.org/wiki/Suleiman_the_Magnificent',
+    img: 'https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e9/EmperorSuleiman.jpg/960px-EmperorSuleiman.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail',
     b: `위키백과는 술레이만 1세가 1494년 11월 6일 태어나 1520년 9월 30일 아버지 셀림 1세를 이어 술탄이 되었다고 적습니다. 그의 치세는 오스만 경제, 군사, 정치 권력의 정점이었고, 신민은 적어도 2,500만 명에 이르렀습니다.
 
 원문에 따르면 그는 1521년 베오그라드, 1522년 로도스를 얻었고, 1526년 모하치에서 헝가리 왕국의 힘을 꺾었습니다. 1529년 빈 공성에 실패해 유럽 깊숙이 들어가지 못했습니다. 법을 정비했고, 학자 에브수우드 에펜디와 함께 술탄의 법(카눈)과 이슬람 법(샤리아)을 하나로 묶었습니다. 시인이자 금세공사이기도 했습니다.`

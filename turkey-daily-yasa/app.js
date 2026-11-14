@@ -308,6 +308,12 @@ function render() {
           </div>
         </div>
         <h2 class="story-title">${s.title}</h2>
+        ${s.imageUrl ? `
+          <figure class="story-figure">
+            <img src="${escapeHtml(s.imageUrl)}" alt="${escapeHtml(s.title)}" loading="lazy" onerror="this.parentElement.style.display='none'" />
+            <figcaption>${escapeHtml(s.source || '오스만·터키 기록')} · ${escapeHtml(s.king || '')}</figcaption>
+          </figure>
+        ` : ''}
         ${illust ? `
           <figure class="story-illust">
             <img src="${illust.src}" alt="${escapeHtml(illust.caption)}" loading="lazy" />

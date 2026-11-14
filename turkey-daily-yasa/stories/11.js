@@ -19,6 +19,7 @@ addStories([
     r: '1912년 11월 2일, 불가리아 왕국이 제1차 발칸 전쟁에서 가장 치열했던 룰레 부르가스 전투에서 오스만 제국을 격파하고 콘스탄티노폴리스로 진격할 발판을 마련했다.',
     src: '위키백과 · 불가리아 왕국',
     url: 'https://en.wikipedia.org/wiki/Kingdom_of_Bulgaria',
+    img: 'https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9a/Flag_of_Bulgaria.svg/960px-Flag_of_Bulgaria.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail',
     b: `1908년 공국에서 차르국으로 격상된 불가리아 왕국은 건국 초기부터 발칸 반도 내 불가리아인 다수 거주 지역의 통일을 목표로 군사적 팽창을 추구했다. 약 500만 명의 인구 가운데 100만 명 이상을 동원할 정도로 잦은 전쟁을 치러 ‘발칸의 프로이센’이라는 별칭까지 얻었다.
 
 1912년 11월 2일 발발한 룰레 부르가스 전투는 그 군사력이 정점에 달한 순간이었다. 제1차 발칸 전쟁에서 가장 많은 피를 흘린 이 격전에서 불가리아군은 오스만 제국군을 대파하며 오스만의 수도 콘스탄티노폴리스로 향하는 진격로를 활짝 열어젖혔다.
@@ -31,6 +32,7 @@ addStories([
     r: '361년 11월 3일, 로마 황제 콘스탄티우스 2세가 킬리키아의 몹수에스티아에서 열병으로 사망하며 임종 직전 세례를 받고 사촌 율리아누스를 정당한 후계자로 지목했다.',
     src: '위키백과 · 콘스탄티우스 2세',
     url: 'https://en.wikipedia.org/wiki/Constantius_II',
+    img: 'https://upload.wikimedia.org/wikipedia/commons/3/30/Bust_of_Constantius_II_%28Mary_Harrsch%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled',
     b: `콘스탄티누스 대제의 아들로 337년 형제들과 함께 제위에 오른 콘스탄티우스 2세의 치세는 국경의 전쟁과 궁정의 피비린내 나는 암투로 점철되었다. 그는 즉위 직후 장인과 숙부, 여러 사촌을 살해하며 권력을 다졌고, 두 형제마저 내전과 찬탈로 스러진 뒤 마그넨티우스를 격파하고 단독 황제가 되었다.
 
 이후 그는 동방에서 부패와 폭정으로 비난받던 사촌 갈루스를 처형한 뒤, 마지막 남은 사촌 율리아누스를 부제로 임명했다. 그러나 360년 사산 왕조와의 전쟁 수습을 위해 동방으로 향하던 중, 갈리아에서 율리아누스가 스스로 정제(아우구스투스)를 칭하며 두 사람 사이에 일촉즉발의 내전이 벌어졌다.
@@ -43,6 +45,7 @@ addStories([
     r: '512년 11월 4일, 비잔티움 황제 아나스타시우스 1세가 칼케돈파 총대주교들을 폐위하고 단성론식 전례 개편을 시도하자 콘스탄티노폴리스에서 폭동이 일어나 군중이 아레오빈두스를 황제로 추대하려 했다.',
     src: '위키백과 · 비잔티움 황제 목록',
     url: 'https://en.wikipedia.org/wiki/List_of_Byzantine_emperors',
+    img: 'https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b6/Konstantinos_XI_Palaiologos_fresco_%28less_edited%29.jpg/960px-Konstantinos_XI_Palaiologos_fresco_%28less_edited%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail',
     b: `330년 콘스탄티노폴리스 건국과 함께 시작된 비잔티움 제국은 로마 제국의 직접적인 법적 계승국이었다. 그러나 중세의 다른 왕국들과 달리 제위 세습은 법적 의무가 아닌 관습에 가까웠기에, 민심이나 군부의 동요가 곧장 황제 교체 시도로 이어지곤 했다.
 
 512년 11월 4일 콘스탄티노폴리스에서 터져 나온 소요는 제국의 이러한 정치적 특성을 여실히 드러냈다. 당시 황제 아나스타시우스 1세가 칼케돈파 총대주교들을 자리에서 몰아내고 단성론의 색채가 담긴 전례 변경을 밀어붙이자, 수도의 민심이 격렬하게 폭발한 것이다.
@@ -55,6 +58,7 @@ addStories([
     r: '644년 11월 6일, 이슬람 제국의 대확장을 이끈 제2대 정통 칼리파 우마르가 암살되었다.',
     src: '위키백과 · 우마르',
     url: 'https://en.wikipedia.org/wiki/Umar',
+    img: 'https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9c/Hagia_Sopia_6163502494_%28cropped%29_%28cropped%29.jpg/960px-Hagia_Sopia_6163502494_%28cropped%29_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail',
     b: `우마르 이븐 알카타브는 한때 무함마드를 칼로 죽이려 할 만큼 이슬람에 적대적이었으나, 616년 극적인 회심을 거쳐 카바 신전에서 공개적으로 기도한 최초의 무슬림이 되었다. 무함마드의 거의 모든 원정에 함께한 그는 뛰어난 판단력을 인정받아 ‘알파루크(구별하는 자)’라는 칭호를 얻었다.
 
 634년 제2대 칼리파에 오른 우마르는 유례없는 속도로 제국을 넓혔다. 그의 군대는 단 2년 만에 사산 왕조 페르시아를 정복했고, 비잔티움 제국 영토의 3분의 2 이상을 차지했다. 또한 히즈라력을 도입하고 예루살렘에 유대인이 출입해 예배할 수 있도록 허용하는 등 제국의 기틀을 세웠다.
@@ -67,6 +71,7 @@ addStories([
     r: '680년 11월 7일, 단의론과 단능력설을 이단으로 규정하고 그리스도의 두 본성과 두 의지를 확립한 제3차 콘스탄티노폴리스 공의회(제6차 세계 공의회)가 개회되었다.',
     src: '위키백과 · 제3차 콘스탄티노폴리스 공의회',
     url: 'https://en.wikipedia.org/wiki/Third_Council_of_Constantinople',
+    img: 'https://thumb.wikimedia.org/wikipedia/commons/thumb/5/58/45-manasses-chronicle.jpg/960px-45-manasses-chronicle.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail',
     b: `680년 11월 7일, 비잔티움 제국의 수도 콘스탄티노폴리스에서 기독교 교리사의 중요한 분기점이 된 회의가 시작되었다. 동방 정교회와 가톨릭교회 등에서 제6차 세계 공의회로 인정하는 제3차 콘스탄티노폴리스 공의회였다.
 
 680년부터 681년까지 이어진 이 공의회의 핵심 과제는 제국 교회를 뒤흔들던 신학 논쟁을 매듭짓는 것이었다. 공의회는 예수 그리스도에게 하나의 에너지(능력)나 하나의 의지만 있다는 ‘단능력설’과 ‘단의론’을 이단으로 정죄했다.
@@ -79,6 +84,7 @@ addStories([
     r: '1687년 11월 8일, 오스만 제국의 술탄 메흐메트 4세가 반란을 일으킨 군대와 울라마에 의해 폐위되고 동생 쉴레이만 2세가 새 술탄에 올랐다.',
     src: '위키백과 · 메흐메트 4세',
     url: 'https://en.wikipedia.org/wiki/Mehmed_IV',
+    img: 'https://thumb.wikimedia.org/wikipedia/commons/thumb/6/65/Mahomet_IV._sonst_Achmet_genannt_T%C3%BCrckischer_Ka%C3%BFser.jpg/960px-Mahomet_IV._sonst_Achmet_genannt_T%C3%BCrckischer_Ka%C3%BFser.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail',
     b: `1648년 쿠데타로 아버지가 폐위된 뒤 불과 여섯 살의 나이에 제위에 오른 메흐메트 4세는, 쉴레이만 대제에 이어 오스만 역사상 두 번째로 오랜 기간 재위한 술탄이었다. 쾨프륄뤼 가문의 중흥기에 힘입어 그의 치세 동안 오스만 제국은 유럽에서 영토 확장의 정점을 찍었고, 메흐메트 4세는 경건한 성전사(가지)로 불렸다.
 
 어린 시절부터 사냥에 깊은 관심을 보여 ‘사냥꾼 메흐메트’라는 별명을 얻은 그였으나, 치세 말년의 전운은 가혹했다. 신성 동맹 전쟁이 불리하게 돌아가면서 제국의 군사적 패배와 정치적 불안정이 깊어졌고, 불만은 임계점을 넘었다.
@@ -91,6 +97,7 @@ addStories([
     r: '1456년 11월 9일, 첼리 백국의 마지막 통치자이자 헝가리의 실권자였던 울리히 2세가 베오그라드에서 후녀디 가문의 자객들에게 암살되었다.',
     src: '위키백과 · 첼레의 울리히 2세',
     url: 'https://en.wikipedia.org/wiki/Ulrich_II_of_Celje',
+    img: 'https://upload.wikimedia.org/wikipedia/commons/5/5e/Ulrich_II._of_Cilli.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled',
     b: `첼레의 울리히 2세는 당대 중부유럽에서 막강한 권력을 휘두르던 영주였다. 사망 당시 그는 헝가리의 총사령관이자 사실상의 섭정이었으며, 슬라보니아·크로아티아·달마티아의 총독을 겸하고 오늘날 슬로베니아와 크로아티아, 보스니아, 오스트리아, 슬로바키아에 걸친 광대한 영지를 거느린 채 보스니아 왕위까지 노리고 있었다.
 
 그러나 1456년 11월 9일, 베오그라드에서 울리히 2세는 정적 후녀디 가문의 자객들에게 목숨을 잃고 말았다. 그가 어떤 경위로 살해되었는지 구체적인 정황은 여전히 베일에 싸여 있다.
@@ -103,6 +110,7 @@ addStories([
     r: '바르나 전투는 1444년 11월 10일 불가리아 동부 바르나 근처에서 벌어졌다. 술탄 무라트 2세의 오스만군이 폴란드·헝가리 왕 블라디스와프 3세가 이끈 십자군을 격파했다. 왕은 전사했다.',
     src: '위키백과 · 바르나 전투',
     url: 'https://en.wikipedia.org/wiki/Battle_of_Varna',
+    img: 'https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6f/Battle_of_Varna_1444.PNG/960px-Battle_of_Varna_1444.PNG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail',
     b: `위키백과는 바르나 전투가 1444년 11월 10일 벌어졌다고 적습니다. 무라트 2세의 오스만군이 폴란드와 헝가리의 왕 블라디스와프 3세, 섭정 야노스 후냐디, 왈라키아의 미르체아 2세가 이끈 십자군을 이겼습니다. 이 싸움은 발칸에서 오스만의 확장을 막으려던 바르나 십자군의 마지막 전투였습니다.
 
 원문은 1440~1442년 실패한 원정과 1442~1443년 후냐디의 "긴 원정"을 거쳐, 무라트 2세가 헝가리와 10년 휴전을 맺었다고 적습니다. 이 휴전을 교황 대리 체사리니가 깨도록 부추겼습니다. 1444년 8월 무라트 2세는 아나톨리아 카라만과 화해한 뒤 열두 살 아들 메흐메트 2세에게 왕위를 넘겼습니다.`
@@ -113,6 +121,7 @@ addStories([
     r: '1606년 11월 11일, 지트바토로크 평화 조약이 체결되어 합스부르크 군주국과 오스만 제국 간의 13년 전쟁이 종결되었고, 오스만 술탄은 처음으로 신성 로마 황제를 대등한 군주로 인정했다.',
     src: '위키백과 · 지트바토로크 조약',
     url: 'https://en.wikipedia.org/wiki/Peace_of_Zsitvatorok',
+    img: 'https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7d/Zsitvat%C5%91.JPG/960px-Zsitvat%C5%91.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail',
     b: `1606년 11월 11일, 왕령 헝가리의 지트바 강 어귀에서 13년간 이어진 긴 튀르크 전쟁을 끝내는 지트바토로크 조약이 체결되었다. 술탄 아흐메트 1세와 신성 로마 제국을 대표한 오스트리아 대공 마티아스가 서명한 이 조약은 20년 기한의 평화를 약속했다.
 
 조약 문구를 둘러싼 오스만 튀르크어본과 헝가리어본의 미묘한 차이 때문에 해석은 엇갈렸다. 헝가리 측은 종전의 연간 공납 대신 20만 플로린을 일시불로 바친다고 보았으나, 오스만 측 문서는 3년 뒤 재지급을 상정했다. 오스만 약탈 금지와 귀족 면세 조항도 실제로는 제대로 지켜지지 않았다.
@@ -125,6 +134,7 @@ addStories([
     r: '1028년 11월 12일, 훗날 비잔티움 여제가 되는 조이가 로마노스 3세 아르기로스의 황후로서 제위에 올랐다.',
     src: '위키백과 · 비잔티움 황제 목록',
     url: 'https://en.wikipedia.org/wiki/List_of_Byzantine_emperors',
+    img: 'https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b6/Konstantinos_XI_Palaiologos_fresco_%28less_edited%29.jpg/960px-Konstantinos_XI_Palaiologos_fresco_%28less_edited%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail',
     b: `1028년 11월 12일, 조이는 로마노스 3세 아르기로스와 짝을 이루어 황후의 자리에 오르며 훗날 여제로 군림할 역사의 서막을 열었다. 비잔티움 제국의 권력 구도 속에서 황후의 등장은 단순한 혼인 이상의 정치적 무게를 지녔다.
 
 당시 비잔티움 제국은 395년 동서 로마 분열 이후 동로마의 법통을 이은 국가로, 황제 스스로를 아우구스투스의 직계인 로마 황제로 여겼다. 중세의 왕조 전통이 자리 잡았음에도 제국에는 혈통에 따른 세습을 강제하는 공식 법규가 없었다.
@@ -137,6 +147,7 @@ addStories([
     r: '1918년 11월 13일, 제1차 세계대전의 연합군 병력이 오스만 제국의 수도 콘스탄티노폴리스를 점령했다.',
     src: '위키백과 · 제1차 세계대전의 연합국',
     url: 'https://en.wikipedia.org/wiki/Allies_of_World_War_I',
+    img: 'https://thumb.wikimedia.org/wikipedia/commons/thumb/4/45/Le_grande_pavois_des_Allies_%28cropped%29.jpg/960px-Le_grande_pavois_des_Allies_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail',
     b: `1914년부터 1918년까지 이어진 제1차 세계대전에서 프랑스, 영국, 러시아, 미국, 이탈리아, 일본 등이 주축이 된 연합국(협상국)은 독일, 오스트리아-헝가리, 오스만 제국, 불가리아로 이루어진 동맹국에 맞서 총력전을 벌였다.
 
 전쟁이 길어지며 1917년 러시아가 이탈하고 미국이 참전하는 등 전선과 진영의 판도가 요동쳤고, 연합국은 식민지 인력까지 동원하며 동맹국을 압박했다. 오랜 소모전 끝에 승기는 연합국 쪽으로 기울었다.
@@ -149,6 +160,7 @@ addStories([
     r: '565년 11월 14일, 유스티니아누스 1세의 사망과 함께 조카 유스티누스 2세가 비잔티움 황제에 즉위했다.',
     src: '위키백과 · 유스티누스 2세',
     url: 'https://en.wikipedia.org/wiki/Justin_II',
+    img: 'https://upload.wikimedia.org/wikipedia/commons/8/8c/Solidus_of_Justin_II_%28obverse%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled',
     b: `565년 11월 14일, 비잔티움 제국의 황금기를 이끈 유스티니아누스 1세가 세상을 떠나자, 그의 조카이자 테오도라 황후의 조카딸 소피아의 남편인 유스티누스 2세가 제위를 이었다. 그러나 그가 물려받은 것은 영토는 크게 넓어졌으나 국력이 지나치게 팽창해 버거운 제국이었다.
 
 유스티누스 2세는 이웃 세력에 바치던 공물을 중단하고 강경한 대외 정책으로 선회했다. 그 결과 568년 랑고바르드족과의 전쟁이 시작되어 이탈리아 영토 상당 부분을 잃었고, 572년에는 사산 왕조 페르시아와의 전쟁마저 재개되어 고전을 면치 못했다.
@@ -161,6 +173,7 @@ addStories([
     r: '브라질 공화국 선포는 1889년 11월 15일 군부 쿠데타로 이루어졌다. 페드루 2세 황제가 폐위되었고, 데오도로 다 폰세카 원수가 임시 대통령이 되었다.',
     src: '위키백과 · 브라질 공화국 선포',
     url: 'https://en.wikipedia.org/wiki/Proclamation_of_the_Republic_(Brazil)',
+    img: 'https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b7/Proclama%C3%A7%C3%A3o_da_Rep%C3%BAblica_by_Benedito_Calixto_1893.jpg/960px-Proclama%C3%A7%C3%A3o_da_Rep%C3%BAblica_by_Benedito_Calixto_1893.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail',
     b: `위키백과는 브라질 공화국 선포가 1889년 11월 15일 군부의 무혈 쿠데타로 이루어졌다고 적습니다. 리우데자네이루에서 데오도로 다 폰세카 원수가 이끈 장교들이 황제 페드루 2세와 내각 의장 오루 프레투 자작을 폐위했습니다. 같은 날 임시정부가 세워졌습니다.
 
 이 항목은 오스만 제국과 직접 관계된 사건이 아닙니다. 그래도 같은 세기 왕정이 공화국으로 바뀌는 흐름을 보여 줍니다.`
@@ -171,6 +184,7 @@ addStories([
     r: '534년 11월 16일, 비잔티움 법학자 트리보니아누스와 조수들이 개정·보완한 12권 분량의 유스티니아누스 법전 제2판이 반포되었다.',
     src: '위키백과 · 유스티니아누스 법전',
     url: 'https://en.wikipedia.org/wiki/Code_of_Justinian',
+    img: 'https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4d/Ghent%2C_Ghent_University_Library_MS_Bibliotheek_Letteren_en_Wijsbegeerte-Handschriften_0021_fol._24v-25r_Code_of_Justinian.jpg/960px-Ghent%2C_Ghent_University_Library_MS_Bibliotheek_Letteren_en_Wijsbegeerte-Handschriften_0021_fol._24v-25r_Code_of_Justinian.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail',
     b: `6세기 초, 콘스탄티노폴리스의 동로마 황제 유스티니아누스 1세는 방대하게 흩어져 있던 로마법을 체계적으로 정리하라는 대명을 내렸다. 이 작업의 핵심을 맡은 인물이 당대 최고의 법학자 트리보니아누스였다.
 
 534년 11월 16일, 트리보니아누스와 그의 조수들은 기존 법전을 수정·보완한 12권짜리 ‘유스티니아누스 법전(Codex Justinianus)’ 제2판을 세상에 내놓았다. 이는 법의 일관성과 실효성을 한층 끌어올린 결정판이었다.
@@ -183,6 +197,7 @@ addStories([
     r: '1104년 11월 17일, 한때 스스로 황제를 칭했다가 알렉시오스 1세 콤네노스에게 귀순해 카이사르의 지위에 오른 비잔티움 장군 니키포로스 멜리세노스가 사망했다.',
     src: '위키백과 · 니키포로스 멜리세노스',
     url: 'https://en.wikipedia.org/wiki/Nikephoros_Melissenos',
+    img: 'https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b0/Coin_of_Nikephoros_Melissenos.jpg/960px-Coin_of_Nikephoros_Melissenos.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail',
     b: `1045년경 명문가에서 태어난 니키포로스 멜리세노스는 1060년대 발칸과 소아시아에서 총독과 장군으로 활약했다. 1071년 만지케르트 전투 이후 여러 장군들이 제위를 노리며 혼란이 극에 달했을 때, 그는 미하일 7세 두카스에게 충성을 바쳤다가 후임 니키포로스 3세 보타네이아테스에 의해 유배되었다.
 
 그러나 그는 1080년부터 1081년 사이 튀르크 세력의 도움을 받아 소아시아의 남은 비잔티움 영토를 장악하고 스스로 황제를 선언했다. 하지만 매제 알렉시오스 1세 콤네노스가 콘스탄티노폴리스를 차지하며 반란에 성공하자, 멜리세노스는 순순히 항복했다.
@@ -195,6 +210,7 @@ addStories([
     r: '1601년 11월 18일, 오스만 제국의 지방 총독 티리아키 하산 파샤가 너지커니저를 포위하던 페르디난트 2세 대공의 합스부르크군을 대파했다.',
     src: '위키백과 · 티리아키 하산 파샤',
     url: 'https://en.wikipedia.org/wiki/Tiryaki_Hasan_Pasha',
+    img: 'https://upload.wikimedia.org/wikipedia/commons/f/fe/Tiryaki_hassan.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled',
     b: `오스만 제국의 궁정 학교 엔데룬에서 교육을 받은 티리아키 하산 파샤는 긴 튀르크 전쟁에 참전해 이름을 떨친 지휘관이었다. 1601년 11월 18일 벌어진 너지커니저 공방전은 그의 군사적 역량이 가장 빛난 무대였다.
 
 당시 오스트리아 대공 페르디난트 2세가 이끄는 합스부르크군이 너지커니저 요새를 에워싸고 압박해 왔다. 수적으로 열세에 몰린 상황이었으나, 하산 파샤는 침착하고 대담한 지휘로 포위군을 무너뜨리며 완승을 거두었다.
@@ -207,6 +223,7 @@ addStories([
     r: '1341년 11월 19일, 내전이 한창이던 비잔티움 제국에서 여덟 살의 요안니스 5세 팔라이올로고스가 황제로 대관식을 치렀다.',
     src: '위키백과 · 요안니스 5세 팔라이올로고스',
     url: 'https://en.wikipedia.org/wiki/John_V_Palaiologos',
+    img: 'https://thumb.wikimedia.org/wikipedia/commons/thumb/3/37/Restored_mosaic_of_John_V_Palaiologos_%28head%29.jpg/960px-Restored_mosaic_of_John_V_Palaiologos_%28head%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail',
     b: `1341년 11월 19일, 여덟 살 소년 요안니스 5세 팔라이올로고스가 비잔티움 황제의 관을 썼을 때 제국은 이미 피비린내 나는 내전에 휩싸여 있었다. 섭정 요안니스 6세 칸타쿠제노스와 모후 안나 사이에서 권력 투쟁이 벌어졌고, 안나는 군자금을 대려고 제관의 보석까지 베네치아에 저당 잡혔다.
 
 1347년 흑사병의 창궐과 함께 막을 내린 1차 내전에 이어 1352년 2차 내전이 터졌고, 이 혼란 속에서 오스만 튀르크는 마침내 유럽 내 첫 영토를 손에 넣었다. 1354년 친정을 시작한 요안니스 5세는 서방의 지원을 얻기 위해 1369년 교황 앞에서 가톨릭으로 개종까지 감행했다.
@@ -219,6 +236,7 @@ addStories([
     r: '1805년 11월 20일, 루트비히 판 베토벤의 유일한 오페라 《피델리오》가 빈에서 초연되었다.',
     src: '위키백과 · 루트비히 판 베토벤',
     url: 'https://en.wikipedia.org/wiki/Ludwig_van_Beethoven',
+    img: 'https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6e/Joseph_Karl_Stieler%27s_Beethoven_mit_dem_Manuskript_der_Missa_solemnis.jpg/960px-Joseph_Karl_Stieler%27s_Beethoven_mit_dem_Manuskript_der_Missa_solemnis.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail',
     b: `고전주의에서 낭만주의로의 전환을 이끈 독일의 작곡가 루트비히 판 베토벤에게 1802년부터 1812년까지의 중기는 독창적 예술 세계가 폭발하던 시기였다. 1790년대 후반부터 청력 상실의 징후가 찾아왔지만, 그의 창작열은 꺾이지 않았다.
 
 1805년은 베토벤 중기의 정점을 알리는 해였다. 전례 없는 규모와 깊이를 자랑하는 교향곡 제3번 〈영웅〉이 초연된 데 이어, 11월 20일에는 빈에서 그의 유일한 오페라인 《피델리오》가 마침내 무대에 올랐다.
@@ -241,6 +259,7 @@ addStories([
     r: '870년 11월 23일, 912년부터 913년까지 짧은 기간 비잔티움 제국을 다스린 마케도니아 왕조의 세 번째 황제 알렉산드로스가 태어났다.',
     src: '위키백과 · 알렉산드로스 (비잔티움 황제)',
     url: 'https://en.wikipedia.org/wiki/Alexander_%28Byzantine_emperor%29',
+    img: 'https://upload.wikimedia.org/wikipedia/commons/1/1d/Alexandros_mosaic.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled',
     b: `870년 11월 23일, 비잔티움 제국 마케도니아 왕조의 일원인 알렉산드로스가 태어났다. 그리스어로 ‘알렉산드로스’라 불린 그는 훗날 비잔티움 제국의 역사를 이끈 마케도니아 왕조에서 세 번째로 황제의 자리에 오른 인물이었다.
 
 그러나 그가 단독으로 제국을 다스린 시간은 매우 짧았다. 912년 비잔티움 황제에 즉위한 알렉산드로스는 이듬해인 913년 6월 6일 세상을 떠나며 약 1년여의 짧은 치세를 남긴 채 역사 속으로 퇴장했다.`
@@ -251,6 +270,7 @@ addStories([
     r: '380년 11월 24일, 로마 황제 테오도시우스 1세가 콘스탄티노폴리스에 공식 입성(아드벤투스)을 거행했다.',
     src: '위키백과 · 테오도시우스 1세',
     url: 'https://en.wikipedia.org/wiki/Theodosius_I',
+    img: 'https://upload.wikimedia.org/wikipedia/commons/f/f7/Bust_of_Theodosius_I.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled',
     b: `히스파니아 출신으로 부친의 뒤를 이어 군문을 밟은 테오도시우스 1세는, 한때 부친이 처형당하고 은퇴해야 하는 시련을 겪었으나 379년 동방 황제 발렌스가 고트족에게 전사한 뒤 그라티아누스 황제에 의해 위기 수습의 적임자로 발탁되었다.
 
 380년 11월 24일, 그는 제국의 동방 수도 콘스탄티노폴리스에서 황제의 위엄을 과시하는 공식 입성식(아드벤투스)을 치렀다. 이듬해 제1차 콘스탄티노폴리스 공의회를 소집해 니케아 신경을 정통 교리로 확립한 그는, 고트족과의 화친과 사산 왕조와의 아르메니아 분할 조약을 통해 국경 안정을 도모했다.
@@ -263,6 +283,7 @@ addStories([
     r: '1454년 11월 25일, 키프로스 왕국의 마지막 군주이자 베네치아 공화국이 키프로스 지배권을 주장하는 명분이 된 카테리나 코르나로가 태어났다.',
     src: '위키백과 · 카테리나 코르나로',
     url: 'https://en.wikipedia.org/wiki/Catherine_Cornaro',
+    img: 'https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0e/Gentile_Bellini_002.jpg/960px-Gentile_Bellini_002.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail',
     b: `1454년 11월 25일 태어난 카테리나 코르나로는 지중해 동부 키프로스 왕국의 마지막 군주이자 명목상 예루살렘과 아르메니아의 여왕 칭호까지 지녔던 인물이다. 그녀는 키프로스 국왕 자크 2세와 혼인하여 왕비가 되면서 섬나라 왕실의 역사와 운명을 함께하게 되었다.
 
 남편 사후 어린 아들 자크 3세의 섭정을 맡았던 그녀는 1474년 아들마저 세상을 떠나자 직접 여왕으로 즉위해 1489년까지 키프로스를 다스렸다. 그러나 그녀의 뒤에는 막강한 해상 공화국 베네치아의 그림자가 드리워져 있었다.
@@ -275,6 +296,7 @@ addStories([
     r: '1912년 11월, 두 차례에 걸쳐 콘스탄티노폴리스 세계 총대주교를 지낸 요아킴 3세가 세상을 떠났다.',
     src: '위키백과 · 콘스탄티노폴리스의 요아킴 3세',
     url: 'https://en.wikipedia.org/wiki/Joachim_III_of_Constantinople',
+    img: 'https://thumb.wikimedia.org/wikipedia/commons/thumb/0/05/%D0%9F%D0%B0%D1%82%D1%80%D0%B8%D0%B0%D1%80%D1%85_%D0%9A%D0%BE%D0%BD%D1%81%D1%82%D0%B0%D0%BD%D1%82%D0%B8%D0%BD%D0%BE%D0%BF%D0%BE%D0%BB%D1%8C%D1%81%D0%BA%D0%B8%D0%B9_%D0%98%D0%BE%D0%B0%D0%BA%D0%B8%D0%BC_III.jpg/960px-%D0%9F%D0%B0%D1%82%D1%80%D0%B8%D0%B0%D1%80%D1%85_%D0%9A%D0%BE%D0%BD%D1%81%D1%82%D0%B0%D0%BD%D1%82%D0%B8%D0%BD%D0%BE%D0%BF%D0%BE%D0%BB%D1%8C%D1%81%D0%BA%D0%B8%D0%B9_%D0%98%D0%BE%D0%B0%D0%BA%D0%B8%D0%BC_III.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail',
     b: `1834년 콘스탄티노폴리스에서 아로마니아계 아버지와 동트라키아계 어머니 사이에서 태어난 요아킴 3세는 빈에서 수학한 뒤 1878~1884년과 1901~1912년, 두 차례에 걸쳐 콘스탄티노폴리스 세계 총대주교를 역임했다. 첫 재임기에는 총대주교청의 재정을 개선하고 잡지 『진리』를 창간하며 자선 사업을 펼쳐 20세기 가장 영향력 있는 총대주교 중 한 명으로 꼽혔다.
 
 그러나 발칸 반도의 민족주의가 들끓던 시기 그의 행보는 논쟁적이기도 했다. 1911년 회칙에서는 아로마니아어로 교회 예배를 집전하는 것이 정교회 가르침에 어긋난다며 성직 박탈과 파문을 경고했고, 불가리아 교회와의 분열을 해결하려 했으나 큰 성과를 거두지 못했다.
@@ -287,6 +309,7 @@ addStories([
     r: '602년 11월 27일, 비잔티움 황제 마우리키우스가 제위를 찬탈한 포카스 앞에서 다섯 아들이 처형당하는 모습을 지켜본 뒤 자신도 참수되었다.',
     src: '위키백과 · 마우리키우스',
     url: 'https://en.wikipedia.org/wiki/Maurice_%28emperor%29',
+    img: 'https://upload.wikimedia.org/wikipedia/commons/3/3b/Solidus_of_Maurice_%28transitional_issue%29.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled',
     b: `티베리우스 2세의 사위이자 후계자로 582년 즉위한 마우리키우스는 유스티니아누스 왕조의 마지막 황제였다. 유능한 장군 출신이었던 그는 사산 왕조 페르시아와의 전쟁을 승리로 이끌어 거의 200년 만에 굴욕적인 금 공물 지급을 끊어냈고, 아바르족을 다뉴브강 너머로 몰아냈으며 이탈리아와 아프리카에 총독부를 세워 제국의 방어선을 다졌다.
 
 하지만 끊임없는 전쟁으로 불어난 재정 난맥을 수습하려던 긴축 정책이 화근이었다. 군대와 민중의 원성이 폭발하자 602년 불만을 품은 병사들이 장교 포카스를 앞세워 반란을 일으켰다.
@@ -299,6 +322,7 @@ addStories([
     r: '1912년 11월 28일, 알바니아가 4세기에 걸친 오스만 제국의 통치에서 벗어나 독립을 선언했다.',
     src: '위키백과 · 알바니아',
     url: 'https://en.wikipedia.org/wiki/Albania',
+    img: 'https://thumb.wikimedia.org/wikipedia/commons/thumb/3/36/Flag_of_Albania.svg/960px-Flag_of_Albania.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail',
     b: `고대 일리리아 부족들의 땅이었던 알바니아는 로마와 비잔티움 제국을 거쳐 15세기 스칸데르베그의 치열한 저항을 통해 오스만 제국의 팽창에 20년 넘게 맞섰다. 결국 오스만 제국에 편입된 뒤에도 알바니아인들은 400년의 외세 지배 속에서 고유한 언어와 사회적 정체성을 끈질기게 지켜냈다.
 
 19세기 알바니아 민족 부흥 운동으로 결집된 독립 열망은 발칸 반도의 정세가 요동치던 1912년 11월 28일, 오스만 제국으로부터의 공식 독립 선언으로 결실을 맺었다.
@@ -323,6 +347,7 @@ addStories([
     r: '1853년 11월 30일, 파벨 나히모프 제독이 이끄는 러시아 제국 해군이 흑해 시노프 항에서 오스만 함대를 궤멸시켰다.',
     src: '위키백과 · 시노프 해전',
     url: 'https://en.wikipedia.org/wiki/Battle_of_Sinop',
+    img: 'https://thumb.wikimedia.org/wikipedia/commons/thumb/d/dd/BattleOfSinop_2.jpg/960px-BattleOfSinop_2.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail',
     b: `크림 전쟁 초기이던 1853년 11월 30일, 아나톨리아 북부 흑해 연안의 항구 시노프에 정박해 있던 오스만 제국 함대를 향해 러시아 제국 해군이 기습 공세를 펼쳤다. 파벨 나히모프 제독의 전대는 전열함 6척과 프리깃 2척, 무장 증기선 3척으로 오스만 부제독 오스만 파샤의 함대를 압도했다.
 
 승부를 가른 것은 러시아 해군이 새로 도입한 폭발성 포탄, 즉 작렬탄이었다. 기존의 포탄과 달리 목조 선체를 단숨에 부수고 불태우는 작렬탄 앞에서 오스만의 프리깃과 코르벳함은 모두 침몰하거나 좌초했고, 단 한 척의 증기선만이 탈출에 성공했다. 러시아는 단 한 척의 배도 잃지 않았으며, 전투 후 시가지 포격으로 약 3,000명의 튀르크인이 희생되었다.

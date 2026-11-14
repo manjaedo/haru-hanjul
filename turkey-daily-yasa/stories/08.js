@@ -7,6 +7,7 @@ addStories([
     r: '1571년 8월 1일, 베네치아의 최후 보루였던 파마구스타가 11개월의 포위 끝에 항복하면서 오스만 제국의 키프로스 정복이 완료되었다.',
     src: '위키백과 · 오스만-베네치아 전쟁 (1570년~1573년)',
     url: 'https://en.wikipedia.org/wiki/Ottoman%E2%80%93Venetian_War_%281570%E2%80%931573%29',
+    img: 'https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e0/Battle_of_Lepanto_1571.jpg/960px-Battle_of_Lepanto_1571.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail',
     b: `1570년 오스만 술탄 셀림 2세가 베네치아령 키프로스를 침공하자 수도 니코시아를 비롯한 여러 도시가 압도적인 오스만 대군 앞에 빠르게 무너졌다. 베네치아군에게 남은 마지막 보루는 항구 도시 파마구스타뿐이었다.
 
 교황이 결성한 신성 동맹의 구원군은 제때 도착하지 못했고, 결국 11개월간 이어진 처절한 공방전 끝에 1571년 8월 1일 파마구스타마저 항복하고 말았다. 두 달 뒤 레판토 해전에서 기독교 연합 함대가 대승을 거두었으나, 함대를 재건한 오스만 제국은 끝내 베네치아로부터 키프로스 할양과 배상금을 받아냈다.`
@@ -27,6 +28,7 @@ addStories([
     r: '435년 8월 3일, 네스토리우스파의 창시자로 여겨지는 폐위된 콘스탄티노폴리스 총대주교 네스토리우스가 로마 황제 테오도시우스 2세에 의해 이집트의 수도원으로 유배되었다.',
     src: '위키백과 · 콘스탄티노폴리스 세계 총대주교',
     url: 'https://en.wikipedia.org/wiki/Ecumenical_Patriarch_of_Constantinople',
+    img: 'https://upload.wikimedia.org/wikipedia/commons/0/00/%D0%9F%D0%B0%D1%82%D1%80%D0%B8%D0%B0%D1%80%D1%85_%D0%92%D0%B0%D1%80%D1%84%D0%BE%D0%BB%D0%BE%D0%BC%D0%B5%D0%B9_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled',
     b: `고대 기독교의 교리 논쟁이 격렬하게 벌어지던 5세기, 제국의 수도 콘스탄티노폴리스의 영적 수장이던 세계 총대주교 자리 역시 정치와 신학의 거친 소용돌이 한가운데 있었다.
 
 435년 8월 3일, 그리스도의 신성과 인성을 둘러싼 교리 갈등 끝에 폐위된 전 콘스탄티노폴리스 총대주교 네스토리우스가 로마 황제 테오도시우스 2세의 명으로 이집트의 외딴 수도원으로 유배되었다. 사도 안드레아의 후계자로 불리던 최고위 성직자의 자리에서 이단자로 낙인찍혀 추방된 그의 사상은 이후 '네스토리우스파'로 불리며 동방으로 퍼져나갔다.`
@@ -37,6 +39,7 @@ addStories([
     r: '1578년 8월 4일, 알카세르키비르 전투에서 모로코군이 포르투갈군을 대파했으나 모로코 국왕 압드 알말리크와 포르투갈 국왕 세바스티앙이 모두 전사했다.',
     src: '위키백과 · 알카세르키비르 전투',
     url: 'https://en.wikipedia.org/wiki/Battle_of_Alc%C3%A1cer_Quibir',
+    img: 'https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c1/Lagos46_kopie.jpg/960px-Lagos46_kopie.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail',
     b: `1578년 8월 4일, 모로코 북부 크사르엘케비르 인근에서 아랍 세계에서 '세 왕의 전투'로 불리는 운명의 혈전이 벌어졌다. 폐위된 모로코 술탄 아부 압달라를 돕겠다며 십자군 원정에 나선 포르투갈 국왕 세바스티앙 1세가 오스만의 지원을 받아 왕위를 차지한 압드 알말리크 1세의 대군과 맞부딪친 것이다.
 
 전투는 모로코의 대승으로 끝났지만, 승패와 무관하게 양국의 국왕인 압드 알말리크와 세바스티앙 모두 전장에서 목숨을 잃었다. 후사 없이 실종·사망한 세바스티앙 탓에 포르투갈 아비스 왕조는 단절되었고, 포르투갈은 이후 60년간 스페인과 이베리아 연합으로 묶이는 비운을 맞았다.`
@@ -47,6 +50,7 @@ addStories([
     r: '1916년 8월 5일, 아치볼드 머리가 지휘한 연합군이 시나이반도 로마니에서 오스만·독일 연합군을 격파하고 수에즈 운하를 방어하며 반격의 발판을 마련했다.',
     src: '위키백과 · 로마니 전투',
     url: 'https://en.wikipedia.org/wiki/Battle_of_Romani',
+    img: 'https://upload.wikimedia.org/wikipedia/commons/5/59/8th_Light_Horse_Romani.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled',
     b: `1916년 8월 3일부터 사흘간, 이집트 시나이반도의 로마니 인근 사막에서 제1차 세계 대전의 중요 전략 요충지인 수에즈 운하를 둘러싼 마지막 지상 공방전이 펼쳐졌다. 독일의 크레스 폰 크레센슈타인이 지휘하는 오스만-독일 연합군이 운하를 끊기 위해 시나이 사막을 횡단해 기습을 감행한 것이다.
 
 그러나 8월 5일, 아치볼드 머리 휘하의 영국 제52사단과 호주·뉴질랜드 앤잭 기병사단은 적을 깊은 모래밭으로 유인해 치명타를 입혔다. 이 승리로 수에즈 운하는 완벽히 확보되었고, 오스만군은 시나이반도에서 철수하기 시작했다.`
@@ -67,6 +71,7 @@ addStories([
     r: '626년 8월 7일, 비잔티움 제국의 수도 콘스탄티노폴리스를 포위 공격하던 아바르족과 슬라브족 연합군이 공략에 실패하고 퇴각했다.',
     src: '위키백과 · 판노니아 아바르',
     url: 'https://en.wikipedia.org/wiki/Pannonian_Avars',
+    img: 'https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a6/Avar_Khaganate_Map_602.png/960px-Avar_Khaganate_Map_602.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail',
     b: `6세기 중엽 돌궐의 세력을 피해 캅카스와 흑해 북안 초원을 거쳐 다뉴브강 상류 판노니아에 아바르 칸국을 세운 유목민들은 동유럽과 발칸반도를 공포로 몰아넣었다. 568년부터 비잔티움 제국과 숱한 전쟁을 벌여온 이들은 마침내 626년, 슬라브족 군대와 연합해 제국의 심장 콘스탄티노폴리스 성벽을 에워쌌다.
 
 하지만 비잔티움의 방어선 앞에서 거대한 포위망은 끝내 무너졌다. 626년 8월 7일, 아바르-슬라브 연합군은 콘스탄티노폴리스 포위를 풀고 철수했으며, 이는 아바르족의 패권이 꺾이는 결정적 계기가 되었다.`
@@ -77,6 +82,7 @@ addStories([
     r: '1648년 8월 8일, 쿠데타로 축출된 이브라힘 1세의 뒤를 이어 여섯 살의 어린 나이로 메흐메드 4세가 오스만 술탄에 즉위했다.',
     src: '위키백과 · 메흐메드 4세',
     url: 'https://en.wikipedia.org/wiki/Mehmed_IV',
+    img: 'https://thumb.wikimedia.org/wikipedia/commons/thumb/6/65/Mahomet_IV._sonst_Achmet_genannt_T%C3%BCrckischer_Ka%C3%BFser.jpg/960px-Mahomet_IV._sonst_Achmet_genannt_T%C3%BCrckischer_Ka%C3%BFser.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail',
     b: `1648년 8월 8일, 쿠데타로 폐위된 아버지 이브라힘 1세의 뒤를 이어 불과 여섯 살의 소년 메흐메드 4세가 오스만 제국의 옥좌에 올랐다. 불안정한 출발에도 그는 쉴레이만 대제에 이어 오스만 역사상 두 번째로 긴 재위 기간을 누렸다.
 
 치세 중반 쾨프륄뤼 가문 재상들의 활약에 힘입어 제국의 중흥을 이끌고 유럽 내 영토 확장의 정점을 찍었으며, 독실한 신앙심으로 '가지(성전사)'로도 불렸다. 사냥을 몹시 즐겨 '사냥꾼 메흐메드'라는 별명을 얻은 그는 말년인 1687년 신성 동맹 전쟁의 패배에 불만을 품은 군대의 반란으로 폐위되어 에디르네에서 여생을 보냈다.`
@@ -87,6 +93,7 @@ addStories([
     r: '1500년 8월 9일, 제2차 오스만-베네치아 전쟁 중 오스만 제국이 그리스 펠로폰네소스의 전략 요충지 메토니를 점령했다.',
     src: '위키백과 · 오스만-베네치아 전쟁 (1499년~1503년)',
     url: 'https://en.wikipedia.org/wiki/Ottoman%E2%80%93Venetian_War_%281499%E2%80%931503%29',
+    img: 'https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8e/Battle_of_Zonchio_1499.jpg/960px-Battle_of_Zonchio_1499.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail',
     b: `1499년부터 1503년까지 오스만 제국과 베네치아 공화국은 에게해와 이오니아해, 아드리아해의 해상 요충지들을 두고 치열한 쟁탈전을 벌였다. 제2차 오스만-베네치아 전쟁이라 불리는 이 충돌에서 오스만 해군은 명장 케말 레이스 제독의 지휘 아래 파상 공세를 펼쳤다.
 
 1500년 8월 9일, 오스만군은 펠로폰네소스 남서쪽 끝의 전략 거점인 메토니를 마침내 손에 넣었다. 이 승리에 힘입어 오스만 제국은 1503년 종전 당시 베네치아로 하여금 점령지들을 공식 인정하게 만들며 지중해 동부의 제해권을 확고히 다졌다.`
@@ -97,6 +104,7 @@ addStories([
     r: '1920년 8월 10일, 오스만 술탄 메흐메드 6세의 대표단이 제국 영토를 연합국에 분할하는 세브르 조약에 서명해 민족주의자들의 거센 저항을 불렀다.',
     src: '위키백과 · 메흐메드 6세',
     url: 'https://en.wikipedia.org/wiki/Mehmed_VI',
+    img: 'https://thumb.wikimedia.org/wikipedia/commons/thumb/b/ba/Sultan_Mehmed_VI_of_the_Ottoman_Empire.jpg/960px-Sultan_Mehmed_VI_of_the_Ottoman_Empire.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail',
     b: `제1차 세계 대전 패전 후 연합국이 이스탄불을 점령하자, 마지막 오스만 술탄 메흐메드 6세의 정부는 외세의 압력 아래 사실상 무력화되었다. 1920년 8월 10일, 술탄의 대표단은 오스만 제국의 영토를 갈기갈기 분할하고 주권마저 박탈하는 세브르 조약에 서명하고 말았다.
 
 이미 아나톨리아에서 앙카라 임시정부를 세우고 독립 전쟁을 지휘하던 무스타파 케말 파샤와 민족주의자들은 이 매국적 조약을 결코 인정하지 않았다. 결국 독립 전쟁에서 승리한 앙카라 정부는 세브르 조약을 무효화하고 로잔 조약을 이끌어냈으며, 1922년 술탄제를 폐지했다. 메흐메드 6세는 영국 전함을 타고 망명길에 올라 이탈리아에서 생을 마감했다.`
@@ -107,6 +115,7 @@ addStories([
     r: '1473년 8월 11일, 오스만 제국의 정복왕 메흐메드 2세가 오틀루크벨리 전투에서 백양조의 우준 하산을 결정적으로 격파했다.',
     src: '위키백과 · 오틀루크벨리 전투',
     url: 'https://en.wikipedia.org/wiki/Battle_of_Otlukbeli',
+    img: 'https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2f/Otlukbeli_savasi.png/960px-Otlukbeli_savasi.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail',
     b: `1473년 8월 11일, 아나톨리아 동부의 오틀루크벨리에서 서쪽에서 팽창하던 오스만 제국과 페르시아·메소포타미아 일대를 호령하던 투르크멘 왕조 백양조(아크 코윤루)가 정면으로 충돌했다.
 
 콘스탄티노폴리스를 정복한 오스만의 술탄 메흐메드 2세와 백양조의 강력한 지도자 우준 하산이 맞붙은 이 대회전에서, 오스만군은 우준 하산의 군대를 상대로 압도적인 승리를 거두었다. 오틀루크벨리 전투의 승리로 오스만 제국은 아나톨리아 동부에서의 패권을 굳히며 이슬람 세계의 최강자로 자리매김했다.`
@@ -117,6 +126,7 @@ addStories([
     r: '1687년 8월 12일, 로렌 공작 샤를 5세가 지휘한 신성 로마 제국군이 제2차 모하치 전투에서 오스만군을 대파하며 헝가리 수복의 길을 열었다.',
     src: '위키백과 · 모하치 전투 (1687년)',
     url: 'https://en.wikipedia.org/wiki/Battle_of_Moh%C3%A1cs_%281687%29',
+    img: 'https://upload.wikimedia.org/wikipedia/commons/a/ae/Battle_of_Moh%C3%A1cs_1687.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled',
     b: `1526년 제1차 모하치 전투는 헝가리 왕국이 오스만 제국에 무릎 꿇은 뼈아픈 패배였다. 그로부터 161년이 흐른 1687년 8월 12일, 같은 모하치 인근 하르샤니산에서 역사가 완전히 뒤바뀌었다.
 
 로렌 공작 샤를 5세가 이끄는 신성 로마 제국 황제 레오폴트 1세의 군대는 대재상 사르 쉴레이만 파샤가 지휘한 오스만 메흐메드 4세의 군대를 상대로 결정적인 승리를 거두었다. 이 승전은 합스부르크 왕가가 헝가리 왕국의 옛 영토를 되찾고 오스만의 유럽 지배를 밀어내는 완벽한 역전의 분수령이 되었다.`
@@ -127,6 +137,7 @@ addStories([
     r: '554년 8월 13일, 유스티니아누스 1세가 고트 전쟁으로 되찾은 이탈리아의 통치 질서를 재편하는 국본칙령을 반포했다.',
     src: '위키백과 · 유스티니아누스 1세',
     url: 'https://en.wikipedia.org/wiki/Justinian_I',
+    img: 'https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3d/Mosaic_of_Justinianus_I_-_Basilica_San_Vitale_%28Ravenna%29.jpg/960px-Mosaic_of_Justinianus_I_-_Basilica_San_Vitale_%28Ravenna%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail',
     b: `535년부터 554년까지 이어진 고트 전쟁 끝에 벨리사리우스와 나르세스 등 명장들의 활약으로 동고트 왕국을 무너뜨리고 이탈리아와 로마를 수복한 유스티니아누스 1세는 554년 8월 13일 역사적인 국본칙령을 내렸다.
 
 옛 로마 제국의 영광을 되살리려던 그의 야심 찬 조치에 따라, 538년까지 고트족 지배 아래에서 로마인들에게 부여되었던 모든 특권이 확인되고 몰수되었던 재산이 반환되었으며 로마 교회의 행정 참여도 확대되었다. 비록 로마법 대전 편찬과 하기아 소피아 건립 등 찬란한 업적 뒤에는 막대한 전비와 종교 갈등의 그림자도 짙었으나, 지중해 서부에서 로마의 질서는 다시금 숨을 쉬기 시작했다.`
@@ -137,6 +148,7 @@ addStories([
     r: '1461년 8월 15일, 트라페준타 제국이 오스만 술탄 메흐메드 2세에게 항복하고 다비드 황제가 유배 후 처형되면서 비잔티움 계승 국가의 명맥이 사실상 끝났다.',
     src: '위키백과 · 트라페준타 제국',
     url: 'https://en.wikipedia.org/wiki/Empire_of_Trebizond',
+    img: 'https://thumb.wikimedia.org/wikipedia/commons/thumb/1/14/Banner_of_the_Empire_of_Trebizond.svg/960px-Banner_of_the_Empire_of_Trebizond.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail',
     b: `1204년 제4차 십자군으로 콘스탄티노폴리스가 함락될 무렵, 조지아 타마르 여왕의 지원을 받아 아나톨리아 북동부 흑해 연안에 세워진 트라페준타 제국은 콤니노스 가문의 황제를 자처하며 250년 넘게 명맥을 이어갔다. 1453년 콘스탄티노폴리스가 무너진 뒤에도 로마 황제의 칭호를 간직한 채 살아남은 마지막 비잔티움 계승국이었다.
 
 그러나 1461년 8월 15일, 정복왕 메흐메드 2세의 한 달여 포위 끝에 트라페준타마저 항복하고 말았다. 포로로 끌려가 유배된 마지막 황제 다비드는 훗날 살해되었고, 이로써 천년 로마 제국의 진정한 종언이 고해졌다.`
@@ -147,6 +159,7 @@ addStories([
     r: '1717년 8월 16일, 사부아 공자 외젠이 이끄는 제국 연합군이 하지 할릴 파샤의 오스만군을 격파해 며칠 뒤 베오그라드 수비대의 항복을 이끌어냈다.',
     src: '위키백과 · 오스트리아-튀르크 전쟁 (1716년~1718년)',
     url: 'https://en.wikipedia.org/wiki/Austro-Turkish_War_%281716%E2%80%931718%29',
+    img: 'https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f6/Georg-philipp-rugendas-the-elder-1716-battle-of-petrovaradin.jpg/960px-Georg-philipp-rugendas-the-elder-1716-battle-of-petrovaradin.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail',
     b: `1699년 카를로비츠 조약의 굴욕을 설욕하려던 오스만 제국은 베네치아와의 전쟁에서 승기를 잡은 뒤 1716년 합스부르크 오스트리아와 다시 맞붙었다. 그러나 전장의 주역은 명장 사부아 공자 외젠이었다.
 
 전년도에 페트로바라딘 전투에서 승리를 거두고 바나트를 정복한 외젠은 1717년 8월 16일, 하지 할릴 파샤가 지휘하는 오스만 구원군을 베오그라드 앞에서 완벽히 격파했다. 이 패배로 고립된 베오그라드 수비대는 며칠 만에 항복했고, 오스만 제국은 1718년 파사로비츠 조약을 통해 베오그라드와 세르비아 중부까지 합스부르크에 내주고 말았다.`
@@ -157,6 +170,7 @@ addStories([
     r: '986년 8월 17일, 불가리아의 사무일과 아론이 트라야누스의 문 전투에서 비잔티움 제국군을 대파했고, 바실리오스 2세는 간신히 목숨을 건져 탈출했다.',
     src: '위키백과 · 비잔티움-불가리아 전쟁',
     url: 'https://en.wikipedia.org/wiki/Byzantine%E2%80%93Bulgarian_wars',
+    img: 'https://upload.wikimedia.org/wikipedia/commons/9/97/BG_BYZ.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled',
     b: `971년 비잔티움 제국에 수도를 빼앗기며 쇠락하던 불가리아는 코메토풀리 가문의 사무일과 아론 형제가 중심이 되어 프레스파를 거점으로 다시 세력을 규합했다. 986년 여름, 젊은 비잔티움 황제 바실리오스 2세가 친정에 나서 불가리아를 굴복시키려 했으나 전황은 정반대로 흘러갔다.
 
 986년 8월 17일, 발칸산맥의 험준한 협곡 '트라야누스의 문'에서 매복하고 있던 불가리아군은 철수하던 비잔티움 대군을 덮쳐 궤멸시켰다. 바실리오스 2세 황제조차 천신만고 끝에 간신히 빠져나왔으며, 훗날 '불가리아 학살자'가 될 황제에게 이날의 참패는 평생 잊지 못할 굴욕으로 남았다.`
@@ -167,6 +181,7 @@ addStories([
     r: '1745년 8월 19일, 오스만-페르시아 전쟁 중 벌어진 카르스 전투에서 아프샤르 왕조의 나디르 샤가 이끄는 페르시아군이 오스만 제국군을 궤멸시켰다.',
     src: '위키백과 · 오스만-페르시아 전쟁 (1743년~1746년)',
     url: 'https://en.wikipedia.org/wiki/Ottoman%E2%80%93Persian_War_%281743%E2%80%931746%29',
+    img: 'https://thumb.wikimedia.org/wikipedia/commons/thumb/1/16/City_Gate_%2C_Tabriz_by_Eug%C3%A8ne_Flandin.jpg/960px-City_Gate_%2C_Tabriz_by_Eug%C3%A8ne_Flandin.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail',
     b: `1743년부터 1746년까지 이란의 아프샤르 왕조와 오스만 제국은 캅카스와 메소포타미아 일대의 패권을 두고 다시금 치열한 전쟁을 치렀다. 전쟁의 절정은 1745년 8월 19일 아나톨리아 동부의 요충지 카르스 인근에서 벌어졌다.
 
 당대 최고의 정복 군주로 꼽히던 페르시아의 나디르 샤가 지휘하는 페르시아군은 이날 카르스 전투에서 오스만 제국의 주력군을 상대로 압도적인 대승을 거두며 적군을 패주시켰다. 이 참패는 오스만 제국의 동부 방어선을 뒤흔들며 양국이 1746년 평화 협상에 나서는 결정적 계기가 되었다.`
@@ -177,6 +192,7 @@ addStories([
     r: '917년 8월 20일, 불가리아의 시메온 1세 차르가 아헬로오스 전투에서 비잔티움 제국군을 궤멸시키고 발칸반도의 사실상 패자로 올라섰다.',
     src: '위키백과 · 아헬로오스 전투 (917년)',
     url: 'https://en.wikipedia.org/wiki/Battle_of_Achelous_%28917%29',
+    img: 'https://upload.wikimedia.org/wikipedia/commons/6/65/Simeon_the_Great_anonymous_seal.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled',
     b: `917년 8월 20일, 불가리아 흑해 연안의 아헬로오스강변에서 중세 유럽 역사상 손꼽히는 대규모 혈전이 벌어졌다. 불가리아의 황제 시메온 1세의 야심을 꺾기 위해 출정한 비잔티움 제국군과 불가리아 주력군이 정면으로 격돌한 것이다.
 
 결과는 비잔티움 역사상 최악의 참패 중 하나였다. 시메온 1세가 거둔 이 압도적인 승리로 비잔티움 야전군은 궤멸되었고, 불가리아는 콘스탄티노폴리스와 펠로폰네소스를 제외한 발칸반도 전역을 사실상 장악했다. 무엇보다 비잔티움과 대등한 '황제' 칭호를 공식 인정받는 결정적 계기가 되었다.`
@@ -187,6 +203,7 @@ addStories([
     r: '1716년 8월 21일, 해군 증원군의 도착과 페트로바라딘 전투의 패전 소식에 오스만군이 코르푸 포위를 풀고 철수하면서 이오니아 제도가 베네치아령으로 남게 되었다.',
     src: '위키백과 · 오스만-베네치아 전쟁 (1714년~1718년)',
     url: 'https://en.wikipedia.org/wiki/Ottoman%E2%80%93Venetian_War_%281714%E2%80%931718%29',
+    img: 'https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8f/Capturing_of_the_Ottoman_occupied_Vonitsa_and_Preveza_by_the_Venetians_during_the_Ottoman%E2%80%93Venetian_War_of_1714-1718.jpg/960px-Capturing_of_the_Ottoman_occupied_Vonitsa_and_Preveza_by_the_Venetians_during_the_Ottoman%E2%80%93Venetian_War_of_1714-1718.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail',
     b: `제7차 오스만-베네치아 전쟁에서 펠로폰네소스 반도를 잃고 수세에 몰린 베네치아 공화국에 아드리아해 입구의 요충지 코르푸섬마저 오스만의 손에 넘어간다면 치명적이었다. 1716년 여름, 오스만군은 코르푸를 맹렬히 포위 공격했다.
 
 그러나 8월 21일, 베네치아 측에 해군 증원군이 당도한 데다 북쪽 전선인 페트로바라딘에서 오스트리아군에게 참패했다는 급보가 날아들자 오스만군은 포위를 거두고 물러났다. 덕분에 이오니아 제도는 끝까지 베네치아의 통치 아래 보존될 수 있었다.`
@@ -197,6 +214,7 @@ addStories([
     r: '1703년 8월 22일, 카를로비츠 조약과 술탄의 수도 부재, 대법관 페이줄라 에펜디의 전횡에 분노한 예니체리 반란으로 무스타파 2세가 폐위되었다.',
     src: '위키백과 · 에디르네 사건',
     url: 'https://en.wikipedia.org/wiki/Edirne_Incident',
+    img: 'https://upload.wikimedia.org/wikipedia/commons/0/02/Mustafa_II_dressed_in_full_armour.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled',
     b: `1703년 이스탄불에서 시작된 예니체리의 반란은 오스만 황실의 권위를 뿌리째 흔들었다. 카를로비츠 조약의 영토 상실과 징세 청부제로 인한 경제 파탄 속에서, 술탄 무스타파 2세가 수도 이스탄불을 비운 채 옛 스승이자 대법관인 셰이휠이슬람 페이줄라 에펜디에게 권력을 맡기고 에디르네에 머무르자 불만이 폭발한 것이다.
 
 결국 반란군이 에디르네로 밀려들면서 페이줄라 에펜디는 살해되었고, 1703년 8월 22일 무스타파 2세는 폐위되어 동생 아흐메드 3세에게 제위를 넘겨야 했다. 이 '에디르네 사건' 이후 술탄의 권력은 약화되고 예니체리와 법관들의 입김이 한층 거세졌다.`
@@ -207,6 +225,7 @@ addStories([
     r: '1514년 8월 23일, 오스만 술탄 셀림 1세가 찰디란 전투에서 중화기의 우세를 앞세워 사파비 왕조의 창시자 이스마일 1세를 대파했다.',
     src: '위키백과 · 찰디란 전투',
     url: 'https://en.wikipedia.org/wiki/Battle_of_Chaldiran',
+    img: 'https://thumb.wikimedia.org/wikipedia/commons/thumb/9/94/A_painting_in_Chehel_Sotoun1.jpg/960px-A_painting_in_Chehel_Sotoun1.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail',
     b: `1514년 8월 23일, 쿠르드족의 심장부인 찰디란 평원에서 수니파 오스만 제국과 시아파 사파비 제국이 이슬람 세계의 패권을 걸고 격돌했다. 셀림 1세가 이끈 6만~10만 오스만 대군은 다수의 중화포를 배치한 반면, 이스마일 1세의 사파비군은 대포가 전혀 없었다.
 
 압도적 화력 앞에 사파비군은 무너졌고, 부상을 입고 겨우 탈출한 이스마일 1세는 왕비들마저 포로로 빼앗겼다. 무패의 영적 지도자 신화가 깨진 이스마일 1세는 이후 평생 전장에 나서지 않았으며, 오스만은 아나톨리아 동부와 메소포타미아 북부를 장악하며 41년 전쟁의 서막을 열었다.`
@@ -217,6 +236,7 @@ addStories([
     r: '1516년 8월 24일, 셀림 1세가 이끄는 오스만 제국군이 마르즈 다비크 전투에서 맘루크 술탄국을 격파하고 오늘날의 시리아 지역을 점령했다.',
     src: '위키백과 · 셀림 1세',
     url: 'https://en.wikipedia.org/wiki/Selim_I',
+    img: 'https://thumb.wikimedia.org/wikipedia/commons/thumb/6/66/Nakka%C5%9F_Selim.jpg/960px-Nakka%C5%9F_Selim.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail',
     b: `재위 기간은 8년에 불과했으나 제국의 영토를 무려 70%나 넓힌 '냉혹왕' 셀림 1세는 1516년 8월 24일, 마르즈 다비크 전투에서 중동 역사의 물줄기를 바꾸어 놓았다. 오스만 대군이 오랜 맹주였던 맘루크 술탄국을 격파하고 시리아 일대를 단숨에 장악한 것이다.
 
 이 승리는 1517년까지 이어진 레반트, 헤자즈, 이집트 전역 정복의 출발점이 되었다. 메카와 메디나 순례길의 수호자가 된 오스만 제국은 발칸 중심에서 이슬람 세계의 심장부로 중심축을 옮기며 명실상부한 이슬람 최고 강국으로 우뚝 섰다.`
@@ -227,6 +247,7 @@ addStories([
     r: '1270년 8월 25일, 제8차 십자군 원정 중 튀니스에서 루이 9세가 사망하자 이질에 시달리던 아들 필리프 3세가 프랑스 국왕에 올랐고, 삼촌 샤를이 튀니스와 평화 협상에 나섰다.',
     src: '위키백과 · 필리프 3세 (프랑스)',
     url: 'https://en.wikipedia.org/wiki/Philip_III_of_France',
+    img: 'https://upload.wikimedia.org/wikipedia/commons/3/32/Philip_III_of_France.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled',
     b: `1270년 제8차 십자군 원정에 나섰던 프랑스 국왕 루이 9세가 북아프리카 튀니스 진영에서 전염병으로 숨을 거두었다. 아버지를 수행하던 아들 필리프 3세 역시 당시 지독한 이질로 사경을 헤매고 있었으나, 8월 25일 그 비극적인 원정지 한복판에서 프랑스의 새 국왕으로 즉위했다.
 
 국왕이 병상에 누워 있는 사이 삼촌인 나폴리의 샤를 1세는 하프스 왕조의 술탄 무함마드 1세 알무스탄시르와 평화 협상을 벌여 원정을 마무리했다. 이듬해 랭스에서 대관식을 치른 필리프 3세는 툴루즈 백국을 왕령에 편입했으나, 1285년 아라곤 십자군 원정 중 끝내 이질로 세상을 떠났다.`
@@ -237,6 +258,7 @@ addStories([
     r: '1071년 8월 26일, 셀주크 튀르크군이 만지케르트 전투에서 비잔티움 제국군을 대파하며 아나톨리아 대부분을 장악하는 결정적 계기를 마련했다.',
     src: '위키백과 · 셀주크 왕조',
     url: 'https://en.wikipedia.org/wiki/Seljuk_dynasty',
+    img: 'https://thumb.wikimedia.org/wikipedia/commons/thumb/3/31/Ince_minare_sculpture_1.jpg/960px-Ince_minare_sculpture_1.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail',
     b: `중앙아시아와 서아시아에서 발흥해 이란에서 아나톨리아에 이르는 대제국을 건설한 오구즈 튀르크계 셀주크 왕조는 1071년 8월 26일, 세계사의 지도를 바꾸는 대승을 거두었다. 아나톨리아 동부 만지케르트에서 비잔티움 제국의 주력군을 격파한 것이다.
 
 이 승리로 셀주크 튀르크는 곧 아나톨리아 대부분의 지배권을 장악하고 1074년 룸 술탄국을 세워 투르크-페르시아 문화를 꽃피웠다. 비잔티움 제국이 아나톨리아의 핵심 기반을 잃고 위기에 빠진 이 사건은 훗날 서유럽이 제1차 십자군을 일으키는 직접적인 배경이 되었다.`
@@ -247,6 +269,7 @@ addStories([
     r: '1922년 8월 27일, 그리스-튀르키예 전쟁에서 튀르키예군이 그리스 왕국군이 점령하고 있던 에게해 지역의 요충지 아피온카라히사르를 탈환했다.',
     src: '위키백과 · 에게 지역',
     url: 'https://en.wikipedia.org/wiki/Aegean_region',
+    img: 'https://thumb.wikimedia.org/wikipedia/commons/thumb/a/ab/Kula_Fairy_Chimneys_03.jpg/960px-Kula_Fairy_Chimneys_03.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail',
     b: `제1차 세계 대전 이후 아나톨리아 서부로 진격한 그리스 왕국군과 조국의 주권을 지키려는 튀르키예군 사이의 격전이 절정에 달했던 1922년 8월 27일, 튀르키예군이 마침내 전략적 거점 도시 아피온카라히사르를 그리스군으로부터 되찾았다.
 
 튀르키예 서부 에게 지역 내륙에 자리한 아피온카라히사르는 이즈미르, 마니사, 아이든 등과 함께 이 지역의 주요 도시 중 하나다. 가장 긴 해안선을 품은 에게 지역으로 향하는 관문이었던 이 도시의 탈환은 그리스-튀르키예 전쟁의 전세를 완전히 뒤집고 독립 전쟁의 최종 승리로 나아가는 결정적 돌파구가 되었다.`
@@ -257,6 +280,7 @@ addStories([
     r: '1521년 8월 28일, 오스만 튀르크군이 발칸반도의 난공불락 요새였던 베오그라드를 점령하며 중부 유럽 진격의 발판을 확보했다.',
     src: '위키백과 · 오스만의 유럽 전쟁',
     url: 'https://en.wikipedia.org/wiki/Ottoman_wars_in_Europe',
+    img: 'https://thumb.wikimedia.org/wikipedia/commons/thumb/8/84/Vienna_Battle_1683.jpg/960px-Vienna_Battle_1683.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail',
     b: `1456년 후녀디 야노시의 기적적인 방어 이후 65년 동안 오스만 제국의 중부 유럽 팽창을 가로막던 거대한 방벽이 마침내 무너졌다. 1521년 8월 28일, 오스만 튀르크 군대가 발칸반도 북단의 전략적 요충지 베오그라드를 점령한 것이다.
 
 14세기 중반 발칸반도에 발을 들인 이래 세르비아와 보스니아를 차례로 잠식해온 오스만 제국에게 베오그라드의 함락은 15~16세기 유럽 영토 확장의 정점을 여는 열쇠였다. 이후 오스만군은 헝가리와 중부 유럽 깊숙이 밀고 들어가며 유럽 세계를 공포로 몰아넣었다.`
@@ -267,6 +291,7 @@ addStories([
     r: '1057년 8월 30일, 고령의 비잔티움 황제 미카일 6세 브링가스가 즉위 불과 1년 만에 황제 자리에서 물러났다.',
     src: '위키백과 · 비잔티움 황제 목록',
     url: 'https://en.wikipedia.org/wiki/List_of_Byzantine_emperors',
+    img: 'https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b6/Konstantinos_XI_Palaiologos_fresco_%28less_edited%29.jpg/960px-Konstantinos_XI_Palaiologos_fresco_%28less_edited%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail',
     b: `1057년 8월 30일, 고령의 비잔티움 황제 미카일 6세 브링가스가 제위에 오른 지 불과 1년 만에 스스로 황관을 내려놓았다. 세습이 절대적 법칙이 아니었던 비잔티움 제국에서 황제의 자리는 언제든 유력 가문과 군부의 도전에 직면할 수 있는 위태로운 자리였다.
 
 서유럽에서는 프랑크족 카롤루스 대제의 대관식 이후 콘스탄티노폴리스의 황제를 '그리스인의 황제'로 깎아내리기도 했으나, 이들은 스스로를 아우구스투스의 적통을 잇는 '로마인의 황제이자 전제군주'로 여겼다. 미카일 6세의 짧은 치세와 퇴위는 11세기 비잔티움 제국 내부의 격심한 권력 교체를 보여주는 단면이었다.`

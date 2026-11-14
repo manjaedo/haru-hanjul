@@ -7,6 +7,7 @@ addStories([
     r: '1913년 12월 1일, 제1차 발칸 전쟁 이후 오스만 제국으로부터 자치권을 얻었던 크레타섬이 공식적으로 그리스에 합병되었다.',
     src: '위키백과 · 크레타',
     url: 'https://en.wikipedia.org/wiki/Crete',
+    img: 'https://thumb.wikimedia.org/wikipedia/commons/thumb/0/01/Island_of_Crete%2C_Greece.JPG/960px-Island_of_Crete%2C_Greece.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail',
     b: `그리스에서 가장 크고 인구가 많은 섬 크레타는 기원전 2700년부터 1420년까지 유럽 최초의 고대 문명인 미노아 문명이 꽃핀 땅이다. 그러나 이후 크레타는 미케네 문명과 로마, 비잔티움 제국, 안달루시아 아랍 세력, 베네치아 공화국, 그리고 오스만 제국에 이르기까지 수많은 외세의 지배를 거쳤다.
 
 오랜 세월 그리스 본토와의 통합을 열망해 온 크레타 주민들은 1898년 오스만 제국 아래서 자치령인 ‘크레타국’을 세우며 첫걸음을 내디뎠다. 그리고 제1차 발칸 전쟁을 거치며 자치권을 굳힌 끝에 마침내 1913년 12월 1일, 크레타는 그리스 왕국에 공식 편입되었다.
@@ -19,6 +20,7 @@ addStories([
     r: '1876년 12월 2일, 타타르 출신의 튀르키예 정치가이자 작가이며 범튀르크주의(투란주의)의 핵심 사상가인 유수프 아크추라가 태어났다.',
     src: '위키백과 · 유수프 아크추라',
     url: 'https://en.wikipedia.org/wiki/Yusuf_Ak%C3%A7ura',
+    img: 'https://upload.wikimedia.org/wikipedia/commons/4/45/Ak%C3%A7urao%C4%9Flu_Yusuf_Bey.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled',
     b: `1876년 12월 2일, 러시아 타타르 혈통의 가정에서 유수프 아크추라가 태어났다. 그는 훗날 오스만 제국의 해체와 터키 공화국의 탄생이 교차하던 격변기에 튀르크 민족 정체성의 방향을 제시한 대표적 지식인으로 성장했다.
 
 작가이자 정치가로 활동한 아크추라는 투란주의로도 불린 범튀르크주의의 저명한 이론가로 자리매김했다. 공화국 초기 그의 저술들은 널리 읽히며 큰 반향을 일으켰고, 그는 이스탄불 대학의 유수한 교수로서 학계와 정계에 깊은 발자취를 남긴 뒤 1935년 3월 세상을 떠났다.`
@@ -29,6 +31,7 @@ addStories([
     r: '1912년 12월 3일, 불가리아·그리스·몬테네그로·세르비아로 구성된 발칸 동맹이 오스만 제국과 휴전 협정을 체결해 제1차 발칸 전쟁이 일시 중단되었다.',
     src: '위키백과 · 불가리아 왕국',
     url: 'https://en.wikipedia.org/wiki/Kingdom_of_Bulgaria',
+    img: 'https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9a/Flag_of_Bulgaria.svg/960px-Flag_of_Bulgaria.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail',
     b: `1912년 12월 3일, 불가리아와 그리스, 몬테네그로, 세르비아 등 발칸 동맹 4개국은 오스만 제국과 휴전 협정에 서명하며 치열했던 제1차 발칸 전쟁의 포성을 일시적으로 멈추었다.
 
 동맹의 주축이었던 불가리아 왕국은 1908년 차르국으로 승격된 이래 발칸 반도 내 자국 민족 거주지 통일을 목표로 막대한 병력을 동원해 왔고, 이 때문에 ‘발칸의 프로이센’이라 불렸다. 발칸 동맹의 파상 공세 속에 성사된 이 휴전은 그러나 오래가지 못할 미봉책이었다.
@@ -61,6 +64,7 @@ addStories([
     r: '1921년 12월 6일, 제1차 세계대전 시기 오스만 제국의 제280대 대재상을 지낸 사이드 할림 파샤가 아르메니아인 집단학살에 대한 보복 작전으로 암살되었다.',
     src: '위키백과 · 사이드 할림 파샤',
     url: 'https://en.wikipedia.org/wiki/Said_Halim_Pasha',
+    img: 'https://upload.wikimedia.org/wikipedia/commons/6/6e/Saidhalim-1.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled',
     b: `1865년경 태어난 메흐메트 사이드 할림 파샤는 저술가이자 정치가로, 1913년부터 1917년까지 오스만 제국의 대재상(총리)을 지냈다. 제1차 세계대전이라는 격변기에 제국의 최고 행정 수반 자리에 앉아 있었지만, 실상은 달랐다.
 
 당시 실질적인 권력은 통일진보위원회(CUP) 중앙위원회가 쥐고 있었고, 사이드 할림 파샤는 정치적 실권이 거의 없는 상태에서 국정의 주요 사안들로부터 철저히 배제되어 있었다. 그럼에도 그는 아르메니아인 집단학살의 가해자 중 한 명으로 지목되었다.
@@ -73,6 +77,7 @@ addStories([
     r: '574년 12월 7일, 반복되는 정신 이상 발작에 시달리던 비잔티움 황제 유스티누스 2세가 장군 티베리우스를 양자로 입적하고 부제(카이사르)로 선포했다.',
     src: '위키백과 · 유스티누스 2세',
     url: 'https://en.wikipedia.org/wiki/Justin_II',
+    img: 'https://upload.wikimedia.org/wikipedia/commons/8/8c/Solidus_of_Justin_II_%28obverse%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled',
     b: `유스티니아누스 1세의 뒤를 이어 565년 즉위한 유스티누스 2세는 지나치게 넓어진 제국을 물려받은 뒤 이웃 세력에 바치던 공물을 끊고 강경 노선을 택했다. 그러나 이는 568년 랑고바르드족의 이탈리아 침공과 572년 사산 왕조 페르시아와의 전쟁 재개로 이어져 제국을 깊은 수렁에 빠뜨렸다.
 
 전선에서 패보가 잇따르고 국력이 흔들리는 가운데, 황제의 정신마저 무너져 내렸다. 치세 후반 유스티누스 2세는 심각한 정신 질환과 반복적인 발작에 시달리며 정상적인 통치가 불가능한 상태에 이르렀다.
@@ -85,6 +90,7 @@ addStories([
     r: '2024년 12월 8일, 시리아 정부군이 철수하고 바샤르 알아사드 대통령이 모스크바로 도피하면서 반군이 다마스쿠스를 장악하고 아사드 정권이 붕괴했다.',
     src: '위키백과 · 다마스쿠스 함락 (2024년)',
     url: 'https://en.wikipedia.org/wiki/Fall_of_Damascus_%282024%29',
+    img: 'https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f9/Syrian_citizens_celebrating_fall_of_the_Assad_regime_in_Damascus_at_December_11_of_2024.jpg/960px-Syrian_citizens_celebrating_fall_of_the_Assad_regime_in_Damascus_at_December_11_of_2024.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail',
     b: `2024년 12월 7일, 시리아 남부에서 북상한 반군 연합이 수도 다마스쿠스 외곽 20km 지점까지 육박하자 시리아 정부군은 외곽 거점 여러 곳에서 철수하기 시작했다. 동시에 북부에서는 타흐리르 알샴과 시리아 국민군이 홈스로 진격했고, 남동쪽에서는 시리아 자유군이 수도를 향해 진격로를 열었다.
 
 이튿날인 12월 8일, 반군 세력은 마침내 다마스쿠스 시내 바르제 지구에 진입했다. 러시아 관영 매체와 영상 보도에 따르면, 바샤르 알아사드 대통령은 항공편으로 다마스쿠스를 떠나 모스크바로 향했고 그곳에서 망명을 허가받으며 정권의 몰락이 공식화되었다.
@@ -97,6 +103,7 @@ addStories([
     r: '536년 12월 9일, 비잔티움 장군 벨리사리우스가 동고트 수비대가 도주한 로마에 저항 없이 입성했다.',
     src: '위키백과 · 고트 전쟁 (535년~554년)',
     url: 'https://en.wikipedia.org/wiki/Gothic_War_%28535%E2%80%93554%29',
+    img: 'https://upload.wikimedia.org/wikipedia/commons/0/00/Gothic_Battle_of_Mons_Lactarius_on_Vesuvius.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled',
     b: `북아프리카의 반달 왕국을 멸망시킨 유스티니아누스 1세는 옛 서로마 제국의 영토를 되찾는 ‘로마 제국 수복’의 다음 목표로 이탈리아를 지목했다. 그리하여 535년부터 554년까지 동고트 왕국을 상대로 한 기나긴 고트 전쟁의 막이 올랐다.
 
 원정의 총사령관으로 나선 명장 벨리사리우스는 536년 12월 9일, 마침내 고대 제국의 심장 로마에 발을 들였다. 동고트족 수비대가 이미 도시를 버리고 달아난 뒤였기에, 비잔티움군은 단 한 방울의 피도 흘리지 않고 로마를 수복했다.
@@ -109,6 +116,7 @@ addStories([
     r: '플레브나 포위전은 1877년 7월부터 12월까지 이어졌다. 러시아와 루마니아 연합군에 맞서 오스만 장군 오스만 파샤가 지켰다. 12월 탈출 시도 중 중상을 입었고, 전사자와 부상자 2만 5천 명, 항복자 4만 3천여 명이 나왔다.',
     src: '위키백과 · 플레브나 포위전',
     url: 'https://en.wikipedia.org/wiki/Siege_of_Plevna',
+    img: 'https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e5/Grivita_1877.jpg/960px-Grivita_1877.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail',
     b: `위키백과는 플레브나 포위전이 1877~1878년 러시아-튀르크 전쟁의 큰 전투라고 적습니다. 오스만군은 러시아 군대가 발칸 산맥을 넘지 못하도록 플레브나에 집결했습니다. 러시아군은 두 차례 돌격에서 큰 피해를 입었고, 루마니아의 카롤 1세가 합류하면서 포위 전략으로 바뀌었습니다.
 
 포위는 1877년 7월에 시작되어 12월까지 이어졌습니다. 오스만 파샤는 12월 탈출 시도에서 중상을 입었습니다. 원문의 집계는 전사·부상 2만 5천 명, 항복자 포함 4만 3,340명입니다.`
@@ -119,6 +127,7 @@ addStories([
     r: '361년 12월 11일, 사촌 콘스탄티우스 2세의 사망으로 단독 로마 황제가 된 율리아누스가 콘스탄티노폴리스에 입성했다.',
     src: '위키백과 · 율리아누스',
     url: 'https://en.wikipedia.org/wiki/Julian_%28emperor%29',
+    img: 'https://thumb.wikimedia.org/wikipedia/commons/thumb/4/49/Juliancng8851obverse.jpg/960px-Juliancng8851obverse.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail',
     b: `콘스탄티누스 대제의 조카였던 율리아누스는 337년 황실 숙청 때 아버지를 잃고 고아가 되어 사촌 콘스탄티우스 2세의 감시 속에 자랐다. 동방에서 그리스 철학을 수학한 그는 355년 갈리아 통치를 맡아 게르만족의 침입을 격퇴하며 명성을 쌓았고, 360년 파리(루테티아)에서 병사들에 의해 황제로 추대되었다.
 
 내전이 임박했던 순간, 콘스탄티우스 2세가 유혈 사태를 막기 위해 그를 후계자로 지명하고 병사하면서 율리아누스는 361년 12월 11일 단독 황제로서 콘스탄티노폴리스에 입성했다.
@@ -131,6 +140,7 @@ addStories([
     r: '627년 12월 12일, 비잔티움 황제 헤라클리우스가 니네베 전투에서 라흐자드 장군이 이끄는 사산 왕조 페르시아군을 격파했다.',
     src: '위키백과 · 니네베 전투 (627년)',
     url: 'https://en.wikipedia.org/wiki/Battle_of_Nineveh_%28627%29',
+    img: 'https://thumb.wikimedia.org/wikipedia/commons/thumb/9/93/Piero_della_Francesca_021.jpg/960px-Piero_della_Francesca_021.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail',
     b: `602년부터 628년까지 이어진 비잔티움-사산 전쟁의 분수령은 627년 9월 중순 헤라클리우스 황제가 감행한 위험천만한 겨울 원정에서 비롯되었다. 사산 왕조 메소포타미아 깊숙이 진격한 그를 막기 위해 페르시아 군주 호스로 2세는 라흐자드 장군을 급파했다.
 
 상황은 비잔티움에 불리해 보였다. 헤라클리우스의 돌궐 동맹군은 일찍이 이탈해 버렸고, 양측이 맞붙은 627년 12월 12일 니네베 평원에서 최후의 결전이 벌어졌다. 다행히 라흐자드의 지원군이 제때 도착하지 못한 가운데 벌어진 격전에서 사령관 라흐자드가 전사하고 페르시아군은 패퇴했다.
@@ -143,6 +153,7 @@ addStories([
     r: '1818년 12월 13일, 1813년부터 재임하던 콘스탄티노폴리스 세계 총대주교 키릴로스 6세가 오스만 제국의 압력을 받아 사임했다.',
     src: '위키백과 · 콘스탄티노폴리스의 키릴로스 6세',
     url: 'https://en.wikipedia.org/wiki/Cyril_VI_of_Constantinople',
+    img: 'https://thumb.wikimedia.org/wikipedia/commons/thumb/2/21/%CE%9F_%CE%86%CE%B3%CE%B9%CE%BF%CF%82_%CE%BF_%CE%B9%CE%B5%CF%81%CE%BF%CE%BC%CE%AC%CF%81%CF%84%CF%85%CF%82_%CE%9A%CF%8D%CF%81%CE%B9%CE%BB%CE%BB%CE%BF%CF%82_%CE%A3%CE%A4%27.JPG/960px-%CE%9F_%CE%86%CE%B3%CE%B9%CE%BF%CF%82_%CE%BF_%CE%B9%CE%B5%CF%81%CE%BF%CE%BC%CE%AC%CF%81%CF%84%CF%85%CF%82_%CE%9A%CF%8D%CF%81%CE%B9%CE%BB%CE%BB%CE%BF%CF%82_%CE%A3%CE%A4%27.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail',
     b: `속명 콘스탄티노스 세르펜조글루로 알려진 키릴로스 6세는 1813년부터 1818년까지 콘스탄티노폴리스 세계 총대주교의 자리에 앉아 동방 정교회를 이끌었다.
 
 오스만 제국의 지배 아래 있던 콘스탄티노폴리스 교회는 제국 정부의 정치적 입김에서 자유롭지 못했다. 결국 1818년 12월 13일, 키릴로스 6세는 오스만 제국의 압박을 견디지 못하고 5년간 지키던 총대주교직에서 물러났다.`
@@ -153,6 +164,7 @@ addStories([
     r: '872년 12월 14일, 하드리아노 2세의 뒤를 이어 9세기 가장 유능한 교황 중 한 명으로 꼽히는 요한 8세가 선출되었다.',
     src: '위키백과 · 교황 요한 8세',
     url: 'https://en.wikipedia.org/wiki/Pope_John_VIII',
+    img: 'https://upload.wikimedia.org/wikipedia/commons/d/dd/Jan-VIII.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled',
     b: `872년 12월 14일 교황으로 선출된 요한 8세는 882년 12월 세상을 떠날 때까지 9세기에서 가장 유능한 교황 중 한 명으로 평가받는다. 재임 내내 그는 남부 이탈리아에서 북상하던 이슬람 세력의 공세를 막아내는 데 온 힘을 기울였다.
 
 프랑크 왕국과 비잔티움 제국 모두에게서 군사적 지원을 얻는 데 실패하자, 요한 8세는 직접 로마의 방어 시설을 대폭 보강했다. 외교와 종교 분야에서도 그는 테살로니키의 메토디오스가 펼친 슬라브 선교를 지지하고 고대 교회 슬라브어 성경 번역을 허락했으며, 크로아티아 공국을 승인하고 포티오스 분열을 수습했다.
@@ -165,6 +177,7 @@ addStories([
     r: '533년 12월 15일, 비잔티움 장군 벨리사리우스가 트리카마룸 전투에서 겔리메르 왕이 이끄는 반달족을 격파하며 반달 왕국 정복을 사실상 매듭지었다.',
     src: '위키백과 · 반달 전쟁',
     url: 'https://en.wikipedia.org/wiki/Vandalic_War',
+    img: 'https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f0/Vandalic_War_campaign_map.png/960px-Vandalic_War_campaign_map.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail',
     b: `455년 로마를 약탈하며 지중해를 주름잡던 북아프리카의 반달 왕국에서 530년 정변이 일어났다. 친로마 성향의 힐데리크 왕이 사촌 겔리메르에게 폐위되자, 동로마 황제 유스티니아누스 1세는 이를 개입의 명분으로 삼아 533년 명장 벨리사리우스를 파견했다.
 
 사르데냐 반란 진압에 주력을 보냈던 겔리메르는 허를 찔렸고, 아드 데키뭄 전투에서 패해 카르타고마저 내주었다. 사르데냐에서 동생 차초의 군대를 불러 모아 전열을 가다듬은 겔리메르는 12월 15일 트리카마룸에서 최후의 결전을 벌였다.
@@ -177,6 +190,7 @@ addStories([
     r: '546년 12월 17일, 동고트족의 왕 토틸라가 비잔티움 수비병들을 매수해 1년간 포위했던 로마에 진입하고 도시를 약탈했다.',
     src: '위키백과 · 로마 약탈 (546년)',
     url: 'https://en.wikipedia.org/wiki/Sack_of_Rome_%28546%29',
+    img: 'https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5c/Gothic_War_army_movements_second_phase.svg/960px-Gothic_War_army_movements_second_phase.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail',
     b: `546년, 동고트 왕 토틸라에게 1년 내내 포위된 로마는 참혹한 기근에 시달렸다. 설상가상으로 부패한 비잔티움 지휘관들이 곡물을 사재기해 시민들에게 폭리를 취하면서 굶주림 속에 스스로 목숨을 끊거나 탈출하다 죽는 이들이 속출했다. 구원에 나섰던 벨리사리우스마저 병으로 물러나고 말았다.
 
 결국 12월 17일 밤, 이사우리아인 수비병들이 토틸라의 뇌물을 받고 성문을 열어주면서 고트군이 로마로 쏟아져 들어왔다. 성당으로 피신한 소수를 제외하고 대부분의 주민이 도망친 뒤 도시의 약탈이 이어졌다.
@@ -199,6 +213,7 @@ addStories([
     r: '653년 12월 19일, 단의론에 맞서다 비잔티움 당국에 의해 로마에서 납치된 교황 마르티노 1세가 콘스탄티노폴리스에서 재판을 받았다.',
     src: '위키백과 · 교황 마르티노 1세',
     url: 'https://en.wikipedia.org/wiki/Pope_Martin_I',
+    img: 'https://thumb.wikimedia.org/wikipedia/commons/thumb/1/11/14_Chiesa_di_Santa_Maria_della_Consolazione_%28Todi%29%2C_el_papa_Mart%C3%AD_I%2C_de_Carlo_Laurenti.jpg/960px-14_Chiesa_di_Santa_Maria_della_Consolazione_%28Todi%29%2C_el_papa_Mart%C3%AD_I%2C_de_Carlo_Laurenti.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail',
     b: `649년 교황에 오른 마르티노 1세는 콘스탄티노폴리스가 교황청을 통제하던 시기에 황제의 승인을 기다리지 않고 즉위한 유일한 교황이었다. 그는 즉위 후에도 비잔티움 황실이 밀던 ‘단의론’ 교리에 단호히 맞섰다.
 
 황제 콘스탄스 2세의 분노는 거셌다. 비잔티움 당국은 로마에서 마르티노 1세를 체포해 콘스탄티노폴리스로 압송했고, 653년 12월 19일 그를 재판정에 세웠다.
@@ -211,6 +226,7 @@ addStories([
     r: '1915년 12월 20일, 제1차 세계대전의 갈리폴리 전역에서 마지막 호주군 병력이 반도에서 철수했다.',
     src: '위키백과 · 갈리폴리 전역',
     url: 'https://en.wikipedia.org/wiki/Gallipoli_campaign',
+    img: 'https://upload.wikimedia.org/wikipedia/commons/4/4f/G.C._18_March_1915_Gallipoli_Campaign_Article.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled',
     b: `1915년 2월, 영국과 프랑스, 러시아 등 연합국은 오스만 제국의 수도 콘스탄티노폴리스를 위협하고 흑해로 통하는 보급로를 열기 위해 다르다넬스 해협 돌파를 시도했다. 해군의 돌파가 실패하자 연합군은 4월 갈리폴리 반도에 상륙작전을 감행했으나, 오스만군의 완강한 저항에 부딪혀 처절한 참호전에 갇혔다.
 
 8개월간의 전투 동안 양측에서 각각 약 25만 명의 사상자가 발생하는 참극 끝에 연합군은 철수를 결정했고, 1915년 12월 20일 마지막 호주군이 반도를 빠져나갔다(전역 전체 철수는 1916년 1월 완료).
@@ -223,6 +239,7 @@ addStories([
     r: '1832년 12월 21일, 제1차 이집트-오스만 전쟁 중 이집트군이 코니아 전투에서 오스만 제국군을 결정적으로 격파했다.',
     src: '위키백과 · 이집트-오스만 전쟁 (1831년~1833년)',
     url: 'https://en.wikipedia.org/wiki/Egyptian%E2%80%93Ottoman_War_%281831%E2%80%931833%29',
+    img: 'https://thumb.wikimedia.org/wikipedia/commons/thumb/c/ca/1851_Henry_Warren_Map_of_Syria_%28cropped%29.jpg/960px-1851_Henry_Warren_Map_of_Syria_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail',
     b: `그리스 독립 전쟁 당시 오스만 술탄을 도왔던 이집트의 통치자 무함마드 알리 파샤는 그 대가로 대시리아 지역의 통치권을 요구했다. 오스만 조정이 이를 받아들이지 않자, 1831년 이집트와 오스만 제국 사이에 전쟁이 발발했다.
 
 이집트군은 시리아를 넘어 아나톨리아 심장부로 파죽지세로 북상했고, 1832년 12월 21일 코니아 전투에서 오스만 제국군을 상대로 결정적인 승리를 거두었다.
@@ -235,6 +252,7 @@ addStories([
     r: '1808년 12월 22일, 루트비히 판 베토벤이 빈의 테아터 안 데어 빈에서 직접 지휘하고 연주하며 교향곡 5번·6번, 피아노 협주곡 4번, 합창 환상곡을 한꺼번에 초연했다.',
     src: '위키백과 · 루트비히 판 베토벤',
     url: 'https://en.wikipedia.org/wiki/Ludwig_van_Beethoven',
+    img: 'https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6e/Joseph_Karl_Stieler%27s_Beethoven_mit_dem_Manuskript_der_Missa_solemnis.jpg/960px-Joseph_Karl_Stieler%27s_Beethoven_mit_dem_Manuskript_der_Missa_solemnis.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail',
     b: `청력을 잃어가던 시련 속에서도 고전주의를 넘어 낭만주의의 문을 연 루트비히 판 베토벤에게 중기(1802~1812)는 독창적 양식이 만개한 시기였다. 그 절정이 바로 1808년 12월 22일 빈의 테아터 안 데어 빈에서 열린 연주회였다.
 
 이날 베토벤은 직접 지휘봉을 잡고 피아노 건반 앞에 앉아 믿기 힘든 초연 무대를 선사했다. 오늘날 클래식 음악의 상징으로 남은 교향곡 제5번과 제6번, 피아노 협주곡 제4번, 그리고 합창 환상곡이 모두 단 하룻밤에 세상에 처음 울려 퍼진 것이다.
@@ -247,6 +265,7 @@ addStories([
     r: '962년 12월 23일, 훗날 황제가 되는 니키포로스 포카스 휘하의 비잔티움군이 함단 왕조의 수도 알레포를 급습해 함락시켰다.',
     src: '위키백과 · 알레포 약탈 (962년)',
     url: 'https://en.wikipedia.org/wiki/Sack_of_Aleppo_%28962%29',
+    img: 'https://thumb.wikimedia.org/wikipedia/commons/thumb/8/81/Capture_of_Berroia_by_the_Byzantines.png/960px-Capture_of_Berroia_by_the_Byzantines.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail',
     b: `10세기 중반, 아랍-비잔티움 전쟁의 최전선에서 비잔티움 제국과 맞서던 가장 강력한 맞수는 알레포를 수도로 삼은 함단 왕조의 에미르 사이프 알다울라였다.
 
 962년 12월 23일, 훗날 니키포로스 2세 포카스 황제로 즉위하는 비잔티움의 명장 니키포로스 포카스가 이끄는 원정군이 마침내 적진의 심장 알레포로 진격했다.
@@ -271,6 +290,7 @@ addStories([
     r: '820년 12월 25일, 성상 파괴 운동을 재개했던 비잔티움 황제 레온 5세가 콘스탄티노폴리스 대궁전 내 성당에서 미하일 2세의 추종자들에게 살해되었다.',
     src: '위키백과 · 레온 5세',
     url: 'https://en.wikipedia.org/wiki/Leo_V_the_Armenian',
+    img: 'https://upload.wikimedia.org/wikipedia/commons/8/89/Leo_V_in_Madrid_Skylitzes.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled',
     b: `아르메니아 출신의 유능한 장군 레온 5세는 813년 미하일 1세의 패전을 틈타 제위에 올랐다. 그는 콘스탄티노폴리스를 포위한 불가르족의 크룸에 맞서 방어에 성공하고 30년 평화 조약을 맺어 10여 년간 이어진 불가르 전쟁을 끝냈으나, 815년에는 니키포로스 총대주교를 폐위하고 제2차 성상 파괴 운동을 일으켜 종교적 갈등을 불렀다.
 
 그러나 정작 그의 등을 찌른 것은 종교적 반대파가 아닌 가장 신뢰하던 측근이었다. 레온 5세의 부하 장군이었던 아모리아의 미하일이 반역 음모에 연루되자, 그를 추종하던 세력이 선수를 친 것이다.
@@ -283,6 +303,7 @@ addStories([
     r: '795년 12월 26일, 훗날 프랑크 국왕 샤를마뉴에게 서로마 황제의 관을 수여한 교황 레오 3세가 선출되었다.',
     src: '위키백과 · 교황 레오 3세',
     url: 'https://en.wikipedia.org/wiki/Pope_Leo_III',
+    img: 'https://upload.wikimedia.org/wikipedia/commons/7/75/Pope_Leo_III_portrait_%E2%80%93_Triclinium_Leoninum.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled',
     b: `795년 12월 26일 로마의 주교이자 교황령의 수장으로 선출된 레오 3세는 816년 6월 사망할 때까지 중세 유럽의 권력 구도를 뒤흔든 인물이다.
 
 전임자 하드리아노 1세 지지 세력의 위협 속에서 그는 프랑크 왕국의 군주 샤를마뉴의 보호를 받으며 지위를 지켰다. 이에 보답하듯 레오 3세는 샤를마뉴에게 황제의 관을 씌워주며 그의 권위를 한층 드높였다.
@@ -295,6 +316,7 @@ addStories([
     r: '537년 12월 27일, 비잔티움 황제 유스티니아누스 1세가 니카의 반란 이후 5년 만에 재건한 두 번째 하기아 소피아가 콘스탄티노폴리스에서 봉헌되었다.',
     src: '위키백과 · 하기아 소피아',
     url: 'https://en.wikipedia.org/wiki/Hagia_Sophia',
+    img: 'https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4a/Hagia_Sophia_%28228968325%29.jpeg/960px-Hagia_Sophia_%28228968325%29.jpeg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail',
     b: `니카의 반란으로 이전 성당이 불타버리자 유스티니아누스 1세는 그리스 기하학자 밀레토스의 이시도로스와 트랄레스의 안테미오스에게 새 대성당 건립을 명했다. 532년부터 537년까지 5년 만에 완공되어 12월 27일 봉헌된 하기아 소피아는 당시 세계 최대의 실내 공간과 완벽한 펜덴티브 돔을 구현하며 건축사의 판도를 바꾸었다.
 
 이후 1453년까지 약 천 년간 동방 정교회의 중심지였던 이곳은 1054년 동서방 교회 대분열의 공식 선언이 내려진 현장이기도 했다. 1204년 제4차 십자군 때는 가톨릭 대성당으로 바뀌었다가 1261년 정교회로 되돌아왔다.
@@ -307,6 +329,7 @@ addStories([
     r: '탄지마트 시대의 오스만 튀르키예 언론인이자 작가, 번역가로서 250여 편이 넘는 저작을 남긴 아흐메트 미트하트 에펜디가 1912~1913년 무렵 생을 마감했다.',
     src: '위키백과 · 아흐메트 미트하트',
     url: 'https://en.wikipedia.org/wiki/Ahmet_Mithat',
+    img: 'https://upload.wikimedia.org/wikipedia/commons/f/fb/Ahmetmithatefendi.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled',
     b: `1844년경 태어난 아흐메트 미트하트는 오스만 제국 탄지마트 시대를 대표하는 언론인이자 작가, 출판인이었다. 당대의 정치가 미트하트 파샤와 구별하기 위해 흔히 ‘아흐메트 미트하트 에펜디’로 불리는 그는, 실제로 다뉴브 주에서 미트하트 파샤 밑에서 관리와 신문 편집자로 일하며 그 이름을 얻었다.
 
 정치적으로는 비교적 온건한 보수 성향을 띠었으나 창작열은 누구보다 왕성해 오늘날까지 250편이 넘는 작품이 전해진다. 1878년부터는 신문 『진실의 해석자(Tercüman-ı Hakikat)』를 발행하며 대중과 호흡했다.
@@ -319,6 +342,7 @@ addStories([
     r: '쉬레이야 아오을루(1903~1989)는 1989년 12월 29일 숨졌다. 1928년 변호사 면허를 받은 터키 최초의 여성 변호사였다.',
     src: '위키백과 · 쉬레이야 아오을루',
     url: 'https://en.wikipedia.org/wiki/S%C3%BCreyya_A%C4%9Fao%C4%9Flu',
+    img: 'https://thumb.wikimedia.org/wikipedia/commons/thumb/6/64/Avukat_S%C3%BCreyya_A%C4%9Fao%C4%9Flu_1940.jpg/960px-Avukat_S%C3%BCreyya_A%C4%9Fao%C4%9Flu_1940.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail',
     b: `위키백과는 쉬레이야 아오을루가 1903년에 태어나 1989년 12월 29일에 죽은 튀르크계 아제르바이잔 출신의 작가이자 법률가이며, 터키 역사상 최초의 여성 변호사라고 적습니다.
 
 아버지 아흐메트 아오을루는 아제르바이잔과 터키의 유명한 정치인이었습니다. 1920년 아제르바이잔 민주공화국이 무너진 뒤 가족은 터키로 와서 살았고, 쉬레이야는 이스탄불 대학 법학부에 들어갔습니다. 졸업 후 1927년부터 죽을 때까지 변호사로 일했고, 1928년 면허를 받아 터키 최초의 여성 변호사가 되었습니다.
@@ -331,6 +355,7 @@ addStories([
     r: '오스만 함디 베이는 1842년 12월 30일 콘스탄티노플에서 태어났다. 오스만 제국 최초의 고고학자이자 박물관학자였고, 이스탄불 고고학 박물관과 미술 학교를 세웠다.',
     src: '위키백과 · 오스만 함디 베이',
     url: 'https://en.wikipedia.org/wiki/Osman_Hamdi_Bey',
+    img: 'https://upload.wikimedia.org/wikipedia/commons/c/c2/Osman_Hamdi_Bey.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled',
     b: `위키백과는 오스만 함디 베이가 1842년 12월 30일 콘스탄티노플에서 태어나 1910년 2월 24일 같은 도시에서 죽었다고 적습니다. 관료이자 지식인이며 화가였고, 오스만 제국 최초의 고고학자이자 박물관학자였습니다. 터키 박물관학, 고고학, 미술 교육의 아버지로 평가받습니다.
 
 아버지 이브라힘 에템 파샤는 키오스 섬 출신의 그리스계 소년으로, 키오스 학살 뒤 고아가 되어 해군 총사령관 휘스레브 파샤의 양자로 자랐고 나중에 대재상(1877~1878)이 되었습니다. 함디는 법학을 공부하러 간 파리에서 화가의 길로 돌아서 제롬과 불랑제에게 그림을 배웠고, 1869년 돌아왔습니다. 1875년에는 카드쾨이의 첫 시장이 되었습니다.
@@ -345,6 +370,7 @@ addStories([
     r: '535년 12월 31일, 비잔티움 장군 벨리사리우스가 팔레르모의 동고트 수비대를 격파하고 시칠리아 정복을 완료하며 그해의 집정관 임기를 마쳤다.',
     src: '위키백과 · 벨리사리우스',
     url: 'https://en.wikipedia.org/wiki/Belisarius',
+    img: 'https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8b/Belisarius_mosaic.jpg/960px-Belisarius_mosaic.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail',
     b: `유스티니아누스 1세 치하 비잔티움 제국 최고의 명장 플라비우스 벨리사리우스는 종종 ‘최후의 로마인’으로 불린다. 9개월 만에 북아프리카의 반달 왕국을 무너뜨린 그는 곧장 고트 전쟁에 투입되어 이탈리아 반도 탈환의 교두보를 마련했다.
 
 535년 12월 31일, 벨리사리우스는 팔레르모(파노르모스)에 주둔하던 동고트 수비대를 격파하며 전략적 요충지 시칠리아섬의 정복을 완수했다. 집정관으로서의 한 해 임기를 가장 화려한 승리로 장식한 순간이었다.

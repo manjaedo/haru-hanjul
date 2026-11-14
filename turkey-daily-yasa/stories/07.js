@@ -7,6 +7,7 @@ addStories([
     r: '1097년 7월 1일, 제1차 십자군의 타란토의 보에몽 부대가 셀주크 튀르크의 킬리지 아르슬란 1세 군대에 포위당했으나, 후속 십자군 부대의 합류로 전세를 역전시켜 승리를 거두었다.',
     src: '위키백과 · 도릴라이움 전투 (1097년)',
     url: 'https://en.wikipedia.org/wiki/Battle_of_Dorylaeum_%281097%29',
+    img: 'https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d0/Dorylee2.jpg/960px-Dorylee2.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail',
     b: `1097년 7월 1일, 아나톨리아의 도시 도릴라이움 인근 평원에서 제1차 십자군과 셀주크 튀르크의 군대가 정면으로 충돌했다. 타란토의 공작 보에몽이 이끄는 십자군 선발대는 킬리지 아르슬란 1세 술탄이 지휘하는 셀주크 군대의 매서운 공격을 받아 거의 전멸할 위기에 몰렸다.
 
 절체절명의 순간, 전황을 뒤바꾼 것은 뒤이어 당도한 다른 십자군 본대의 합류였다. 고립되어 무너지기 직전이던 보에몽의 부대는 원군의 도착과 함께 전열을 가다듬었고, 결국 킬리지 아르슬란 1세의 셀주크 군대를 격파하며 아나톨리아 진격의 결정적인 고비를 넘겼다.`
@@ -17,6 +18,7 @@ addStories([
     r: '1917년 7월 2일, T. E. 로런스와 아랍 반란군이 아부 알리산에서 오스만 제국군 1개 대대를 격파하며 아카바 전투의 발판을 마련했다.',
     src: '위키백과 · 아카바 전투',
     url: 'https://en.wikipedia.org/wiki/Battle_of_Aqaba',
+    img: 'https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fb/T_E_Lawrence_and_the_Arab_Revolt_1916_-_1918_Q59193.jpg/960px-T_E_Lawrence_and_the_Arab_Revolt_1916_-_1918_Q59193.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail',
     b: `제1차 세계 대전의 한복판이던 1917년 7월 2일, 오늘날 요르단에 속한 홍해의 전략적 요충지 아카바 항구를 차지하기 위한 공방전이 막을 올렸다. '아라비아의 로런스'로 알려진 T. E. 로런스의 자문을 받은 아랍 반란군은 셰리프 나시르와 아우다 아부 타이의 지휘 아래 아부 알리산으로 진격했다.
 
 이날 아부 알리산에서 아랍군은 오스만 제국군 1개 대대와 맞붙어 완승을 거두었다. 이 승리는 곧이어 전개된 아카바 전투에서 아랍 반란군이 오스만 수비대를 꺾고 홍해의 핵심 항구를 장악하는 결정적인 전초전이 되었다.`
@@ -27,6 +29,7 @@ addStories([
     r: '1908년 7월 3일, 청년 튀르크 운동의 통일진보위원회가 일으킨 혁명으로 압뒬하미트 2세가 1876년 헌법을 복원하고 의회를 재소집하게 되었다.',
     src: '위키백과 · 청년 튀르크 혁명',
     url: 'https://en.wikipedia.org/wiki/Young_Turk_Revolution',
+    img: 'https://upload.wikimedia.org/wikipedia/commons/0/0d/Declaration_of_the_1908_Revolution_in_Ottoman_Empire.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled',
     b: `1908년 7월 3일, 마케도니아 분쟁과 정권의 불안정이 깊어가던 오스만 제국의 루멜리 지역에서 거대한 정치적 격변이 시작되었다. 통일진보위원회 소속 아흐메드 니야지가 알바니아 고지대로 탈출하자, 이스마일 엔베르와 에윱 사브리 등 장교들이 합류해 제3군 내 인맥을 동원하며 대규모 반란을 일으켰다.
 
 연이은 암살과 반란의 압박 속에 술탄 압뒬하미트 2세는 결국 굴복하여 1876년 헌법을 복원하고 의회 재소집과 선거를 약속했다. 이로써 제2차 입헌 시대가 열렸으나, 직후 불가리아의 독립 선언과 오스트리아-헝가리의 보스니아 병합이 이어졌고 이듬해 왕당파 봉기 실패 후 술탄은 폐위되고 말았다.`
@@ -37,6 +40,7 @@ addStories([
     r: '638년 7월 4일, 비잔티움 황제 헤라클리우스의 아들 헤라클로나스와 다비드가 각각 아우구스투스와 카이사르로 선포되었으나, 훗날 쿠데타로 실각해 비참한 최후를 맞았다.',
     src: '위키백과 · 헤라클로나스',
     url: 'https://en.wikipedia.org/wiki/Heraclonas',
+    img: 'https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6c/Solidus_Heraclius_sb_767_%28obverse%29.png/960px-Solidus_Heraclius_sb_767_%28obverse%29.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail',
     b: `638년 7월 4일, 비잔티움 황제 헤라클리우스는 병약한 장남 콘스탄티노스 3세의 건강 문제를 의식한 듯, 어린 아들 헤라클로나스와 다비드를 각각 아우구스투스와 카이사르로 책봉했다. 헤라클로나스는 황제가 조카 마르티나와 맺은 근친혼에서 태어난 아들로, 부모의 결합은 제국 내에서 거센 비난을 사고 있었다.
 
 641년 아버지가 세상을 떠나고 형 콘스탄티노스 3세마저 결핵으로 급사하자 어린 헤라클로나스가 어머니의 섭정 아래 단독 황제가 되었다. 그러나 아랍의 이집트 정복과 형 독살 의혹이 겹치며 민심이 폭발했고, 결국 발렌티누스 장군의 쿠데타로 축출된 헤라클로나스는 코가 베인 채 로도스섬으로 유배되어 이듬해 생을 마감했다.`
@@ -57,6 +61,7 @@ addStories([
     r: '1770년 7월 7일, 사흘간의 치열한 해전 끝에 러시아 제국 해군이 오스만 해군을 격파하여 오스만 제국에 레판토 해전 이후 가장 뼈아픈 해상 패배를 안겼다.',
     src: '위키백과 · 체스마 해전',
     url: 'https://en.wikipedia.org/wiki/Battle_of_Chesma',
+    img: 'https://thumb.wikimedia.org/wikipedia/commons/thumb/0/09/Hackert%2C_Die_Zerst%C3%B6rung_der_t%C3%BCrkischen_Flotte_in_der_Schlacht_von_Tschesme%2C_1771.jpg/960px-Hackert%2C_Die_Zerst%C3%B6rung_der_t%C3%BCrkischen_Flotte_in_der_Schlacht_von_Tschesme%2C_1771.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail',
     b: `1770년 7월 5일부터 사흘간, 아나톨리아 서쪽 끝 체슈메와 히오스섬 사이 바다에서 러시아 제국 함대와 오스만 제국 해군이 격돌했다. 과거 오스만과 베네치아 공화국이 숱한 해전을 벌였던 이 해역에서, 1770년 오를로프 반란의 일환으로 벌어진 대혈투가 막을 내린 날은 7월 7일이었다.
 
 결과는 오스만 해군의 처참한 궤멸이었다. 1571년 레판토 해전 이후 최악의 해상 참패를 당한 오스만 제국은 이후 러시아를 상대로 연이은 함대 패배의 늪에 빠졌고, 러시아는 이날의 승리를 오늘날까지 군사 영예의 날로 기리고 있다.`
@@ -67,6 +72,7 @@ addStories([
     r: '1832년 7월 8일, 이집트 총독 무함마드 알리의 아들 이브라힘 파샤가 이끈 이집트군이 힘스 전투에서 메흐메드 파샤의 오스만 제국군을 격파했다.',
     src: '위키백과 · 이브라힘 파샤',
     url: 'https://en.wikipedia.org/wiki/Ibrahim_Pasha_of_Egypt',
+    img: 'https://upload.wikimedia.org/wikipedia/commons/5/53/Ibrahim_Pasha%2C_Larivi%C3%A8re.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled',
     b: `1832년 7월 8일, 시리아의 힘스에서 이집트군과 오스만 제국군이 정면으로 맞섰다. 이집트 근대화의 주역 무함마드 알리의 장남이자 10대 시절부터 전장을 누벼온 이브라힘 파샤는 이날 메흐메드 파샤가 이끄는 오스만 군대를 상대로 완승을 거두었다.
 
 십대 시절 첫 지휘를 맡은 이래 오스만 제국군에 여러 차례 뼈아픈 패배를 안긴 이브라힘 파샤는 군사사에서 손꼽히는 명장으로 이름을 남겼다. 훗날 병든 아버지를 대신해 섭정과 이집트 통치자 자리에 오른 그는 불과 4개월 만에 세상을 떠났으나, 오늘날 카이로 도심에는 그의 동상이 세워져 기려지고 있다.`
@@ -77,6 +83,7 @@ addStories([
     r: '381년 7월 9일, 로마 황제 테오도시우스 1세가 소집한 제1차 콘스탄티노폴리스 공의회가 폐막하며 니케아 신조를 재확인하고 니케아-콘스탄티노폴리스 신경을 제정했다.',
     src: '위키백과 · 제1차 콘스탄티노폴리스 공의회',
     url: 'https://en.wikipedia.org/wiki/First_Council_of_Constantinople',
+    img: 'https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d3/CouncilOfConstantinople381BnFMSGr510.jpg/960px-CouncilOfConstantinople381BnFMSGr510.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail',
     b: `381년 5월부터 콘스탄티노폴리스의 하기아 이레네 성당에서 이어진 기독교 주교들의 회의가 7월 9일 대단원의 막을 내렸다. 테오도시우스 1세 황제가 삼위일체 신앙을 제국의 유일한 합법 국교로 선포한 테살로니카 칙령의 후속 조치로 소집한 제2차 세계 공의회였다.
 
 동방의 친니케아파 주교들만이 참석한 이 공의회는 기존의 니케아 신조를 재확인하고 교리를 확장해 니케아-콘스탄티노폴리스 신경을 채택했다. 비록 당시에는 동방 주교들의 모임이었으나, 훗날 451년 칼케돈 공의회에서 보편 공의회의 권위를 공식 인정받으며 기독교 교리의 기틀을 굳혔다.`
@@ -87,6 +94,7 @@ addStories([
     r: '518년 7월 10일, 아나스타시우스 1세가 서거한 지 하루 만에 농민 출신의 근위대장 유스티누스 1세가 경쟁자들을 제치고 비잔티움 황제로 즉위했다.',
     src: '위키백과 · 유스티누스 1세',
     url: 'https://en.wikipedia.org/wiki/Justin_I',
+    img: 'https://thumb.wikimedia.org/wikipedia/commons/thumb/2/20/Solidus_of_Justin_I_%28obverse%29.jpg/960px-Solidus_of_Justin_I_%28obverse%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail',
     b: `518년 7월 10일, 아나스타시우스 1세 황제가 세상을 떠난 지 불과 하루 만에 콘스탄티노폴리스 총대주교의 손에 의해 새 황제가 대관식을 치렀다. 주인공은 이미 예순여덟의 고령에 접어든 근위대장 유스티누스 1세였다.
 
 농부의 아들로 태어나 군에서 잔뼈가 굵은 그는 노련한 수완으로 궁정 내 경쟁자들을 따돌리고 제위에 올라, 훗날 조카 유스티니아누스 1세로 이어지는 유스티니아누스 왕조를 열었다. 독실한 칼케돈파 신앙인이었던 그는 로마 교황청과의 아카키우스 분열을 종식시키며 동서 교회의 화해를 이끌어냈다.`
@@ -97,6 +105,7 @@ addStories([
     r: '1410년 7월 11일, 오스만 공위시대의 내전 속에서 쉴레이만 첼레비가 수도 에디르네 외곽에서 동생 무사 첼레비를 격파했다.',
     src: '위키백과 · 오스만 공위시대',
     url: 'https://en.wikipedia.org/wiki/Ottoman_Interregnum',
+    img: 'https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0f/Ottoman_Princes_Musa_and_Suleiman_Celebi.jpg/960px-Ottoman_Princes_Musa_and_Suleiman_Celebi.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail',
     b: `1402년 앙카라 전투에서 바예지드 1세가 티무르에게 패해 포로로 잡히자, 오스만 제국은 11년 가까운 형제 간 내전의 소용돌이에 휘말렸다. 티무르가 메흐메드 첼레비를 술탄으로 인정했으나 이사, 무사, 쉴레이만 등 형제들이 저마다 제위를 주장하며 칼을 맞댄 것이다.
 
 1410년 7월 11일, 그 피비린내 나는 오스만 공위시대 한복판에서 쉴레이만 첼레비는 수도 에디르네 외곽에서 아우 무사 첼레비의 군대를 물리쳤다. 그러나 이 기나긴 골육상쟁은 1413년 차무를루 전투에서 최후의 승자가 된 메흐메드 1세가 제국을 재통합할 때까지 멈추지 않았다.`
@@ -107,6 +116,7 @@ addStories([
     r: '813년 7월 12일, 아르메니아 출신 장군 레온 5세가 베르시니키아 전투의 패배를 틈타 미카일 1세를 퇴위시키고 비잔티움 황제로 즉위했다.',
     src: '위키백과 · 레온 5세',
     url: 'https://en.wikipedia.org/wiki/Leo_V_the_Armenian',
+    img: 'https://upload.wikimedia.org/wikipedia/commons/8/89/Leo_V_in_Madrid_Skylitzes.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled',
     b: `813년 7월 12일, 아나톨리아 군관구의 사령관이던 아르메니아 출신 장군 레온 5세가 비잔티움 제국의 황제관에 입을 맞췄다. 베르시니키아 전투에서 불가르족에게 패한 미카일 1세 랑가베를 전날 강제로 퇴위시킨 직후였다.
 
 황제가 된 그는 불가리아 크룸 칸의 콘스탄티노폴리스 포위를 막아내고 오무르타그와 30년 평화조약을 맺으며 수십 년 전쟁을 끝냈다. 하지만 815년 니키포로스 총대주교를 폐위하고 제2차 성상파괴운동을 재개한 그는 820년, 가장 신뢰하던 부하 장군 아모리아의 미카일을 따르는 세력에게 암살당하고 말았다.`
@@ -117,6 +127,7 @@ addStories([
     r: '1798년 7월 13일, 나폴레옹 보나파르트가 지휘하는 프랑스 동방원정군이 슈브라 키트 전투에서 무라드 베이의 맘루크 군대를 격파했다.',
     src: '위키백과 · 동방원정군 (1798년)',
     url: 'https://en.wikipedia.org/wiki/Arm%C3%A9e_d%27Orient_%281798%29_order_of_battle',
+    img: 'https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9b/Bonaparte_en_Egypte.jpg/960px-Bonaparte_en_Egypte.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail',
     b: `1798년 7월 13일, 오스만 제국령 이집트의 슈브라 키트에서 프랑스 총재정부가 파견한 동방원정군과 무라드 베이가 이끄는 맘루크 군대가 맞붙었다. 영국이 인도의 식민지로 향하는 해상·육상 통로를 차단하려는 전략적 목적으로 편성된 이 원정군의 사령관은 젊은 나폴레옹 보나파르트였다.
 
 나폴레옹의 지휘 아래 정예 화력으로 무장한 프랑스 동방원정군은 맘루크 기병대의 공세를 물리치고 승리를 거두었다. 이 승전으로 나폴레옹은 이집트 내륙 진격의 발판을 다지며 동방 원정의 서막을 열었다.`
@@ -127,6 +138,7 @@ addStories([
     r: '1456년 7월 14일, 헝가리의 명장 후녀디 야노시가 다뉴브강에서 오스만 함대를 격파하고 포위된 베오그라드에 증원군과 보급품을 투입했다.',
     src: '위키백과 · 후녀디 야노시',
     url: 'https://en.wikipedia.org/wiki/John_Hunyadi',
+    img: 'https://upload.wikimedia.org/wikipedia/commons/9/99/John_Hunyadi_%28Chronica_Hungarorum%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled',
     b: `1456년 7월 14일, 정복왕 메흐메드 2세가 대군을 이끌고 포위한 베오그라드 성 아래 다뉴브강에서 극적인 해전이 벌어졌다. 헝가리의 전 섭정이자 당대 유럽에서 '튀르크 사냥꾼'으로 불리던 명장 후녀디 야노시가 오스만 함대의 강상 봉쇄망을 정면으로 돌파한 것이다.
 
 후녀디는 오스만 수군을 격파하고 베오그라드 성 안으로 병력과 군수품을 무사히 실어 날랐다. 중기병과 후스파의 마차 요새 전술을 결합해 오스만 제국의 유럽 팽창에 맞서 싸워온 그의 이 돌파 작전은 며칠 뒤 베오그라드 대첩으로 이어지는 결정적 서곡이 되었다.`
@@ -137,6 +149,7 @@ addStories([
     r: '997년 7월 16일, 니키포로스 우라노스 장군이 이끈 비잔티움 제국군이 그리스 스페르헤이오스강변에서 사무일 차르의 불가리아군을 사실상 궤멸시켰다.',
     src: '위키백과 · 스페르헤이오스 전투',
     url: 'https://en.wikipedia.org/wiki/Battle_of_Spercheios',
+    img: 'https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a5/Skylitzes-Ouranos_kills_Bulgarians.jpg/960px-Skylitzes-Ouranos_kills_Bulgarians.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail',
     b: `997년 7월 16일, 그리스 중부 라미아 인근 스페르헤이오스강 기슭에서 비잔티움 제국과 제1불가리아 제국의 운명이 엇갈렸다. 전년도 그리스 남부 깊숙이 침공해 약탈을 벌이던 사무일 차르의 불가리아군은 니키포로스 우라노스 장군이 지휘하는 비잔티움 정예군과 맞닥뜨렸다.
 
 비잔티움 군대는 이날 전투에서 불가리아 주력군을 사실상 전멸시키며 대승을 거두었다. 역사가 요안니스 스킬리체스의 연대기에도 기록된 이 승리는 남부 발칸반도와 그리스에 대한 불가리아의 침략에 마침표를 찍는 분수령이 되었다.`
@@ -147,6 +160,7 @@ addStories([
     r: '1203년 7월 17일, 제4차 십자군이 콘스탄티노폴리스를 공격하자 비잔티움 황제 알렉시오스 3세 앙겔로스가 수도를 버리고 망명길에 올랐다.',
     src: '위키백과 · 제4차 십자군',
     url: 'https://en.wikipedia.org/wiki/Fourth_Crusade',
+    img: 'https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0a/ConquestOfConstantinopleByTheCrusadersIn1204.jpg/960px-ConquestOfConstantinopleByTheCrusadersIn1204.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail',
     b: `이집트를 쳐 예루살렘을 되찾겠다던 제4차 십자군의 칼끝은 어긋난 자금 계산과 정치적 거래 끝에 전혀 뜻밖의 곳으로 향했다. 베네치아에 선박 대금을 치르지 못한 십자군은 가톨릭 도시 자라를 약탈한 데 이어, 폐위된 황제의 아들 알렉시오스 앙겔로스의 복위 약속을 받고 1203년 6월 콘스탄티노폴리스 성벽 앞에 다다랐다.
 
 마침내 7월 17일 십자군의 맹공이 시작되자, 비잔티움 황제 알렉시오스 3세 앙겔로스는 항전을 포기하고 수도를 버린 채 도주하고 말았다. 이 사건은 곧 이듬해 십자군의 콘스탄티노폴리스 대약탈과 라틴 제국 수립으로 이어져 제국에 돌이킬 수 없는 타격을 입혔다.`
@@ -167,6 +181,7 @@ addStories([
     r: '998년 7월 19일, 시리아 아파메아 인근에서 파티마 왕조 군대가 비잔티움 제국군을 격파하며 레반트 지역에서 비잔티움의 공세를 저지했다.',
     src: '위키백과 · 아랍-비잔티움 전쟁',
     url: 'https://en.wikipedia.org/wiki/Arab%E2%80%93Byzantine_wars',
+    img: 'https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f7/Greekfire-madridskylitzes1.jpg/960px-Greekfire-madridskylitzes1.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail',
     b: `998년 7월 19일, 시리아 아파메아 인근 전장에서 이슬람 파티마 왕조와 비잔티움 제국의 군대가 정면으로 맞붙었다. 7세기부터 11세기까지 이어진 아랍-비잔티움 전쟁의 흐름 속에서, 10세기 후반 마케도니아 왕조의 비잔티움은 시리아 북부와 크레타를 되찾으며 기세를 올리고 있었다.
 
 그러나 아바스 왕조의 뒤를 이어 레반트의 새로운 강자로 부상한 파티마 왕조는 호락호락하지 않았다. 아파메아 전투에서 비잔티움 군대를 물리친 파티마 왕조는 레반트 일대에서 더 이상의 비잔티움 진출을 막아서며 팽팽한 힘의 균형을 유지했다.`
@@ -177,6 +192,7 @@ addStories([
     r: '1715년 7월 20일, 제7차 오스만-베네치아 전쟁 중 오스만 제국이 베네치아령 모레아 왕국의 수도 나우플리아를 점령하며 반도 재정복의 길을 열었다.',
     src: '위키백과 · 오스만-베네치아 전쟁 (1714년~1718년)',
     url: 'https://en.wikipedia.org/wiki/Ottoman%E2%80%93Venetian_War_%281714%E2%80%931718%29',
+    img: 'https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8f/Capturing_of_the_Ottoman_occupied_Vonitsa_and_Preveza_by_the_Venetians_during_the_Ottoman%E2%80%93Venetian_War_of_1714-1718.jpg/960px-Capturing_of_the_Ottoman_occupied_Vonitsa_and_Preveza_by_the_Venetians_during_the_Ottoman%E2%80%93Venetian_War_of_1714-1718.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail',
     b: `1715년 7월 20일, 오스만 제국과 베네치아 공화국 사이의 마지막 전쟁이었던 제7차 오스만-베네치아 전쟁에서 결정적인 승패가 갈렸다. 오스만 군대가 베네치아가 세운 '모레아 왕국'의 수도 나우플리아를 함락시킨 것이다.
 
 나우플리아의 함락은 오스만 제국이 펠로폰네소스 반도 전역을 순식간에 되찾는 고속도로를 열어주었다. 바르바리 해적 국가들의 지원까지 얻은 오스만 제국 앞에서 궁지에 몰린 베네치아는 1716년 오스트리아의 개입으로 간신히 더 큰 파국을 면했으나, 1718년 파사로비츠 조약을 통해 그리스 본토의 핵심 영토를 영영 넘겨주어야 했다.`
@@ -187,6 +203,7 @@ addStories([
     r: '1774년 7월 21일, 러시아와 오스만 제국이 퀴취크 카이나르자 조약을 체결해 전쟁을 끝냈으며, 오스만 술탄이 최초로 무슬림 다수 거주 지역을 할양하는 선례를 남겼다.',
     src: '위키백과 · 러시아-튀르크 전쟁 (1768년~1774년)',
     url: 'https://en.wikipedia.org/wiki/Russo-Turkish_War_%281768%E2%80%931774%29',
+    img: 'https://thumb.wikimedia.org/wikipedia/commons/thumb/6/65/Torelli2.jpg/960px-Torelli2.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail',
     b: `1774년 7월 21일, 6년간 이어진 러시아-튀르크 전쟁을 매듭짓는 퀴취크 카이나르자 조약이 체결되었다. 연전연승을 거둔 러시아 제국은 드네프르강과 부그강 사이의 예디산과 크림반도를 영향권에 두며 유럽의 핵심 군사 강국으로 우뚝 섰다.
 
 반면 오스만 제국에는 뼈아픈 굴욕이었다. 술탄이 무슬림이 대다수인 영토를 처음으로 넘겨주었을 뿐 아니라 세속 권력과 종교적 권위의 분리가 처음으로 공식화되었고, 정교회 신민에 대한 독점적 통제권마저 상실했다. 이 조약은 오스만 제국이 더 이상 유럽의 위협이 아님을 드러내며 기나긴 '동방 문제'의 서막을 열었다.`
@@ -197,6 +214,7 @@ addStories([
     r: '1456년 7월 22일, 헝가리 섭정 후녀디 야노시가 베오그라드 공방전에서 오스만 술탄 메흐메드 2세의 대군을 격퇴하며 오스만의 중부 유럽 진격을 70년간 막아섰다.',
     src: '위키백과 · 오스만의 유럽 전쟁',
     url: 'https://en.wikipedia.org/wiki/Ottoman_wars_in_Europe',
+    img: 'https://thumb.wikimedia.org/wikipedia/commons/thumb/8/84/Vienna_Battle_1683.jpg/960px-Vienna_Battle_1683.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail',
     b: `1453년 콘스탄티노폴리스를 함락시킨 정복왕 메흐메드 2세의 기세는 거칠 것이 없어 보였다. 그러나 1456년 7월 22일, 베오그라드 성벽 앞에서 그의 대군은 헝가리의 명장 후녀디 야노시가 이끄는 방어군에게 완패하고 물러났다.
 
 발칸반도를 넘어 중부 유럽으로 밀려들던 오스만 제국의 팽창을 저지한 이 승리는 기독교 세계의 사기를 드높였고, 교황이 정오마다 승리를 기리는 종을 울리도록 명할 만큼 큰 반향을 일으켰다. 비록 후녀디는 승전 3주 만에 진중 전염병으로 세상을 떠났으나, 그의 방어는 이후 70년 가까이 헝가리와 중부 유럽을 오스만의 침공으로부터 지켜냈다.`
@@ -207,6 +225,7 @@ addStories([
     r: '811년 7월 23일, 비잔티움 황제 니키포로스 1세가 불가리아의 수도 플리스카를 약탈하고 크룸 칸의 국고를 탈취했으나, 불과 사흘 뒤 비극을 맞았다.',
     src: '위키백과 · 니키포로스 1세',
     url: 'https://en.wikipedia.org/wiki/Nikephoros_I',
+    img: 'https://upload.wikimedia.org/wikipedia/commons/f/f1/INC-1870-a_%D0%A1%D0%BE%D0%BB%D0%B8%D0%B4._%D0%9D%D0%B8%D0%BA%D0%B8%D1%84%D0%BE%D1%80_I_%D0%B8_%D0%B5%D0%B3%D0%BE_%D1%81%D1%8B%D0%BD_%D0%A1%D1%82%D0%B0%D0%B2%D1%80%D0%B0%D0%BA%D0%B8%D0%B9._%D0%9E%D0%BA._803%E2%80%94811_%D0%B3%D0%B3._%28%D0%B0%D0%B2%D0%B5%D1%80%D1%81%29.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled',
     b: `이레네 여제 밑에서 재무장관을 지내다 여제를 폐위하고 제위에 오른 니키포로스 1세는 재위 기간 내내 아랍 및 불가리아와의 전쟁에 매달렸다. 811년 7월 23일, 그는 대군을 이끌고 제1불가리아 제국의 수도 플리스카로 진격해 도성을 짓밟았다.
 
 이날 비잔티움군은 플리스카를 약탈해 불태우고 크룸 칸의 보물창고까지 손에 넣으며 승리에 도취했다. 그러나 황제가 불가리아 심장부에서 승전의 기쁨을 누리던 그 순간, 퇴로를 차단하며 역습을 준비하던 불가리아군의 덫이 서서히 조여오고 있었다.`
@@ -217,6 +236,7 @@ addStories([
     r: '1923년 7월 24일, 스위스 로잔에서 체결된 로잔 조약이 제1차 세계 대전의 여파를 매듭짓고 오늘날 튀르키예의 국경을 확정했다.',
     src: '위키백과 · 로잔 조약',
     url: 'https://en.wikipedia.org/wiki/Treaty_of_Lausanne',
+    img: 'https://upload.wikimedia.org/wikipedia/commons/5/58/Turkey-Greece-Bulgaria_on_Treaty_of_Lausanne.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled',
     b: `1923년 7월 24일, 스위스 로잔의 팔레 드 뤼민에서 영국, 프랑스, 이탈리아, 일본, 그리스, 불가리아 등 연합국과 튀르키예 대표단이 모여 로잔 조약에 서명했다. 이는 오스만 제국의 영토를 갈갈이 찢어놓으려던 1920년 세브르 조약을 튀르키예 민족운동이 무력으로 거부한 뒤 맺은 두 번째 평화 조약이었다.
 
 그리스-튀르키예 전쟁에서 승리해 이즈미르를 수복한 튀르키예는 이 조약을 통해 주권을 회복하고 현대 튀르키예의 국경을 국제적으로 공인받았다. 또한 그리스-튀르키예 간 인구 교환과 해협의 비군사적 자유 통항이 확정되며 근동 질서가 재편되었다.`
@@ -227,6 +247,7 @@ addStories([
     r: '1261년 7월 25일, 알렉시오스 스트라테고풀로스가 이끄는 니케아 제국군이 콘스탄티노폴리스를 탈환하여 57년 만에 비잔티움 제국을 재건했다.',
     src: '위키백과 · 콘스탄티노폴리스 수복',
     url: 'https://en.wikipedia.org/wiki/Reconquest_of_Constantinople',
+    img: 'https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b2/Theodosian_Walls_in_Constantinople._Gate_of_Springs_%28Silivri%29_1.jpg/960px-Theodosian_Walls_in_Constantinople._Gate_of_Springs_%28Silivri%29_1.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail',
     b: `1204년 제4차 십자군에게 수도를 빼앗긴 지 57년 만인 1261년 7월 25일, 천년 제국의 심장이 마침내 본래 주인의 품으로 돌아왔다. 니케아 제국의 장군 알렉시오스 스트라테고풀로스가 이끄는 군대가 라틴 제국이 점령하고 있던 콘스탄티노폴리스를 전격 탈환한 것이다.
 
 이 수복 작전의 성공으로 망명 국가들을 전전하던 비잔티움 제국은 팔라이올로고스 왕조 아래 화려하게 부활했다. 비록 십자군 전쟁의 후유증으로 국력은 예전만 못했으나, 재건된 비잔티움 제국은 1453년 오스만 튀르크에 멸망할 때까지 근 200년간 이 위대한 도시를 지켜냈다.`
@@ -237,6 +258,7 @@ addStories([
     r: '811년 7월 26일, 불가리아의 크룸 칸이 발칸산맥의 고갯길에서 비잔티움 황제 니키포로스 1세의 군대를 전멸시키고 황제를 사살했다.',
     src: '위키백과 · 플리스카 전투',
     url: 'https://en.wikipedia.org/wiki/Battle_of_Pliska',
+    img: 'https://thumb.wikimedia.org/wikipedia/commons/thumb/9/93/52-manasses-chronicle.jpg/960px-52-manasses-chronicle.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail',
     b: `사흘 전 플리스카를 불태웠던 비잔티움 황제 니키포로스 1세에게 기다리고 있던 것은 끔찍한 덫이었다. 불가리아의 크룸 칸은 황제가 수도를 약탈하는 사이 발칸산맥 동부의 버르비차 고개 등 퇴로를 모조리 봉쇄했다. 811년 7월 26일, 산악 협곡에 갇힌 비잔티움군은 야습과 매복 속에 사실상 전멸했고 후계자 스타우라키오스는 중상을 입었다.
 
 전사한 니키포로스 1세의 최후는 비잔티움 역사상 가장 충격적인 기록으로 남았다. 크룸 칸이 황제의 두개골을 은으로 감싸 술잔으로 만들어 마셨다는 것이다. 이 참패 이후 비잔티움 황제들은 무려 150년 넘게 발칸산맥 이북으로 군대를 보내지 못했다.`
@@ -247,6 +269,7 @@ addStories([
     r: '1302년 7월 27일, 오스만 1세가 이끄는 오스만군이 바페우스 전투에서 비잔티움 군대를 격파하고 비티니아 정복의 물꼬를 텄다.',
     src: '위키백과 · 바페우스 전투',
     url: 'https://en.wikipedia.org/wiki/Battle_of_Bapheus',
+    img: 'https://upload.wikimedia.org/wikipedia/commons/5/5e/Kocaeli_Turkey_Provinces_locator.gif?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled',
     b: `1302년 7월 27일(일부 사료에서는 1299년 7월 27일로도 기록됨), 아나톨리아 북서부 바페우스에서 신흥 세력 오스만 1세가 이끄는 오스만 튀르크 군대와 게오르기오스 무잘론이 지휘하는 비잔티움 제국군이 정면으로 격돌했다.
 
 이 전투에서 오스만군은 비잔티움 정규군을 상대로 결정적인 승리를 거두며 오스만 국가의 기틀을 굳건히 다졌다. 바페우스의 승전은 곧 비티니아 지역이 오스만 튀르크의 수중으로 넘어가는 최종 정복의 서막이자 결정적 신호탄이 되었다.`
@@ -257,6 +280,7 @@ addStories([
     r: '1014년 7월 29일, 비잔티움 황제 바실리오스 2세가 클레이디온 전투에서 불가리아군을 대파한 뒤 포로 1만 5천 명에게 가한 참혹한 처벌로 사무일 차르가 충격 속에 사망했다.',
     src: '위키백과 · 비잔티움-불가리아 전쟁',
     url: 'https://en.wikipedia.org/wiki/Byzantine%E2%80%93Bulgarian_wars',
+    img: 'https://upload.wikimedia.org/wikipedia/commons/9/97/BG_BYZ.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled',
     b: `1014년 7월 29일, 클레이디온 전투에서 비잔티움 황제 바실리오스 2세는 숙적 제1불가리아 제국군을 상대로 결정적인 승리를 거두었다. 5세기 말부터 수백 년간 이어진 두 제국의 피비린내 나는 전쟁이 마침내 비잔티움의 완전한 우세로 기울어지는 순간이었다.
 
 전투 후 포로 1만 5천 명에게 가해진 가혹한 처사는 역사의 비극으로 남았다. 눈이 먼 채 귀환한 병사들의 참상을 목도한 불가리아의 사무일 차르는 큰 충격을 받아 석 달도 채 지나지 않은 10월 6일 심장마비로 숨을 거두었고, 불가리아는 결국 1018년 완전히 정복되었다.`
@@ -267,6 +291,7 @@ addStories([
     r: '657년 7월 30일, 전임 교황 에우제니오 1세의 서거에 따라 비탈리아노가 로마 교황으로 선출되어 콘스탄티노폴리스와의 교리 갈등 해결에 나섰다.',
     src: '위키백과 · 교황 비탈리아노',
     url: 'https://en.wikipedia.org/wiki/Pope_Vitalian',
+    img: 'https://upload.wikimedia.org/wikipedia/commons/5/53/Bulle_vitaliani_16976.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled',
     b: `657년 7월 30일, 전임 교황 에우제니오 1세가 세상을 떠난 지 한 달여 만에 비탈리아노가 새 로마 교황으로 선출되었다. 그의 재위 기간은 로마 교황청과 콘스탄티노폴리스의 비잔티움 황실 사이에 팽팽히 맞섰던 '단의설' 교리 분쟁으로 점철되어 있었다.
 
 로마는 단의설을 단죄했지만 비탈리아노는 유화적인 외교를 펼쳤고, 로마를 방문한 콘스탄스 2세 황제로부터 선물을 받으며 원만한 관계를 유지했다. 다만 이 시기 라벤나 대교구가 교황권에서 이탈하는 등 교회 내 권력 지형도 요동쳤다.`
@@ -277,6 +302,7 @@ addStories([
     r: '398년 7월 31일, 서로마 황제 호노리우스에 반기를 들었던 길도의 군대가 친동생 마스케젤이 이끄는 진압군에 패배하고 길도가 사망하며 반란이 종결되었다.',
     src: '위키백과 · 길도 전쟁',
     url: 'https://en.wikipedia.org/wiki/Gildonic_War',
+    img: 'https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d0/Diocese_of_Africa_-_AD_400.png/960px-Diocese_of_Africa_-_AD_400.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail',
     b: `398년 서로마 제국의 북아프리카에서 백작 길도가 호노리우스 황제에 맞서 반란을 일으켰다. 제국의 곡창지대를 쥔 길도의 봉기는 어린 황제와 서로마 정국을 뒤흔든 중대한 위기였다.
 
 서로마 군사령관 스틸리코의 주도 아래 진압에 나선 것은 아이러니하게도 반란군 수장 길도의 친동생 마스케젤이었다. 398년 7월 31일, 황제에게 충성하는 마스케젤의 군대가 길도의 병력을 격파하고 길도마저 최후를 맞으면서, 형제가 칼을 겨눈 길도 전쟁은 마침내 막을 내렸다.`

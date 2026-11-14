@@ -7,6 +7,7 @@ addStories([
     r: '1713년 2월 1일(구력, 신력 2월 12일) 오스만군이 벤데르 부근 스웨덴 진영을 공격해 카를 12세를 사로잡았다. 터키어 칼라발륵(군중)은 스웨덴어에서 소란을 뜻하는 말이 되었다.',
     src: '위키백과 · 벤데르 전투 (칼라발륵)',
     url: 'https://en.wikipedia.org/wiki/Skirmish_at_Bender',
+    img: 'https://thumb.wikimedia.org/wikipedia/commons/thumb/7/73/Battle_of_Bender_1713.png/960px-Battle_of_Bender_1713.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail',
     b: `위키백과에 따르면 스웨덴 왕 카를 12세는 1709년 폴타바 전투에서 패한 뒤 오스만 제국으로 피신해 약 5년을 보냈습니다. 술탄 아흐메트 3세의 편지에서는 귀한 손님으로 불렸지만, 오래 머물수록 국고에 부담이 되었고 대재상들은 왕에게 떠나라고 설득했다고 합니다. 1712년에는 그때까지 친구였던 타타르 칸 데블렛 2세 기라이가 왕의 적들 편으로 돌아섰습니다.
 
 사건은 구력 1713년 1월 31일(신력 2월 11일) 오스만 포병이 스웨덴 진영에 포를 쏘면서 시작되었습니다. 이튿날인 구력 2월 1일(신력 2월 12일) 벤데르 총독이 이끈 오스만군이 진영을 공격했습니다. 카를 12세는 병사 40명가량과 함께 수백 명의 튀르크 병사에 맞섰고, 침실 창문에서 직접 카빈총을 쏘았다고 합니다.
@@ -21,6 +22,7 @@ addStories([
     r: '1347년 2월 2일 비잔티움 황후 안나가 총대주교 폐위 시노드를 소집한 밤, 공모자들이 경쟁자 요한네스 6세 칸타쿠제노스를 성안으로 들여보내며 내전이 끝났다.',
     src: '위키백과 · 사보이아의 안나',
     url: 'https://en.wikipedia.org/wiki/Anna_of_Savoy',
+    img: 'https://upload.wikimedia.org/wikipedia/commons/1/1b/Anna_of_Savoy.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled',
     b: `본명 조반나로 태어나 안드로니코스 3세 팔라이올로고스의 두 번째 황후가 된 사보이아의 안나는, 어린 아들 요한네스 5세의 섭정(1341~1347)으로서 제국의 권력을 쥐고 치열한 내전을 치렀다. 비잔티움 궁정에서 안나 팔라이올로기나로 불린 그녀는 제국을 둘로 쪼갠 6년 내전의 중심에 서 있었다.
 
 1347년 2월 2일, 안나는 콘스탄티노폴리스에서 총대주교 요한네스 14세를 폐위하기 위한 교회 회의(시노드)를 소집했다. 그러나 권력의 추는 같은 날 밤 예상치 못한 방향으로 기울었다. 성안의 공모자들이 안나의 최대 정적인 요한네스 6세 칸타쿠제노스에게 문을 열어주면서 1341년부터 이어진 비잔티움 내전은 마침내 막을 내렸고, 안나는 훗날 1351년부터 테살로니카를 독자적으로 통치했다.`
@@ -31,6 +33,7 @@ addStories([
     r: '1451년 2월 3일 메흐메트 2세가 오스만 제국의 술탄 위를 계승했다.',
     src: '위키백과 · 술탄',
     url: 'https://en.wikipedia.org/wiki/Sultan',
+    img: 'https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e9/EmperorSuleiman.jpg/960px-EmperorSuleiman.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail',
     b: `1451년 2월 3일, 오스만 제국의 제위가 메흐메트 2세에게 넘어갔다. 그가 물려받은 '술탄'이라는 칭호는 본래 아랍어로 '권위'나 '힘', '통치권'을 뜻하는 추상명사 '술타(sulṭah)'에서 유래한 말이었다.
 
 이슬람 세계에서 술탄은 단순한 세속 군주인 '말리크(왕)'와 달리 종교적 의미를 지닌 최고 통치자를 가리켰으며, 술탄이 다스리는 나라와 영토는 '술탄국(술타나트)'이라 불렸다. 1451년 이 막중한 칭호를 이어받은 메흐메트 2세의 즉위는 오스만 제국사의 새로운 장을 여는 순간이었다.`
@@ -41,6 +44,7 @@ addStories([
     r: '1926년 2월 4일 튀르키예의 서구화 정책과 모자법에 반대했던 이슬람 학자 이스킬리플리 아티프 호자가 앙카라에서 처형되었다.',
     src: '위키백과 · 이스킬리플리 메흐메트 아티프 호자',
     url: 'https://en.wikipedia.org/wiki/%C4%B0skilipli_Mehmed_At%C4%B1f_Hoca',
+    img: 'https://upload.wikimedia.org/wikipedia/commons/5/5e/%C4%B0skilipli_%C3%82t%C4%B1f_Hoca.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled',
     b: `오스만 제국 시절 이스탄불 파티흐 모스크의 마드라사에서 가르치던 학자 이스킬리플리 아티프 호자는, 앙카라 국민정부의 독립전쟁과 서구화 노선에 정면으로 맞섰던 인물이다. 그는 1924년 저서 『서구 모방과 모자』에서 샤리아 율법을 옹호하며 서양식 모자를 쓰는 것은 무슬림의 정체성을 잃게 만드는 불신자의 상징이라고 비판했다.
 
 1925년 11월 아타튀르크가 전통 모자 '페즈' 착용을 금지하고 서양식 모자만 허용하는 '모자법'을 공포하자 갈등은 파국으로 치달았다. 그해 12월 체포되어 앙카라로 압송된 그는 1926년 1월 재판에서 스스로 변호를 포기했고, 검찰의 징역 3년 구형과 달리 사형을 선고받아 2월 4일 교수형에 처해졌다.`
@@ -51,6 +55,7 @@ addStories([
     r: '1859년 2월 5일 몰다비아 공 알렉산드루 이오안 쿠자가 왈라키아 공으로도 선출되어 두 공국이 동군연합을 이루며 근대 루마니아의 기틀을 놓았다.',
     src: '위키백과 · 알렉산드루 이오안 쿠자',
     url: 'https://en.wikipedia.org/wiki/Alexandru_Ioan_Cuza',
+    img: 'https://thumb.wikimedia.org/wikipedia/commons/thumb/6/62/Alexandru_Ioan_Cuza_-_Photo_by_Carol_Popp_de_Szathm%C3%A1ry.jpg/960px-Alexandru_Ioan_Cuza_-_Photo_by_Carol_Popp_de_Szathm%C3%A1ry.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail',
     b: `1848년 몰다비아 혁명의 주역이었던 알렉산드루 이오안 쿠자는 1859년 1월 5일 몰다비아 공으로 선출된 데 이어, 2월 5일(구력 1월 24일) 왈라키아 공으로도 선출되는 이례적인 이중 선출을 이뤄냈다. 이로써 오스만 제국 내 자치 지역이던 두 공국은 한 군주를 모시는 동군연합으로 묶였다.
 
 쿠자는 종주국 오스만 제국으로부터 두 공국의 연합을 인정받기 위해 외교전을 펼쳤고, 마침내 1862년 부쿠레슈티를 단일 수도로 삼고 의회와 정부를 통합한 '루마니아 연합 공국'을 출범시켰다. 비록 급진적 개혁 정책이 보수파와 지주들의 반발을 사 1866년 강제 퇴위당했지만, 그는 오늘날 근대 루마니아의 건국 영웅으로 기려지고 있다.`
@@ -61,6 +66,7 @@ addStories([
     r: '337년 2월 6일 율리오 1세가 로마 주교(교황)로 선출되어 아타나시우스를 옹호하고 동방 아리우스파 주교들에 맞서 교황의 권위를 세웠다.',
     src: '위키백과 · 교황 율리오 1세',
     url: 'https://en.wikipedia.org/wiki/Pope_Julius_I',
+    img: 'https://upload.wikimedia.org/wikipedia/commons/4/4a/Pope_Julius_I_%E2%80%93_Santa_Maria_in_Trastevere.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled',
     b: `337년 2월 6일 로마 주교로 선출되어 352년 4월 12일 선종할 때까지 교회를 이끈 교황 율리오 1세는 초기 기독교 교리 논쟁의 한복판에 서 있던 인물이다. 당시 아리우스파 주교들에 의해 총대주교직에서 물러난 알렉산드리아의 아타나시우스가 로마에 도움을 청하자, 율리오 1세는 아타나시우스를 지지하며 그의 폐위가 부당하다고 선언했다.
 
 이를 통해 그는 동방의 아리우스파 주교들보다 로마 교황의 권위가 우선함을 분명히 천명했다. 또한 오늘날 전 세계가 기념하는 12월 25일을 예수의 공식 탄생일로 정하는 데 기여한 인물로도 전해진다.`
@@ -81,6 +87,7 @@ addStories([
     r: '무라트 4세는 1640년 2월 8일 이스탄불에서 숨졌다. 왕조의 마지막 왕자였던 동생 이브라힘이 뒤를 이어 술탄이 되었다.',
     src: '위키백과 · 이브라힘 (오스만 제국)',
     url: 'https://en.wikipedia.org/wiki/Ibrahim_of_the_Ottoman_Empire',
+    img: 'https://upload.wikimedia.org/wikipedia/commons/0/08/Sultan_ibrahim_Sahand_Ace.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled',
     b: `위키백과는 무라트 4세가 1640년 2월 8일 이스탄불에서 27세로 숨졌다고 적습니다. 사인은 간경변으로 전해지며, 통풍을 오래 앓았다는 설도 있습니다.
 
 이브라힘은 어린 시절 내내 카페스(새장)라 불린 궁의 격리 구역에서 지냈습니다. 형 무라트 4세가 다른 형제 셋을 처형했기에 언제든 자신도 죽을 수 있다는 공포 속에 살았고, 어머니 쾨셈 술탄의 개입으로 목숨을 건졌다고 합니다. 무라트가 죽으면서 이브라힘은 왕조의 마지막 남은 왕자가 되었습니다.
@@ -93,6 +100,7 @@ addStories([
     r: '474년 2월 9일 이사우리아 출신 장군 제논이 일곱 살 아들 레오 2세의 공동 황제로 동로마 제국 보좌에 올랐다.',
     src: '위키백과 · 제논 (황제)',
     url: 'https://en.wikipedia.org/wiki/Zeno_%28emperor%29',
+    img: 'https://upload.wikimedia.org/wikipedia/commons/2/29/Semissis_of_Zeno.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled',
     b: `본래 타라시스라는 이름을 지녔던 이사우리아 출신 장군 제논은 게르만 세력 아스파르를 견제하려던 레오 1세 황제의 신임을 얻어 황녀 아리아드네와 혼인했다. 474년 1월 레오 1세가 세상을 떠나자 그의 일곱 살 아들 레오 2세가 황제가 되었고, 곧이어 제논 역시 공동 황제로 대관식을 치렀다. 그해 말 레오 2세가 병사하면서 제논은 단독 황제가 되었다.
 
 야만족 출신이라는 편견 속에 반달족과 화친을 맺고도 475년 반란으로 한때 수도에서 쫓겨났던 그는 476년 제위를 되찾았다. 바로 그해 서로마에서는 오도아케르가 로물루스 아우구스툴루스를 폐위하고 제국의 보물을 콘스탄티노폴리스로 보내며 제논의 종주권을 인정했고, 제논은 동로마의 안정을 지켜내며 491년까지 제국을 통치했다.`
@@ -103,6 +111,7 @@ addStories([
     r: '1392년 2월 10일 비잔티움 황제 마누일 2세 팔라이올로고스가 세르비아 공 콘스탄틴 드라가시의 딸 헬레나 드라가시와 혼인했다.',
     src: '위키백과 · 마누일 2세 팔라이올로고스',
     url: 'https://en.wikipedia.org/wiki/Manuel_II_Palaiologos',
+    img: 'https://upload.wikimedia.org/wikipedia/commons/9/92/Manuel_II_Palaiologos_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled',
     b: `1391년부터 1425년까지 비잔티움 제국을 이끈 마누일 2세 팔라이올로고스는 1392년 2월 10일 세르비아 영주 콘스탄틴 드라가시의 딸 헬레나 드라가시와 결혼했고, 헬레나는 이튿날 황후로 대관했다. 오스만 제국의 봉신 처지에서 영토 전체를 빼앗길 위기에 놓여 있던 마누일 2세에게 이 혼인은 발칸 세력과의 연대를 다지는 중요한 포석이었다.
 
 그는 서유럽 여러 궁정을 직접 순방하며 오스만에 맞설 지원을 호소했으나 성과를 거두지 못했다. 그럼에도 오스만 제국의 내전과 라틴 세력에 대한 승리에 힘입어 제국의 명맥을 지켰고, 황후 헬레나는 두 아들 요한네스 8세와 콘스탄티노스 11세가 차례로 황위에 오르는 기반을 닦아주었다.`
@@ -113,6 +122,7 @@ addStories([
     r: '1903년 2월 11일 오스트리아 빈에서 작곡가 안톤 브루크너의 교향곡 제9번이 초연되었다.',
     src: '위키백과 · 안톤 브루크너',
     url: 'https://en.wikipedia.org/wiki/Anton_Bruckner',
+    img: 'https://upload.wikimedia.org/wikipedia/commons/b/bf/Anton_Bruckner.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled',
     b: `1896년 10월 세상을 떠난 오스트리아의 작곡가이자 오르가니스트 안톤 브루크너의 교향곡 제9번이 1903년 2월 11일 빈에서 처음으로 관객 앞에 울려 퍼졌다. 풍부한 화성 언어와 대위법적 구성, 장대한 규모로 오스트리아-독일 후기 낭만주의의 정점을 보여준 그의 교향곡은 불협화음과 대담한 전조로 동시대 음악의 급진성을 일깨웠다.
 
 생전 브람스 지지자들과 비평가 에두아르트 한슬리크로부터 작품이 너무 길고 반복이 많다는 혹평을 받기도 했으나, 리하르트 바그너에게 깊은 경의를 품었던 이 '반은 천재, 반은 순진한 사람'은 사후 구스타프 말러를 비롯한 후대 작곡가들의 뜨거운 존경을 받으며 음악사에 우뚝 섰다.`
@@ -123,6 +133,7 @@ addStories([
     r: '1404년 2월 12일 이탈리아 교수 갈레아초 디 산타 소피아가 빈의 하일리겐가이스트 병원에서 교육과 시연을 목적으로 최초의 사후 부검을 집도했다.',
     src: '위키백과 · 갈레아초 디 산타 소피아',
     url: 'https://en.wikipedia.org/wiki/Galeazzo_di_Santa_Sofia',
+    img: 'https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1d/Opus_medicinae_practicae_saluberrimum_V00045_00000004.tif/lossy-page1-960px-Opus_medicinae_practicae_saluberrimum_V00045_00000004.tif.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail',
     b: `1404년 2월 12일, 오스트리아 빈의 하일리겐가이스트 슈피탈(성령 병원)에 의학을 배우려는 이들이 모여들었다. 이탈리아 출신의 의사이자 해부학자인 갈레아초 디 산타 소피아 교수가 직접 메스를 들고 사후 부검을 시연하기 위해서였다.
 
 1427년까지 활동한 이탈리아의 저명한 의학자였던 그가 이날 집도한 부검은 단순한 사인 규명이 아니라 의학 교육과 공개 시연을 목적으로 행해진 최초의 사례로 기록되었다. 중세 말 의학이 경험적 관찰과 해부학의 시대로 나아가는 상징적인 장면이었다.`
@@ -143,6 +154,7 @@ addStories([
     r: '1804년 2월 14일 세르비아인들이 오라샤츠에서 다히예(반역 예니체리 지휘관들)에 맞서 봉기했다. 이 봉기는 1813년까지 이어졌고 독립을 향한 세르비아 혁명으로 번졌다.',
     src: '위키백과 · 제1차 세르비아 봉기',
     url: 'https://en.wikipedia.org/wiki/First_Serbian_Uprising',
+    img: 'https://upload.wikimedia.org/wikipedia/commons/e/e1/Osvajanje_Beograda.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled',
     b: `위키백과는 제1차 세르비아 봉기가 1804년 2월 14일부터 1813년 10월 7일까지 이어졌다고 적습니다. 처음에는 술탄에 대한 쿠데타로 권력을 잡은 예니체리 장교들, 곧 다히예에 맞선 지방의 반란이었습니다.
 
 1801년 예니체리 지휘관들이 오스만 총독을 암살하고 베오그라드 파샬리크를 술탄과 상관없이 다스리기 시작했습니다. 이들은 술탄이 세르비아인에게 준 권리를 정지시키고, 세금을 올리고 강제 노역을 부과했습니다. 1804년에는 술탄이 세르비아인을 이용해 자신들을 칠 것을 두려워해 세르비아 지도자 여러 명을 죽였습니다.
@@ -155,6 +167,7 @@ addStories([
     r: '706년 2월 15일 복위한 비잔티움 황제 유스티니아누스 2세가 자신을 몰아냈던 전임자 레온티오스와 티베리오스 3세를 콘스탄티노폴리스 히포드롬에서 공개 처형했다.',
     src: '위키백과 · 유스티니아누스 2세',
     url: 'https://en.wikipedia.org/wiki/Justinian_II',
+    img: 'https://thumb.wikimedia.org/wikipedia/commons/thumb/0/05/Justinian_ii_%282%2C_cropped_and_askew%29.png/960px-Justinian_ii_%282%2C_cropped_and_askew%29.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail',
     b: `'코 베인 황제(리노트메토스)'라는 섬뜩한 별칭으로 불린 유스티니아누스 2세는 헤라클리우스 왕조의 마지막 황제였다. 유스티니아누스 1세처럼 로마의 영광을 되살리려던 야심가였으나 반대파를 잔혹하게 탄압한 탓에 695년 민란으로 폐위당하고 말았다.
 
 그러나 705년 불가리아 군대의 도움을 받아 극적으로 제위를 되찾은 그의 두 번째 치세는 첫 번째보다 훨씬 더 가혹했다. 복위 이듬해인 706년 2월 15일, 유스티니아누스 2세는 자신이 없던 사이 황위에 올랐던 두 전임자 레온티오스와 티베리오스 3세를 수많은 군중이 지켜보는 콘스탄티노폴리스 히포드롬에서 공개 처형하며 피의 복수를 완수했다. 하지만 끝없는 폭정은 결국 711년 반란군의 칼날로 돌아왔다.`
@@ -165,6 +178,7 @@ addStories([
     r: '비잔티움 황제 요안니스 5세 팔레올로고스(1332~1391)는 1391년 2월 16일에 숨졌다. 그의 치세는 내전과 흑사병, 오스만 튀르크에 당한 여러 패배로 얼룩졌다.',
     src: '위키백과 · 요안니스 5세 팔레올로고스',
     url: 'https://en.wikipedia.org/wiki/John_V_Palaiologos',
+    img: 'https://thumb.wikimedia.org/wikipedia/commons/thumb/3/37/Restored_mosaic_of_John_V_Palaiologos_%28head%29.jpg/960px-Restored_mosaic_of_John_V_Palaiologos_%28head%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail',
     b: `위키백과는 요안니스 5세가 1332년 6월 18일에 태어나 1391년 2월 16일에 죽었고, 1341년부터 1391년까지 중간중간 끊기며 황제 자리에 있었다고 적습니다. 그의 긴 치세는 끊이지 않는 내전과 흑사병의 확산, 그리고 지역의 지배 세력으로 떠오른 오스만 튀르크에 당한 여러 군사적 패배로 특징지어집니다.
 
 그는 여덟 살에 황제가 되었고, 섭정 요안니스 6세 칸타쿠제노스와 어머니 안나 사보이아가 이끄는 위원회가 맞서 내전이 일어났습니다. 안나는 자금을 마련하려고 왕관의 보석을 베네치아에 저당 잡혔다고 합니다.
@@ -179,6 +193,7 @@ addStories([
     r: '1411년 2월 17일 오스만 대공위시대 중 바예지트 1세의 아들 무사 첼레비가 왈라키아 미르체아 1세의 지원에 힘입어 오스만 술탄에 올랐다.',
     src: '위키백과 · 오스만 대공위시대',
     url: 'https://en.wikipedia.org/wiki/Ottoman_Interregnum',
+    img: 'https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0f/Ottoman_Princes_Musa_and_Suleiman_Celebi.jpg/960px-Ottoman_Princes_Musa_and_Suleiman_Celebi.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail',
     b: `1402년 7월 앙카라 전투에서 오스만 술탄 바예지트 1세가 티무르에게 패배해 포로로 잡히자, 제국은 11년 가까운 피비린내 나는 내전, 이른바 '오스만 대공위시대'에 빠져들었다. 티무르가 메흐메트 첼레비를 술탄으로 인정했음에도 이사·무사·슐레이만·무스타파 등 형제들이 저마다 제위를 주장하며 맞선 것이다.
 
 치열한 형제간의 각축전 속에서 바예지트 1세의 아들 무사 첼레비는 왈라키아 공 미르체아 1세의 지원을 등에 업고 원정에 성공해 1411년 2월 17일 술탄의 자리에 올랐다. 그러나 왕좌의 주인은 아직 확정되지 않았고, 이 길고 긴 내전은 1413년 7월 차무를루 전투에서 메흐메트 첼레비가 최종 승리해 메흐메트 1세로 즉위하면서 비로소 끝을 맺었다.`
@@ -189,6 +204,7 @@ addStories([
     r: '1873년 2월 18일 불가리아의 혁명 지도자 바실 레프스키가 소피아에서 오스만 제국 당국에 의해 교수형에 처해졌다.',
     src: '위키백과 · 불가리아',
     url: 'https://en.wikipedia.org/wiki/Bulgaria',
+    img: 'https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9a/Flag_of_Bulgaria.svg/960px-Flag_of_Bulgaria.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail',
     b: `제1차·제2차 불가리아 제국의 영광을 뒤로하고 1396년 오스만 제국의 지배 아래 들어간 불가리아는 거의 다섯 세기 동안 독립을 잃은 채 지내야 했다. 19세기 후반, 오스만 통치에 맞서 해방의 불씨를 지핀 인물이 바로 불가리아의 혁명 지도자 바실 레프스키였다.
 
 1873년 2월 18일, 레프스키는 오스만 당국에 붙잡혀 소피아에서 교수형으로 생을 마감했다. 비록 그의 목숨은 꺾였으나 독립을 향한 열망은 사그라지지 않았고, 5년 뒤인 1877~1878년 러시아-튀르크 전쟁을 거쳐 마침내 제3차 불가리아 국가가 탄생하며 1908년 완전한 독립을 선언하는 밑거름이 되었다.`
@@ -199,6 +215,7 @@ addStories([
     r: '1915년 2월 19일 제1차 세계대전 중 강력한 영국-프랑스 연합 기동부대가 갈리폴리 연안의 오스만 포대에 첫 함포 사격을 가하며 다르다넬스 해협 공략을 시작했다.',
     src: '위키백과 · 다르다넬스 전역의 해전',
     url: 'https://en.wikipedia.org/wiki/Naval_operations_in_the_Dardanelles_campaign',
+    img: 'https://thumb.wikimedia.org/wikipedia/commons/thumb/4/43/HMS_Irresistible_abandoned_18_March_1915.jpg/960px-HMS_Irresistible_abandoned_18_March_1915.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail',
     b: `1915년 2월 19일, 지중해와 마르마라해, 그리고 흑해를 잇는 66km 길이의 좁은 물길 다르다넬스 해협에 포성이 울려 퍼졌다. 영국과 프랑스의 강력한 연합 함대가 갈리폴리 연안에 배치된 오스만 제국의 포대를 향해 첫 포격을 개시하며 제1차 세계대전 다르다넬스 해협 작전의 막이 오른 것이다.
 
 영국·프랑스·러시아·호주 해군까지 가세한 연합국은 해협을 강행 돌파해 오스만 제국의 심장부로 진격하려 했다. 그러나 오스만 수비군이 설치한 기뢰밭과 완강한 방어에 부딪혀 해상 돌파는 실패로 돌아갔고, 결국 연합군은 해안 포대를 제압하기 위해 갈리폴리 반도 상륙전이라는 거대한 지상전을 벌여야 했다.`
@@ -209,6 +226,7 @@ addStories([
     r: '훌루시 베흐체트는 1889년 2월 20일에 태어났다. 터키의 피부과 의사로, 1937년 혈관에 염증이 생기는 병을 설명했고 그 병에 그의 이름이 붙었다.',
     src: '위키백과 · 훌루시 베흐체트',
     url: 'https://en.wikipedia.org/wiki/Hulusi_Beh%C3%A7et',
+    img: 'https://upload.wikimedia.org/wikipedia/commons/9/97/Hulusibehcet_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled',
     b: `위키백과는 훌루시 베흐체트가 1889년 2월 20일에 태어나 1948년 3월 8일에 죽은 터키의 피부과 의사이자 학자라고 적습니다. 1937년 혈관에 염증이 생기는 병을 설명했고, 그 병은 그의 이름을 따 베흐체트병으로 불립니다.
 
 아버지가 오스만 제국의 관리여서 가족이 다마스쿠스로 이주했고, 그는 어머니를 병으로 잃은 뒤 어린 시절을 그곳에서 보냈다고 합니다.
@@ -223,6 +241,7 @@ addStories([
     r: '1913년 2월 21일 발칸 전쟁의 결과로 그리스 북서부의 도시 이오안니나가 그리스 국가에 편입되었다.',
     src: '위키백과 · 이오안니나',
     url: 'https://en.wikipedia.org/wiki/Ioannina',
+    img: 'https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e5/Ioannina_Montage_L.png/960px-Ioannina_Montage_L.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail',
     b: `그리스 북서부 에페이로스 지방의 팜보티스 호수 서안에 자리 잡은 이오안니나는 1204년 콘스탄티노폴리스 함락 이후 부유한 비잔티움 가문들이 이주해 오며 번영과 자치를 누렸던 고도다. 1430년 오스만 제국에 항복한 뒤에는 오랜 세월 오스만 지방 행정의 중심지이자 알리 파샤의 권력 기반 구실을 했다.
 
 18~19세기 근대 그리스 계몽주의의 주요 거점이기도 했던 이 도시는 480여 년의 오스만 통치를 끝으로 새로운 운명을 맞았다. 발칸 전쟁의 격랑을 거친 끝에 1913년 2월 21일, 이오안니나는 마침내 그리스 국가의 품으로 편입되었다.`
@@ -243,6 +262,7 @@ addStories([
     r: '532년 2월 23일 비잔티움 황제 유스티니아누스 1세가 콘스탄티노폴리스에 새로운 정교회 대성당 하기아 소피아의 주춧돌을 놓았다.',
     src: '위키백과 · 비잔티움 황제 목록',
     url: 'https://en.wikipedia.org/wiki/List_of_Byzantine_emperors',
+    img: 'https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b6/Konstantinos_XI_Palaiologos_fresco_%28less_edited%29.jpg/960px-Konstantinos_XI_Palaiologos_fresco_%28less_edited%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail',
     b: `330년 콘스탄티누스 대제가 콘스탄티노폴리스를 새 수도로 삼은 이래 동로마 제국은 로마 제국의 법적 연속성을 계승하며 기독교와 그리스 문화를 융합한 독자적 문명을 꽃피웠다. 그 절정을 상징하는 대역사가 바로 532년 2월 23일에 시작되었다.
 
 이날 유스티니아누스 1세 황제는 수도 콘스탄티노폴리스에 새로운 정교회 대성당, 하기아 소피아의 주춧돌을 직접 놓았다. 1453년 오스만 제국에 멸망하기 전까지 1천 년 넘게 제국의 정신적 중심이자 기독교 세계의 상징으로 우뚝 선 거대한 바실리카가 세상에 첫발을 내딛는 순간이었다.`
@@ -253,6 +273,7 @@ addStories([
     r: '1386년 2월 24일 나폴리 국왕이자 헝가리 국왕(카로이 2세)이었던 카를로 3세가 부다에서 암살되었다.',
     src: '위키백과 · 나폴리의 카를로 3세',
     url: 'https://en.wikipedia.org/wiki/Charles_III_of_Naples',
+    img: 'https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0b/Charles_II%2C_Chronicon_Pictum.jpg/960px-Charles_II%2C_Chronicon_Pictum.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail',
     b: `1345년에 태어나 '작은 카를로' 혹은 '두라초의 카를로'로 불린 카를로 3세는 지중해와 중부 유럽을 아우르는 야심 찬 군주였다. 1381년 기사단인 '선박 기사단'을 창설한 그는 1382년 나폴리 왕위에 올랐고, 1383년에는 아카이아 공국까지 계승하며 세력을 넓혔다.
 
 이어 1385년에는 헝가리 왕국마저 손에 넣어 '카로이 2세'로 즉위했으나, 두 왕국의 왕관을 동시에 쓴 영광은 오래가지 못했다. 즉위 이듬해인 1386년 2월 24일, 그는 헝가리의 수도 부다에서 암살자의 손에 쓰러지며 파란만장한 생을 마감했다.`
@@ -263,6 +284,7 @@ addStories([
     r: '1870년 2월 25일 미시시피 출신 공화당원 하이럼 로즈 레벨스가 미국 상원의원으로 취임 선서를 하며 미 의회 역사상 최초의 흑인 의원이 되었다.',
     src: '위키백과 · 하이럼 R. 레벨스',
     url: 'https://en.wikipedia.org/wiki/Hiram_R._Revels',
+    img: 'https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4d/Hiram_Rhodes_Revels_Brady-Handy2_%28cropped%29.jpg/960px-Hiram_Rhodes_Revels_Brady-Handy2_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail',
     b: `1827년 노스캐롤라이나에서 자유 흑인으로 태어난 하이럼 로즈 레벨스는 아프리카 감리교 감독교회 목사이자 교육 행정가로 활동하며 남북전쟁 당시 흑인 연대 조직과 군종 목사로 헌신했다. 전쟁이 끝난 뒤 재건 시대의 문이 열리자, 미시시피주 의회는 공화당 소속인 그를 연방 상원의원으로 선출했다.
 
 1870년 2월 25일, 레벨스가 연방 상원의원 취임 선서를 하면서 미국 상·하원을 통틀어 사상 최초의 아프리카계 미국인 의원이 탄생했다. 1871년까지 임기를 마친 그는 이후 흑인 대학인 알콘 농공대학(현 알콘 주립대학교)의 초대 총장으로 부임해 교육에 힘썼다.`
@@ -273,6 +295,7 @@ addStories([
     r: '364년 2월 26일 발렌티니아누스 1세가 로마 황제로 추대된 뒤 곧 동생 발렌스에게 동방을 맡기고 자신은 서로마를 통치했다.',
     src: '위키백과 · 발렌티니아누스 1세',
     url: 'https://en.wikipedia.org/wiki/Valentinian_I',
+    img: 'https://thumb.wikimedia.org/wikipedia/commons/thumb/0/04/Gold_Solidus_of_Valens%2C_Antioch.jpg/960px-Gold_Solidus_of_Valens%2C_Antioch.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail',
     b: `판노니아의 군인 가문에서 태어나 콘스탄티우스 2세, 율리아누스, 요비아누스 황제 아래에서 두각을 나타낸 발렌티니아누스 1세는 요비아누스가 갑작스레 세상을 떠나자 364년 2월 26일 로마 황제로 추대되었다. 제국 전체를 통치한 뒤에서 두 번째 황제였던 그는 한 달 남짓 단독 통치를 한 뒤 동생 발렌스를 공동 황제로 세워 동방을 맡기고 자신은 서방 국경을 지켰다.
 
 발렌티니아누스 왕조를 연 그는 알레만니족·콰디족·사르마티아족을 상대로 라인강과 다뉴브강 전선에서 승리를 거두며 방어선을 굳건히 했다. 그러나 375년 판노니아에서 콰디족 사절단을 접견하던 중 치명적인 뇌졸중으로 쓰러져 생을 마감했다.`
@@ -283,6 +306,7 @@ addStories([
     r: '425년 2월 27일 동로마 황제 테오도시우스 2세가 황후 아일리아 에우도키아의 권유로 콘스탄티노폴리스 대학(판디닥테리온)을 설립했다.',
     src: '위키백과 · 콘스탄티노폴리스 대학교',
     url: 'https://en.wikipedia.org/wiki/University_of_Constantinople',
+    img: 'https://upload.wikimedia.org/wikipedia/commons/3/39/B%C3%BCy%C3%BCk_Saray_Merdiven_Kulesi.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled',
     b: `425년 2월 27일, 동로마 제국의 황제 테오도시우스 2세는 학문과 문예에 조예가 깊었던 황후 아일리아 에우도키아의 권유를 받아들여 콘스탄티노폴리스에 제국 고등교육기관 '판디닥테리온'을 설립했다. 마그나우라 궁전의 회랑에서 유래해 '마그나우라 대학'으로도 불린 이 기관이 훗날 콘스탄티노폴리스 대학의 시초다.
 
 1045~1046년 콘스탄티노스 9세 모노마코스가 법학과와 철학과를 신설해 '진정한 대학'으로 개편하면서 세계 최초의 대학 중 하나로 꼽히기도 했다. 라틴 제국의 점령기를 지나 팔라이올로고스 르네상스 시절까지 번성하던 이 배움의 전당은 1453년 오스만 제국의 콘스탄티노폴리스 함락과 함께 문을 닫았다.`
@@ -293,6 +317,7 @@ addStories([
     r: '870년 2월 28일 콘스탄티노폴리스에서 열린 가톨릭 교회의 제8차 세계 공의회(제4차 콘스탄티노폴리스 공의회)가 폐막했다.',
     src: '위키백과 · 제4차 콘스탄티노폴리스 공의회 (가톨릭)',
     url: 'https://en.wikipedia.org/wiki/Fourth_Council_of_Constantinople_%28Catholic_Church%29',
+    img: 'https://thumb.wikimedia.org/wikipedia/commons/thumb/5/50/Cesare_Nebbia_%E2%80%93_Fourth_Council_of_Constantinople.jpg/960px-Cesare_Nebbia_%E2%80%93_Fourth_Council_of_Constantinople.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail',
     b: `869년 10월 5일 비잔티움 황제 바실리오스 1세와 교황 하드리아노 2세의 지원 아래 소집된 공의회는 10차례의 회의를 거쳐 870년 2월 28일 폐막하며 27개 교회법을 공포했다. 103명이 넘는 주교들이 참석한 이 회의는 평신도 출신으로 콘스탄티노폴리스 총대주교에 올랐던 포티오스를 폐위하고 파문하는 한편, 전임자 이그나티오스를 복권시켰다.
 
 또한 니케아 제2차 공의회의 성상 공경 결정을 재확인했다. 그러나 훗날 포티오스가 황제의 명으로 복권된 뒤 879~880년에 또 다른 공의회가 열리면서 역사는 갈라졌다. 오늘날 가톨릭 교회는 869~870년 회의를, 동방 정교회는 879~880년 회의를 각각 '제4차 콘스탄티노폴리스 공의회'로 인정하고 있다.`
@@ -303,6 +328,7 @@ addStories([
     r: '카밀 톨론은 1912년 2월 29일 이스탄불 베일레르베이에서 태어났다. 터키에서 처음으로 세탁기와 전기 모터를 만든 사업가이자 발명가다.',
     src: '위키백과 · 카밀 톨론',
     url: 'https://en.wikipedia.org/wiki/Kamil_Tolon',
+    img: 'https://upload.wikimedia.org/wikipedia/commons/c/cc/Kamil_%C3%96zdemir_Tolon_early_years.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled',
     b: `위키백과에 따르면 카밀 톨론은 1912년 2월 29일 이스탄불의 베일레르베이 동네에서 여섯 남매 중 둘째로 태어났습니다. 일부 자료는 1913년을 출생연도로 쓰지만, 생일이 2월 29일이어서 윤년인 1912년이 맞다고 보는 것이 일반적이라고 합니다.
 
 그는 기술자가 되고 싶었지만 당시 공학 학교가 없어 앙카라 대학 법학부에 들어가 1935년에 졸업했습니다. 법학부에서 훗날 총리가 된 아드난 멘데레스를 만났습니다. 체신청 감독관으로 일하다 처음 출장에서 몹시 가난한 농민을 만난 뒤 곧 그만두었고, 1937년 부르사에 톨론 마키나를 세웠습니다.

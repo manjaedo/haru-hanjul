@@ -17,6 +17,7 @@ addStories([
     r: '1250년 5월 2일, 바이바르스가 이끄는 맘루크들이 특권을 잃을지 모른다는 두려움 끝에 아이유브 술탄 투란샤를 살해했습니다.',
     src: '위키백과 · 맘루크',
     url: 'https://en.wikipedia.org/wiki/Mamluk',
+    img: 'https://thumb.wikimedia.org/wikipedia/commons/thumb/9/90/Three_Mamelukes_with_lances_on_horseback.jpg/960px-Three_Mamelukes_with_lances_on_horseback.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail',
     b: `아랍어로 '소유된 자', 즉 노예를 뜻하는 맘루크는 본래 튀르크와 캅카스 등지에서 구매되어 이슬람으로 개종한 비아랍계 군인 노예들이었습니다. 철저한 무예와 궁정 교육을 마치고 해방된 뒤에도, 이들은 정예 군사 계급으로 남아 이집트와 시리아에서 막강한 권력을 쥐었습니다.
 
 하지만 1250년 5월 2일, 칼끝은 자신들의 주군을 향했습니다. 자신들이 누리던 특권을 잃을 것이라는 위기감에 휩싸인 바이바르스와 맘루크 세력이 아이유브 왕조의 술탄 투란샤를 살해한 것입니다.
@@ -29,6 +30,7 @@ addStories([
     r: '996년 5월 3일, 독일 왕 오토 3세가 교황 요한 15세 사후 사촌 케른텐의 브루노를 새 교황 그레고리오 5세로 세웠습니다.',
     src: '위키백과 · 오토 3세',
     url: 'https://en.wikipedia.org/wiki/Otto_III%2C_Holy_Roman_Emperor',
+    img: 'https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f6/Clm_4453_fol_24r_Detail_Herrscherbild.jpg/960px-Clm_4453_fol_24r_Detail_Herrscherbild.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail',
     b: `세 살의 나이에 독일 왕으로 즉위한 오토 3세는 어머니 테오파누와 할머니 아델하이트의 섭정을 거쳐 996년 이탈리아 원정에 나섰습니다. 당시 로마에서는 크레센티우스 2세가 주도한 반란이 일어나 황제의 권위와 교황청의 질서가 크게 흔들리고 있었습니다.
 
 반란을 진압하고 로마의 통제권을 되찾은 오토 3세는 교황 요한 15세의 뒤를 이을 인물로 자신의 사촌인 케른텐의 브루노를 낙점했습니다. 996년 5월 3일 교황 그레고리오 5세로 즉위한 그는 역사상 최초의 독일계 교황이 되었습니다.
@@ -41,6 +43,7 @@ addStories([
     r: '1799년 5월 4일, 조지 해리스 장군이 지휘하는 영국군의 공격으로 세링가파탐이 함락되고 마이소르의 통치자 티푸 술탄이 전사했습니다.',
     src: '위키백과 · 제4차 영국-마이소르 전쟁',
     url: 'https://en.wikipedia.org/wiki/Fourth_Anglo-Mysore_War',
+    img: 'https://thumb.wikimedia.org/wikipedia/commons/thumb/8/88/Henry_Singleton_-_The_Last_Effort_and_Fall_of_Tippoo_Sultan_-_WGA21457.jpg/960px-Henry_Singleton_-_The_Last_Effort_and_Fall_of_Tippoo_Sultan_-_WGA21457.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail',
     b: `남인도의 패권을 둘러싼 제4차 영국-마이소르 전쟁에서 마이소르 왕국은 영국 동인도 회사와 마라타 제국, 하이데라바드 연합군을 상대로 힘겨운 항전을 벌였습니다. 마라타 측이 애초 마이소르에 영토를 약속했다가 막판에 동인도 회사 편으로 돌아서면서 전세는 급격히 기울었습니다.
 
 1799년 5월 4일, 조지 해리스 장군이 이끈 영국 포위군이 마침내 요새 도시 세링가파탐으로 밀고 들어갔습니다. 치열한 공방전 끝에 도시는 함락되었고, 끝까지 맞서던 통치자 티푸 술탄도 전투 속에서 목숨을 잃었습니다.
@@ -63,6 +66,7 @@ addStories([
     r: '558년 5월 7일, 콘스탄티노폴리스의 하기아 소피아 대성당 돔이 완공 20년 만에 붕괴하자 유스티니아누스 1세가 즉각 재건을 명했습니다.',
     src: '위키백과 · 돔',
     url: 'https://en.wikipedia.org/wiki/Dome',
+    img: 'https://thumb.wikimedia.org/wikipedia/commons/thumb/1/14/Cupola_without_text.svg/960px-Cupola_without_text.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail',
     b: `반구의 윗부분을 닮은 돔은 고대 메소포타미아와 로마, 사산 제국을 거쳐 비잔티움 건축에서 꽃을 피운 상징적인 구조물입니다. 사각형의 공간 위에 둥근 천장을 얹기 위해 펜덴티브나 스퀸치 같은 정교한 공법이 동원되었고, 사람들은 그 아래에서 하늘과 권위의 상징을 보았습니다.
 
 하지만 558년 5월 7일, 콘스탄티노폴리스의 심장부에 서 있던 하기아 소피아의 돔이 세워진 지 불과 20년 만에 무너져 내리는 충격적인 사건이 벌어졌습니다.
@@ -75,6 +79,7 @@ addStories([
     r: '589년 5월 8일, 서고트 왕 레카레드 1세가 제3차 톨레도 공의회를 열어 서고트 스페인의 가톨릭 교회 편입을 알렸습니다.',
     src: '위키백과 · 레카레드 1세',
     url: 'https://en.wikipedia.org/wiki/Reccared_I',
+    img: 'https://upload.wikimedia.org/wikipedia/commons/6/60/Recaredo_Tremis_Ispali.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled',
     b: `히스파니아와 갈라에키아, 셉티마니아를 다스린 서고트 왕 레카레드 1세의 치세는 이베리아 반도 역사에서 중대한 전환점이었습니다. 이전까지 서고트 지배층이 고수하던 아리우스파 신앙과 현지 가톨릭 주민들 사이의 간극이 여전히 남아 있었기 때문입니다.
 
 이미 587년에 아리우스파를 버리고 가톨릭으로 개종했던 레카레드 1세는 589년 5월 8일 제3차 톨레도 공의회를 직접 열었습니다. 이 공의회는 서고트 스페인이 공식적으로 가톨릭 교회 품으로 들어섰음을 선포하는 자리였으며, 왕국의 종교적 지형을 근본적으로 바꾸어 놓았습니다.`
@@ -109,6 +114,7 @@ addStories([
     r: '1560년 5월 11일, 오스만 제국 해군이 제르바 해전에서 스페인 함대를 격파하며 지중해 해상 패권의 정점에 올랐습니다.',
     src: '위키백과 · 오스만 해군',
     url: 'https://en.wikipedia.org/wiki/Ottoman_Navy',
+    img: 'https://thumb.wikimedia.org/wikipedia/commons/thumb/6/69/Naval_standard_of_the_Ottoman_Sultan.svg/960px-Naval_standard_of_the_Ottoman_Sultan.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail',
     b: `1323년 마르마라해 연안에 첫 조선소를 세우며 출범한 오스만 해군은 콘스탄티노폴리스 정복을 거치며 지중해와 흑해를 호령하는 대함대로 성장했습니다. 16세기에 이르러 오스만 함대는 지중해를 넘어 인도양과 대서양까지 항적을 남길 만큼 막강했습니다.
 
 그 해상 패권이 가장 눈부시게 빛난 순간이 바로 1560년 5월 11일 제르바 해전이었습니다. 오스만 해군은 막강한 스페인 함대를 상대로 승리를 거두며 지중해의 주인이 누구인지 각인시켰습니다.
@@ -121,6 +127,7 @@ addStories([
     r: '1791년 5월 13일, 찰스 콘월리스가 이끄는 영국군이 아라케레 전투에서 티푸 술탄의 마이소르군을 격파했습니다.',
     src: '위키백과 · 찰스 콘월리스',
     url: 'https://en.wikipedia.org/wiki/Charles_Cornwallis%2C_1st_Marquess_Cornwallis',
+    img: 'https://thumb.wikimedia.org/wikipedia/commons/thumb/5/58/Charles_Cornwallis%2C_1st_Marquess_Cornwallis.png/960px-Charles_Cornwallis%2C_1st_Marquess_Cornwallis.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail',
     b: `찰스 콘월리스 장군은 1781년 미국 독립 전쟁의 요크타운 공방전에서 프랑스-미국 연합군에 항복하며 뼈아픈 패배를 겪었습니다. 하지만 본국 정부의 신임을 잃지 않은 그는 1786년 기사 작위를 받고 인도의 총독 겸 총사령관으로 부임하며 새로운 무대에 섰습니다.
 
 인도에서 행정과 토지 세제 개혁을 밀어붙이던 그는 1789년부터 제3차 영국-마이소르 전쟁을 직접 지휘하며 마이소르의 강적 티푸 술탄과 맞붙었습니다.
@@ -133,6 +140,7 @@ addStories([
     r: '1450년 5월 14일, 오스만 제국군이 알바니아의 크루여 포위를 시작했으나 스칸데르베그의 항전에 막혀 실패로 끝났습니다.',
     src: '위키백과 · 제1차 크루여 공방전',
     url: 'https://en.wikipedia.org/wiki/Siege_of_Kruj%C3%AB_%281450%29',
+    img: 'https://thumb.wikimedia.org/wikipedia/commons/thumb/6/67/First_siege_of_Kruje_1450_%2881770646%29.jpg/960px-First_siege_of_Kruje_1450_%2881770646%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail',
     b: `1450년 5월 14일, 오스만 제국의 술탄 무라트 2세와 황태자 메흐메트 2세가 이끄는 대군이 알바니아의 수도 크루여를 에워쌌습니다. 잇따른 거점 상실로 사기가 떨어져 있던 레저 동맹은 스칸데르베그의 독려와 승리를 예언한 성직자들의 지지 속에 결사 항전을 다짐했습니다.
 
 스칸데르베그는 신뢰하는 부하 브라나 콘티에게 4,000명의 수비군을 맡겨 성을 지키게 하고, 자신은 성 밖에서 오스만 진영과 보급 마차를 끊임없이 기습했습니다.
@@ -145,6 +153,7 @@ addStories([
     r: '1571년 5월 15일, 베네치아·스페인·나폴리·교황령 등이 오스만 제국에 맞서 신성 동맹을 맺고 그해 레판토 승리의 발판을 놓았습니다.',
     src: '위키백과 · 베네치아 공화국',
     url: 'https://en.wikipedia.org/wiki/Republic_of_Venice',
+    img: 'https://thumb.wikimedia.org/wikipedia/commons/thumb/1/12/Variant_war_flag_of_the_Serene_Republic_of_Venice.svg/960px-Variant_war_flag_of_the_Serene_Republic_of_Venice.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail',
     b: `전통적으로 697년에 세워진 것으로 전해지는 베네치아 공화국은 1,100년이 넘는 세월 동안 아드리아해와 동지중해의 무역을 주름잡은 해양 공화국이었습니다. 선출직 도제와 대의회, 원로원이 이끄는 이 상업 국가는 크레타와 키프로스, 그리스의 여러 섬을 거점으로 동방으로 세력을 뻗어 나갔습니다.
 
 하지만 동지중해 진출은 거대한 오스만 제국과의 오랜 전쟁을 불러왔습니다. 단독으로 오스만의 압박을 견디기 버거웠던 베네치아는 스페인과 나폴리 왕국, 교황령 등 이탈리아 여러 세력과 손을 잡았습니다.
@@ -157,6 +166,7 @@ addStories([
     r: '1916년 5월 16일, 영국과 프랑스가 이라크와 시리아 등 옛 오스만 제국 영토를 분할하는 비밀 사이크스-피코 협정을 체결했습니다.',
     src: '위키백과 · 그레이트브리튼 아일랜드 연합왕국',
     url: 'https://en.wikipedia.org/wiki/United_Kingdom_of_Great_Britain_and_Ireland',
+    img: 'https://thumb.wikimedia.org/wikipedia/commons/thumb/8/83/Flag_of_the_United_Kingdom_%283-5%29.svg/960px-Flag_of_the_United_Kingdom_%283-5%29.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail',
     b: `19세기 산업 혁명과 막강한 해군력을 바탕으로 세계 경제와 식민지를 지배하던 영국은 제1차 세계 대전에서 프랑스, 러시아 등과 연합해 독일·오스만 제국 등 동맹국과 맞섰습니다.
 
 전쟁이 한창이던 1916년 5월 16일, 그레이트브리튼 아일랜드 연합왕국과 프랑스 제3공화국은 외부에 공개되지 않은 비밀 문건에 서명했습니다. 훗날 사이크스-피코 협정으로 알려진 이 밀약은 전쟁이 끝난 뒤 해체될 오스만 제국의 영토, 특히 이라크와 시리아 일대를 양국이 어떻게 나누어 가질지 미리 선을 그어 둔 계획이었습니다.
@@ -169,6 +179,7 @@ addStories([
     r: '1395년 5월 17일, 로비네 전투에서 미르체아 1세가 이끈 왈라키아군이 바예지드 1세의 오스만 침공군을 격파했습니다.',
     src: '위키백과 · 로비네 전투',
     url: 'https://en.wikipedia.org/wiki/Battle_of_Rovine',
+    img: 'https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c3/Battle_of_Rovine.jpg/960px-Battle_of_Rovine.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail',
     b: `1395년 5월 17일, 오스만 제국의 술탄 '번개왕' 바예지드 1세가 직접 대군을 이끌고 왈라키아로 진격했습니다. 보이보드 미르체아 1세가 이끄는 왈라키아군은 수적으로 오스만군에 크게 열세였습니다.
 
 전해지는 전설에 따르면, 결전을 하루 앞둔 밤 미르체아 1세는 평화 사절로 변장한 채 적진으로 들어가 바예지드 1세를 만났다고 합니다. 그는 왈라키아를 떠나면 안전하게 돌아갈 수 있도록 보장하겠다고 제안했지만, 자존심이 강했던 술탄은 단호히 맞싸우기를 고집했습니다.
@@ -181,6 +192,7 @@ addStories([
     r: '1919년 5월 19일, 무스타파 케말 아타튀르크가 흑해 연안 삼순에 상륙하며 훗날 튀르키예 독립 전쟁으로 불리는 저항을 시작했습니다.',
     src: '위키백과 · 무스타파 케말 아타튀르크',
     url: 'https://en.wikipedia.org/wiki/Mustafa_Kemal_Atat%C3%BCrk',
+    img: 'https://upload.wikimedia.org/wikipedia/commons/a/a8/Ataturk1930s.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled',
     b: `제1차 세계 대전의 갈리폴리 방어전에서 명성을 떨친 무스타파 케말은 패전 이후 승전국들이 조국을 분할하려 하자 민족 저항의 중심에 섰습니다. 1919년 5월 19일, 아나톨리아 흑해 연안의 항구 도시 삼순에 첫발을 내디딘 그의 행보는 훗날 튀르키예 독립 전쟁의 출발점이 되었습니다.
 
 그는 앙카라에 임시 정부를 세우고 튀르키예 국민운동을 이끌어 그리스와 영국, 프랑스 등을 상대로 한 전쟁에서 승리를 거두며 로잔 조약을 이끌어 냈습니다.
@@ -193,6 +205,7 @@ addStories([
     r: '1347년 5월 21일, 요안니스 6세 칸타쿠지노스가 블라헤르나이 성모 교회에서 총대주교 이시도로스 1세의 집전으로 비잔티움 황제에 즉위했습니다.',
     src: '위키백과 · 요안니스 6세 칸타쿠지노스',
     url: 'https://en.wikipedia.org/wiki/John_VI_Kantakouzenos',
+    img: 'https://thumb.wikimedia.org/wikipedia/commons/thumb/2/22/John_VI_Kantakouzenos.jpg/960px-John_VI_Kantakouzenos.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail',
     b: `안드로니코스 3세 아래에서 대도메스티코스를 지내고 요안니스 5세의 섭정을 맡았던 귀족이자 장군 요안니스 6세 칸타쿠지노스는 1347년 5월 21일 마침내 스스로 비잔티움 황제의 관을 썼습니다. 총대주교 이시도로스 1세가 블라헤르나이 성모 교회에서 그의 대관식을 집전했습니다.
 
 그러나 그의 시대는 비잔티움 제국에 뼈아픈 상처를 남겼습니다. 두 차례의 처참한 내전 속에서 발칸의 영토 상당수가 세르비아와 불가리아로 넘어갔고, 갈리폴리 반도마저 오스만 튀르크에 빼앗겨 오스만이 유럽에 발판을 마련하는 결과를 낳았습니다.
@@ -205,6 +218,7 @@ addStories([
     r: '1905년 5월 22일, 오스만 제국 술탄 압뒬하미트 2세가 제국 내 아로마니아인을 위한 \'울라 밀레트\'를 설립했습니다.',
     src: '위키백과 · 오스만 제국의 술탄 목록',
     url: 'https://en.wikipedia.org/wiki/List_of_sultans_of_the_Ottoman_Empire',
+    img: 'https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c7/Coat_of_arms_of_the_Ottoman_Empire_%281882%E2%80%931922%29.svg/960px-Coat_of_arms_of_the_Ottoman_Empire_%281882%E2%80%931922%29.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail',
     b: `1299년 오스만 1세에서 시작해 1922년 해체될 때까지 6세기 동안 36명의 술탄이 이어진 오스만 제국은 헝가리에서 예멘, 알제리에서 이라크에 이르는 광대한 다민족 대제국이었습니다.
 
 제국 말기인 1905년 5월 22일, 술탄 압뒬하미트 2세는 제국 안에서 살아가던 아로마니아인들을 위해 독자적 자치 공동체인 '울라 밀레트'를 공식 설립하는 조치를 내렸습니다.
@@ -217,6 +231,7 @@ addStories([
     r: '1905년 5월 23일, 오스만 제국의 술탄 압뒬하미트 2세가 전날 설립한 아로마니아인용 \'울라 밀레트\'를 공식 발표했습니다.',
     src: '위키백과 · 압뒬하미트 2세',
     url: 'https://en.wikipedia.org/wiki/Abdul_Hamid_II',
+    img: 'https://thumb.wikimedia.org/wikipedia/commons/thumb/4/43/Sultan_Gazi_Abd%C3%BCl_Hamid_II_-_%D8%A7%D9%84%D8%B3%D9%84%D8%B7%D8%A7%D9%86_%D8%A7%D9%84%D8%BA%D8%A7%D8%B2%D9%8A_%D8%B9%D8%A8%D8%AF_%D8%A7%D9%84%D8%AD%D9%85%D9%8A%D8%AF_%D8%A7%D9%84%D8%AB%D8%A7%D9%86%D9%8A.png/960px-Sultan_Gazi_Abd%C3%BCl_Hamid_II_-_%D8%A7%D9%84%D8%B3%D9%84%D8%B7%D8%A7%D9%86_%D8%A7%D9%84%D8%BA%D8%A7%D8%B2%D9%8A_%D8%B9%D8%A8%D8%AF_%D8%A7%D9%84%D8%AD%D9%85%D9%8A%D8%AF_%D8%A7%D9%84%D8%AB%D8%A7%D9%86%D9%8A.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail',
     b: `1876년 즉위해 30여 년간 실질적인 통치력을 행사한 제34대 술탄 압뒬하미트 2세는 1878년 헌법과 의회를 정지시킨 뒤 비밀경찰과 검열을 동원한 전제 정치를 펼친 동시에 철도와 교육 제도를 근대화한 복합적 인물이었습니다.
 
 발칸과 아나톨리아 각지에서 민족 운동이 들끓던 1905년 5월 23일, 술탄은 하루 전인 22일에 마련한 아로마니아인 공동체 '울라 밀레트'의 창설을 세상에 공식 발표했습니다.
@@ -229,6 +244,7 @@ addStories([
     r: '2014년 5월 24일, 그리스와 튀르키예 사이 북부 에게해에서 강진이 발생해 324명이 부상을 입었습니다.',
     src: '위키백과 · 2014년 에게해 지진',
     url: 'https://en.wikipedia.org/wiki/2014_Aegean_Sea_earthquake',
+    img: 'https://upload.wikimedia.org/wikipedia/commons/1/19/USGS_Shakemap_-_2014_Aegean_Sea_earthquake.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled',
     b: `2014년 5월 24일, 그리스와 튀르키예 사이에 자리한 북부 에게해가 거센 진동에 휩싸였습니다. 최대 수정 메르칼리 진도 IX에 달하는 강진이 덮치면서 양국 연안과 섬 지역에서 모두 324명의 부상자가 발생했습니다.
 
 특히 튀르키예의 임브로스 섬과 에디르네, 차나칼레를 비롯해 그리스의 렘노스 섬에서 심각한 피해가 보고되었으며, 진동은 멀리 불가리아와 루마니아 남부에서도 감지되었습니다.
@@ -251,6 +267,7 @@ addStories([
     r: '866년 5월 26일, 마케도니아 농가 출신 바실리오스 1세가 미하일 3세에 의해 비잔티움 공동 황제로 대관했습니다.',
     src: '위키백과 · 바실리오스 1세',
     url: 'https://en.wikipedia.org/wiki/Basil_I',
+    img: 'https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9f/Roman_Emperor_Basil_I.png/960px-Roman_Emperor_Basil_I.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail',
     b: `마케도니아 테마의 가난한 농가에서 태어난 바실리오스 1세의 출세는 비잔티움 궁정에서도 손꼽히는 극적인 이야기입니다. 황제 미하일 3세의 총애를 한 몸에 받은 그는 황제의 명령으로 황제의 정부와 결혼까지 한 뒤, 866년 5월 26일 공동 황제의 관을 쓰게 됩니다.
 
 그러나 권력의 정점에 선 그의 마음속에는 곧 의심과 두려움이 자랐습니다. 영향력을 잃을지도 모른다고 느낀 바실리오스는 이듬해인 867년 자신을 발탁해 준 미하일 3세의 암살을 지휘해 단독 황제로 올라섰습니다.
@@ -263,6 +280,7 @@ addStories([
     r: '1832년 5월 27일, 이브라힘 파샤가 이끈 이집트군이 5개월간의 포위전 끝에 오스만 제국으로부터 아크레를 점령했습니다.',
     src: '위키백과 · 이집트의 이브라힘 파샤',
     url: 'https://en.wikipedia.org/wiki/Ibrahim_Pasha_of_Egypt',
+    img: 'https://upload.wikimedia.org/wikipedia/commons/5/53/Ibrahim_Pasha%2C_Larivi%C3%A8re.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled',
     b: `무함마드 알리의 장남 이브라힘 파샤는 십 대 시절부터 아버지가 육성한 이집트군을 지휘하며 전장을 누빈 명장이었습니다. 그는 군사 역사에서도 손꼽히는 지휘관으로 평가받으며, 오스만 제국군을 상대로 여러 차례 압도적인 승리를 거두었습니다.
 
 1832년 5월 27일의 승리 역시 그의 명성을 드높인 전과였습니다. 다섯 달에 걸친 집요한 포위 작전 끝에 이브라힘 파샤의 이집트군은 마침내 난공불락으로 여겨지던 오스만의 요새 아크레를 손에 넣었습니다.
@@ -275,6 +293,7 @@ addStories([
     r: '아제르바이잔 민주공화국은 1918년 5월 28일 트빌리시에서 아제르바이잔 민족평의회가 세웠다. 1920년 4월 28일까지 존속했다. 여성에게 선거권을 준 최초의 무슬림 다수 국가로 기록된다.',
     src: '위키백과 · 아제르바이잔 민주공화국',
     url: 'https://en.wikipedia.org/wiki/Azerbaijan_Democratic_Republic',
+    img: 'https://thumb.wikimedia.org/wikipedia/commons/thumb/3/33/Flag_of_the_Democratic_Republic_of_Azerbaijan_%281918%29.svg/960px-Flag_of_the_Democratic_Republic_of_Azerbaijan_%281918%29.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail',
     b: `위키백과는 아제르바이잔 민주공화국이 1918년 5월 28일 트빌리시에서 아제르바이잔 민족평의회에 의해 세워졌다고 적습니다. 외코노미 연방이 무너진 뒤였습니다. 1920년 4월 28일까지 존속했고, 볼셰비키가 바쿠를 장악해 간지가 임시 수도가 되었습니다.
 
 의회는 보통·자유·비례 선거로 뽑혔고, 초대 총리는 파탈리 칸 호이스키였습니다. 의회는 여성 참정권을 인정해 무슬림 다수 국가 가운데 최초로 여성에게 정치적 평등권을 준 나라가 되었습니다.`
@@ -285,6 +304,7 @@ addStories([
     r: '1453년 5월 29일, 메흐메트 2세의 오스만군이 53일간의 공방전 끝에 콘스탄티노폴리스를 함락시키며 로마 제국의 막을 내렸습니다.',
     src: '위키백과 · 콘스탄티노폴리스의 함락',
     url: 'https://en.wikipedia.org/wiki/Fall_of_Constantinople',
+    img: 'https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e2/Le_si%C3%A8ge_de_Constantinople_%281453%29_by_Jean_Le_Tavernier_after_1455.jpg/960px-Le_si%C3%A8ge_de_Constantinople_%281453%29_by_Jean_Le_Tavernier_after_1455.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail',
     b: `4월 6일 시작된 포위는 53일 동안 도시를 숨 막히게 조여 왔습니다. 800년 동안 난공불락의 방패였던 테오도시우스 성벽도 이번에는 달랐습니다. 500kg에 달하는 거대한 포탄을 1.5km 밖에서 쏘아 대는 오스만의 화포와 보병이 성벽에 균열을 낸 것입니다.
 
 결국 1453년 5월 29일, 콘스탄티노스 11세 팔레올로고스가 지휘하던 비잔티움 수비군은 무너졌고, 정복자 메흐메트 2세의 오스만군이 도시에 입성했습니다.
@@ -297,6 +317,7 @@ addStories([
     r: '1876년 5월 30일, 오스만 술탄 압뒬아지즈가 대신들에 의해 폐위되고 조카 무라트 5세가 뒤를 이었습니다.',
     src: '위키백과 · 압뒬아지즈',
     url: 'https://en.wikipedia.org/wiki/Abdulaziz',
+    img: 'https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0d/Sultan_Abd-ul-Aziz_-_P._Sebah_%281838-1910%29.jpg/960px-Sultan_Abd-ul-Aziz_-_P._Sebah_%281838-1910%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail',
     b: `1861년 즉위한 압뒬아지즈는 1867년 여름 파리와 런던, 빈을 방문하며 외교 사절로 서유럽을 직접 찾은 최초의 오스만 술탄이었습니다. 치세 초반 푸아트 파샤와 알리 파샤가 탄지마트 개혁을 이끌며 제국의 재편을 서둘렀지만, 1871년 두 재상이 세상을 떠난 뒤 술탄의 친정이 시작되면서 정국은 크게 흔들렸습니다.
 
 기근과 경제 파탄, 채무 불이행, 외교적 고립에 더해 발칸의 봉기까지 겹친 동방 위기 속에서 술탄의 입지는 벼랑 끝으로 몰렸습니다.
@@ -309,6 +330,7 @@ addStories([
     r: '1847년 5월 31일, 카자르 왕조 이란과 오스만 제국이 제2차 에르주룸 조약을 통해 양국의 국제 국경을 확정했습니다.',
     src: '위키백과 · 카자르 이란',
     url: 'https://en.wikipedia.org/wiki/Qajar_Iran',
+    img: 'https://thumb.wikimedia.org/wikipedia/commons/thumb/0/02/Map_Iran_1900-en.png/960px-Map_Iran_1900-en.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail',
     b: `1789년 아가 모함마드 칸이 세운 카자르 왕조 이란은 19세기 들어 북쪽의 러시아 제국과 남쪽의 대영 제국이 벌인 '그레이트 게임'의 틈바구니에서 주권을 지키기 위해 분투해야 했습니다.
 
 서쪽 국경을 맞댄 오스만 제국과의 관계 역시 순탄치만은 않았습니다. 오랜 경계 분쟁 끝에 1847년 5월 31일, 카자르 이란과 오스만 제국은 제2차 에르주룸 조약에 서명하며 마침내 양국의 국제 국경을 명확히 규정했습니다.

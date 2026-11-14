@@ -17,6 +17,7 @@ addStories([
     r: '537년 3월 2일, 비티게스 왕이 이끄는 동고트족 대군이 로마 포위 공격을 시작하자 비잔틴 명장 벨리사리우스가 플라미니아 문 밖에서 지연전을 펼치며 맞섰다.',
     src: '위키백과 · 로마 공방전 (537년~538년)',
     url: 'https://en.wikipedia.org/wiki/Siege_of_Rome_%28537%E2%80%93538%29',
+    img: 'https://thumb.wikimedia.org/wikipedia/commons/thumb/5/54/Gothic_War_-_First_Phase%2C_535-540.svg/960px-Gothic_War_-_First_Phase%2C_535-540.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail',
     b: `537년 3월 2일, 고트 전쟁의 분수령이 된 제1차 로마 공방전이 시작되었다. 동고트 왕 비티게스가 수적으로 우세한 대군으로 로마를 포위하자, 비잔틴 명장 벨리사리우스는 플라미니아 문 밖에서 지연전을 펼치다 친위대 부켈라리이 분견대와 함께 고립될 뻔한 위기를 넘기며 성을 지켰다.
 
 약 5,000명의 병력과 시민들을 성벽에 배치한 벨리사리우스는 공성탑과 공성추를 동원한 고트족의 맹공을 막아냈다. 식수 차단과 식량난, 역병으로 고전하던 수비군은 지원군 도착 후 기병대와 궁기병의 기습 전술로 전세를 뒤집었다.
@@ -29,6 +30,7 @@ addStories([
     r: '1924년 3월 3일, 무스타파 케말 아타튀르크의 세속주의 개혁에 따라 마지막 칼리프 압뒬메지트 2세가 폐위되면서 오스만 칼리프제가 공식 폐지되었다.',
     src: '위키백과 · 오스만 칼리프국',
     url: 'https://en.wikipedia.org/wiki/Ottoman_Caliphate',
+    img: 'https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e4/Caliphate_standard_of_Abdulmejid_II_%281922%E2%80%931924%29.svg/960px-Caliphate_standard_of_Abdulmejid_II_%281922%E2%80%931924%29.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail',
     b: `1924년 3월 3일, 이슬람 세계의 정신적·정치적 구심점이었던 오스만 칼리프제가 역사 속으로 사라졌다. 마지막 칼리프 압뒬메지트 2세가 폐위되고 오스만 황실 가문 전체가 튀르키예에서 추방되면서, 옛 제국의 마지막 잔재는 무스타파 케말 아타튀르크가 이끄는 근대 공화국의 세속주의 개혁 앞에 자리를 내주었다.
 
 오스만 술탄들이 칼리프 칭호를 사용하기 시작한 것은 14세기였으나, 본격적인 보편적 칼리프 권위를 주장한 것은 1517년 셀림 1세가 맘루크 이집트를 정복하고 메카·메디나·예루살렘을 장악한 이후였다. 19세기 말 압뒬하미트 2세는 범이슬람주의 외교를 통해 칼리프의 권위를 극대화하기도 했다.
@@ -41,6 +43,7 @@ addStories([
     r: '1171년 3월 4일, 어린 알렉시오스 2세 콤네노스가 부황 마누일 1세 콤네노스의 비잔틴 공동 황제로 대관식을 치렀다.',
     src: '위키백과 · 알렉시오스 2세 콤네노스',
     url: 'https://en.wikipedia.org/wiki/Alexios_II_Komnenos',
+    img: 'https://upload.wikimedia.org/wikipedia/commons/d/d1/Seal_of_Alexios_II_Komnenos.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled',
     b: `1171년 3월 4일, 콘스탄티노폴리스 궁정에서 아직 유아기를 막 벗어난 어린 왕자가 제국의 공동 황제로 대관했다. 1169년 9월에 태어난 알렉시오스 2세 콤네노스가 아버지 마누일 1세 콤네노스의 뒤를 이을 후계자이자 공동 통치자로 공식 선포된 것이다.
 
 훗날 1180년 부황의 뒤를 이어 단독 황제 자리에 오른 알렉시오스 2세였지만, 미성년자였던 그에게 제국의 실권은 허락되지 않았다. 1183년 9월 짧은 생을 마감할 때까지 실질적인 통치 권력은 내내 섭정들의 손에 머물렀다. 어린 나이에 황관을 썼던 1171년의 화려한 대관식은 콤네노스 가문의 마지막을 앞둔 비운의 서막이었다.`
@@ -51,6 +54,7 @@ addStories([
     r: '1912년 3월 5일, 이탈리아-튀르크 전쟁 중 이탈리아군이 역사상 최초로 군용 비행선을 오스만군 배후 정찰 임무에 투입했다.',
     src: '위키백과 · 이탈리아-튀르크 전쟁',
     url: 'https://en.wikipedia.org/wiki/Italo-Turkish_War',
+    img: 'https://upload.wikimedia.org/wikipedia/commons/f/f1/Italo-Turkish_war_collage.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled',
     b: `1912년 3월 5일, 리비아 사막의 하늘에서 전쟁의 양상을 바꿀 새로운 장면이 연출되었다. 오스만 제국과 트리폴리타니아 패권을 두고 맞붙은 이탈리아군이 역사상 최초로 군용 비행선을 실전에 투입해 적진 배후를 정찰하는 임무를 수행한 것이다.
 
 1911년 9월부터 1912년 10월까지 이어진 이탈리아-튀르크 전쟁은 제1차 세계대전의 전초전이자 첨단 군사 기술의 시험장이었다. 이탈리아군은 이미 1911년 10월 세계 최초의 공중 정찰과 11월 최초의 항공 폭격을 감행했고, 오스만군은 소총 사격으로 비행기를 격추한 최초의 기록을 남겼다. 여기에 굴리엘모 마르코니가 직접 현지에 와서 구축한 무선 전신망과 1912년 3월 비행선의 정찰 활약까지 더해지며, 이 전쟁은 근대 공중전의 서막을 연 사건으로 기록되었다.`
@@ -61,6 +65,7 @@ addStories([
     r: '1447년 3월 6일, 교황 에우제니오 4세의 선종 이후 열린 사흘간의 콘클라베 끝에 톰마소 파렌투첼리가 새 교황 니콜라오 5세로 선출되었다.',
     src: '위키백과 · 1447년 콘클라베',
     url: 'https://en.wikipedia.org/wiki/1447_conclave',
+    img: 'https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b3/Paus_Nicolaas_V_door_Peter_Paul_Rubens.jpg/960px-Paus_Nicolaas_V_door_Peter_Paul_Rubens.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail',
     b: `1447년 2월 23일 교황 에우제니오 4세가 선종하자, 가톨릭교회의 새로운 수장을 뽑기 위한 추기경들의 회의가 로마에 소집되었다. 3월 4일부터 6일까지 사흘간 이어진 1447년 콘클라베는 로마의 산타 마리아 소프라 미네르바 대성당에서 치러졌다.
 
 삼엄한 논의 끝에 3월 6일 마침내 흰 연기가 피어올랐고, 톰마소 파렌투첼리 추기경이 새 교황으로 선출되었다. 그는 전임자 가브리엘레 콘둘메르(에우제니오 4세)의 뒤를 이어 교황 니콜라오 5세라는 이름으로 사도좌에 올랐다.`
@@ -71,6 +76,7 @@ addStories([
     r: '1573년 3월 7일, 오스만 제국과 베네치아 공화국이 평화 조약을 체결해 전쟁을 끝내고 키프로스의 지배권을 오스만 측에 넘겼다.',
     src: '위키백과 · 베네치아 공화국',
     url: 'https://en.wikipedia.org/wiki/Republic_of_Venice',
+    img: 'https://thumb.wikimedia.org/wikipedia/commons/thumb/1/12/Variant_war_flag_of_the_Serene_Republic_of_Venice.svg/960px-Variant_war_flag_of_the_Serene_Republic_of_Venice.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail',
     b: `1573년 3월 7일, 지중해의 두 거인 오스만 제국과 베네치아 공화국이 평화 조약에 서명했다. 이로써 1570년부터 이어진 오스만-베네치아 전쟁은 막을 내렸지만, 베네치아는 동지중해의 요충지인 키프로스를 오스만 제국의 손에 넘겨주어야 했다.
 
 1,100년 넘게 해상 무역으로 번영을 누린 ‘가장 고귀한 공화국’ 베네치아는 13세기부터 16세기까지 전성기를 구가하며 크레타와 키프로스, 에게해 여러 섬을 지배했다. 그러나 1509년 아냐델로 전투 패배 이후 동방 영토를 둘러싸고 오스만 제국과 기나긴 전쟁의 소용돌이에 휘말렸다.
@@ -83,6 +89,7 @@ addStories([
     r: '살리흐 훌루시는 1920년 3월 8일부터 4월 2일까지 대재상을 지냈다. 4월 2일 외국의 압력으로 해임되었고, 4월 5일 의회가 폐쇄되었다.',
     src: '위키백과 · 살리흐 훌루시 파샤',
     url: 'https://en.wikipedia.org/wiki/Salih_Hulusi_Kezrak',
+    img: 'https://thumb.wikimedia.org/wikipedia/en/thumb/7/75/Salih_Hulusi_Pasha_%28Kezrak%29.jpg/960px-Salih_Hulusi_Pasha_%28Kezrak%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail',
     b: `살리흐 훌루시 파샤는 1920년 3월 8일 대재상이 되었습니다. 위키백과는 그가 연합군의 이스탄불 점령 뒤 일어난 일련의 사건, 특히 오스만 의회 의원들의 체포 이후에 자리를 맡았다고 적습니다. 내각을 꾸리지 못했기 때문에 그의 임기는 짧았습니다.
 
 4월 2일 술탄은 외국의 압력 아래서 그를 해임했습니다. 4월 5일에는 의회가 공식적으로 폐쇄되었고, 이로써 제2차 입헌 시대가 끝났습니다.
@@ -95,6 +102,7 @@ addStories([
     r: '1044년 3월 9일, 비잔틴 황제 콘스탄티노스 9세 모노마코스가 황후 조에보다 정부 마리아 스클레라이나를 총애하자 분노한 콘스탄티노폴리스 시민들이 폭동을 일으켰다.',
     src: '위키백과 · 콘스탄티노스 9세 모노마코스',
     url: 'https://en.wikipedia.org/wiki/Constantine_IX_Monomachos',
+    img: 'https://upload.wikimedia.org/wikipedia/commons/9/94/Emperor_Constantine_IX.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled',
     b: `1044년 3월 9일, 콘스탄티노폴리스 거리가 성난 군중으로 뒤덮였다. 1042년 아우구스타 조에 포르피로게니타와 결혼해 제위에 오른 콘스탄티노스 9세 모노마코스가 정실 황후 조에 대신 정부 마리아 스클레라이나를 총애하자, 이를 황실에 대한 모욕으로 여긴 시민들이 폭동을 일으킨 것이다.
 
 콘스탄티노스 9세는 바실리오스 2세가 비축한 국고를 사치스러운 선물과 종교 사업에 쏟아붓고 금화 순도를 떨어뜨렸으며, 귀족층을 대거 늘려 재정 부담을 키웠다. 1054년에는 동서 교회 대분열이라는 사건도 맞았다.
@@ -107,6 +115,7 @@ addStories([
     r: '제말 파샤는 1914년 3월 10일부터 1918년 10월 14일까지 해군 장관을 지냈다. 청년 투르크 3인 집권자 가운데 한 명이었다.',
     src: '위키백과 · 제말 파샤',
     url: 'https://en.wikipedia.org/wiki/Cemal_Pasha',
+    img: 'https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8b/Djemal_Pasha2.png/960px-Djemal_Pasha2.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail',
     b: `아흐메트 제말 파샤는 1872년 레스보스 섬의 미틸렌에서 태어났습니다. 위키백과는 그를 탈라트, 엔베르와 함께 제1차 세계대전 중 오스만을 다스린 3파샤 가운데 한 명으로 적습니다.
 
 그는 살로니카의 2군단 장교로 있다가 통일진보위원회에 가까워졌습니다. 1914년 3월 10일 해군 장관에 임명되어 1918년 10월 14일까지 그 자리에 있었습니다. 시리아에서는 3년 동안 권위주의 통치를 했고, 현지 주민의 반감을 샀습니다.
@@ -119,6 +128,7 @@ addStories([
     r: '538년 3월 12일, 동고트 왕 비티게스가 로마 공방전을 포기하고 라벤나로 철수하면서 도시는 승리한 비잔틴 장군 벨리사리우스의 손에 남았다.',
     src: '위키백과 · 비티게스',
     url: 'https://en.wikipedia.org/wiki/Vitiges',
+    img: 'https://upload.wikimedia.org/wikipedia/commons/7/76/Quarter_Siliqua_of_Witigis_cropped.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled',
     b: `538년 3월 12일, 꼬박 1년 넘게 로마 성벽을 에워싸고 있던 동고트족의 군대가 마침내 포위를 풀고 철수했다. 537년부터 압도적인 병력을 앞세워 로마 탈환을 시도했던 비티게스 왕은 비잔틴 명장 벨리사리우스의 완강한 저항에 부딪혀 승기를 잡지 못한 채 수도 라벤나 방어로 방향을 돌렸다.
 
 미천한 출신에서 출발해 테오도리쿠스 대왕 아래서 무공을 세우고 테오다하드 왕을 축출하며 왕위에 오른 비티게스였지만, 그의 치세는 시작부터 위기의 연속이었다. 로마 철수 이후에도 비잔틴군의 진격은 멈추지 않았고, 결국 540년 라벤나에 고립된 비티게스는 벨리사리우스에게 서로마 제국의 왕관을 제안하는 고육지책을 썼다.
@@ -143,6 +153,7 @@ addStories([
     r: '1647년 3월 14일, 30년 전쟁이 막바지로 향하던 가운데 바이에른, 쾰른, 프랑스, 스웨덴이 울름 휴전 협정에 서명했다.',
     src: '위키백과 · 30년 전쟁',
     url: 'https://en.wikipedia.org/wiki/Thirty_Years%27_War',
+    img: 'https://thumb.wikimedia.org/wikipedia/commons/thumb/1/17/Carl_Friedrich_Lessing_-_The_Siege_%28Defense_of_a_Church_Courtyard_During_the_Thirty_Years%E2%80%99_War%29_-_Google_Art_Project.jpg/960px-Carl_Friedrich_Lessing_-_The_Siege_%28Defense_of_a_Church_Courtyard_During_the_Thirty_Years%E2%80%99_War%29_-_Google_Art_Project.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail',
     b: `1647년 3월 14일, 30년 가까이 중앙유럽을 잿더미로 만든 전쟁의 당사국 중 바이에른과 쾰른, 프랑스, 스웨덴이 울름에서 휴전 협정에 서명했다. 이는 이듬해 베스트팔렌 조약으로 전쟁이 완전히 종결되기 전, 전선의 긴장을 잠시나마 늦춘 중요한 외교적 합의였다.
 
 1618년 보헤미아의 종교 분쟁으로 불붙은 30년 전쟁은 신성 로마 제국 내부의 가톨릭과 개신교 갈등을 넘어 합스부르크 가문과 프랑스, 스웨덴, 덴마크, 스페인 등이 얽힌 유럽 대전으로 비화했다. 전투와 기근, 역병으로 인해 최소 450만 명에서 최대 800만 명의 군인과 민간인이 목숨을 잃었고, 독일 일부 지역은 인구가 절반 이상 줄어드는 참상을 겪었다.
@@ -155,6 +166,7 @@ addStories([
     r: '856년 3월 15일, 비잔틴 황제 미하일 3세가 귀족들의 지지를 등에 업고 어머니 테오도라 황후의 섭정 체제를 전복하고 친정을 시작했다.',
     src: '위키백과 · 미하일 3세',
     url: 'https://en.wikipedia.org/wiki/Michael_III',
+    img: 'https://upload.wikimedia.org/wikipedia/commons/0/0e/Michael_iii.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled',
     b: `856년 3월 15일, 열여섯 살의 젊은 비잔틴 황제 미하일 3세가 궁정 귀족들의 지지를 업고 어머니 테오도라 황후의 섭정을 무너뜨렸다. 생후 수개월 만에 황제 칭호를 받고 두 살에 단독 황제가 되어 로마 역사상 최연소 기록을 세웠던 그가 비로소 스스로 권력의 고삐를 쥔 순간이었다.
 
 미하일 3세는 훗날 마케도니아 왕조를 연 바실리오스 1세에게 867년 암살당했고, 승자의 편에 선 역사가들로부터 ‘주정뱅이 미하일’이라는 불명예스러운 별칭으로 기록되었다. 아모리아 왕조의 마지막 황제는 오랜 세월 무능하고 방탕한 군주로 깎아내려졌다.
@@ -167,6 +179,7 @@ addStories([
     r: '445년(또는 455년) 3월 16일, 서로마 황제 발렌티니아누스 3세가 마르스 광장에서 무술을 연마하던 중 페트로니우스 막시무스의 사주를 받은 자들에게 암살당했다.',
     src: '위키백과 · 로마 황제',
     url: 'https://en.wikipedia.org/wiki/Roman_emperor',
+    img: 'https://upload.wikimedia.org/wikipedia/commons/1/10/Better_Imperial_Aquila.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled',
     b: `3월 16일, 로마의 마르스 광장에서 병사들과 함께 무술을 연마하던 서로마 제국의 황제 발렌티니아누스 3세가 갑작스러운 습격을 받고 쓰러졌다. 황제의 목숨을 앗아간 암살의 배후에는 권력을 노린 페트로니우스 막시무스가 있었다.
 
 로마 황제의 지위는 본래 공화정의 틀 안에서 출발했으나, 디오클레티아누스 이후 동서로 나뉜 제국에서는 군대와 관료의 지지에 따라 제위가 오가는 치열한 권력 투쟁이 끊이지 않았다. 혈통에 따른 자동 세습이 확립되지 않았던 탓에 수많은 찬탈자와 암살 음모가 황실의 뒤를 따랐다.
@@ -179,6 +192,7 @@ addStories([
     r: '1891년 3월 17일, 증기선 SS 유토피아호가 지브롤터 만에서 영국 전함 HMS 앤슨과 충돌해 침몰하면서 탑승객 880명 중 562명이 사망했다.',
     src: '위키백과 · 지브롤터 만',
     url: 'https://en.wikipedia.org/wiki/Bay_of_Gibraltar',
+    img: 'https://upload.wikimedia.org/wikipedia/commons/1/13/Bay_of_Gibraltar.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled',
     b: `1891년 3월 17일, 지중해와 대서양을 잇는 관문인 지브롤터 만에서 참혹한 해난 사고가 발생했다. 여객선 SS 유토피아호가 영국 해군 전함 HMS 앤슨과 정면으로 충돌한 뒤 순식간에 가라앉으면서, 배에 타고 있던 880명의 승객 가운데 무려 562명이 차가운 바닷속으로 사라졌다.
 
 사고가 일어난 지브롤터 만은 길이 약 10km, 너비 약 8km에 달하며 중앙부 수심이 400m에 이르는 깊은 바다다. 페니키아인과 로마인 시절부터 최소 3,000년 이상 상선들이 오가던 이 해역은 지중해 입구라는 전략적 요충지여서 수많은 해전과 선박 왕래가 끊이지 않았다.
@@ -191,6 +205,7 @@ addStories([
     r: '1915년 3월 18일, 제1차 세계대전 갈리폴리 전투에서 영국·프랑스 연합군 함대가 다르다넬스 해협 돌파를 시도하다 전함 세 척이 침몰하며 실패로 돌아갔다.',
     src: '위키백과 · 갈리폴리 전역',
     url: 'https://en.wikipedia.org/wiki/Gallipoli_campaign',
+    img: 'https://upload.wikimedia.org/wikipedia/commons/4/4f/G.C._18_March_1915_Gallipoli_Campaign_Article.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled',
     b: `1915년 3월 18일, 다르다넬스 해협을 뚫고 오스만 제국의 수도 콘스탄티노폴리스까지 진격하려던 영국·프랑스 연합 함대의 야심 찬 작전이 참담한 좌절을 맞았다. 오스만군의 견고한 방어선 앞에서 연합군 전함 세 척이 해협에 침몰하면서 해상 돌파 시도는 실패로 끝났다.
 
 당시 영국 해군성 장관 윈스턴 처칠이 주도한 갈리폴리 전역은 해협을 장악해 러시아로 보급로를 열고 오스만 제국을 굴복시키려는 전략이었다. 해군의 실패 이후 연합군은 4월 상륙 작전을 감행했으나, 8개월간의 혈투 끝에 양측 합계 약 50만 명의 사상자를 내고 1916년 1월 결국 철수했다.
@@ -227,6 +242,7 @@ addStories([
     r: '1905년 3월 23일, 엘레프테리오스 베니젤로스가 크레타와 그리스의 통합을 촉구하며 훗날 ‘테리소 반란’으로 불린 봉기를 일으켰다.',
     src: '위키백과 · 엘레프테리오스 베니젤로스',
     url: 'https://en.wikipedia.org/wiki/Eleftherios_Venizelos',
+    img: 'https://thumb.wikimedia.org/wikipedia/commons/thumb/0/01/Eleftherios_Venizelos_1919_%283x4_cropped%29.jpg/960px-Eleftherios_Venizelos_1919_%283x4_cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail',
     b: `1905년 3월 23일, 크레타 섬의 지도자 엘레프테리오스 베니젤로스가 그리스 본토와의 통합(에노시스)을 선언하며 ‘테리소 반란’을 일으켰다. 1897년 크레타 봉기에서 두각을 나타내며 섬의 자치권을 이끌어냈던 그가 마침내 완전한 조국 합병을 향해 행동에 나선 것이다.
 
 이 사건은 훗날 ‘근대 그리스의 건국자’로 불리게 될 베니젤로스가 그리스 중앙 정계로 도약하는 발판이 되었다. 1910년 총리에 오른 그는 1911년 헌법 개혁과 군 현대화를 단행했고, 발칸 전쟁을 통해 마케도니아와 에피로스, 에게해 섬들을 되찾으며 그리스의 영토와 인구를 두 배로 넓혔다.
@@ -239,6 +255,7 @@ addStories([
     r: '2018년 3월 24일, 튀르키예군과 시리아 국민군이 시리아 북부 아프린 지구를 완전히 장악하면서 1월부터 이어진 아프린 공세가 종료되었다.',
     src: '위키백과 · 시리아 내전',
     url: 'https://en.wikipedia.org/wiki/Syrian_civil_war',
+    img: 'https://thumb.wikimedia.org/wikipedia/commons/thumb/5/59/Bombed_out_vehicles_Aleppo.jpg/960px-Bombed_out_vehicles_Aleppo.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail',
     b: `2018년 3월 24일, 튀르키예군(TAF)과 튀르키예가 조직·지원한 시리아 국민군(SNA)이 시리아 북부 아프린 지구를 완전히 장악했다. 그해 1월부터 석 달 가까이 이어진 아프린 공세가 마침내 막을 내린 것이다.
 
 2011년 아랍의 봄 시위로 촉발되어 14년 가까이 이어진 시리아 내전은 아사드 정권과 반군, 이슬람국가(IS), 쿠르드계 민병대(YPG), 그리고 주변 강대국들이 얽힌 복합 전쟁이었다. 튀르키예는 북부 시리아에 쿠르드계 자치 행정구역이 들어서자 2016년부터 군사 개입을 시작하며 시리아 국민군을 결성해 대응했다.
@@ -251,6 +268,7 @@ addStories([
     r: '919년 3월 25일, 로마노스 레카페노스가 콘스탄티노폴리스의 부콜레온 궁전을 장악하고 어린 황제 콘스탄티노스 7세의 섭정 자리에 올랐다.',
     src: '위키백과 · 로마노스 1세 레카페노스',
     url: 'https://en.wikipedia.org/wiki/Romanos_I_Lekapenos',
+    img: 'https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0a/Seal_of_Romanos_I_Lekapenos.png/960px-Seal_of_Romanos_I_Lekapenos.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail',
     b: `919년 3월 25일, 콘스탄티노폴리스 황궁의 핵심인 부콜레온 궁전이 로마노스 레카페노스의 손에 넘어갔다. 870년경 태어난 그는 전격적인 궁정 장악을 통해 어린 황제 콘스탄티노스 7세의 섭정 지위를 확보하며 단숨에 제국 권력의 정점에 섰다.
 
 섭정으로 출발한 로마노스의 야망은 여기서 멈추지 않았다. 이듬해인 920년 그는 아예 선임 공동 황제인 로마노스 1세로 즉위하여 어린 정통 황제 콘스탄티노스 7세를 제치고 실질적인 제국의 통치자로 군림했다.
@@ -263,6 +281,7 @@ addStories([
     r: '에디르네 포위는 1912년 11월 3일 시작되어 1913년 3월 26일 불가리아 제2군과 세르비아 제2군이 도시를 점령하며 끝났다.',
     src: '위키백과 · 에디르네 포위 (1912–1913)',
     url: 'https://en.wikipedia.org/wiki/Siege_of_Adrianople_(1912%E2%80%931913)',
+    img: 'https://upload.wikimedia.org/wikipedia/commons/5/51/Siege_of_Adrianople_1912-13.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled',
     b: `에디르네 포위전은 제1차 발칸 전쟁 동안 벌어졌습니다. 1912년 11월 3일 시작되어 1913년 3월 26일 불가리아 제2군과 세르비아 제2군이 도시를 점령하며 끝났습니다. 위키백과는 이 도시의 방어 시설이 독일 포위 전문가들의 지도로 세워졌고 "난공불락"으로 불렸다고 적습니다.
 
 다섯 달의 포위와 두 번의 야간 공격 끝에 점령이 이루어졌습니다. 이 포위전에서는 불가리아군이 비행기에서 수류탄을 떨어뜨린 초기 사례도 있었습니다. 에디르네의 상실은 오스만군에 결정적인 타격이었고, 같은 해 5월 30일 런던에서 조약이 맺어졌습니다.
@@ -275,6 +294,7 @@ addStories([
     r: '1564년 3월 27일, 쉴레이만 대제 치하에서 오스만 제국 대재상을 지내고 수많은 역사서와 종교서를 남긴 뤼트피 파샤가 세상을 떠났다.',
     src: '위키백과 · 뤼트피 파샤',
     url: 'https://en.wikipedia.org/wiki/L%C3%BCtfi_Pasha',
+    img: 'https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f9/Lutfi_Pasha_%28166346158%29.jpg/960px-Lutfi_Pasha_%28166346158%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail',
     b: `1564년 3월 27일, 디디모테이호에서 오스만 제국의 정치가이자 역사가인 뤼트피 파샤가 76세의 일기로 생을 마감했다. 알바니아계 출신으로 1488년경 태어난 그는 장군을 거쳐 1539년부터 1541년까지 쉴레이만 대제 아래서 제국의 2인자인 대재상(그랜드 비지어)을 역임했다.
 
 관직에서 물러난 뒤에도 그의 붓끝은 멈추지 않았다. 그는 아랍어로 13편, 튀르크어로 8편 등 총 21권에 달하는 종교·역사 저술을 남겼다. 특히 재상들의 처세와 통치술을 담은 《아사프나메》와, 바예지트 2세·셀림 1세·쉴레이만 1세 치세에 자신이 직접 겪은 일들을 기록한 오스만 역사서 《테바리히 알리 오스만》은 오늘날 오스만 제국사를 연구하는 귀중한 사료로 평가받는다.`
@@ -285,6 +305,7 @@ addStories([
     r: '1842년 3월 28일, 작곡가 겸 지휘자 오토 니콜라이의 지휘로 빈 필하모닉 오케스트라의 역사적인 창단 첫 연주회가 열렸다.',
     src: '위키백과 · 빈 필하모닉 관현악단',
     url: 'https://en.wikipedia.org/wiki/Vienna_Philharmonic',
+    img: 'https://thumb.wikimedia.org/wikipedia/commons/thumb/5/51/Wiener_Philharmoniker_logo.svg/960px-Wiener_Philharmoniker_logo.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail',
     b: `1842년 3월 28일, 오스트리아 빈에서 오토 니콜라이의 지휘봉이 올라가며 세계 최고 오케스트라 중 하나로 꼽히는 빈 필하모닉 관현악단의 첫 연주회가 막을 올렸다. 이날의 무대는 오늘날까지 이어지는 유서 깊은 관현악 전통의 출발점이었다.
 
 무지크페라인에 본거지를 둔 빈 필하모닉은 단원 선발 과정이 까다롭기로 유명하다. 모든 단원은 빈 국립 오페라 극장 오케스트라 출신 중에서 뽑히며, 오페라와 발레 무대에서 최소 3년간 기량을 검증받는 수습 기간을 거쳐야만 입단 신청 자격을 얻는다.
@@ -297,6 +318,7 @@ addStories([
     r: '1430년 3월 29일, 무라트 2세가 이끄는 오스만 제국군이 8년간의 공방전 끝에 베네치아 공화국으로부터 테살로니카를 점령했다.',
     src: '위키백과 · 무라트 2세',
     url: 'https://en.wikipedia.org/wiki/Murad_II',
+    img: 'https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f9/Murad_II._H%C3%BCnername%2C_folio_143b._TSMK_Hazine_1523_%28created_1584-1588%29.jpg/960px-Murad_II._H%C3%BCnername%2C_folio_143b._TSMK_Hazine_1523_%28created_1584-1588%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail',
     b: `1430년 3월 29일, 오스만 제국의 술탄 무라트 2세가 1422년부터 이어진 긴 포위전 끝에 베네치아 공화국이 지키던 전략적 항구 도시 테살로니카를 함락시켰다. 이로써 오스만 제국은 그리스와 발칸반도 지배를 한층 공고히 하는 결정적 발판을 마련했다.
 
 메흐메트 1세의 뒤를 이어 즉위한 무라트 2세의 치세는 쉼 없는 정복과 내란 진압의 연속이었다. 그는 동생 퀴취크 무스타파의 반란으로 콘스탄티노폴리스 포위를 풀어야 했던 위기를 극복하고, 아나톨리아의 여러 공국을 병합한 뒤 베네치아·헝가리와 치열하게 맞섰다.
@@ -309,6 +331,7 @@ addStories([
     r: '다루샤파카 협회는 1863년 3월 30일 "이슬람 교육 협회"(Cemiyet-i Tedrisiye-i İslamiye)로 설립되었다. 술탄 압뒬아지즈의 칙령(페르만)으로 인정받았다.',
     src: '위키백과 · 다루샤파카 협회',
     url: 'https://en.wikipedia.org/wiki/Darüşşafaka_Society',
+    img: 'https://thumb.wikimedia.org/wikipedia/commons/thumb/b/be/Darussafaka_Society_Logo.svg/960px-Darussafaka_Society_Logo.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail',
     b: `다루샤파카 협회는 1863년 3월 30일 "이슬람 교육 협회"라는 이름으로 세워졌습니다. 설립자로는 유수프 지야 파샤, 가지 아흐메드 무흐타르 파샤, 휘세인 테위피크 파샤, 아흐메드 에사트 파샤, 알리 나키 에펜디가 이름을 올렸습니다. 술탄 압뒬아지즈가 칙령으로 인정했습니다.
 
 협회의 목표는 가난하고 소외된 아이들, 특히 이스탄불 그랜드 바자르 등에서 일하는 도제들의 교육이었습니다. 처음에는 베야지트의 낡은 건물에 한 교실짜리 학교를 열었고, 교사들은 자원봉사로 가르쳤습니다. 위키백과는 이것이 오스만 제국 최초의 공교육 사례 중 하나로 여겨진다고 적습니다.
@@ -321,6 +344,7 @@ addStories([
     r: '1913년 3월 31일, 빈에서 쇤베르크·베르크·체믈린스키·베베른의 모더니즘 음악 연주회 도중 청중과 주최 측 사이에 폭력 사태가 벌어져 공연이 조기 중단되었다.',
     src: '위키백과 · 음악의 모더니즘',
     url: 'https://en.wikipedia.org/wiki/Modernism_%28music%29',
+    img: 'https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e1/Der_junge_Richard_Strauss.JPG/960px-Der_junge_Richard_Strauss.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail',
     b: `1913년 3월 31일, 클래식 음악의 본고장 빈의 연주회장이 난장판으로 변했다. 아르놀트 쇤베르크와 알반 베르크, 알렉산더 폰 체믈린스키, 안톤 폰 베베른 등 당대 급진적 모더니즘 작곡가들의 작품을 선보이던 빈 연주협회 무대에서 격분한 청중들이 소동을 일으키며 폭력 사태로 번진 것이다. 결국 공연은 끝을 맺지 못한 채 조기 중단되었고, 이날의 사건은 역사에 ‘스캔들 콘서트(Skandalkonzert)’라는 이름으로 남았다.
 
 19세기 말부터 20세기 초에 걸친 음악의 모더니즘은 조성을 해체한 쇤베르크의 무조 음악과 12음 기법처럼 기존의 화성·선율·리듬 관습을 과감히 뒤엎는 ‘혁신’을 핵심 가치로 삼았다. 전통적 아름다움에 익숙했던 빈의 보수적 청중들에게 그 낯선 불협화음은 도저히 받아들이기 힘든 충격이었고, 예술적 충돌은 결국 물리적 난동이라는 초유의 사태로 폭발하고 말았다.`

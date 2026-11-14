@@ -51,6 +51,7 @@ const EXTRA_TURKEY_STORIES = [
     title: "오스만 제국 공식 관보에 실린 불가리아 티르노바의 흡혈귀 소탕 사건",
     source: "오스만 제국 공식 관보 《타크빔-이 베카이(Takvim-i Vekayi)》 68호",
     sillokUrl: "https://tr.wikipedia.org/wiki/Takvim-i_Vekayi",
+    imageUrl: "https://upload.wikimedia.org/wikipedia/commons/f/fa/Takvimi_vekayi_1831.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
     officialRecord: "1833년 10월 6일자 공식 관보 68호에 티르노바 재판관 아흐메트 슈크리 에펜디의 공식 보고서가 실려, 마을을 어지럽히던 예니체리 망령을 퇴마사 니콜라가 처치한 전말이 보도되었다.",
     yasaStory: `오스만 제국의 첫 공식 관보인 《타크빔-이 베카이》 68호에는 황당하면서도 소름 끼치는 공식 보고서가 전면 게재되었다. 불가리아 티르노바 지역의 판관이 수도 이스탄불로 올린 공식 공문서였다.
 
@@ -89,6 +90,7 @@ const EXTRA_TURKEY_STORIES = [
     title: "뱀과 전갈로부터 공주의 시신을 지킨 이스탄불의 신비한 부적 기둥 '크즈타쉬'",
     source: "TDV 이슬람 백과사전 (Kıztaşı) · 에블리야 첼레비 《여행기》 1권",
     sillokUrl: "https://tr.wikipedia.org/wiki/K%C4%B1zta%C5%9F%C4%B1",
+    imageUrl: "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/57/ColumnOfMarcianInIstanbulApril2007.jpg/960px-ColumnOfMarcianInIstanbulApril2007.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
     officialRecord: "파티흐 사랏하네에 우뚝 솟은 마르키아누스 원주(크즈타쉬)는 상단에 날개 달린 승리의 여신이 조각되어 있어 '처녀의 돌'이라 불리며 이스탄불을 지키는 탈리스만 전설을 품고 있다.",
     yasaStory: `이스탄불 구시가지 골목 한가운데 우뚝 솟은 높이 17m의 붉은 화강암 원주 '크즈타쉬(Kıztaşı, 처녀의 돌)'. 원래는 5세기 동로마 마르키아누스 황제를 기리기 위해 세워진 기둥이지만, 오스만인들에게는 도시를 지키는 강력한 마법 부적(탈리스만)으로 통했다.
 

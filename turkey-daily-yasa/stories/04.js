@@ -7,6 +7,7 @@ addStories([
     r: '527년 4월 1일, 비잔틴 황제 유스티누스 1세가 조카 유스티니아누스 1세를 공동 통치자이자 제위 계승자로 공식 지명했다.',
     src: '위키백과 · 비잔틴 황제 목록',
     url: 'https://en.wikipedia.org/wiki/List_of_Byzantine_emperors',
+    img: 'https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b6/Konstantinos_XI_Palaiologos_fresco_%28less_edited%29.jpg/960px-Konstantinos_XI_Palaiologos_fresco_%28less_edited%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail',
     b: `527년 4월 1일, 콘스탄티노폴리스 궁정에서 제국의 운명을 바꿀 승계가 이루어졌다. 비잔틴 황제 유스티누스 1세가 자신의 조카 유스티니아누스 1세를 공동 황제(아우구스투스)이자 후계자로 공식 임명한 것이다.
 
 로마 제국의 법적 계승자인 비잔틴 제국에는 사실 왕조나 혈통에 따른 자동 세습이라는 고정된 법칙이 없었다. 세습은 하나의 관습이자 정통성을 돕는 수단일 뿐, 군대와 관료의 인정이 무엇보다 중요했다. 트라키아와 일리리쿰 등 라틴어권 군사 요충지 출신들이 황제에 오르던 초기 제국의 흐름 속에서, 유스티누스 1세는 유능한 조카에게 미리 제권을 나누어 안정적인 권력 이양을 도모했다.
@@ -19,6 +20,7 @@ addStories([
     r: '1107년 4월 2일, 셀주크 제국의 술탄 무함마드 1세 타파르가 니자리 이스마일파의 거점 요새인 샤디즈에 대한 포위 공격을 개시했다.',
     src: '위키백과 · 셀주크 제국',
     url: 'https://en.wikipedia.org/wiki/Seljuk_Empire',
+    img: 'https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a6/Flag_of_the_Seljuk_Empire.jpg/960px-Flag_of_the_Seljuk_Empire.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail',
     b: `1107년 4월 2일, 중세 이슬람 세계의 패자 셀주크 제국의 술탄 무함마드 1세 타파르가 니자리 이스마일파가 점거한 난공불락의 요새 샤디즈를 향해 포위망을 조이기 시작했다. 분열된 이슬람 동부 세계를 통합했던 셀주크 제국 내부의 종교적·정치적 갈등이 정면으로 충돌한 순간이었다.
 
 1037년 투으룰과 차으리 형제가 건국한 셀주크 제국은 아랄해 부근에서 출발해 호라산과 이란, 바그다드를 거쳐 아나톨리아와 레반트, 힌두쿠시까지 390만 제곱킬로미터에 달하는 대제국을 건설했다. 1071년 만지케르트 전투에서 비잔틴군을 대파하며 아나톨리아의 튀르크화를 이끌었고 십자군 전쟁에서도 핵심 역할을 수행했다.
@@ -31,6 +33,7 @@ addStories([
     r: '956년 4월 3일, 폴리에욱토스가 콘스탄티노폴리스 세계 총대주교로 선출되어 970년 선종할 때까지 교회를 이끌었다.',
     src: '위키백과 · 콘스탄티노폴리스 총대주교 폴리에욱토스',
     url: 'https://en.wikipedia.org/wiki/Polyeuctus_of_Constantinople',
+    img: 'https://thumb.wikimedia.org/wikipedia/commons/thumb/2/29/Consecration_of_Patriarch_Polyeuctus.png/960px-Consecration_of_Patriarch_Polyeuctus.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail',
     b: `956년 4월 3일, 콘스탄티노폴리스 교회의 새로운 수장으로 폴리에욱토스가 선출되었다. 그는 이날 콘스탄티노폴리스 세계 총대주교 자리에 오른 뒤, 970년 2월 5일 선종할 때까지 약 14년간 비잔틴 제국의 정신적 지주 역할을 수행했다.
 
 10세기 중반 콘스탄티노폴리스 총대주교직을 성실히 지킨 그는 사후 동방 정교회에서 깊은 공경을 받는 인물로 남았다. 오늘날 정교회에서는 그가 세상을 떠난 날인 2월 5일을 공식 축일로 정해 그의 신앙과 업적을 기리고 있다.`
@@ -41,6 +44,7 @@ addStories([
     r: '1268년 4월 4일, 비잔틴 황제 미하일 8세 팔라이올로고스와 베네치아 사절단이 5년간의 평화 조약을 체결하며 무역과 포로 석방에 합의했다.',
     src: '위키백과 · 1268년 비잔틴-베네치아 조약',
     url: 'https://en.wikipedia.org/wiki/Byzantine%E2%80%93Venetian_treaty_of_1268',
+    img: 'https://thumb.wikimedia.org/wikipedia/commons/thumb/0/09/ShepherdByzempire1265.jpg/960px-ShepherdByzempire1265.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail',
     b: `1268년 4월 4일, 오랜 앙숙이던 비잔틴 제국과 베네치아 공화국이 5년간의 휴전을 약속하는 평화 조약에 서명했다. 1261년 미하일 8세 팔라이올로고스가 콘스탄티노폴리스를 탈환하며 라틴 제국이 붕괴된 이후, 두 나라는 에게해와 흑해의 패권을 두고 치열한 해전을 벌여왔다.
 
 비잔틴의 원래 동맹이었던 제노바의 군사적 성과에 실망한 미하일 8세는 1265년에도 베네치아와 조약을 맺으려 했으나 베네치아의 비준 거부로 무산된 바 있다. 하지만 이탈리아에서 세력을 키우며 콘스탄티노폴리스 점령을 노리던 앙주의 샤를이라는 공동의 위협이 양측을 다시 협상 테이블로 이끌었다.
@@ -53,6 +57,7 @@ addStories([
     r: '2007년 4월 5일, 크루즈선 시 다이아몬드호가 그리스 네아 카메니 인근의 화산 암초와 충돌해 이튿날 침몰했으며, 승객 두 명은 끝내 발견되지 않았다.',
     src: '위키백과 · 크루즈선',
     url: 'https://en.wikipedia.org/wiki/Cruise_ship',
+    img: 'https://thumb.wikimedia.org/wikipedia/commons/thumb/6/66/Icon_of_the_Seas_Puerto_Rico_2025_%28cropped%29.jpg/960px-Icon_of_the_Seas_Puerto_Rico_2025_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail',
     b: `2007년 4월 5일, 에게해의 아름다운 화산섬 네아 카메니 인근 해상을 항해하던 대형 유람선 시 다이아몬드호가 물밑에 숨어 있던 화산 암초를 들이받고 말았다. 선체에 큰 손상을 입은 배는 결국 다음 날 바닷속으로 침몰했고, 이 사고로 실종된 승객 두 명은 끝내 시신조차 수습되지 못해 사망한 것으로 추정되었다.
 
 ‘바다 위의 떠다니는 호텔’로 불리는 현대 크루즈선은 수천 명의 관광객에게 호화로운 식당과 휴양 시설을 제공하지만, 정기 여객선인 오션 라이너에 비해 선체 강도와 속도, 기동성이 떨어지는 특성을 지닌다. 지중해와 카리브해를 누비며 거대한 관광 산업을 이끄는 거대 유람선이 지닌 구조적 취약성과 해저 지형의 위험이 2007년 4월 에게해에서 비극적인 사고로 드러났다.`
@@ -75,6 +80,7 @@ addStories([
     r: '529년 4월 7일, 동로마 황제 유스티니아누스 1세가 법학의 근간이 되는 최초의 《로마법 대전(코르푸스 유리스 키빌리스)》을 반포했다.',
     src: '위키백과 · 로마법 대전',
     url: 'https://en.wikipedia.org/wiki/Corpus_Juris_Civilis',
+    img: 'https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5d/Corpus_Iuris_Civilis_-_Dion%C3%ADsio_Godofredo_-_1583.jpg/960px-Corpus_Iuris_Civilis_-_Dion%C3%ADsio_Godofredo_-_1583.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail',
     b: `529년 4월 7일, 동로마 황제 유스티니아누스 1세의 명령에 따라 법전의 역사를 새로 쓴 《로마법 대전(Corpus Juris Civilis)》의 첫 편찬물이 세상에 나왔다. 콘스탄티노폴리스 궁정의 법학자 트리보니아누스가 주도한 이 방대한 작업은 534년까지 이어져 칙법휘찬, 학설휘찬, 법학제요의 세 부분(훗날 신칙법이 추가되어 네 부분)으로 완성되었다.
 
 당시 시민들은 그리스를 주로 썼지만 정부 공용어였던 라틴어로 편찬된 이 법전은, 기존의 원전 인용을 금지하고 오직 이 책만을 유일한 법원으로 삼도록 했다. 이후 그리스어로 개정된 《바실리카》를 거쳐 15세기까지 제국의 법치 기반이 되었으며, 오스만 시대 발칸반도와 현대 그리스 민법의 토대가 되었다.
@@ -87,6 +93,7 @@ addStories([
     r: '1143년 4월 8일, 마누일 1세 콤네노스가 아버지 요안니스 2세 콤네노스의 뒤를 이어 비잔틴 제국의 황제 자리에 올랐다.',
     src: '위키백과 · 마누일 1세 콤네노스',
     url: 'https://en.wikipedia.org/wiki/Manuel_I_Komnenos',
+    img: 'https://upload.wikimedia.org/wikipedia/commons/a/af/Manuel_I_Comnenus.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled',
     b: `1143년 4월 8일, 마누일 1세 콤네노스가 부황 요안니스 2세의 뒤를 이어 비잔틴 황제에 즉위했다. 그의 치세는 비잔틴 제국이 군사력과 경제력을 되찾고 문화적 부흥을 이룬 ‘콤네노스 중흥기’의 마지막 절정이자, 지중해 역사의 중대한 전환점이었다.
 
 제국의 옛 영광을 되찾으려던 마누일은 로마 교황과 동맹을 맺고 시칠리아 노르만 왕국을 침공했으며, 제2차 십자군의 통과를 노련하게 관리하고 십자군 국가들과 헝가리를 비잔틴의 패권 아래 두었다. 서방 십자군들 사이에서도 그는 ‘콘스탄티노폴리스의 가장 축복받은 황제’로 불리며 깊은 충성을 이끌어냈다.
@@ -99,6 +106,7 @@ addStories([
     r: '1387년 4월 9일, 비잔틴 제국의 제2 도시 테살로니카가 오스만 제국에 항복했으나, 훗날 앙카라 전투 이후 일시적으로 비잔틴의 품으로 돌아갔다.',
     src: '위키백과 · 테살로니카',
     url: 'https://en.wikipedia.org/wiki/Thessaloniki',
+    img: 'https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fa/Tessaloniki_BW_2017-10-05_18-22-47.jpg/960px-Tessaloniki_BW_2017-10-05_18-22-47.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail',
     b: `1387년 4월 9일, 콘스탄티노폴리스와 함께 비잔틴 제국의 ‘공동 수도(쉼프로테부사)’로 불리던 제2의 대도시 테살로니카가 1383년부터 이어진 포위 끝에 오스만 제국에 항복했다. 비록 1402년 앙카라 전투 이후 비잔틴이 잠시 도시를 되찾기는 했으나, 1430년 완전히 정복되기 전 제국의 쇠락을 보여준 뼈아픈 패배였다.
 
 기원전 315년 마케도니아의 카산드로스가 알렉산드로스 대왕의 누이이자 자신의 아내인 테살로니케의 이름을 따 건설한 이 도시는 로마와 비잔틴 시대를 거치며 제국에서 가장 부유한 항구 도시로 번영했다.
@@ -111,6 +119,7 @@ addStories([
     r: '491년 4월 11일, 플라비우스 아나스타시우스가 ‘아나스타시우스 1세’라는 이름으로 비잔틴 제국의 황제에 즉위했다.',
     src: '위키백과 · 비잔틴 황제 목록',
     url: 'https://en.wikipedia.org/wiki/List_of_Byzantine_emperors',
+    img: 'https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b6/Konstantinos_XI_Palaiologos_fresco_%28less_edited%29.jpg/960px-Konstantinos_XI_Palaiologos_fresco_%28less_edited%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail',
     b: `491년 4월 11일, 플라비우스 아나스타시우스가 비잔틴 제국의 새 황제 아나스타시우스 1세로 즉위했다. 서로마 제국이 476년 멸망하고 동방의 콘스탄티노폴리스만이 로마 제국의 유일한 법통을 이어가던 격변기에 제국의 수장이 바뀐 순간이었다.
 
 당시 비잔틴 황제들은 스스로를 아우구스투스의 직계 후예인 ‘로마 황제’로 여겼으며, 헤라클리우스 황제 이전까지는 공식적으로 ‘임페라토르 카이사르 아우구스투스’라는 전통적 라틴어 칭호를 사용했다. 또한 초기 비잔틴 황제들의 다수는 일리리쿰이나 트라키아 등 발칸반도의 라틴어권 군사 거점 출신에서 배출되었다.
@@ -123,6 +132,7 @@ addStories([
     r: '1204년 4월 13일, 제4차 십자군이 비잔틴 제국의 수도 콘스탄티노폴리스를 함락하고 약탈하면서 비잔틴 제국이 일시적으로 붕괴했다.',
     src: '위키백과 · 콘스탄티노폴리스 약탈',
     url: 'https://en.wikipedia.org/wiki/Sack_of_Constantinople',
+    img: 'https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3f/Frammenti_di_mosaico_pavimentale_del_1213%2C_09.JPG/960px-Frammenti_di_mosaico_pavimentale_del_1213%2C_09.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail',
     b: `1204년 4월 13일, 천년 제국의 심장부 콘스탄티노폴리스가 무너졌다. 이슬람 세력을 향해야 할 제4차 십자군의 칼끝이 같은 기독교 국가인 비잔틴 제국의 수도로 향했고, 도시 대부분이 무자비하게 약탈당하고 파괴되었다. 플랑드르의 보두앵 9세가 하기아 소피아에서 라틴 제국의 황제로 대관하면서 비잔틴 제국은 일시적으로 명맥이 끊겼다.
 
 영토는 십자군 세력에게 갈기갈기 찢겼고, 비잔틴 귀족들은 니케아 제국 같은 망명 정권을 세워 저항했다. 비록 1261년 니케아 제국이 콘스탄티노폴리스를 탈환해 제국을 부활시켰으나, 영토와 경제력을 회복하지 못한 비잔틴은 결국 이후 두 세기에 걸쳐 오스만 제국에 잠식당하고 말았다.
@@ -135,6 +145,7 @@ addStories([
     r: '972년 4월 14일, 신성 로마 제국 공동 황제 오토 2세가 비잔틴 공주 테오파누와 결혼했고, 그녀는 같은 날 로마에서 교황 요한 13세로부터 황후 대관을 받았다.',
     src: '위키백과 · 오토 2세',
     url: 'https://en.wikipedia.org/wiki/Otto_II%2C_Holy_Roman_Emperor',
+    img: 'https://upload.wikimedia.org/wikipedia/commons/8/8a/Otto_II_%28HRE%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled',
     b: `972년 4월 14일, 로마에서 서유럽과 동방 비잔틴을 잇는 세기적 혼례가 거행되었다. 오토 대제의 아들이자 신성 로마 제국의 공동 황제였던 17세의 오토 2세가 비잔틴 제국의 공주 테오파누와 백년가약을 맺은 것이다. 테오파누는 결혼식 당일 교황 요한 13세의 손으로 직접 황후 대관을 받으며 동서 두 제국의 결합을 상징했다.
 
 973년 부황 오토 1세가 서거하자 18세의 나이로 단독 황제가 된 ‘적색왕(der Rote)’ 오토 2세는 오토 왕조 내 반란을 제압하고 가톨릭교회를 황권 아래 두며 제국의 기틀을 다졌다. 980년부터는 이탈리아 전체 병합을 목표로 남이탈리아로 진군해 비잔틴 및 파티마 칼리파국과 충돌하기도 했다.
@@ -147,6 +158,7 @@ addStories([
     r: '1071년 4월 15일, 남부 이탈리아에 남아 있던 비잔틴 제국의 마지막 영토 바리가 노르만 지도자 로베르 기스카르에게 항복했다.',
     src: '위키백과 · 바리',
     url: 'https://en.wikipedia.org/wiki/Bari',
+    img: 'https://thumb.wikimedia.org/wikipedia/commons/thumb/4/44/Bari_-_Lungomare_Imperatore_Augusto_%26_Mare.jpg/960px-Bari_-_Lungomare_Imperatore_Augusto_%26_Mare.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail',
     b: `1071년 4월 15일, 아드리아해를 굽어보는 남부 이탈리아 풀리아의 항구 도시 바리가 노르만 정복자 로베르 기스카르에게 항복했다. 이로써 유스티니아누스 대제 시절부터 수 세기 동안 이어져 온 비잔틴 제국의 이탈리아반도 지배는 바리의 함락과 함께 완전히 막을 내렸다.
 
 바리는 오늘날에도 남부 이탈리아 본토에서 손꼽히는 경제·항만·대학 도시이자 ‘성 니콜라오의 도시’로 불린다. 북쪽의 좁은 반도에 자리한 구시가지에는 성 니콜라오 대성당과 산 사비노 대성당(1035~1171년 건립), 그리고 노르만-슈바벤 성이 남아 당시의 역사를 증언한다.
@@ -159,6 +171,7 @@ addStories([
     r: '556년 4월 16일, 교황 펠라지오 1세가 비잔틴 황제 유스티니아누스 1세의 제국 승인을 거쳐 로마 주교로 축성되었다.',
     src: '위키백과 · 비잔틴 교황청',
     url: 'https://en.wikipedia.org/wiki/Byzantine_Papacy',
+    img: 'https://upload.wikimedia.org/wikipedia/commons/f/f6/San_Vitale_Ravenna.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled',
     b: `556년 4월 16일, 로마의 새 교황 펠라지오 1세가 정식으로 주교 축성을 받았다. 그의 즉위는 단순한 교회 내부의 행사가 아니라, 콘스탄티노폴리스에 있는 비잔틴 황제 유스티니아누스 1세의 공식 재가를 거쳐 이루어진 ‘비잔틴 교황청’ 시대의 전형적인 절차였다.
 
 고트 전쟁으로 이탈리아반도를 재정복한 유스티니아누스 1세 이후 537년부터 752년까지, 로마 교황은 선출된 뒤에도 비잔틴 황제나 라벤나 총독의 승인을 받아야만 축성될 수 있었다. 이 시기 교황 상당수는 황제 궁정에 파견된 교황 사절이나 그리스·시리아·시칠리아 출신 성직자 중에서 발탁되었다.
@@ -171,6 +184,7 @@ addStories([
     r: '1277년 4월 17일, 훗날 부황 안드로니코스 2세와 대등한 공동 황제로 제국을 다스린 미하일 9세 팔라이올로고스가 태어났다.',
     src: '위키백과 · 미하일 9세 팔라이올로고스',
     url: 'https://en.wikipedia.org/wiki/Michael_IX_Palaiologos',
+    img: 'https://upload.wikimedia.org/wikipedia/commons/6/60/154_-_Michael_IX_Palaiologos_%28Mutinensis_-_color%29.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled',
     b: `1277년 4월 17일, 비잔틴 제국의 팔라이올로고스 왕조에서 미하일 9세가 태어났다. 1294년부터 아버지 안드로니코스 2세와 함께 똑같이 ‘아우토크라토르(전제군주)’ 칭호를 쓰며 대등한 공동 황제로 통치한 그는 흠잡을 데 없는 도덕성과 충직함으로 부황을 보좌했다.
 
 병사들에게 급여를 주기 위해 개인적 희생도 마다하지 않았던 그를 두고 카탈루냐 연대기 작가 라몬 문타네르는 “황제 미하일은 세상에서 가장 용감한 기사 중 한 명이었다”고 극찬했다. 비록 제국 군대의 피폐함과 지휘관으로서의 한계, 혹은 불운 탓에 여러 전투에서 패배를 겪기도 했으나 그의 용맹함만은 의심할 여지가 없었다.
@@ -183,6 +197,7 @@ addStories([
     r: '쿠바이 인지바티예(질서의 힘, 일명 칼리프 군대)는 1920년 4월 18일 이스탄불 정부가 세운 군대로, 무스타파 케말의 민족운동에 맞서 싸웠다. 영국의 압력 아래 세워졌고, 술탄 메흐메트 6세가 "칼리프"의 이름을 빌렸다.',
     src: '위키백과 · 쿠바이 인지바티예',
     url: 'https://en.wikipedia.org/wiki/Kuva-yi_Inzibatiye',
+    img: 'https://upload.wikimedia.org/wikipedia/commons/b/b8/Caliphate_Army_soldiers_2.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled',
     b: `쿠바이 인지바티예는 1920년 4월 18일 오스만 제국의 이스탄불 정부가 세운 군대입니다. 독립 전쟁 중 무스타파 케말의 민족운동과 싸우기 위한 것이었고, 그리스 여름 공세에서 그리스군 편에 서서 싸웠습니다. 지휘관은 쉴레이만 셰피크 파샤였습니다.
 
 위키백과는 이 군대가 영국의 압력 아래 다마트 페리트 파샤의 주도로 세워졌다고 적습니다. 술탄 메흐메트 6세는 "술탄"의 칭호만으로는 튀르크인을 움직이기 어렵다고 보고, 군의 지도자를 "칼리프"의 영적 칭호로 부르게 했습니다. 이 때문에 민족주의자들을 술탄의 적이자 신의 적으로 몰아가려 했습니다.
@@ -195,6 +210,7 @@ addStories([
     r: '칼리니쿰 전투는 531년 4월 19일(부활절 토요일)과 20일 사이 비잔틴과 사산조 페르시아 사이에서 벌어졌다. 페르시아가 이겼지만 안티오크를 점령하지 못했다.',
     src: '위키백과 · 칼리니쿰 전투',
     url: 'https://en.wikipedia.org/wiki/Battle_of_Callinicum',
+    img: 'https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2c/Roman-Persian_Frontier_in_Late_Antiquity.svg/960px-Roman-Persian_Frontier_in_Late_Antiquity.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail',
     b: `칼리니쿰 전투는 531년 부활절 무렵 비잔틴 제국과 사산조 페르시아가 벌인 이베리아 전쟁의 한 장면입니다. 위키백과는 페르시아군이 다라 전투 패배 뒤 우회로로 시리아에 침입해 안티오크로 나아갔다고 적습니다.
 
 벨리사리우스는 소수의 병력으로 페르시아군을 뒤쫓았고, 가산 연합군과 함께 유프라테스 강 오른쪽 기슭에서 맞붙었습니다. 비잔틴은 가산 기병이 무너지면서 패했지만, 남은 보병이 페르시아군을 막아 강을 건너 물러날 시간을 벌었습니다.
@@ -207,6 +223,7 @@ addStories([
     r: '1770년 4월 20일, 조지아의 왕 에레클레 2세가 러시아 동맹군 토틀레벤 백작에게 버림받은 위기 속에서도 아스핀자 전투에서 오스만군에 승리를 거두었다.',
     src: '위키백과 · 조지아',
     url: 'https://en.wikipedia.org/wiki/Georgia_%28country%29',
+    img: 'https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0f/Flag_of_Georgia.svg/960px-Flag_of_Georgia.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail',
     b: `1770년 4월 20일, 캅카스의 요충지 아스핀자에서 기적 같은 승전보가 울려 퍼졌다. 오스만 제국에 맞서기 위해 손을 잡았던 러시아 제국의 토틀레벤 백작이 전장에서 돌연 철수해 버리는 배신에 직면했음에도, 조지아의 에레클레 2세 왕이 홀로 병력을 이끌고 오스만군을 격파한 것이다.
 
 흑해 동안에 자리한 조지아는 고대 콜키스와 이베리아 왕국 이래 4세기 초 기독교를 수용하고 다비트 4세와 타마르 여왕 시대에 황금기를 누렸으나, 15세기 이후 몽골과 오스만, 페르시아의 끊임없는 침공 속에 분열과 쇠퇴를 겪었다.
@@ -219,6 +236,7 @@ addStories([
     r: '960년 4월 22일, 훗날 49년 11개월의 최장기 재위를 기록하며 비잔틴 제국의 전성기를 이끈 바실리오스 2세가 공동 황제로 대관했다.',
     src: '위키백과 · 바실리오스 2세',
     url: 'https://en.wikipedia.org/wiki/Basil_II',
+    img: 'https://upload.wikimedia.org/wikipedia/commons/d/dc/Basilios_II.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled',
     b: `960년 4월 22일, 두 살 배기 어린 왕자 바실리오스 2세가 아버지 로마노스 2세의 뒤를 이을 비잔틴 공동 황제로 대관했다. 963년 부황이 급서한 뒤 니케포로스 포카스와 요안니스 치미스케스 두 장군이 황위를 대신하고, 외척 바실리오스 레카페노스가 985년까지 실권을 쥐는 등 우여곡절을 겪었으나, 그는 49년 11개월이라는 로마 황제 역사상 최장기 재위 기록을 세웠다.
 
 집권 초기 아나톨리아 대귀족들의 내란을 진압한 바실리오스 2세는 대지주 가문의 세력을 꺾고 국고를 가득 채웠다. 특히 누이 안나를 키예프 루스의 블라디미르 1세에게 시집보내며 바랑기아 친위대를 확보하고 루스의 기독교화를 이끌었다.
@@ -231,6 +249,7 @@ addStories([
     r: '1920년 4월 23일, 앙카라에서 튀르키예 대국민의회(TBMM)가 창설되어 술탄 메흐메트 6세의 정부를 규탄하고 임시 헌법 제정을 선포했다.',
     src: '위키백과 · 튀르키예 대국민의회',
     url: 'https://en.wikipedia.org/wiki/Grand_National_Assembly_of_Turkey',
+    img: 'https://thumb.wikimedia.org/wikipedia/commons/thumb/a/ad/Seal_of_the_Turkish_Parliament_%28T%C3%BCrkiye_B%C3%BCy%C3%BCk_Millet_Meclisi%29.svg/960px-Seal_of_the_Turkish_Parliament_%28T%C3%BCrkiye_B%C3%BCy%C3%BCk_Millet_Meclisi%29.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail',
     b: `1920년 4월 23일, 아나톨리아의 중심 도시 앙카라에서 낡은 제국과 결별하고 새로운 공화국의 기틀을 세우는 튀르키예 대국민의회(TBMM)가 공식 창설되었다. 이날 의회는 수도 이스탄불에 있던 마지막 오스만 술탄 메흐메트 6세의 정부를 정면으로 규탄하며, 새로운 국가 운영의 토대가 될 임시 헌법 제정을 선언했다.
 
 오스만 제국의 패전과 영토 분할이라는 절체절명의 위기 속에서 출범한 대국민의회는 민족의 주권을 대변하는 구심점이 되었다. 오늘날까지도 단원제 입법부로서 튀르키예 헌법이 부여한 유일한 입법권을 행사하는 이 의회의 1920년 출범은 근대 튀르키예 공화국 탄생의 핵심적인 제도적 이정표로 남아 있다.`
@@ -241,6 +260,7 @@ addStories([
     r: '1877년 4월 24일, 러시아 제국이 오스만 제국에 선전포고하면서 발칸 반도의 지형을 바꾼 러시아-튀르크 전쟁이 발발했다.',
     src: '위키백과 · 러시아-튀르크 전쟁 (1877년~1878년)',
     url: 'https://en.wikipedia.org/wiki/Russo-Turkish_War_%281877%E2%80%931878%29',
+    img: 'https://thumb.wikimedia.org/wikipedia/commons/thumb/3/36/MixCollage-15-Jan-2024-08-56-PM-4371.jpg/960px-MixCollage-15-Jan-2024-08-56-PM-4371.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail',
     b: `1877년 4월 24일, 러시아 제국이 오스만 제국을 향해 선전포고를 단행했다. 크림 전쟁의 패배로 잃었던 영토와 흑해의 영향력을 되찾고, 오스만 치하에 놓여 있던 발칸 민족들의 해방 운동을 지원한다는 명분 아래 루마니아·세르비아·몬테네그로 연합군이 오스만 제국과 맞붙은 것이다.
 
 전쟁은 러시아 측 연합군의 압도적인 승리로 기울었다. 연합군이 오스만의 심장부인 콘스탄티노폴리스 문턱까지 진격하자 위기감을 느낀 서유럽 열강들이 외교적 개입에 나설 정도였다.
@@ -263,6 +283,7 @@ addStories([
     r: '1909년 4월 27일, 오스만 제국의 술탄 압뒬하미트 2세가 축출되고 그의 동생 메흐메트 5세가 새로운 술탄 자리에 올랐다.',
     src: '위키백과 · 술탄',
     url: 'https://en.wikipedia.org/wiki/Sultan',
+    img: 'https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e9/EmperorSuleiman.jpg/960px-EmperorSuleiman.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail',
     b: `1909년 4월 27일, 30년 넘게 오스만 제국을 통치해 온 술탄 압뒬하미트 2세가 권좌에서 축출되고 동생 메흐메트 5세가 뒤를 이었다. 제국 말기의 절대 군주였던 그가 무너지면서 오스만 황실의 절대 권력도 막을 내리기 시작했다.
 
 원래 아랍어로 ‘힘’과 ‘통치권’을 뜻하는 명사에서 유래한 ‘술탄’은 단순한 세속 국왕(말리크)과 달리 이슬람 국가에서 종교적 권위와 주권을 함께 상징하는 칭호였다. 압뒬하미트 2세는 이러한 술탄이자 칼리프로서의 권위를 극대화하려 했으나 시대의 변화 앞에 결국 물러나야 했다.
@@ -285,6 +306,7 @@ addStories([
     r: '1091년 4월 29일, 비잔틴 황제 알렉시오스 1세 콤네노스와 쿠만족 연합군이 레부니온 전투에서 침략자 페체네그족을 대파했다.',
     src: '위키백과 · 레부니온 전투',
     url: 'https://en.wikipedia.org/wiki/Battle_of_Levounion',
+    img: 'https://upload.wikimedia.org/wikipedia/commons/2/21/Alexius_I.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled',
     b: `1091년 4월 29일, 비잔틴 제국의 멸망 위기를 단숨에 뒤집은 결정적 승전이 펼쳐졌다. 알렉시오스 1세 콤네노스 황제가 이끄는 비잔틴군과 동맹국 쿠만족의 연합 병력이 제국 영토를 침공한 페체네그족 대군을 레부니온에서 궤멸시킨 것이다.
 
 레부니온 전투는 11세기 말 사방에서 몰려드는 적들 때문에 흔들리던 비잔틴 제국이 다시 반격의 기틀을 마련한 ‘콤네노스 중흥기’의 첫 번째 결정적 승리였다. 이날의 대승으로 북방 국경의 치명적인 위협을 제거한 알렉시오스 1세는 제국 부흥의 탄탄한 발판을 다질 수 있었다.`
@@ -295,6 +317,7 @@ addStories([
     r: '1305년 4월 30일, 카탈루냐 대용병단의 지휘관 로제르 데 플로르가 살해되면서 분노한 용병들이 트라키아 일대에서 대대적인 약탈을 벌였다.',
     src: '위키백과 · 로제르 데 플로르',
     url: 'https://en.wikipedia.org/wiki/Roger_de_Flor',
+    img: 'https://upload.wikimedia.org/wikipedia/commons/a/a0/RogerdeFlor.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled',
     b: `1305년 4월 30일, 지중해를 누비던 전설적인 용병 대장 로제르 데 플로르가 비잔틴 제국에서 살해되었다. 아라곤령 시칠리아와 이탈리아, 그리고 비잔틴 제국을 무대로 활약하며 몰타 백작 칭호까지 얻었던 이탈리아 출신 모험가이자 콘도티에로(용병 대장)의 갑작스러운 죽음이었다.
 
 1267년경 태어나 카탈루냐 대용병단을 이끌고 비잔틴 제국의 부름을 받아 전장에 뛰어들었던 지휘관이 비명에 가자, 그를 따르던 용병들의 분노는 곧바로 보복으로 이어졌다. 지도자를 잃은 카탈루냐 용병단이 트라키아 전역을 휩쓸며 광범위한 약탈을 자행하면서, 비잔틴 제국은 용병을 불러들여 오히려 안방이 초토화되는 참혹한 대가를 치러야 했다.`
